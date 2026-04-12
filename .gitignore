@@ -1,3 +1,6 @@
 papers/
 *.pdf
 *.txt
+.env
+__pycache__
+*.tex

@@ -1,0 +1,28 @@
+fetch:
+  post_limit: 20          # max posts to fetch per subreddit
+  comment_limit: 200      # max top-level comments per post
+  time_filter: "year"     # all | day | week | month | year
+  min_score: 2            # drop posts/comments below this upvote score
+  min_comments: 5         # drop posts with fewer comments than this
+  default_subreddits:     # fallback when no subreddits specified by user
+    - reviews
+    - technology
+    - gadgets
+
+preprocess:
+  min_sentence_tokens: 4  # discard sentences shorter than this
+  max_sentence_tokens: 80 # discard sentences longer than this (likely noise)
+  spacy_model: "en_core_web_sm"
+
+topic_model:
+  embedding_model: "all-MiniLM-L6-v2"
+  min_topic_size: 5
+  nr_topics: "auto"
+  top_n_words: 10
+
+absa:
+  batch_size: 16
+  gemini_model: "gemini-3.1-flash-preview"
+
+aggregation:
+  weight_formula: "log1p_score"   # log1p(comment_score) * model_confidence
