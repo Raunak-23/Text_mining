@@ -44,8 +44,8 @@ Traditional ABSA systems require predefined aspect lists. This system **discover
 
 - **Automatic Aspect Discovery** — BERTopic with hierarchical reduction discovers what users actually discuss, organizing aspects into a tree structure (Product -> Category -> Aspect)
 - **Multi-Paradigm ABSA** — Three approaches compared side-by-side:
-  - Fine-tuned Transformer (DeBERTa / PyABSA)
-  - LLM zero-shot extraction (Claude API)
+  - Fine-tuned Transformer (`yangheng/deberta-v3-base-absa-v1.1` via HuggingFace)
+  - LLM zero-shot extraction (Gemini Flash via `google-genai` SDK)
   - Lexicon + Dependency Parsing baseline (VADER + spaCy)
 - **Reddit-Native** — Leverages Reddit's community voting as quality signals for weighted sentiment aggregation
 - **No GPU Required** — All models selected for CPU inference
@@ -227,17 +227,17 @@ This hierarchy is converted to a NetworkX directed graph for programmatic traver
 
 | Approach | Model | Strengths | Limitations |
 |----------|-------|-----------|-------------|
-| **Transformer** | DeBERTa-v3-base (PyABSA) | Purpose-built for ABSA, high accuracy | Fixed aspect vocabulary |
-| **LLM** | Claude Haiku (zero-shot) | Flexible, understands context, discovers novel aspects | API cost, latency |
-| **Lexicon** | VADER + spaCy dependency parsing | Fast, interpretable, no model loading | Low recall, no context understanding |
+| **Transformer** | `yangheng/deberta-v3-base-absa-v1.1` (HuggingFace) | SemEval-fine-tuned for ABSC; domain transfer study (RQ4) | Predefined aspect list; CPU-slow |
+| **LLM** | Gemini Flash (`gemini-3.1-flash-preview`, zero-shot) | Flexible; understands context; discovers novel aspects | API cost; sampled to 300 sentences |
+| **Lexicon** | VADER + spaCy dependency parsing | Fast, interpretable, no model loading | Low recall; no context understanding |
 
-### Evaluation Without Gold Labels
+### Evaluation Without Gold Labels (RQ1–RQ4)
 
 Since Reddit data lacks gold-standard ABSA annotations, we use:
-1. **Inter-Annotator Agreement** — Cohen's Kappa between each pair of approaches
-2. **LLM-as-Reference** — Treat LLM output as silver standard, compute P/R/F1
-3. **Topic Coherence** — C_v coherence score (BERTopic vs. LDA baseline)
-4. **Runtime + Cost Analysis** — Practical deployment considerations
+1. **RQ1 — Topic Coherence** — C_v coherence (BERTopic vs. LDA baseline via gensim)
+2. **RQ2 — Inter-Paradigm Agreement** — Cohen's κ, Jensen-Shannon Divergence, Polarity Entropy H(A), Dominance D(A)
+3. **RQ3 — Weighting Impact** — Pearson r between uniform and log1p-upvote-weighted net scores
+4. **RQ4 — Domain Transfer** — Transformer (SemEval) vs. LLM (silver) agreement as proxy for out-of-domain generalisation
 
 ### Weighted Aggregation
 
@@ -254,9 +254,9 @@ This amplifies well-received opinions and down-weights low-confidence prediction
 | Component | Model | Size | CPU Time |
 |-----------|-------|------|----------|
 | Embeddings | `all-MiniLM-L6-v2` | 80 MB | ~50ms/sentence |
-| Topic Modeling | BERTopic (HDBSCAN + UMAP) | -- | ~30s for 5K docs |
-| ABSA (Transformer) | `deberta-v3-base-absa` | 350 MB | ~100ms/sentence |
-| ABSA (LLM) | Claude Haiku | API | ~500ms/batch |
+| Topic Modeling | BERTopic (HDBSCAN + UMAP) | — | ~30s for 5K docs |
+| ABSA (Transformer) | `yangheng/deberta-v3-base-absa-v1.1` | ~350 MB | ~100ms/sentence |
+| ABSA (LLM) | Gemini Flash (`gemini-3.1-flash-preview`) | API | ~300ms/batch of 10 |
 | ABSA (Lexicon) | VADER + spaCy | 50 MB | ~5ms/sentence |
 | Sentence Splitting | spaCy `en_core_web_sm` | 12 MB | ~10ms/doc |
 
@@ -264,9 +264,22 @@ This amplifies well-received opinions and down-weights low-confidence prediction
 
 MIT
 
+## CLI Reference
+
+```bash
+uv run absa fetch "Samsung Galaxy S25"          # Stage 1: collect Reddit data
+uv run absa preprocess "Samsung Galaxy S25"     # Stage 2: clean + sentence split
+uv run absa topics "Samsung Galaxy S25"         # Stage 3: BERTopic + aspect graph
+uv run absa absa "Samsung Galaxy S25"           # Stage 4-6: ABSA + aggregate + evaluate
+uv run absa compare "Samsung Galaxy S25"        # Show cached results
+uv run absa analyze "Samsung Galaxy S25"        # Full pipeline (all stages)
+uv run absa info                                # Show config + credential status
+```
+
 ## Acknowledgments
 
 - [BERTopic](https://maartengr.github.io/BERTopic/) — Neural topic modeling
-- [PyABSA](https://github.com/yangheng95/PyABSA) — Aspect-based sentiment analysis
+- [yangheng/deberta-v3-base-absa-v1.1](https://huggingface.co/yangheng/deberta-v3-base-absa-v1.1) — SemEval ABSA model
+- [google-genai](https://github.com/googleapis/python-genai) — Gemini API SDK
 - [PRAW](https://praw.readthedocs.io/) — Reddit API wrapper
 - [Rich](https://rich.readthedocs.io/) — Terminal formatting

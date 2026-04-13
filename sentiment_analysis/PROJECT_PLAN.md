@@ -253,55 +253,33 @@ The system runs entirely from the terminal via a CLI, requires no GPU, and produ
 
 **Purpose:** Determine sentiment polarity for each aspect mentioned in a sentence. Three approaches implemented for comparison.
 
-#### Approach 1: Transformer-based ABSA (Primary) — `PyABSA`
+#### Approach 1: Transformer-based ABSA (Primary) — HuggingFace
 
-- **Model:** `yangheng/deberta-v3-base-absa-v1.1` via PyABSA framework
-- **Why:** Purpose-built for ABSA, works on CPU, state-of-the-art on SemEval benchmarks
-- **Pipeline:**
-  1. **Aspect Term Extraction (ATE):** Given a sentence, extract aspect terms
-  2. **Aspect Sentiment Classification (ASC):** Given sentence + aspect term, classify sentiment
-  3. PyABSA handles both in a unified pipeline
+- **Model:** `yangheng/deberta-v3-base-absa-v1.1` via `transformers.AutoModelForSequenceClassification`
+- **Implementation:** Direct HuggingFace (no PyABSA wrapper — simpler, more stable)
+- **Input format:** `"{sentence} [SEP] {aspect}"` — one call per (sentence, aspect) pair
+- **Output:** logits for 3 classes → softmax → {0: negative, 1: neutral, 2: positive}
+- **Why DeBERTa:** SemEval-2014 fine-tuned for ABSC; provides RQ4 domain-transfer benchmark
 
   ```python
-  from pyabsa import AspectTermExtraction as ATEPC
-
-  aspect_extractor = ATEPC.AspectExtractor(
-      checkpoint="multilingual",  # or english-specific
-      device="cpu"
-  )
-
-  # Returns: [{"aspect": "camera", "sentiment": "Positive", "confidence": 0.95}, ...]
-  result = aspect_extractor.predict(sentence)
+  from transformers import AutoTokenizer, AutoModelForSequenceClassification
+  tokenizer = AutoTokenizer.from_pretrained("yangheng/deberta-v3-base-absa-v1.1")
+  model = AutoModelForSequenceClassification.from_pretrained("yangheng/deberta-v3-base-absa-v1.1")
+  # Input: "{sentence} [SEP] {aspect}"
+  # Label map: {0: "negative", 1: "neutral", 2: "positive"}
   ```
 
-- **Fallback if PyABSA is heavy:** Use `SetFit` with a sentence-transformer backbone fine-tuned for ABSA, or the HuggingFace pipeline:
-  ```python
-  from transformers import pipeline
-  absa_pipe = pipeline(
-      "text-classification",
-      model="yangheng/deberta-v3-base-absa-v1.1",
-      device=-1  # CPU
-  )
+#### Approach 2: LLM-based ABSA — Gemini Flash
+
+- **Model:** `gemini-3.1-flash-preview` via `google-genai` SDK (new SDK, replaces deprecated `google-generativeai`)
+- **Prompt Design (zero-shot structured extraction, batched 10 sentences per call):**
   ```
-
-#### Approach 2: LLM-based ABSA — `Claude / OpenAI API`
-
-- **Model:** Claude 3.5 Haiku (fast, cheap) or GPT-4o-mini via API
-- **Prompt Design (zero-shot structured extraction):**
+  Return a JSON array of arrays — one inner array per sentence.
+  Each inner array: [{"aspect": str, "sentiment": "positive|neutral|negative",
+                      "confidence": float, "opinion_words": [str]}]
   ```
-  Extract all product aspects and their sentiment from the following review sentence.
-  Return JSON array: [{"aspect": str, "sentiment": "positive"|"negative"|"neutral", "confidence": float}]
-
-  Sentence: "The camera is stunning but battery barely lasts half a day."
-
-  Output:
-  [
-    {"aspect": "camera", "sentiment": "positive", "confidence": 0.95},
-    {"aspect": "battery", "sentiment": "negative", "confidence": 0.92}
-  ]
-  ```
-- **Batching:** Send 10-20 sentences per API call to reduce costs
-- **Cost Control:** Configurable max API calls, with sampling for large datasets
+- **Batching:** 10 sentences per API call
+- **Cost control:** `llm_sample=300` cap — only 300 sentences sent to LLM by default
 
 #### Approach 3: Lexicon + Dependency Parsing Baseline
 
@@ -498,23 +476,20 @@ The system runs entirely from the terminal via a CLI, requires no GPU, and produ
 
 **Purpose:** Rich terminal interface using Typer + Rich.
 
-**Commands:**
+**Commands (implemented):**
 ```bash
-# Full pipeline: fetch + analyze + report
-absa analyze "iPhone 15 Pro" --subreddits r/iphone,r/smartphones --limit 100
+# Full pipeline: fetch -> preprocess -> topics -> ABSA -> evaluate
+uv run absa analyze "Samsung Galaxy S25"
 
 # Step-by-step:
-absa fetch "iPhone 15 Pro" --limit 200 --time-filter year
-absa preprocess --input data/raw/iphone-15-pro/
-absa topics --input data/processed/iphone-15-pro/ --visualize
-absa sentiment --input data/processed/iphone-15-pro/ --approach all
-absa report --input data/results/iphone-15-pro/ --format terminal
-absa compare --input data/results/iphone-15-pro/
+uv run absa fetch "Samsung Galaxy S25" --limit 20 --time-filter year
+uv run absa preprocess "Samsung Galaxy S25"
+uv run absa topics "Samsung Galaxy S25"
+uv run absa absa "Samsung Galaxy S25" --paradigms transformer,llm,lexicon --llm-sample 300
+uv run absa compare "Samsung Galaxy S25"   # show cached evaluation + tables
 
 # Utilities:
-absa config set reddit.client_id <id>
-absa config set reddit.client_secret <secret>
-absa cache clear
+uv run absa info    # show config + credential check
 ```
 
 **Terminal Output (Rich):**
@@ -702,10 +677,10 @@ absa:
     batch_size: 16
     confidence_threshold: 0.6
   llm:
-    provider: "anthropic"           # or "openai"
-    model: "claude-haiku-4-5-20251001"
-    batch_size: 20                  # sentences per API call
-    max_api_calls: 100              # cost cap
+    provider: "gemini"
+    model: "gemini-3.1-flash-preview"
+    batch_size: 10                  # sentences per API call
+    llm_sample: 300                 # max sentences sent to LLM (cost cap)
     temperature: 0.0
   lexicon:
     use_vader: true

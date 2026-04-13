@@ -1,0 +1,82 @@
+{
+  "product": "Samsung Galaxy S25",
+  "coherence": {
+    "bertopic_cv": 0.4453,
+    "lda_cv": 0.4668,
+    "delta": -0.0216,
+    "n_topics_bertopic": 19,
+    "n_topics_lda": 19
+  },
+  "agreements": [],
+  "entropy_dominance": [
+    {
+      "aspect": "Ecosystem",
+      "paradigm": "lexicon",
+      "entropy": 0.3389,
+      "dominance": 0.8742,
+      "n_mentions": 3
+    },
+    {
+      "aspect": "Build",
+      "paradigm": "lexicon",
+      "entropy": 1.522,
+      "dominance": 0.179,
+      "n_mentions": 837
+    },
+    {
+      "aspect": "Display",
+      "paradigm": "lexicon",
+      "entropy": 1.522,
+      "dominance": 0.1761,
+      "n_mentions": 832
+    },
+    {
+      "aspect": "Connectivity",
+      "paradigm": "lexicon",
+      "entropy": 1.5263,
+      "dominance": 0.1543,
+      "n_mentions": 1390
+    },
+    {
+      "aspect": "AI",
+      "paradigm": "lexicon",
+      "entropy": 1.5377,
+      "dominance": 0.1419,
+      "n_mentions": 1023
+    },
+    {
+      "aspect": "OS",
+      "paradigm": "lexicon",
+      "entropy": 1.5293,
+      "dominance": 0.0795,
+      "n_mentions": 399
+    },
+    {
+      "aspect": "Battery",
+      "paradigm": "lexicon",
+      "entropy": 1.5402,
+      "dominance": 0.0721,
+      "n_mentions": 177
+    },
+    {
+      "aspect": "Performance",
+      "paradigm": "lexicon",
+      "entropy": 1.0527,
+      "dominance": 0.0486,
+      "n_mentions": 12
+    },
+    {
+      "aspect": "Camera",
+      "paradigm": "lexicon",
+      "entropy": 1.5827,
+      "dominance": 0.0174,
+      "n_mentions": 148
+    }
+  ],
+  "weighting_impact": {
+    "pearson_r": 0.9617,
+    "mean_abs_delta": 0.0938,
+    "max_delta_aspect": "lexicon/Ecosystem",
+    "max_delta_value": -0.427
+  }
+}

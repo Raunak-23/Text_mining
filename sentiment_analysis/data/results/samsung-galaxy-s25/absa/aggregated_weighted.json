@@ -1,0 +1,153 @@
+{
+  "lexicon": {
+    "product": "Samsung Galaxy S25",
+    "paradigm": "lexicon",
+    "n_mentions": 4821,
+    "positive": 0.3602,
+    "negative": 0.2169,
+    "neutral": 0.4228,
+    "weighted_score": 0.1433,
+    "dominant": "neutral",
+    "weighting": "weighted",
+    "categories": [
+      {
+        "category": "Hardware",
+        "paradigm": "lexicon",
+        "n_mentions": 3396,
+        "positive": 0.3665,
+        "negative": 0.2129,
+        "neutral": 0.4206,
+        "weighted_score": 0.1535,
+        "dominant": "neutral",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Display",
+            "paradigm": "lexicon",
+            "n_mentions": 832,
+            "positive": 0.3778,
+            "negative": 0.2017,
+            "neutral": 0.4204,
+            "weighted_score": 0.1761,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Build",
+            "paradigm": "lexicon",
+            "n_mentions": 837,
+            "positive": 0.3804,
+            "negative": 0.2014,
+            "neutral": 0.4183,
+            "weighted_score": 0.179,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Connectivity",
+            "paradigm": "lexicon",
+            "n_mentions": 1390,
+            "positive": 0.3629,
+            "negative": 0.2086,
+            "neutral": 0.4285,
+            "weighted_score": 0.1543,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Camera",
+            "paradigm": "lexicon",
+            "n_mentions": 148,
+            "positive": 0.3298,
+            "negative": 0.3124,
+            "neutral": 0.3579,
+            "weighted_score": 0.0174,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Performance",
+            "paradigm": "lexicon",
+            "n_mentions": 12,
+            "positive": 0.5207,
+            "negative": 0.4721,
+            "neutral": 0.0072,
+            "weighted_score": 0.0485,
+            "dominant": "positive",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Battery",
+            "paradigm": "lexicon",
+            "n_mentions": 177,
+            "positive": 0.3141,
+            "negative": 0.242,
+            "neutral": 0.444,
+            "weighted_score": 0.0721,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          }
+        ]
+      },
+      {
+        "category": "Software",
+        "paradigm": "lexicon",
+        "n_mentions": 1422,
+        "positive": 0.3466,
+        "negative": 0.2239,
+        "neutral": 0.4295,
+        "weighted_score": 0.1227,
+        "dominant": "neutral",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "AI",
+            "paradigm": "lexicon",
+            "n_mentions": 1023,
+            "positive": 0.3623,
+            "negative": 0.2204,
+            "neutral": 0.4172,
+            "weighted_score": 0.1419,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "OS",
+            "paradigm": "lexicon",
+            "n_mentions": 399,
+            "positive": 0.3113,
+            "negative": 0.2318,
+            "neutral": 0.4569,
+            "weighted_score": 0.0795,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          }
+        ]
+      },
+      {
+        "category": "Value",
+        "paradigm": "lexicon",
+        "n_mentions": 3,
+        "positive": 0.0629,
+        "negative": 0.9371,
+        "neutral": 0.0,
+        "weighted_score": -0.8742,
+        "dominant": "negative",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Ecosystem",
+            "paradigm": "lexicon",
+            "n_mentions": 3,
+            "positive": 0.0629,
+            "negative": 0.9371,
+            "neutral": 0.0,
+            "weighted_score": -0.8742,
+            "dominant": "negative",
+            "weighting": "weighted"
+          }
+        ]
+      }
+    ]
+  }
+}

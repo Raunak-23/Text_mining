@@ -184,6 +184,139 @@ def topics(
 
 
 @app.command()
+def absa(
+    product: ProductArg,
+    paradigms: Annotated[str, typer.Option("--paradigms", "-p",
+        help="Comma-separated: transformer,llm,lexicon")] = "transformer,llm,lexicon",
+    llm_sample: Annotated[int, typer.Option("--llm-sample",
+        help="Max sentences sent to Gemini")] = 300,
+    force: ForceOpt = False,
+) -> None:
+    """Run multi-paradigm ABSA on preprocessed + topic-modeled data."""
+    from absa.data.collector import _slugify
+    from absa.models.topic_model import run_topic_model
+    from absa.models.aspect_mapper import build_aspect_graph, load_graph
+    from absa.analysis.aggregator import (
+        aggregate, compare_weighting_schemes,
+        print_aspect_table, print_product_summary,
+    )
+    from absa.evaluation.comparator import (
+        run_full_evaluation,
+        print_evaluation_report,
+    )
+    from absa.models.absa_model import run_absa
+
+    slug              = _slugify(product)
+    sentences_file    = settings.processed_dir / slug / "sentences.json"
+    graph_file        = settings.results_dir  / slug / "topics" / "aspect_graph.json"
+
+    if not sentences_file.exists():
+        print_error(f"No preprocessed data. Run `absa preprocess \"{product}\"` first.")
+        raise typer.Exit(1)
+    if not graph_file.exists():
+        print_error(f"No aspect graph. Run `absa topics \"{product}\"` first.")
+        raise typer.Exit(1)
+
+    sentences = json.loads(sentences_file.read_text(encoding="utf-8"))
+    graph     = load_graph(graph_file)
+    p_list    = [p.strip() for p in paradigms.split(",")]
+    out_dir   = settings.results_dir / slug / "absa"
+
+    # ---- Stage 4: ABSA ----
+    print_header("Stage 4 — ABSA", f"{len(sentences)} sentences | paradigms: {p_list}")
+    results = run_absa(
+        sentences=sentences,
+        aspect_graph=graph,
+        out_dir=out_dir,
+        force=force,
+        paradigms=p_list,
+        llm_sample=llm_sample,
+    )
+
+    # ---- Stage 5: Aggregation ----
+    print_header("Stage 5 — Aggregation", "weighted + uniform")
+    w_scores = aggregate(results, graph, product, weighting="weighted")
+    u_scores = aggregate(results, graph, product, weighting="uniform")
+    from absa.analysis.aggregator import save_aggregation
+    save_aggregation(w_scores, out_dir=out_dir, filename="aggregated_weighted.json")
+    save_aggregation(u_scores, out_dir=out_dir, filename="aggregated_uniform.json")
+
+    print_product_summary(w_scores)
+    print_aspect_table(w_scores, weighting="weighted")
+
+    # ---- Stage 6: Evaluation ----
+    print_header("Stage 6 — Evaluation", "Cohen's kappa, JSD, H(A), D(A)")
+    # Load topic result for coherence
+    topic_cache = settings.results_dir / slug / "topics" / "topics.json"
+    topic_result = None
+    if topic_cache.exists():
+        from absa.models.topic_model import Topic, HierarchyEdge, TopicModelResult
+        topics    = [Topic(**t) for t in json.loads(topic_cache.read_text(encoding="utf-8"))]
+        hier_file = settings.results_dir / slug / "topics" / "hierarchy.json"
+        hier      = [HierarchyEdge(**e) for e in json.loads(hier_file.read_text(encoding="utf-8"))]
+        topic_result = TopicModelResult(topics=topics, hierarchy=hier)
+
+    w_comps = compare_weighting_schemes(results, graph, product)
+    eval_report = run_full_evaluation(
+        absa_results=results,
+        aggregated_scores=w_scores,
+        topic_result=topic_result,
+        sentences=sentences,
+        product=product,
+        out_dir=out_dir,
+        weighting_comparisons=w_comps,
+    )
+    print_evaluation_report(eval_report)
+
+    print_success(
+        f"ABSA complete: {len(results)} paradigms analysed. "
+        f"Results -> {out_dir.relative_to(settings.root)}"
+    )
+
+
+@app.command()
+def compare(
+    product: ProductArg,
+) -> None:
+    """Show cached evaluation metrics and aspect comparison for a product."""
+    from absa.data.collector import _slugify
+    from absa.analysis.aggregator import load_aggregation, print_aspect_table, print_product_summary
+    from absa.evaluation.comparator import EvaluationReport, print_evaluation_report
+
+    slug = _slugify(product)
+    agg_file  = settings.results_dir / slug / "absa" / "aggregated_weighted.json"
+    eval_file = settings.results_dir / slug / "absa" / "evaluation.json"
+
+    if not agg_file.exists():
+        print_error(f"No ABSA results. Run `absa absa \"{product}\"` first.")
+        raise typer.Exit(1)
+
+    scores = load_aggregation(agg_file)
+    print_header("ABSA Comparison", product)
+    print_product_summary(scores)
+    print_aspect_table(scores, weighting="weighted")
+
+    if eval_file.exists():
+        from dataclasses import fields
+        import dataclasses
+        raw = json.loads(eval_file.read_text(encoding="utf-8"))
+
+        from absa.evaluation.comparator import (
+            CoherenceResult, AgreementResult, EntropyDominance,
+            WeightingImpact, EvaluationReport,
+        )
+        # Reconstruct report
+        report = EvaluationReport(product=raw.get("product", product))
+        if raw.get("coherence"):
+            report.coherence = CoherenceResult(**raw["coherence"])
+        report.agreements = [AgreementResult(**a) for a in raw.get("agreements", [])]
+        report.entropy_dominance = [EntropyDominance(**e) for e in raw.get("entropy_dominance", [])]
+        if raw.get("weighting_impact"):
+            report.weighting_impact = WeightingImpact(**raw["weighting_impact"])
+        print_evaluation_report(report)
+
+
+@app.command()
 def analyze(
     product: ProductArg,
     subreddits: SubredditsOpt = None,
@@ -191,8 +324,10 @@ def analyze(
     time_filter: TimeOpt = "year",
     force: ForceOpt = False,
 ) -> None:
-    """Full pipeline: fetch -> preprocess -> topic model (-> ABSA coming soon)."""
+    """Full pipeline: fetch -> preprocess -> topics -> ABSA -> evaluate."""
     from absa.models.aspect_mapper import print_tree
+    from absa.analysis.aggregator import print_product_summary, print_aspect_table
+    from absa.evaluation.comparator import print_evaluation_report
 
     subs = [s.strip() for s in subreddits.split(",")] if subreddits else None
     pipeline = Pipeline(
@@ -212,11 +347,17 @@ def analyze(
         print_header("Aspect Hierarchy", product)
         print_tree(result.aspect_graph, product)
 
+    if result.aggregated_scores:
+        print_product_summary(result.aggregated_scores)
+        print_aspect_table(result.aggregated_scores)
+
+    if result.evaluation:
+        print_evaluation_report(result.evaluation)
+
     print_success(
-        f"Stages 1-3 complete: {result.sentence_count} sentences, "
+        f"Full pipeline complete: {result.sentence_count} sentences, "
         f"{len(result.topic_result.topics)} topics, "
-        f"{result.aspect_graph.number_of_nodes()} graph nodes. "
-        "ABSA coming in next milestone."
+        f"{len(result.absa_results)} paradigms."
     )
 
 

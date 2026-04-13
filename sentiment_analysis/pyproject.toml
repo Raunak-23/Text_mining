@@ -29,13 +29,15 @@ dependencies = [
     # Lexicon baseline
     "vaderSentiment>=3.3",
 
-    # LLM (Gemini)
-    "google-generativeai>=0.5",
+    # LLM (Gemini) — new SDK
+    "google-genai>=1.0",
 
     # Graph + aggregation
     "networkx>=3.3",
     "numpy>=1.26",
     "scipy>=1.13",
+    "scikit-learn>=1.5",  # Cohen's kappa, metrics
+    "gensim>=4.3",        # Topic coherence C_v (RQ1)
 
     # Config and persistence
     "pyyaml>=6.0",

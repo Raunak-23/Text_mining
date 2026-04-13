@@ -2,7 +2,7 @@
 Pipeline orchestrator.
 
 Wires together the individual stages:
-  fetch -> preprocess -> topic_model -> (absa -> aggregate -> report)
+  fetch -> preprocess -> topic_model -> absa -> aggregate -> evaluate -> report
 """
 from __future__ import annotations
 
@@ -17,6 +17,14 @@ from absa.data.collector import fetch as _fetch
 from absa.data.preprocessor import preprocess as _preprocess
 from absa.models.topic_model import TopicModelResult, run_topic_model
 from absa.models.aspect_mapper import build_aspect_graph, save_graph
+from absa.models.absa_model import SentenceABSAResult, run_absa
+from absa.analysis.aggregator import (
+    ProductScore,
+    aggregate,
+    compare_weighting_schemes,
+    save_aggregation,
+)
+from absa.evaluation.comparator import EvaluationReport, run_full_evaluation
 from absa.utils.config import settings
 from absa.utils.display import print_header, print_info
 
@@ -34,6 +42,9 @@ class PipelineResult:
     sentences: list[dict[str, Any]] = field(default_factory=list)
     topic_result: TopicModelResult | None = None
     aspect_graph: nx.DiGraph | None = None
+    absa_results: dict[str, list[SentenceABSAResult]] = field(default_factory=dict)
+    aggregated_scores: dict[str, ProductScore] = field(default_factory=dict)
+    evaluation: EvaluationReport | None = None
 
     @property
     def sentence_count(self) -> int:
@@ -123,16 +134,77 @@ class Pipeline:
         save_graph(graph, out_dir=out_dir)
         return topic_result, graph
 
-    # ---- Future stages (stubs) ----
+    # ---- Stage 4: ABSA ----
 
-    def absa(self, processed_path: Path, topics: Any) -> Any:
-        raise NotImplementedError("ABSA stage not yet implemented.")
+    def run_absa(
+        self,
+        product: str,
+        sentences: list[dict[str, Any]],
+        aspect_graph: nx.DiGraph,
+        paradigms: list[str] | None = None,
+        llm_sample: int = 300,
+    ) -> dict[str, list[SentenceABSAResult]]:
+        slug = self._slugify(product)
+        print_header(
+            "Stage 4 — ABSA",
+            f"Multi-paradigm sentiment analysis  |  {len(sentences)} sentences",
+        )
+        out_dir = settings.results_dir / slug / "absa"
+        return run_absa(
+            sentences=sentences,
+            aspect_graph=aspect_graph,
+            out_dir=out_dir,
+            force=self.force,
+            paradigms=paradigms,
+            llm_sample=llm_sample,
+        )
 
-    def aggregate(self, absa_results: Any, topics: Any) -> Any:
-        raise NotImplementedError("Aggregation stage not yet implemented.")
+    # ---- Stage 5: Aggregation ----
+
+    def aggregate(
+        self,
+        product: str,
+        absa_results: dict[str, list[SentenceABSAResult]],
+        aspect_graph: nx.DiGraph,
+        weighting: str = "weighted",
+    ) -> dict[str, ProductScore]:
+        slug = self._slugify(product)
+        print_header(
+            "Stage 5 — Aggregation",
+            f"Weighting: {weighting}",
+        )
+        out_dir = settings.results_dir / slug / "absa"
+        scores = aggregate(absa_results, aspect_graph, product, weighting=weighting)
+        save_aggregation(scores, out_dir=out_dir)
+        return scores
+
+    # ---- Stage 6: Evaluation ----
+
+    def evaluate(
+        self,
+        product: str,
+        absa_results: dict[str, list[SentenceABSAResult]],
+        aggregated_scores: dict[str, ProductScore],
+        topic_result: TopicModelResult,
+        sentences: list[dict[str, Any]],
+        aspect_graph: nx.DiGraph,
+    ) -> EvaluationReport:
+        slug = self._slugify(product)
+        print_header("Stage 6 — Evaluation", "Cohen's kappa, JSD, H(A), D(A), C_v")
+        out_dir = settings.results_dir / slug / "absa"
+        weighting_comparisons = compare_weighting_schemes(absa_results, aspect_graph, product)
+        return run_full_evaluation(
+            absa_results=absa_results,
+            aggregated_scores=aggregated_scores,
+            topic_result=topic_result,
+            sentences=sentences,
+            product=product,
+            out_dir=out_dir,
+            weighting_comparisons=weighting_comparisons,
+        )
 
     def report(self, aggregated: Any) -> None:
-        raise NotImplementedError("Report stage not yet implemented.")
+        raise NotImplementedError("HTML report stage not yet implemented.")
 
     # ---- Full run ----
 
@@ -164,10 +236,32 @@ class Pipeline:
             product, result.sentences
         )
 
+        # Stage 4 — ABSA
+        result.absa_results = self.run_absa(
+            product, result.sentences, result.aspect_graph
+        )
+
+        # Stage 5 — Aggregation (both weighting schemes)
+        result.aggregated_scores = self.aggregate(
+            product, result.absa_results, result.aspect_graph, weighting="weighted"
+        )
+
+        # Stage 6 — Evaluation
+        if result.absa_results and result.topic_result:
+            result.evaluation = self.evaluate(
+                product,
+                result.absa_results,
+                result.aggregated_scores,
+                result.topic_result,
+                result.sentences,
+                result.aspect_graph,
+            )
+
         print_info(
-            f"Stages 1-3 complete for '{product}': "
+            f"Pipeline complete for '{product}': "
             f"{result.sentence_count} sentences, "
             f"{len(result.topic_result.topics)} topics, "
-            f"{result.aspect_graph.number_of_nodes()} graph nodes."
+            f"{result.aspect_graph.number_of_nodes()} graph nodes, "
+            f"{len(result.absa_results)} ABSA paradigms."
         )
         return result
