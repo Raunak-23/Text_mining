@@ -1,0 +1,798 @@
+{
+  "nodes": [
+    {
+      "id": "Samsung Galaxy S25",
+      "type": "product",
+      "label": "Samsung Galaxy S25",
+      "topic_ids": [],
+      "doc_count": 2157,
+      "top_words": []
+    },
+    {
+      "id": "Hardware",
+      "type": "category",
+      "label": "Hardware",
+      "topic_ids": [],
+      "doc_count": 407,
+      "top_words": []
+    },
+    {
+      "id": "Camera",
+      "type": "aspect",
+      "label": "Camera",
+      "topic_ids": [
+        16
+      ],
+      "doc_count": 29,
+      "top_words": [
+        "face scanning",
+        "scanning",
+        "recognition",
+        "photos",
+        "camera",
+        "phones people",
+        "pictures",
+        "background",
+        "photo",
+        "cell phone"
+      ]
+    },
+    {
+      "id": "Display",
+      "type": "aspect",
+      "label": "Display",
+      "topic_ids": [
+        15
+      ],
+      "doc_count": 30,
+      "top_words": [
+        "thickness",
+        "old thickness",
+        "thinner",
+        "shape",
+        "bend",
+        "designed",
+        "expands",
+        "heavy",
+        "design",
+        "materials"
+      ]
+    },
+    {
+      "id": "Battery",
+      "type": "aspect",
+      "label": "Battery",
+      "topic_ids": [
+        3
+      ],
+      "doc_count": 137,
+      "top_words": [
+        "battery life",
+        "battery",
+        "day battery",
+        "battery size",
+        "phones battery",
+        "new battery",
+        "longer battery",
+        "add battery",
+        "replace battery",
+        "batteries"
+      ]
+    },
+    {
+      "id": "Performance",
+      "type": "aspect",
+      "label": "Performance",
+      "topic_ids": [
+        17
+      ],
+      "doc_count": 25,
+      "top_words": [
+        "massive improvements",
+        "improving",
+        "improvements",
+        "improvement",
+        "improved",
+        "optimize",
+        "user experience",
+        "better",
+        "experience",
+        "nostalgia"
+      ]
+    },
+    {
+      "id": "Build",
+      "type": "aspect",
+      "label": "Build",
+      "topic_ids": [
+        4
+      ],
+      "doc_count": 135,
+      "top_words": [
+        "folding",
+        "tri fold",
+        "fold",
+        "foldable",
+        "fold screen",
+        "trifold",
+        "unfold",
+        "unfolding",
+        "hinge",
+        "flip"
+      ]
+    },
+    {
+      "id": "Connectivity",
+      "type": "aspect",
+      "label": "Connectivity",
+      "topic_ids": [
+        12
+      ],
+      "doc_count": 51,
+      "top_words": [
+        "send",
+        "sending",
+        "sends",
+        "local",
+        "sending data",
+        "airdrop",
+        "file",
+        "shared",
+        "external",
+        "port"
+      ]
+    },
+    {
+      "id": "Software",
+      "type": "category",
+      "label": "Software",
+      "topic_ids": [],
+      "doc_count": 352,
+      "top_words": []
+    },
+    {
+      "id": "OS",
+      "type": "aspect",
+      "label": "OS",
+      "topic_ids": [
+        6,
+        9
+      ],
+      "doc_count": 212,
+      "top_words": [
+        "apple doesn",
+        "apple device",
+        "apple ios",
+        "apple",
+        "ios",
+        "iphones",
+        "mac",
+        "apps",
+        "devices",
+        "macbook"
+      ]
+    },
+    {
+      "id": "AI",
+      "type": "aspect",
+      "label": "AI",
+      "topic_ids": [
+        5,
+        18
+      ],
+      "doc_count": 140,
+      "top_words": [
+        "hardware",
+        "industry",
+        "manufacturers",
+        "market",
+        "ai",
+        "consumer",
+        "electronics",
+        "ram",
+        "marketing",
+        "companies"
+      ]
+    },
+    {
+      "id": "Value",
+      "type": "category",
+      "label": "Value",
+      "topic_ids": [],
+      "doc_count": 727,
+      "top_words": []
+    },
+    {
+      "id": "Ecosystem",
+      "type": "aspect",
+      "label": "Ecosystem",
+      "topic_ids": [
+        0,
+        7,
+        10
+      ],
+      "doc_count": 727,
+      "top_words": [
+        "phones",
+        "phone",
+        "iphone",
+        "samsung",
+        "use phone",
+        "android",
+        "want phone",
+        "devices",
+        "apple",
+        "device"
+      ]
+    },
+    {
+      "id": "topic_0",
+      "type": "topic",
+      "label": "phones_phone_iphone",
+      "topic_ids": [
+        0
+      ],
+      "doc_count": 529,
+      "top_words": [
+        "phones",
+        "phone",
+        "iphone",
+        "samsung",
+        "use phone",
+        "android",
+        "want phone",
+        "devices",
+        "apple",
+        "device"
+      ]
+    },
+    {
+      "id": "topic_3",
+      "type": "topic",
+      "label": "battery life_battery_day battery",
+      "topic_ids": [
+        3
+      ],
+      "doc_count": 137,
+      "top_words": [
+        "battery life",
+        "battery",
+        "day battery",
+        "battery size",
+        "phones battery",
+        "new battery",
+        "longer battery",
+        "add battery",
+        "replace battery",
+        "batteries"
+      ]
+    },
+    {
+      "id": "topic_4",
+      "type": "topic",
+      "label": "folding_tri fold_fold",
+      "topic_ids": [
+        4
+      ],
+      "doc_count": 135,
+      "top_words": [
+        "folding",
+        "tri fold",
+        "fold",
+        "foldable",
+        "fold screen",
+        "trifold",
+        "unfold",
+        "unfolding",
+        "hinge",
+        "flip"
+      ]
+    },
+    {
+      "id": "topic_5",
+      "type": "topic",
+      "label": "hardware_industry_manufacturers",
+      "topic_ids": [
+        5
+      ],
+      "doc_count": 119,
+      "top_words": [
+        "hardware",
+        "industry",
+        "manufacturers",
+        "market",
+        "ai",
+        "consumer",
+        "electronics",
+        "ram",
+        "marketing",
+        "companies"
+      ]
+    },
+    {
+      "id": "topic_6",
+      "type": "topic",
+      "label": "apple doesn_apple device_apple ios",
+      "topic_ids": [
+        6
+      ],
+      "doc_count": 113,
+      "top_words": [
+        "apple doesn",
+        "apple device",
+        "apple ios",
+        "apple",
+        "ios",
+        "iphones",
+        "mac",
+        "apps",
+        "devices",
+        "macbook"
+      ]
+    },
+    {
+      "id": "topic_7",
+      "type": "topic",
+      "label": "s25 fe_s25_galaxy s25",
+      "topic_ids": [
+        7
+      ],
+      "doc_count": 112,
+      "top_words": [
+        "s25 fe",
+        "s25",
+        "galaxy s25",
+        "s25 edge",
+        "s24",
+        "s22 ultra",
+        "s23",
+        "s26",
+        "s22",
+        "s23u"
+      ]
+    },
+    {
+      "id": "topic_9",
+      "type": "topic",
+      "label": "privacy_apps_app",
+      "topic_ids": [
+        9
+      ],
+      "doc_count": 99,
+      "top_words": [
+        "privacy",
+        "apps",
+        "app",
+        "permission",
+        "access",
+        "like google",
+        "location",
+        "tracking",
+        "security",
+        "wifi"
+      ]
+    },
+    {
+      "id": "topic_10",
+      "type": "topic",
+      "label": "middle east_regions_region",
+      "topic_ids": [
+        10
+      ],
+      "doc_count": 86,
+      "top_words": [
+        "middle east",
+        "regions",
+        "region",
+        "spying",
+        "usa",
+        "north africa",
+        "russia",
+        "africa",
+        "countries",
+        "country"
+      ]
+    },
+    {
+      "id": "topic_12",
+      "type": "topic",
+      "label": "send_sending_sends",
+      "topic_ids": [
+        12
+      ],
+      "doc_count": 51,
+      "top_words": [
+        "send",
+        "sending",
+        "sends",
+        "local",
+        "sending data",
+        "airdrop",
+        "file",
+        "shared",
+        "external",
+        "port"
+      ]
+    },
+    {
+      "id": "topic_15",
+      "type": "topic",
+      "label": "thickness_old thickness_thinner",
+      "topic_ids": [
+        15
+      ],
+      "doc_count": 30,
+      "top_words": [
+        "thickness",
+        "old thickness",
+        "thinner",
+        "shape",
+        "bend",
+        "designed",
+        "expands",
+        "heavy",
+        "design",
+        "materials"
+      ]
+    },
+    {
+      "id": "topic_16",
+      "type": "topic",
+      "label": "face scanning_scanning_recognition",
+      "topic_ids": [
+        16
+      ],
+      "doc_count": 29,
+      "top_words": [
+        "face scanning",
+        "scanning",
+        "recognition",
+        "photos",
+        "camera",
+        "phones people",
+        "pictures",
+        "background",
+        "photo",
+        "cell phone"
+      ]
+    },
+    {
+      "id": "topic_17",
+      "type": "topic",
+      "label": "massive improvements_improving_improvements",
+      "topic_ids": [
+        17
+      ],
+      "doc_count": 25,
+      "top_words": [
+        "massive improvements",
+        "improving",
+        "improvements",
+        "improvement",
+        "improved",
+        "optimize",
+        "user experience",
+        "better",
+        "experience",
+        "nostalgia"
+      ]
+    },
+    {
+      "id": "topic_18",
+      "type": "topic",
+      "label": "iphone air_apple device_tags",
+      "topic_ids": [
+        18
+      ],
+      "doc_count": 21,
+      "top_words": [
+        "iphone air",
+        "apple device",
+        "tags",
+        "apple google",
+        "use apple",
+        "features apple",
+        "iphone",
+        "apple",
+        "work apple",
+        "ios android"
+      ]
+    },
+    {
+      "id": "Other",
+      "type": "category",
+      "label": "Other",
+      "topic_ids": [],
+      "doc_count": 671,
+      "top_words": []
+    },
+    {
+      "id": "topic_1",
+      "type": "topic",
+      "label": "disagree_don understand_read",
+      "topic_ids": [
+        1
+      ],
+      "doc_count": 252,
+      "top_words": [
+        "disagree",
+        "don understand",
+        "read",
+        "understand",
+        "point",
+        "study",
+        "point just",
+        "reading",
+        "make sense",
+        "argument"
+      ]
+    },
+    {
+      "id": "topic_2",
+      "type": "topic",
+      "label": "cut ring_ring_bend",
+      "topic_ids": [
+        2
+      ],
+      "doc_count": 173,
+      "top_words": [
+        "cut ring",
+        "ring",
+        "bend",
+        "finger",
+        "cutting",
+        "cut",
+        "remove",
+        "straight",
+        "titanium",
+        "dick"
+      ]
+    },
+    {
+      "id": "topic_8",
+      "type": "topic",
+      "label": "password manager_passwords_password",
+      "topic_ids": [
+        8
+      ],
+      "doc_count": 110,
+      "top_words": [
+        "password manager",
+        "passwords",
+        "password",
+        "authenticator",
+        "samsung keyboard",
+        "lock",
+        "don use",
+        "keyboard",
+        "use pin",
+        "security"
+      ]
+    },
+    {
+      "id": "topic_11",
+      "type": "topic",
+      "label": "machines_using machine_testing",
+      "topic_ids": [
+        11
+      ],
+      "doc_count": 65,
+      "top_words": [
+        "machines",
+        "using machine",
+        "testing",
+        "tests",
+        "machine",
+        "make realistic",
+        "test",
+        "real world",
+        "realistic",
+        "human"
+      ]
+    },
+    {
+      "id": "topic_13",
+      "type": "topic",
+      "label": "100 times_100_times day",
+      "topic_ids": [
+        13
+      ],
+      "doc_count": 39,
+      "top_words": [
+        "100 times",
+        "100",
+        "times day",
+        "lasts day",
+        "5000",
+        "year",
+        "6000",
+        "times",
+        "500",
+        "10"
+      ]
+    },
+    {
+      "id": "topic_14",
+      "type": "topic",
+      "label": "clipboard_copy paste_paste",
+      "topic_ids": [
+        14
+      ],
+      "doc_count": 32,
+      "top_words": [
+        "clipboard",
+        "copy paste",
+        "paste",
+        "copying",
+        "copy",
+        "samsung keyboard",
+        "copies",
+        "phone screen",
+        "keyboard",
+        "android"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "Samsung Galaxy S25",
+      "target": "Hardware",
+      "weight": 407
+    },
+    {
+      "source": "Samsung Galaxy S25",
+      "target": "Software",
+      "weight": 352
+    },
+    {
+      "source": "Samsung Galaxy S25",
+      "target": "Value",
+      "weight": 727
+    },
+    {
+      "source": "Samsung Galaxy S25",
+      "target": "Other",
+      "weight": 671
+    },
+    {
+      "source": "Hardware",
+      "target": "Camera",
+      "weight": 29
+    },
+    {
+      "source": "Hardware",
+      "target": "Display",
+      "weight": 30
+    },
+    {
+      "source": "Hardware",
+      "target": "Battery",
+      "weight": 137
+    },
+    {
+      "source": "Hardware",
+      "target": "Performance",
+      "weight": 25
+    },
+    {
+      "source": "Hardware",
+      "target": "Build",
+      "weight": 135
+    },
+    {
+      "source": "Hardware",
+      "target": "Connectivity",
+      "weight": 51
+    },
+    {
+      "source": "Camera",
+      "target": "topic_16",
+      "weight": 29
+    },
+    {
+      "source": "Display",
+      "target": "topic_15",
+      "weight": 30
+    },
+    {
+      "source": "Battery",
+      "target": "topic_3",
+      "weight": 137
+    },
+    {
+      "source": "Performance",
+      "target": "topic_17",
+      "weight": 25
+    },
+    {
+      "source": "Build",
+      "target": "topic_4",
+      "weight": 135
+    },
+    {
+      "source": "Connectivity",
+      "target": "topic_12",
+      "weight": 51
+    },
+    {
+      "source": "Software",
+      "target": "OS",
+      "weight": 212
+    },
+    {
+      "source": "Software",
+      "target": "AI",
+      "weight": 140
+    },
+    {
+      "source": "OS",
+      "target": "topic_6",
+      "weight": 113
+    },
+    {
+      "source": "OS",
+      "target": "topic_9",
+      "weight": 99
+    },
+    {
+      "source": "AI",
+      "target": "topic_5",
+      "weight": 119
+    },
+    {
+      "source": "AI",
+      "target": "topic_18",
+      "weight": 21
+    },
+    {
+      "source": "Value",
+      "target": "Ecosystem",
+      "weight": 727
+    },
+    {
+      "source": "Ecosystem",
+      "target": "topic_0",
+      "weight": 529
+    },
+    {
+      "source": "Ecosystem",
+      "target": "topic_7",
+      "weight": 112
+    },
+    {
+      "source": "Ecosystem",
+      "target": "topic_10",
+      "weight": 86
+    },
+    {
+      "source": "Other",
+      "target": "topic_1",
+      "weight": 252
+    },
+    {
+      "source": "Other",
+      "target": "topic_2",
+      "weight": 173
+    },
+    {
+      "source": "Other",
+      "target": "topic_8",
+      "weight": 110
+    },
+    {
+      "source": "Other",
+      "target": "topic_11",
+      "weight": 65
+    },
+    {
+      "source": "Other",
+      "target": "topic_13",
+      "weight": 39
+    },
+    {
+      "source": "Other",
+      "target": "topic_14",
+      "weight": 32
+    }
+  ]
+}

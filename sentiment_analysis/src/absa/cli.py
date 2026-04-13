@@ -128,6 +128,62 @@ def preprocess(
 
 
 @app.command()
+def topics(
+    product: ProductArg,
+    force: ForceOpt = False,
+) -> None:
+    """Run BERTopic on preprocessed data and print the aspect hierarchy tree."""
+    from absa.data.collector import _slugify
+    from absa.models.topic_model import run_topic_model
+    from absa.models.aspect_mapper import build_aspect_graph, save_graph, load_graph, print_tree
+
+    slug = _slugify(product)
+    sentences_file = settings.processed_dir / slug / "sentences.json"
+    graph_file     = settings.results_dir / slug / "topics" / "aspect_graph.json"
+
+    if not sentences_file.exists():
+        print_error(
+            f"No preprocessed data for '{product}'. "
+            f"Run `absa preprocess \"{product}\"` first."
+        )
+        raise typer.Exit(1)
+
+    # Load or rebuild graph
+    if graph_file.exists() and not force:
+        print_success(f"Loading cached aspect graph from {graph_file.relative_to(settings.root)}")
+        graph = load_graph(graph_file)
+    else:
+        sentences = json.loads(sentences_file.read_text(encoding="utf-8"))
+        out_dir = settings.results_dir / slug / "topics"
+        topic_result = run_topic_model(sentences, out_dir=out_dir, force=force)
+        graph = build_aspect_graph(topic_result, product=product)
+        save_graph(graph, out_dir=out_dir)
+
+    print_header("Aspect Hierarchy", product)
+    print_tree(graph, product)
+
+    # Summary table
+    from collections import defaultdict
+    from rich.table import Table as RTable
+    cat_counts: dict[str, int] = defaultdict(int)
+    for node, attrs in graph.nodes(data=True):
+        if attrs["type"] == "aspect":
+            for pred in graph.predecessors(node):
+                cat_counts[pred] += attrs["doc_count"]
+
+    tbl = RTable(title="Category breakdown", show_lines=False)
+    tbl.add_column("Category", style="cyan")
+    tbl.add_column("Mentions", style="green", justify="right")
+    tbl.add_column("Aspects", style="yellow", justify="right")
+    for cat, cnt in sorted(cat_counts.items(), key=lambda x: -x[1]):
+        n_aspects = sum(
+            1 for n in graph.successors(cat) if graph.nodes[n]["type"] == "aspect"
+        )
+        tbl.add_row(cat, str(cnt), str(n_aspects))
+    console.print(tbl)
+
+
+@app.command()
 def analyze(
     product: ProductArg,
     subreddits: SubredditsOpt = None,
@@ -135,7 +191,9 @@ def analyze(
     time_filter: TimeOpt = "year",
     force: ForceOpt = False,
 ) -> None:
-    """Full pipeline: fetch -> preprocess (-> topic model -> ABSA, coming soon)."""
+    """Full pipeline: fetch -> preprocess -> topic model (-> ABSA coming soon)."""
+    from absa.models.aspect_mapper import print_tree
+
     subs = [s.strip() for s in subreddits.split(",")] if subreddits else None
     pipeline = Pipeline(
         subreddits=subs,
@@ -150,9 +208,15 @@ def analyze(
         print_error(str(exc))
         raise typer.Exit(1)
 
+    if result.aspect_graph:
+        print_header("Aspect Hierarchy", product)
+        print_tree(result.aspect_graph, product)
+
     print_success(
-        f"Stages 1-2 complete: {result.sentence_count} sentences ready. "
-        "Topic modeling & ABSA coming in next milestone."
+        f"Stages 1-3 complete: {result.sentence_count} sentences, "
+        f"{len(result.topic_result.topics)} topics, "
+        f"{result.aspect_graph.number_of_nodes()} graph nodes. "
+        "ABSA coming in next milestone."
     )
 
 

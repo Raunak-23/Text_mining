@@ -1,0 +1,52 @@
+# Soft-prior taxonomy for smartphone ABSA.
+# BERTopic topics are mapped to the nearest node here via semantic similarity.
+# Add / remove aspects freely — the mapper handles missing entries gracefully.
+
+product: Smartphone
+categories:
+  Hardware:
+    aspects:
+      Camera:
+        keywords: [camera, photo, photography, lens, sensor, zoom, video, portrait,
+                   nightography, megapixel, aperture, autofocus, selfie, front camera,
+                   rear camera, optical, stabilization, ProRes, cinematic]
+      Display:
+        keywords: [display, screen, panel, amoled, oled, brightness, refresh rate,
+                   resolution, hdr, color, adaptive, always-on, notch, punch-hole,
+                   120hz, 144hz, pixel density]
+      Battery:
+        keywords: [battery, charging, endurance, mah, wired, wireless, magsafe,
+                   drain, life, fast charge, reverse wireless, overnight, standby]
+      Performance:
+        keywords: [performance, speed, processor, chip, snapdragon, exynos, a17,
+                   benchmark, lag, smooth, gaming, ram, cpu, gpu, throttle]
+      Thermals:
+        keywords: [heat, thermal, temperature, hot, warm, throttling, overheat,
+                   cooling, vapor chamber, dissipation]
+      Build:
+        keywords: [build, design, material, aluminum, titanium, glass, gorilla,
+                   ceramic, premium, thin, weight, form factor, ip68, waterproof,
+                   dust resistant, frame, chassis, color]
+      Connectivity:
+        keywords: [5g, wifi, bluetooth, nfc, usb-c, satellite, signal, network,
+                   modem, carrier, band, antenna, reception, hotspot]
+  Software:
+    aspects:
+      OS:
+        keywords: [android, ios, one ui, software, update, patch, security,
+                   version, upgrade, os, system, bloatware, clean, stock]
+      Features:
+        keywords: [feature, mode, widget, standby, always-on, dynamic island,
+                   gesture, settings, customization, shortcuts, app, split screen,
+                   multitasking, notification, live activities]
+      AI:
+        keywords: [ai, intelligence, galaxy ai, apple intelligence, circle to search,
+                   gemini, siri, assistant, generative, smart, summarize, translate]
+  Value:
+    aspects:
+      Pricing:
+        keywords: [price, cost, expensive, cheap, worth, value, money, dollar,
+                   budget, premium, mid-range, deal, upgrade, trade-in, carrier deal]
+      Ecosystem:
+        keywords: [ecosystem, accessories, case, charger, watch, earbuds, galaxy,
+                   apple, integration, lock-in, cross-platform, icloud, samsung account]

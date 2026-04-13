@@ -16,8 +16,8 @@ preprocess:
 
 topic_model:
   embedding_model: "all-MiniLM-L6-v2"
-  min_topic_size: 5
-  nr_topics: "auto"
+  min_topic_size: 15      # min sentences per topic cluster; higher = fewer, broader topics
+  nr_topics: 20           # reduce after HDBSCAN to exactly N merged topics
   top_n_words: 10
 
 absa:

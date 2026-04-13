@@ -1,0 +1,254 @@
+[
+  {
+    "parent_id": 36,
+    "child_id": 34,
+    "parent_label": "phones_iphone_battery life_samsung_apple",
+    "child_label": "samsung_phones_android_galaxy_phone",
+    "distance": 1.1047833948438033
+  },
+  {
+    "parent_id": 36,
+    "child_id": 35,
+    "parent_label": "phones_iphone_battery life_samsung_apple",
+    "child_label": "apple_ios_mac_iphone_android",
+    "distance": 1.1047833948438033
+  },
+  {
+    "parent_id": 35,
+    "child_id": 33,
+    "parent_label": "apple_ios_mac_iphone_android",
+    "child_label": "apple doesn_apple device_apple_apple ios_ios",
+    "distance": 1.0522854082346094
+  },
+  {
+    "parent_id": 35,
+    "child_id": 20,
+    "parent_label": "apple_ios_mac_iphone_android",
+    "child_label": "password manager_password_passwords_clipboard_copy paste",
+    "distance": 1.0522854082346094
+  },
+  {
+    "parent_id": 34,
+    "child_id": 32,
+    "parent_label": "samsung_phones_android_galaxy_phone",
+    "child_label": "ring_finger_bend_cut_titanium",
+    "distance": 1.001100731311489
+  },
+  {
+    "parent_id": 34,
+    "child_id": 30,
+    "parent_label": "samsung_phones_android_galaxy_phone",
+    "child_label": "phones_phone_samsung_iphone_android",
+    "distance": 1.001100731311489
+  },
+  {
+    "parent_id": 33,
+    "child_id": 23,
+    "parent_label": "apple doesn_apple device_apple_apple ios_ios",
+    "child_label": "use apple_apple doesn_apple device_apple ios_apple",
+    "distance": 0.9892548666819894
+  },
+  {
+    "parent_id": 33,
+    "child_id": 28,
+    "parent_label": "apple doesn_apple device_apple_apple ios_ios",
+    "child_label": "scanning_recognition_photos_camera_files",
+    "distance": 0.9892548666819894
+  },
+  {
+    "parent_id": 32,
+    "child_id": 17,
+    "parent_label": "ring_finger_bend_cut_titanium",
+    "child_label": "massive improvements_improving_improvements",
+    "distance": 0.9624767224180816
+  },
+  {
+    "parent_id": 32,
+    "child_id": 31,
+    "parent_label": "ring_finger_bend_cut_titanium",
+    "child_label": "ring_titanium_better_different_really",
+    "distance": 0.9624767224180816
+  },
+  {
+    "parent_id": 31,
+    "child_id": 29,
+    "parent_label": "ring_titanium_better_different_really",
+    "child_label": "spying_disagree_consent_true_security",
+    "distance": 0.9582872619183689
+  },
+  {
+    "parent_id": 31,
+    "child_id": 27,
+    "parent_label": "ring_titanium_better_different_really",
+    "child_label": "cut ring_ring_finger_titanium_cut",
+    "distance": 0.9582872619183689
+  },
+  {
+    "parent_id": 30,
+    "child_id": 24,
+    "parent_label": "phones_phone_samsung_iphone_android",
+    "child_label": "battery_battery life_batteries_phones_iphone",
+    "distance": 0.9196164066559375
+  },
+  {
+    "parent_id": 30,
+    "child_id": 13,
+    "parent_label": "phones_phone_samsung_iphone_android",
+    "child_label": "100 times_100_times day",
+    "distance": 0.9196164066559375
+  },
+  {
+    "parent_id": 29,
+    "child_id": 11,
+    "parent_label": "spying_disagree_consent_true_security",
+    "child_label": "machines_using machine_testing",
+    "distance": 0.9034134980074041
+  },
+  {
+    "parent_id": 29,
+    "child_id": 26,
+    "parent_label": "spying_disagree_consent_true_security",
+    "child_label": "consent_spying_permission_security_spyware",
+    "distance": 0.9034134980074041
+  },
+  {
+    "parent_id": 28,
+    "child_id": 12,
+    "parent_label": "scanning_recognition_photos_camera_files",
+    "child_label": "send_sending_sends",
+    "distance": 0.8781579123579033
+  },
+  {
+    "parent_id": 28,
+    "child_id": 16,
+    "parent_label": "scanning_recognition_photos_camera_files",
+    "child_label": "face scanning_scanning_recognition",
+    "distance": 0.8781579123579033
+  },
+  {
+    "parent_id": 27,
+    "child_id": 2,
+    "parent_label": "cut ring_ring_finger_titanium_cut",
+    "child_label": "cut ring_ring_bend",
+    "distance": 0.8517403709090307
+  },
+  {
+    "parent_id": 27,
+    "child_id": 15,
+    "parent_label": "cut ring_ring_finger_titanium_cut",
+    "child_label": "thickness_old thickness_thinner",
+    "distance": 0.8517403709090307
+  },
+  {
+    "parent_id": 26,
+    "child_id": 21,
+    "parent_label": "consent_spying_permission_security_spyware",
+    "child_label": "expensive_marketing_price point_cost_costs",
+    "distance": 0.8498848927934372
+  },
+  {
+    "parent_id": 26,
+    "child_id": 25,
+    "parent_label": "consent_spying_permission_security_spyware",
+    "child_label": "spying_apps_app_security_spyware",
+    "distance": 0.8498848927934372
+  },
+  {
+    "parent_id": 25,
+    "child_id": 9,
+    "parent_label": "spying_apps_app_security_spyware",
+    "child_label": "privacy_apps_app",
+    "distance": 0.8233056459684267
+  },
+  {
+    "parent_id": 25,
+    "child_id": 10,
+    "parent_label": "spying_apps_app_security_spyware",
+    "child_label": "middle east_regions_region",
+    "distance": 0.8233056459684267
+  },
+  {
+    "parent_id": 24,
+    "child_id": 22,
+    "parent_label": "battery_battery life_batteries_phones_iphone",
+    "child_label": "battery life_day battery_battery_batteries_new battery",
+    "distance": 0.8152575626978751
+  },
+  {
+    "parent_id": 24,
+    "child_id": 19,
+    "parent_label": "battery_battery life_batteries_phones_iphone",
+    "child_label": "samsung_phones_galaxy_phone_fold",
+    "distance": 0.8152575626978751
+  },
+  {
+    "parent_id": 23,
+    "child_id": 18,
+    "parent_label": "use apple_apple doesn_apple device_apple ios_apple",
+    "child_label": "iphone air_apple device_tags",
+    "distance": 0.7878423153463077
+  },
+  {
+    "parent_id": 23,
+    "child_id": 6,
+    "parent_label": "use apple_apple doesn_apple device_apple ios_apple",
+    "child_label": "apple doesn_apple device_apple ios",
+    "distance": 0.7878423153463077
+  },
+  {
+    "parent_id": 22,
+    "child_id": 3,
+    "parent_label": "battery life_day battery_battery_batteries_new battery",
+    "child_label": "battery life_battery_day battery",
+    "distance": 0.7765979402615121
+  },
+  {
+    "parent_id": 22,
+    "child_id": 7,
+    "parent_label": "battery life_day battery_battery_batteries_new battery",
+    "child_label": "s25 fe_s25_galaxy s25",
+    "distance": 0.7765979402615121
+  },
+  {
+    "parent_id": 21,
+    "child_id": 5,
+    "parent_label": "expensive_marketing_price point_cost_costs",
+    "child_label": "hardware_industry_manufacturers",
+    "distance": 0.770884632728712
+  },
+  {
+    "parent_id": 21,
+    "child_id": 1,
+    "parent_label": "expensive_marketing_price point_cost_costs",
+    "child_label": "disagree_don understand_read",
+    "distance": 0.770884632728712
+  },
+  {
+    "parent_id": 20,
+    "child_id": 8,
+    "parent_label": "password manager_password_passwords_clipboard_copy paste",
+    "child_label": "password manager_passwords_password",
+    "distance": 0.7439871652235183
+  },
+  {
+    "parent_id": 20,
+    "child_id": 14,
+    "parent_label": "password manager_password_passwords_clipboard_copy paste",
+    "child_label": "clipboard_copy paste_paste",
+    "distance": 0.7439871652235183
+  },
+  {
+    "parent_id": 19,
+    "child_id": 0,
+    "parent_label": "samsung_phones_galaxy_phone_fold",
+    "child_label": "phones_phone_iphone",
+    "distance": 0.6592129821637644
+  },
+  {
+    "parent_id": 19,
+    "child_id": 4,
+    "parent_label": "samsung_phones_galaxy_phone_fold",
+    "child_label": "folding_tri fold_fold",
+    "distance": 0.6592129821637644
+  }
+]
