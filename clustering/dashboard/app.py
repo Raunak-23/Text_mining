@@ -7,7 +7,7 @@ from streamlit_autorefresh import st_autorefresh
 st_autorefresh(interval=900000, key="datarefresh")
 
 st.set_page_config(page_title="GDELT Narrative Tracker", layout="wide")
-st.title("🌐 Real-Time News Narrative Clusters")
+st.title(" Real-Time News Narrative Clusters")
 
 # Path to the data saved by main.py
 DATA_PATH = "models/narrative_state.pkl"
@@ -21,7 +21,7 @@ if os.path.exists(DATA_PATH):
     df = pd.DataFrame.from_dict(meta, orient='index')
     df = df.sort_values(by='count', ascending=False)
 
-    st.subheader("🔥 Top Trending Narratives")
+    st.subheader(" Top Trending Narratives")
     st.dataframe(df[['label', 'count']], use_container_width=True)
 
     # Optional: Simple bar chart
