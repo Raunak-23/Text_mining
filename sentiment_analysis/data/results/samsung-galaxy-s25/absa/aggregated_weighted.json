@@ -1,4 +1,306 @@
 {
+  "transformer": {
+    "product": "Samsung Galaxy S25",
+    "paradigm": "transformer",
+    "n_mentions": 3647,
+    "positive": 0.1281,
+    "negative": 0.3715,
+    "neutral": 0.5004,
+    "weighted_score": -0.2434,
+    "dominant": "neutral",
+    "weighting": "weighted",
+    "categories": [
+      {
+        "category": "Hardware",
+        "paradigm": "transformer",
+        "n_mentions": 2409,
+        "positive": 0.1569,
+        "negative": 0.4102,
+        "neutral": 0.4328,
+        "weighted_score": -0.2533,
+        "dominant": "neutral",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Camera",
+            "paradigm": "transformer",
+            "n_mentions": 411,
+            "positive": 0.0661,
+            "negative": 0.2726,
+            "neutral": 0.6614,
+            "weighted_score": -0.2065,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Display",
+            "paradigm": "transformer",
+            "n_mentions": 401,
+            "positive": 0.1221,
+            "negative": 0.4911,
+            "neutral": 0.3869,
+            "weighted_score": -0.369,
+            "dominant": "negative",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Performance",
+            "paradigm": "transformer",
+            "n_mentions": 416,
+            "positive": 0.3199,
+            "negative": 0.4943,
+            "neutral": 0.1858,
+            "weighted_score": -0.1744,
+            "dominant": "negative",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Connectivity",
+            "paradigm": "transformer",
+            "n_mentions": 390,
+            "positive": 0.1529,
+            "negative": 0.4972,
+            "neutral": 0.3499,
+            "weighted_score": -0.3443,
+            "dominant": "negative",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Battery",
+            "paradigm": "transformer",
+            "n_mentions": 382,
+            "positive": 0.1731,
+            "negative": 0.3407,
+            "neutral": 0.4862,
+            "weighted_score": -0.1676,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Build",
+            "paradigm": "transformer",
+            "n_mentions": 409,
+            "positive": 0.123,
+            "negative": 0.3802,
+            "neutral": 0.4968,
+            "weighted_score": -0.2572,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          }
+        ]
+      },
+      {
+        "category": "Software",
+        "paradigm": "transformer",
+        "n_mentions": 828,
+        "positive": 0.0713,
+        "negative": 0.3379,
+        "neutral": 0.5908,
+        "weighted_score": -0.2665,
+        "dominant": "neutral",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "OS",
+            "paradigm": "transformer",
+            "n_mentions": 417,
+            "positive": 0.0704,
+            "negative": 0.3455,
+            "neutral": 0.5841,
+            "weighted_score": -0.2751,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "AI",
+            "paradigm": "transformer",
+            "n_mentions": 411,
+            "positive": 0.0722,
+            "negative": 0.3304,
+            "neutral": 0.5974,
+            "weighted_score": -0.2581,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          }
+        ]
+      },
+      {
+        "category": "Value",
+        "paradigm": "transformer",
+        "n_mentions": 410,
+        "positive": 0.0818,
+        "negative": 0.2203,
+        "neutral": 0.6979,
+        "weighted_score": -0.1384,
+        "dominant": "neutral",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Ecosystem",
+            "paradigm": "transformer",
+            "n_mentions": 410,
+            "positive": 0.0818,
+            "negative": 0.2203,
+            "neutral": 0.6979,
+            "weighted_score": -0.1384,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          }
+        ]
+      }
+    ]
+  },
+  "llm": {
+    "product": "Samsung Galaxy S25",
+    "paradigm": "llm",
+    "n_mentions": 147,
+    "positive": 0.28,
+    "negative": 0.4833,
+    "neutral": 0.2367,
+    "weighted_score": -0.2033,
+    "dominant": "negative",
+    "weighting": "weighted",
+    "categories": [
+      {
+        "category": "Hardware",
+        "paradigm": "llm",
+        "n_mentions": 83,
+        "positive": 0.3389,
+        "negative": 0.4352,
+        "neutral": 0.2259,
+        "weighted_score": -0.0962,
+        "dominant": "negative",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Build",
+            "paradigm": "llm",
+            "n_mentions": 35,
+            "positive": 0.2288,
+            "negative": 0.5631,
+            "neutral": 0.2081,
+            "weighted_score": -0.3343,
+            "dominant": "negative",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Camera",
+            "paradigm": "llm",
+            "n_mentions": 7,
+            "positive": 0.1871,
+            "negative": 0.5104,
+            "neutral": 0.3025,
+            "weighted_score": -0.3233,
+            "dominant": "negative",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Battery",
+            "paradigm": "llm",
+            "n_mentions": 20,
+            "positive": 0.5589,
+            "negative": 0.2907,
+            "neutral": 0.1504,
+            "weighted_score": 0.2683,
+            "dominant": "positive",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Performance",
+            "paradigm": "llm",
+            "n_mentions": 10,
+            "positive": 0.5893,
+            "negative": 0.0977,
+            "neutral": 0.3129,
+            "weighted_score": 0.4916,
+            "dominant": "positive",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Display",
+            "paradigm": "llm",
+            "n_mentions": 3,
+            "positive": 0.4182,
+            "negative": 0.5818,
+            "neutral": 0.0,
+            "weighted_score": -0.1636,
+            "dominant": "negative",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Connectivity",
+            "paradigm": "llm",
+            "n_mentions": 8,
+            "positive": 0.1704,
+            "negative": 0.4411,
+            "neutral": 0.3886,
+            "weighted_score": -0.2707,
+            "dominant": "negative",
+            "weighting": "weighted"
+          }
+        ]
+      },
+      {
+        "category": "Software",
+        "paradigm": "llm",
+        "n_mentions": 45,
+        "positive": 0.1241,
+        "negative": 0.555,
+        "neutral": 0.3209,
+        "weighted_score": -0.4309,
+        "dominant": "negative",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "OS",
+            "paradigm": "llm",
+            "n_mentions": 42,
+            "positive": 0.1335,
+            "negative": 0.5313,
+            "neutral": 0.3352,
+            "weighted_score": -0.3978,
+            "dominant": "negative",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "AI",
+            "paradigm": "llm",
+            "n_mentions": 3,
+            "positive": 0.0,
+            "negative": 0.8693,
+            "neutral": 0.1307,
+            "weighted_score": -0.8693,
+            "dominant": "negative",
+            "weighting": "weighted"
+          }
+        ]
+      },
+      {
+        "category": "Value",
+        "paradigm": "llm",
+        "n_mentions": 19,
+        "positive": 0.3459,
+        "negative": 0.5612,
+        "neutral": 0.093,
+        "weighted_score": -0.2153,
+        "dominant": "negative",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Ecosystem",
+            "paradigm": "llm",
+            "n_mentions": 19,
+            "positive": 0.3459,
+            "negative": 0.5612,
+            "neutral": 0.093,
+            "weighted_score": -0.2153,
+            "dominant": "negative",
+            "weighting": "weighted"
+          }
+        ]
+      }
+    ]
+  },
   "lexicon": {
     "product": "Samsung Galaxy S25",
     "paradigm": "lexicon",

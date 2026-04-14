@@ -362,6 +362,15 @@ def analyze(
 
 
 @app.command()
+def report(
+    product: ProductArg,
+) -> None:
+    """Generate final RQ-answering results report (JSON + LaTeX + terminal)."""
+    from absa.reporting.results_report import run_report
+    run_report(product, save=True)
+
+
+@app.command()
 def info() -> None:
     """Show resolved config and credential status."""
     print_header("HierABSA — Config")

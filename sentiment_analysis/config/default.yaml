@@ -22,7 +22,7 @@ topic_model:
 
 absa:
   batch_size: 16
-  gemini_model: "gemini-3.1-flash-preview"
+  gemini_model: "gemini-3-flash-preview"
 
 aggregation:
   weight_formula: "log1p_score"   # log1p(comment_score) * model_confidence
