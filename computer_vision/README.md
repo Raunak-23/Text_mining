@@ -87,7 +87,7 @@ meme_sarcasm_analysis/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/meme_sarcasm_analysis.git
+git clone https://github.com/Aryan-2310/meme_sarcasm_analysis.git
 cd meme_sarcasm_analysis
 ```
 
