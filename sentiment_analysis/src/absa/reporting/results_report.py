@@ -15,11 +15,10 @@ from __future__ import annotations
 
 import json
 import math
-from pathlib import Path
 from typing import Any
 
 from absa.utils.config import settings
-from absa.utils.display import console, print_header, print_info, print_success, print_warning
+from absa.utils.display import console, print_header, print_success
 
 
 # ---------------------------------------------------------------------------
@@ -125,7 +124,7 @@ def _compute_jsd(records_a: list[dict], records_b: list[dict]) -> float | None:
         return None
 
 
-def _aspect_scores(agg: dict, paradigm: str, weighting: str) -> dict[str, dict]:
+def _aspect_scores(agg: dict, paradigm: str, weighting: str = "weighted") -> dict[str, dict]:  # noqa: ARG001
     """Extract {aspect -> {positive, negative, neutral, net}} from aggregated dict."""
     ps = agg.get(paradigm, {})
     result: dict[str, dict] = {}
@@ -619,19 +618,26 @@ def run_report(product: str, save: bool = True) -> dict[str, Any]:
     print_full_report(data, product)
 
     if save:
-        # JSON
         report = build_json_report(data, product)
-        out_dir = settings.results_dir / slug
+        tex    = build_latex_tables(report)
+
+        # ---- Save to data/results/<slug>/ (internal cache) ----
+        cache_dir = settings.results_dir / slug
+        cache_dir.mkdir(parents=True, exist_ok=True)
+        (cache_dir / "final_report.json").write_text(
+            json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+        (cache_dir / "tables.tex").write_text(tex, encoding="utf-8")
+
+        # ---- Also save to outputs/reports/<slug>/ ----
+        out_dir = settings.outputs_dir / "reports" / slug
         out_dir.mkdir(parents=True, exist_ok=True)
         json_path = out_dir / "final_report.json"
+        tex_path  = out_dir / "tables.tex"
         json_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
-        print_success(f"JSON report saved -> {json_path.relative_to(settings.root)}")
-
-        # LaTeX tables
-        tex = build_latex_tables(report)
-        tex_path = out_dir / "tables.tex"
         tex_path.write_text(tex, encoding="utf-8")
-        print_success(f"LaTeX tables saved -> {tex_path.relative_to(settings.root)}")
+        print_success(f"JSON report  -> {json_path.relative_to(settings.root)}")
+        print_success(f"LaTeX tables -> {tex_path.relative_to(settings.root)}")
 
         return report
     return {}
