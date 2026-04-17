@@ -7,7 +7,7 @@ from streamlit_autorefresh import st_autorefresh
 st_autorefresh(interval=900000, key="datarefresh")
 
 st.set_page_config(page_title="GDELT Narrative Tracker", layout="wide")
-st.title(" Real-Time News Narrative Clusters")
+st.title("Real-Time News Narrative Clusters")
 
 # Path to the data saved by main.py
 DATA_PATH = "models/narrative_state.pkl"
@@ -19,15 +19,16 @@ if os.path.exists(DATA_PATH):
     # Convert metadata to a displayable DataFrame
     meta = data['meta']
     df = pd.DataFrame.from_dict(meta, orient='index')
+    
+    # Sort data once for both the table and the chart
     df = df.sort_values(by='count', ascending=False)
 
-    st.subheader(" Top Trending Narratives")
+    st.subheader("Top Trending Narratives")
     st.dataframe(df[['label', 'count']], use_container_width=True)
 
-    # Optional: Simple bar chart
+    # Combined & Sorted Bar Chart
+    st.subheader("Narrative Volume Distribution")
     st.bar_chart(df.set_index('label')['count'])
+
 else:
     st.warning("Waiting for main.py to generate the first narrative clusters...")
-
-# In dashboard/app.py, sort the chart so it looks professional
-st.bar_chart(df.sort_values('count', ascending=False).set_index('label')['count'])

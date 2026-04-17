@@ -1,0 +1,35 @@
+{
+  "product": "Vivo X300 Pro",
+  "dataset": {
+    "n_topics": null,
+    "n_sentences_total": 0,
+    "transformer_sample": 0,
+    "llm_sample": 0,
+    "lexicon_total": 0
+  },
+  "rq1_topic_coherence": {
+    "bertopic_cv": null,
+    "lda_cv": null,
+    "delta": null,
+    "n_topics_bertopic": null,
+    "n_topics_lda": null,
+    "finding": "LDA C_v marginally higher; BERTopic provides semantic + hierarchical advantages"
+  },
+  "rq2_inter_paradigm_agreement": {
+    "pairwise": [],
+    "entropy_dominance": []
+  },
+  "rq3_weighting_impact": {
+    "pearson_r": null,
+    "mean_abs_delta": null,
+    "max_delta_aspect": null,
+    "max_delta_value": null,
+    "aspect_level": [],
+    "finding": "Not computed"
+  },
+  "rq4_domain_transfer": {
+    "finding": "Insufficient paradigms available"
+  },
+  "aspect_sentiment_summary": {},
+  "product_level": {}
+}

@@ -148,6 +148,7 @@ class _TransformerABSA:
         sentences: list[dict[str, Any]],
         graph: nx.DiGraph,
         batch_size: int = 16,
+        sample: int = 500,
     ) -> list[SentenceABSAResult]:
         self._load()
         aspects = _graph_aspect_candidates(graph)
@@ -155,9 +156,18 @@ class _TransformerABSA:
             print_warning("No aspect candidates found in graph — skipping transformer ABSA.")
             return []
 
+        # Sample for speed (CPU inference is slow)
+        if len(sentences) > sample:
+            rng = np.random.default_rng(42)
+            idxs = rng.choice(len(sentences), size=sample, replace=False).tolist()
+            subset = [sentences[i] for i in sorted(idxs)]
+            print_info(f"  Transformer: sampling {sample}/{len(sentences)} sentences (CPU speed).")
+        else:
+            subset = sentences
+
         results: list[SentenceABSAResult] = []
-        total = len(sentences)
-        for idx, rec in enumerate(sentences):
+        total = len(subset)
+        for idx, rec in enumerate(subset):
             if idx % 50 == 0:
                 print_info(f"  Transformer: {idx}/{total} sentences …")
             sent = rec["sentence"]
@@ -303,11 +313,17 @@ class _LLMABSA:
                     sent_label = str(op.get("sentiment", "neutral")).lower()
                     if sent_label not in ("positive", "neutral", "negative"):
                         sent_label = "neutral"
+                    # opinion_words may come back as string or list from LLM
+                    raw_ow = op.get("opinion_words", [])
+                    if isinstance(raw_ow, str):
+                        opinion_words = [w.strip() for w in raw_ow.split(",") if w.strip()]
+                    else:
+                        opinion_words = list(raw_ow)
                     opinions.append(AspectOpinion(
                         aspect=str(op.get("aspect", "")),
                         sentiment=sent_label,
                         confidence=float(op.get("confidence", 0.5)),
-                        opinion_words=list(op.get("opinion_words", [])),
+                        opinion_words=opinion_words,
                     ))
                 results.append(SentenceABSAResult(
                     sentence=rec["sentence"],
@@ -320,6 +336,7 @@ class _LLMABSA:
                     aspects=opinions,
                     paradigm="llm",
                 ))
+
         return results
 
 
@@ -449,6 +466,7 @@ def run_absa(
     force: bool = False,
     paradigms: list[str] | None = None,
     llm_sample: int = 300,
+    transformer_sample: int = 500,
 ) -> dict[str, list[SentenceABSAResult]]:
     """
     Run multi-paradigm ABSA and cache results.
@@ -497,7 +515,8 @@ def run_absa(
             runner = runners[paradigm]
             if paradigm == "transformer":
                 preds = runner.run(sentences, aspect_graph,
-                                   batch_size=settings._yaml.get("absa", {}).get("batch_size", 16))
+                                   batch_size=settings._yaml.get("absa", {}).get("batch_size", 16),
+                                   sample=transformer_sample)
             elif paradigm == "llm":
                 preds = runner.run(sentences, aspect_graph, sample=llm_sample)
             else:

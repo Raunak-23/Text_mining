@@ -231,6 +231,8 @@ def _jsd_distributions(
     for sent in common:
         p = _dist(map_a[sent])
         q = _dist(map_b[sent])
+        if sum(p) == 0 or sum(q) == 0:
+            continue  # skip sentences with no aspect opinions
         try:
             jsds.append(float(jensenshannon(p, q, base=2.0)))
         except Exception:

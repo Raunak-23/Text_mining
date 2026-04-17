@@ -1,0 +1,536 @@
+{
+  "product": "Samsung Galaxy S25",
+  "dataset": {
+    "n_topics": 19,
+    "n_sentences_total": 2858,
+    "transformer_sample": 500,
+    "llm_sample": 300,
+    "lexicon_total": 2858
+  },
+  "rq1_topic_coherence": {
+    "bertopic_cv": 0.4453,
+    "lda_cv": 0.4668,
+    "delta": -0.0216,
+    "n_topics_bertopic": 19,
+    "n_topics_lda": 19,
+    "finding": "LDA C_v marginally higher; BERTopic provides semantic + hierarchical advantages"
+  },
+  "rq2_inter_paradigm_agreement": {
+    "pairwise": [
+      {
+        "pair": "transformer_vs_llm",
+        "n_shared": 55,
+        "cohen_kappa": 0.1982,
+        "mean_jsd": 0.5093
+      },
+      {
+        "pair": "transformer_vs_lexicon",
+        "n_shared": 500,
+        "cohen_kappa": 0.1599,
+        "mean_jsd": 0.5591
+      },
+      {
+        "pair": "llm_vs_lexicon",
+        "n_shared": 300,
+        "cohen_kappa": 0.0897,
+        "mean_jsd": 0.5173
+      }
+    ],
+    "entropy_dominance": [
+      {
+        "aspect": "Ecosystem",
+        "paradigm": "lexicon",
+        "entropy": 0.3389,
+        "dominance": 0.8742,
+        "n_mentions": 3
+      },
+      {
+        "aspect": "AI",
+        "paradigm": "llm",
+        "entropy": 0.5594,
+        "dominance": 0.8693,
+        "n_mentions": 3
+      },
+      {
+        "aspect": "Performance",
+        "paradigm": "llm",
+        "entropy": 1.3019,
+        "dominance": 0.4916,
+        "n_mentions": 10
+      },
+      {
+        "aspect": "OS",
+        "paradigm": "llm",
+        "entropy": 1.4012,
+        "dominance": 0.3978,
+        "n_mentions": 42
+      },
+      {
+        "aspect": "Display",
+        "paradigm": "transformer",
+        "entropy": 1.4043,
+        "dominance": 0.369,
+        "n_mentions": 401
+      },
+      {
+        "aspect": "Connectivity",
+        "paradigm": "transformer",
+        "entropy": 1.4456,
+        "dominance": 0.3443,
+        "n_mentions": 390
+      },
+      {
+        "aspect": "Build",
+        "paradigm": "llm",
+        "entropy": 1.4247,
+        "dominance": 0.3343,
+        "n_mentions": 35
+      },
+      {
+        "aspect": "Camera",
+        "paradigm": "llm",
+        "entropy": 1.4695,
+        "dominance": 0.3233,
+        "n_mentions": 7
+      },
+      {
+        "aspect": "OS",
+        "paradigm": "transformer",
+        "entropy": 1.2523,
+        "dominance": 0.2751,
+        "n_mentions": 417
+      },
+      {
+        "aspect": "Connectivity",
+        "paradigm": "llm",
+        "entropy": 1.4858,
+        "dominance": 0.2707,
+        "n_mentions": 8
+      }
+    ]
+  },
+  "rq3_weighting_impact": {
+    "pearson_r": 0.8855,
+    "mean_abs_delta": 0.1047,
+    "max_delta_aspect": "lexicon/Ecosystem",
+    "max_delta_value": -0.427,
+    "aspect_level": [
+      {
+        "paradigm": "transformer",
+        "aspect": "AI",
+        "uniform_net": -0.2244,
+        "weighted_net": -0.2581,
+        "delta": -0.03370000000000001
+      },
+      {
+        "paradigm": "transformer",
+        "aspect": "Battery",
+        "uniform_net": -0.119,
+        "weighted_net": -0.1676,
+        "delta": -0.048600000000000004
+      },
+      {
+        "paradigm": "transformer",
+        "aspect": "Build",
+        "uniform_net": -0.1797,
+        "weighted_net": -0.2572,
+        "delta": -0.07749999999999999
+      },
+      {
+        "paradigm": "transformer",
+        "aspect": "Camera",
+        "uniform_net": -0.1636,
+        "weighted_net": -0.2065,
+        "delta": -0.042899999999999994
+      },
+      {
+        "paradigm": "transformer",
+        "aspect": "Connectivity",
+        "uniform_net": -0.2746,
+        "weighted_net": -0.3443,
+        "delta": -0.06969999999999998
+      },
+      {
+        "paradigm": "transformer",
+        "aspect": "Display",
+        "uniform_net": -0.2939,
+        "weighted_net": -0.369,
+        "delta": -0.0751
+      },
+      {
+        "paradigm": "transformer",
+        "aspect": "Ecosystem",
+        "uniform_net": -0.0967,
+        "weighted_net": -0.1384,
+        "delta": -0.0417
+      },
+      {
+        "paradigm": "transformer",
+        "aspect": "OS",
+        "uniform_net": -0.2269,
+        "weighted_net": -0.2751,
+        "delta": -0.04820000000000002
+      },
+      {
+        "paradigm": "transformer",
+        "aspect": "Performance",
+        "uniform_net": -0.0504,
+        "weighted_net": -0.1744,
+        "delta": -0.124
+      },
+      {
+        "paradigm": "llm",
+        "aspect": "AI",
+        "uniform_net": -0.6981,
+        "weighted_net": -0.8693,
+        "delta": -0.1711999999999999
+      },
+      {
+        "paradigm": "llm",
+        "aspect": "Battery",
+        "uniform_net": 0.0669,
+        "weighted_net": 0.2683,
+        "delta": 0.20139999999999997
+      },
+      {
+        "paradigm": "llm",
+        "aspect": "Build",
+        "uniform_net": -0.3177,
+        "weighted_net": -0.3343,
+        "delta": -0.016600000000000004
+      },
+      {
+        "paradigm": "llm",
+        "aspect": "Camera",
+        "uniform_net": -0.2621,
+        "weighted_net": -0.3233,
+        "delta": -0.06119999999999998
+      },
+      {
+        "paradigm": "llm",
+        "aspect": "Connectivity",
+        "uniform_net": -0.3857,
+        "weighted_net": -0.2707,
+        "delta": 0.11499999999999999
+      },
+      {
+        "paradigm": "llm",
+        "aspect": "Display",
+        "uniform_net": -0.295,
+        "weighted_net": -0.1636,
+        "delta": 0.1314
+      },
+      {
+        "paradigm": "llm",
+        "aspect": "Ecosystem",
+        "uniform_net": -0.3614,
+        "weighted_net": -0.2153,
+        "delta": 0.1461
+      },
+      {
+        "paradigm": "llm",
+        "aspect": "OS",
+        "uniform_net": -0.1872,
+        "weighted_net": -0.3978,
+        "delta": -0.21059999999999998
+      },
+      {
+        "paradigm": "llm",
+        "aspect": "Performance",
+        "uniform_net": 0.123,
+        "weighted_net": 0.4916,
+        "delta": 0.3686
+      },
+      {
+        "paradigm": "lexicon",
+        "aspect": "AI",
+        "uniform_net": 0.1617,
+        "weighted_net": 0.1419,
+        "delta": -0.019800000000000012
+      },
+      {
+        "paradigm": "lexicon",
+        "aspect": "Battery",
+        "uniform_net": 0.1766,
+        "weighted_net": 0.0721,
+        "delta": -0.10450000000000001
+      },
+      {
+        "paradigm": "lexicon",
+        "aspect": "Build",
+        "uniform_net": 0.1793,
+        "weighted_net": 0.179,
+        "delta": -0.0002999999999999947
+      },
+      {
+        "paradigm": "lexicon",
+        "aspect": "Camera",
+        "uniform_net": 0.051,
+        "weighted_net": 0.0174,
+        "delta": -0.0336
+      },
+      {
+        "paradigm": "lexicon",
+        "aspect": "Connectivity",
+        "uniform_net": 0.1662,
+        "weighted_net": 0.1543,
+        "delta": -0.011899999999999994
+      },
+      {
+        "paradigm": "lexicon",
+        "aspect": "Display",
+        "uniform_net": 0.176,
+        "weighted_net": 0.1761,
+        "delta": 0.00010000000000001674
+      },
+      {
+        "paradigm": "lexicon",
+        "aspect": "Ecosystem",
+        "uniform_net": -0.4472,
+        "weighted_net": -0.8742,
+        "delta": -0.427
+      },
+      {
+        "paradigm": "lexicon",
+        "aspect": "OS",
+        "uniform_net": 0.113,
+        "weighted_net": 0.0795,
+        "delta": -0.0335
+      },
+      {
+        "paradigm": "lexicon",
+        "aspect": "Performance",
+        "uniform_net": 0.2624,
+        "weighted_net": 0.0485,
+        "delta": -0.21390000000000003
+      }
+    ],
+    "finding": "r=0.885 confirms weighting is consistent overall; max shift -0.427 on 'lexicon/Ecosystem' shows high-upvote minority opinions can shift aggregate by >0.10 points"
+  },
+  "rq4_domain_transfer": {
+    "cohen_kappa": 0.1982,
+    "mean_jsd": 0.5093,
+    "n_shared": 55,
+    "finding": "Transformer kappa=0.1982 vs LLM silver standard: significant domain gap from SemEval to Reddit"
+  },
+  "aspect_sentiment_summary": {
+    "transformer": {
+      "Camera": {
+        "positive": 0.0661,
+        "negative": 0.2726,
+        "neutral": 0.6614,
+        "net": -0.2065,
+        "n": 411
+      },
+      "Display": {
+        "positive": 0.1221,
+        "negative": 0.4911,
+        "neutral": 0.3869,
+        "net": -0.369,
+        "n": 401
+      },
+      "Performance": {
+        "positive": 0.3199,
+        "negative": 0.4943,
+        "neutral": 0.1858,
+        "net": -0.1744,
+        "n": 416
+      },
+      "Connectivity": {
+        "positive": 0.1529,
+        "negative": 0.4972,
+        "neutral": 0.3499,
+        "net": -0.3443,
+        "n": 390
+      },
+      "Battery": {
+        "positive": 0.1731,
+        "negative": 0.3407,
+        "neutral": 0.4862,
+        "net": -0.1676,
+        "n": 382
+      },
+      "Build": {
+        "positive": 0.123,
+        "negative": 0.3802,
+        "neutral": 0.4968,
+        "net": -0.2572,
+        "n": 409
+      },
+      "OS": {
+        "positive": 0.0704,
+        "negative": 0.3455,
+        "neutral": 0.5841,
+        "net": -0.2751,
+        "n": 417
+      },
+      "AI": {
+        "positive": 0.0722,
+        "negative": 0.3304,
+        "neutral": 0.5974,
+        "net": -0.2581,
+        "n": 411
+      },
+      "Ecosystem": {
+        "positive": 0.0818,
+        "negative": 0.2203,
+        "neutral": 0.6979,
+        "net": -0.1384,
+        "n": 410
+      }
+    },
+    "llm": {
+      "Build": {
+        "positive": 0.2288,
+        "negative": 0.5631,
+        "neutral": 0.2081,
+        "net": -0.3343,
+        "n": 35
+      },
+      "Camera": {
+        "positive": 0.1871,
+        "negative": 0.5104,
+        "neutral": 0.3025,
+        "net": -0.3233,
+        "n": 7
+      },
+      "Battery": {
+        "positive": 0.5589,
+        "negative": 0.2907,
+        "neutral": 0.1504,
+        "net": 0.2683,
+        "n": 20
+      },
+      "Performance": {
+        "positive": 0.5893,
+        "negative": 0.0977,
+        "neutral": 0.3129,
+        "net": 0.4916,
+        "n": 10
+      },
+      "Display": {
+        "positive": 0.4182,
+        "negative": 0.5818,
+        "neutral": 0.0,
+        "net": -0.1636,
+        "n": 3
+      },
+      "Connectivity": {
+        "positive": 0.1704,
+        "negative": 0.4411,
+        "neutral": 0.3886,
+        "net": -0.2707,
+        "n": 8
+      },
+      "OS": {
+        "positive": 0.1335,
+        "negative": 0.5313,
+        "neutral": 0.3352,
+        "net": -0.3978,
+        "n": 42
+      },
+      "AI": {
+        "positive": 0.0,
+        "negative": 0.8693,
+        "neutral": 0.1307,
+        "net": -0.8693,
+        "n": 3
+      },
+      "Ecosystem": {
+        "positive": 0.3459,
+        "negative": 0.5612,
+        "neutral": 0.093,
+        "net": -0.2153,
+        "n": 19
+      }
+    },
+    "lexicon": {
+      "Display": {
+        "positive": 0.3778,
+        "negative": 0.2017,
+        "neutral": 0.4204,
+        "net": 0.1761,
+        "n": 832
+      },
+      "Build": {
+        "positive": 0.3804,
+        "negative": 0.2014,
+        "neutral": 0.4183,
+        "net": 0.179,
+        "n": 837
+      },
+      "Connectivity": {
+        "positive": 0.3629,
+        "negative": 0.2086,
+        "neutral": 0.4285,
+        "net": 0.1543,
+        "n": 1390
+      },
+      "Camera": {
+        "positive": 0.3298,
+        "negative": 0.3124,
+        "neutral": 0.3579,
+        "net": 0.0174,
+        "n": 148
+      },
+      "Performance": {
+        "positive": 0.5207,
+        "negative": 0.4721,
+        "neutral": 0.0072,
+        "net": 0.0485,
+        "n": 12
+      },
+      "Battery": {
+        "positive": 0.3141,
+        "negative": 0.242,
+        "neutral": 0.444,
+        "net": 0.0721,
+        "n": 177
+      },
+      "AI": {
+        "positive": 0.3623,
+        "negative": 0.2204,
+        "neutral": 0.4172,
+        "net": 0.1419,
+        "n": 1023
+      },
+      "OS": {
+        "positive": 0.3113,
+        "negative": 0.2318,
+        "neutral": 0.4569,
+        "net": 0.0795,
+        "n": 399
+      },
+      "Ecosystem": {
+        "positive": 0.0629,
+        "negative": 0.9371,
+        "neutral": 0.0,
+        "net": -0.8742,
+        "n": 3
+      }
+    }
+  },
+  "product_level": {
+    "transformer": {
+      "positive": 0.1281,
+      "negative": 0.3715,
+      "neutral": 0.5004,
+      "net_score": -0.2434,
+      "dominant": "neutral"
+    },
+    "llm": {
+      "positive": 0.28,
+      "negative": 0.4833,
+      "neutral": 0.2367,
+      "net_score": -0.2033,
+      "dominant": "negative"
+    },
+    "lexicon": {
+      "positive": 0.3602,
+      "negative": 0.2169,
+      "neutral": 0.4228,
+      "net_score": 0.1433,
+      "dominant": "neutral"
+    }
+  }
+}

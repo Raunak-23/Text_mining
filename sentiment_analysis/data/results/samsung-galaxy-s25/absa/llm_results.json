@@ -1,0 +1,4629 @@
+[
+  {
+    "sentence": "They copied the iPhone 17 Air and rushed a subpar phone onto the market so they can claim they did it first?",
+    "post_id": "1kwefqn",
+    "comment_id": "mzwmto6",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "copied",
+          "rushed",
+          "subpar"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Nobody is asking for thinner phones, stop wasting your resources and time developing them.",
+    "post_id": "1kwefqn",
+    "comment_id": "mugq5w8",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "Nobody is asking for",
+          "stop wasting"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Having moved from the Ultra to this, I can say with 100% certainty that you are incorrect.",
+    "post_id": "1kwefqn",
+    "comment_id": "mv5gcia",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Lots of reviewers have stated otherwise.",
+    "post_id": "1kwefqn",
+    "comment_id": "multrlt",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I dont buy apple for a reason",
+    "post_id": "1kwefqn",
+    "comment_id": "muvmh59",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "so I've been using it alot for web browsing, YouTube and some light games.",
+    "post_id": "1kwefqn",
+    "comment_id": "mv618vx",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I never used the space zoom or S pen",
+    "post_id": "1kwefqn",
+    "comment_id": "mv618vx",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "never used"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You already have that.",
+    "post_id": "1kwefqn",
+    "comment_id": "mukg3n1",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "There are phones with huge batteries like the ultra series phones.",
+    "post_id": "1kwefqn",
+    "comment_id": "mui03pm",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "huge"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "We’ll see how it performs.",
+    "post_id": "1kwefqn",
+    "comment_id": "multc4v",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "see how it performs"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "This phone is perfect for me!",
+    "post_id": "1kwefqn",
+    "comment_id": "mv7qqzn",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Thinking about getting one.",
+    "post_id": "1kwefqn",
+    "comment_id": "n42kdn8",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I think the reg S25 looked do-able too, but this was slightly better for me.",
+    "post_id": "1kwefqn",
+    "comment_id": "mz0ltbj",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "i would gladly trade thinness for a beefy battery.",
+    "post_id": "1kwefqn",
+    "comment_id": "mugpa1v",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 284,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "trade thinness"
+        ]
+      },
+      {
+        "aspect": "Battery",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "beefy battery"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm holding onto my smashed to shit s22 ultra until something worthy comes along.",
+    "post_id": "1kwefqn",
+    "comment_id": "mugt45e",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.98,
+        "opinion_words": [
+          "smashed to shit"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "No meaningful advances in phone related technologies, foldables are still too fragile (loved my flip 3 until a small piece of debris made it in between the foldable display large enough to bridge the gap).",
+    "post_id": "1kwefqn",
+    "comment_id": "muh6t51",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "too fragile"
+        ]
+      },
+      {
+        "aspect": "Display",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "debris made it in between the foldable display"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "So we're back to \"innovation\" to get the manufacturers out of this drought of real innovation and improvements.",
+    "post_id": "1kwefqn",
+    "comment_id": "muh6t51",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I've had an s23 ultra for 2 years now and the battery easily lasts all day unless I'm constantly using it.",
+    "post_id": "1kwefqn",
+    "comment_id": "mugvkgi",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 16,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "positive",
+        "confidence": 0.98,
+        "opinion_words": [
+          "easily lasts all day"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "On those Sundays you'd likely have an outlet nearby.",
+    "post_id": "1kwefqn",
+    "comment_id": "muhqbxo",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Just a moment of \"wow, I drained this super quickly today\"",
+    "post_id": "1kwefqn",
+    "comment_id": "muhswvn",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "drained this super quickly"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I still like having extra battery life over a slimmer phone.",
+    "post_id": "1kwefqn",
+    "comment_id": "muhswvn",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You should see the number of posts in the phone-related subs with them asking, \"Is this good screen-on time?\" and uploading a screenshot of the battery settings page showing 8 hours of active usage and all the power being used by those apps.",
+    "post_id": "1kwefqn",
+    "comment_id": "mugxea2",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 20,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Not through some fault in the phone but because people can't put them down for 2 minutes.",
+    "post_id": "1kwefqn",
+    "comment_id": "mugxea2",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 20,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "im on the same boat as you, with an s22",
+    "post_id": "1kwefqn",
+    "comment_id": "mugxflc",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Too many people buy phones after looking at them for 2 minutes in the showroom.",
+    "post_id": "1kwefqn",
+    "comment_id": "mugrycr",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 89,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I still have my S20 because i could put a 256gb mini SD.",
+    "post_id": "1kwefqn",
+    "comment_id": "muto2px",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I don't know why this phone is getting remotely positive reviews.",
+    "post_id": "1kwefqn",
+    "comment_id": "muh9kn1",
+    "subreddit": "gadgets",
+    "post_score": 130,
+    "comment_score": 94,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "With the aluminium bezels",
+    "post_id": "1oc8j7x",
+    "comment_id": "nkl6ri4",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": -3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I got it for 200 with a deal in the eu.",
+    "post_id": "1oc8j7x",
+    "comment_id": "nkkphnk",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Since i didnt have a backup phone that could even get that update, i did it, and knew it would be bad.",
+    "post_id": "1oc8j7x",
+    "comment_id": "nkp6bj4",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Like this review saying it's identical?",
+    "post_id": "1oc8j7x",
+    "comment_id": "nkl15ow",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 20,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "And I've got to tell them to stop calling me.",
+    "post_id": "1oc8j7x",
+    "comment_id": "nklt6l5",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "my theory is - newer cpu's tend to perform some obscure cpu function 10x better, like fp16 32 calculations or something.",
+    "post_id": "1oc8j7x",
+    "comment_id": "nkleluo",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": -4,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "perform some obscure cpu function 10x better"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "so older phones (that get the latest updates) then struggle with the newer software features that come in the updates.",
+    "post_id": "1oc8j7x",
+    "comment_id": "nkleluo",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": -4,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "struggle with the newer software features"
+        ]
+      },
+      {
+        "aspect": "Performance",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "struggle"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'll just keep using it until it dies.",
+    "post_id": "1oc8j7x",
+    "comment_id": "nknski6",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 10,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Battery less important and nonremoveable and nonreplaceable, sizes all over the place, curved screens, camera bumps humps lumps, notches, migrating fingerprint readers, face scanning, loss of the 3.5mm audio jack standard, loss of basic features like fm tuners and IR transceivers, etc.",
+    "post_id": "1oc8j7x",
+    "comment_id": "nknp5m7",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 35,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "less important and nonremoveable and nonreplaceable"
+        ]
+      },
+      {
+        "aspect": "Display",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "curved screens",
+          "notches"
+        ]
+      },
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "camera bumps humps lumps"
+        ]
+      },
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "sizes all over the place",
+          "loss of the 3.5mm audio jack standard",
+          "loss of basic features"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Look, I get what you're trying to say here, but to say that the S5 is strictly better than the S25 because it had a removable battery, and ignoring the massive improvements in processing power, display resolution, camera performance, glass durability, and the standardization of global usability since then is pretty disingenuous.",
+    "post_id": "1oc8j7x",
+    "comment_id": "nkv6d4c",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 21,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "removable battery"
+        ]
+      },
+      {
+        "aspect": "Performance",
+        "sentiment": "positive",
+        "confidence": 0.98,
+        "opinion_words": [
+          "massive improvements in processing power"
+        ]
+      },
+      {
+        "aspect": "Display",
+        "sentiment": "positive",
+        "confidence": 0.98,
+        "opinion_words": [
+          "massive improvements in display resolution"
+        ]
+      },
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.98,
+        "opinion_words": [
+          "massive improvements in camera performance"
+        ]
+      },
+      {
+        "aspect": "Build",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "massive improvements in glass durability"
+        ]
+      },
+      {
+        "aspect": "Connectivity",
+        "sentiment": "positive",
+        "confidence": 0.85,
+        "opinion_words": [
+          "standardization of global usability"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Nostalgia doesn't make better.",
+    "post_id": "1oc8j7x",
+    "comment_id": "nkxz6uj",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You are making BLATANTLY infactual arguments to prove an equally infactual point that that things were better back then.",
+    "post_id": "1oc8j7x",
+    "comment_id": "nl1hhfc",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I am rebutting your points and you just keep going back to \"but batteries\".",
+    "post_id": "1oc8j7x",
+    "comment_id": "nl1hhfc",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "opinion_words": [
+          "but batteries"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I was talking about general durability not about disassembly.",
+    "post_id": "1oc8j7x",
+    "comment_id": "nyyrl8n",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "general durability"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The one that becomes regular sized with a case and the \"add-on\" battery?",
+    "post_id": "1oc8j7x",
+    "comment_id": "nkwpmj3",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "neutral",
+        "confidence": 0.85,
+        "opinion_words": [
+          "regular sized"
+        ]
+      },
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.95,
+        "opinion_words": [
+          "add-on battery"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Apple started removing the headphone jack almost a decade ago.",
+    "post_id": "1oc8j7x",
+    "comment_id": "nkwurtt",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Connectivity",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "removing the headphone jack"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If it was such a bad idea, they probably would have noticed by now, don't you think?",
+    "post_id": "1oc8j7x",
+    "comment_id": "nkwurtt",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Please [contact the moderators of this subreddit](/message/compose/?to=/ )",
+    "post_id": "1oc8j7x",
+    "comment_id": "nkkp7bg",
+    "subreddit": "gadgets",
+    "post_score": 109,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I just don’t care for the idea of all the random stuff I take snapshots of through the day, like my fridge’s contents or weird medical stuff or whatever, getting sent to Apple’s servers.",
+    "post_id": "1rw6562",
+    "comment_id": "oaxvtqt",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 0.8,
+        "opinion_words": [
+          "don’t care for"
+        ]
+      },
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "don’t care for",
+          "getting sent to Apple’s servers"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I agree I don’t like the icloud shit at all.",
+    "post_id": "1rw6562",
+    "comment_id": "oayqukz",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "don’t like",
+          "shit"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I had the 256gb pro max and it was always full",
+    "post_id": "1rw6562",
+    "comment_id": "oayqukz",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.7,
+        "opinion_words": [
+          "always full"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Sitting at 76% battery health the phone is starting to act wonky.",
+    "post_id": "1rw6562",
+    "comment_id": "oaxgbno",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "76% battery health"
+        ]
+      },
+      {
+        "aspect": "Performance",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "act wonky"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "No additional cost do you feel better now?",
+    "post_id": "1rw6562",
+    "comment_id": "ob00pdw",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "\"Folding\" phones nowadays are too expensive due to folding screens and those screens always suck either with scratching or having weird line in the middle which is hard to ignore.",
+    "post_id": "1rw6562",
+    "comment_id": "oaxjj1h",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 94,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yeah, the duo was on the right track, they just.... missed important bits.",
+    "post_id": "1rw6562",
+    "comment_id": "ob50004",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "(Was the 2nd gen centered?",
+    "post_id": "1rw6562",
+    "comment_id": "ob50004",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I think those things are improving.",
+    "post_id": "1rw6562",
+    "comment_id": "ob23xsu",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Smaller screen, roller ball mouse, and full keyboard, but the most important part is the super satisfying swivel to open.",
+    "post_id": "1rw6562",
+    "comment_id": "ob19ovg",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Like who the fuck open the foldable to look at screen off ?",
+    "post_id": "1rw6562",
+    "comment_id": "ob0x7w2",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "They were one of the best",
+    "post_id": "1rw6562",
+    "comment_id": "oaxlhjv",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 14,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "did someone say SIX SEVEN ?!?!?!",
+    "post_id": "1rw6562",
+    "comment_id": "oayo7zs",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Plus with the screen scratching so easily I don't see them gaining popularity in any significance until that's been solved.",
+    "post_id": "1rw6562",
+    "comment_id": "oazgjh2",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It's the durability for me, they look so fragile and susceptible to damage that I just know I'd ruin it, and for the price of current foldables it just isn't worth the risk.",
+    "post_id": "1rw6562",
+    "comment_id": "oaxv7vq",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You generally can't see the crease when viewed straight on.",
+    "post_id": "1rw6562",
+    "comment_id": "oazto1a",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I can't think of anybody I've ever met in my entire life who has expressed a desire for phones to not only be a lot bigger and clunkier but also have creases in the middle of their screen because that's where they fold.",
+    "post_id": "1rw6562",
+    "comment_id": "oaxq8h1",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The people who did buy it are pretty well off financially.",
+    "post_id": "1rw6562",
+    "comment_id": "oaxr3m4",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": -3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Or supply was just incredibly low.",
+    "post_id": "1rw6562",
+    "comment_id": "oazej8x",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You can't think of a reason why someone would want a tablet that fits in their pocket?",
+    "post_id": "1rw6562",
+    "comment_id": "ob479gd",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "if you are more into the idea of a tablet i guess that's the draw?",
+    "post_id": "1rw6562",
+    "comment_id": "ob4ezjb",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Seems more like a proof of concept than anything else.",
+    "post_id": "1rw6562",
+    "comment_id": "ob0ila7",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm not even a die hard Apple fan but I'd have loved to have tried out or even purchased a Vision Pro, but the price was just insane",
+    "post_id": "1rw6562",
+    "comment_id": "oazwxyx",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Across all brands or just Apple?",
+    "post_id": "1rw6562",
+    "comment_id": "oaxw9f3",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "They look for the highest price that consumers will pay.",
+    "post_id": "1rw6562",
+    "comment_id": "obaq6zp",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Or the [Macbook Wheel](",
+    "post_id": "1rw6562",
+    "comment_id": "ob0v5i9",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The thinnest iPhone ever.",
+    "post_id": "1rw6562",
+    "comment_id": "ob0mbo9",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Nah, just look at Samsung’s versions, the s25 edge flopped but the a fold 7’s doing pretty well.",
+    "post_id": "1rw6562",
+    "comment_id": "oay9kul",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 10,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It makes way more sense why they released the iPhone Air because it doesn’t really serve a meaningful purpose for consumers",
+    "post_id": "1rw6562",
+    "comment_id": "ob8lrry",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "This ain’t rocket science people /s",
+    "post_id": "1rw6562",
+    "comment_id": "oaxcvpc",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1811,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If only they had announced it on 3/3",
+    "post_id": "1rw6562",
+    "comment_id": "oay4y35",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I look forward to the Galaxy Crumple.",
+    "post_id": "1rw6562",
+    "comment_id": "ob3ysnq",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I forgot about these and the chance to play with it with my 3rd grade crush!",
+    "post_id": "1rw6562",
+    "comment_id": "obiu7mx",
+    "subreddit": "gadgets",
+    "post_score": 2915,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I've got iPads and a MacBook and it would be great to be able to easily share stuff between them all without having to install ad laden third party apps.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc0bokj",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "My S24U picked up air tags were traveling with me when I drove a neighbor's car home from the ER.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc0s9qx",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Google can't access that database because Apple only let's Apple Devices access it.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc1428r",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "neutral",
+        "confidence": 0.85,
+        "opinion_words": [
+          "only let's Apple Devices access it"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If Google somehow cracked the Find My protocol, it would be a huge security hole that Apple would fix (and Google probably wouldn't want to abuse ethically).",
+    "post_id": "1s1be7a",
+    "comment_id": "oc1428r",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "huge security hole",
+          "Apple would fix"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Both iOS and Android can detect such tags.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc1epd8",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "can detect"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "What are people using for video calling across platform...",
+    "post_id": "1s1be7a",
+    "comment_id": "oc92m4s",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "opinion_words": [
+          "across platform"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Even tried the QR code and the device would still not connect.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc0xeb3",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 14,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Connectivity",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "would still not connect"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Was transferring from Funtouch to OneUI, so maybe that is issue.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc6e995",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "maybe that is issue"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "For year parity, S26 for 2026.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc0njr7",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 13,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I do prefer the number actually meaning something sorta useful.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc0ufwo",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 24,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "So is this a software feature or hardware limitation?",
+    "post_id": "1s1be7a",
+    "comment_id": "obzgzr5",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 50,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "opinion_words": [
+          "software feature"
+        ]
+      },
+      {
+        "aspect": "Performance",
+        "sentiment": "neutral",
+        "confidence": 0.6,
+        "opinion_words": [
+          "hardware limitation"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Because it’s insanely problematic to expose that data to applications WiFi scan data is location data in disguise.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc0j3qf",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Connectivity",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "insanely problematic",
+          "in disguise"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Wardriving generated lookup databases are barely useful in populated city centers only.",
+    "post_id": "1s1be7a",
+    "comment_id": "ocw1wcr",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Connectivity",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "barely useful"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Choice is better than no choice, than the gilded cage.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc0ueyj",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "negative",
+        "confidence": 0.8,
+        "opinion_words": [
+          "gilded cage"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Then there’s the bundling problem.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc0vu2d",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "bundling problem"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The user didn’t choose to let the weather app map their home network topology, they chose to see local weather.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc0vu2d",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "didn’t choose"
+        ]
+      },
+      {
+        "aspect": "Connectivity",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "map their home network topology"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Your neighbor now affects you .",
+    "post_id": "1s1be7a",
+    "comment_id": "oc0vu2d",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Then there’s the information asymmetry angle.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc0vu2d",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If you design a system around the assumption that users will make careful permission decisions, and then observe that they empirically don’t, at some point you have to ask whether the system is serving its stated purpose or just providing legal cover for data collection.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc0vu2d",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "not serving its stated purpose",
+          "legal cover for data collection"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "We live in a world where everyone's daily life is utterly depended on technology, but no one understands technology.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc129y5",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It’s hard to tell if a legitimate program has a back door or other malicious code baked in.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc2kdhb",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "hard to tell",
+          "back door",
+          "malicious code"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It is never that simple.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc1c4xw",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Can you explain why there are a billion PCs and non-apple devices that can already expose this capability to apps, but it would only be problematic for Apple devices?",
+    "post_id": "1s1be7a",
+    "comment_id": "oc5auxc",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "problematic for Apple devices"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Started using LocalSend and it's way faster.",
+    "post_id": "1s1be7a",
+    "comment_id": "oc08q7r",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "way faster"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Your grandma is still using Skype?",
+    "post_id": "1s1be7a",
+    "comment_id": "oc1ahw4",
+    "subreddit": "gadgets",
+    "post_score": 1342,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Samsung admits Galaxy devices can leak passwords through clipboard wormhole",
+    "post_id": "1ka32je",
+    "comment_id": null,
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 0,
+    "source": "title",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "leak passwords"
+        ]
+      },
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "negative",
+        "confidence": 0.8,
+        "opinion_words": [
+          "leak passwords"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Can it leak me through the wormhole, if Katy Perry gets to be an Astronaut, I want to be an intergalactic explorer.",
+    "post_id": "1ka32je",
+    "comment_id": "mpku711",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The Big Brother software was the source of the leak NOT the clipboard app on Android🤦 ‍",
+    "post_id": "1ka32je",
+    "comment_id": "mpkk13t",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "source of the leak"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I’m sorry were you making a joke?",
+    "post_id": "1ka32je",
+    "comment_id": "mpkcja6",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "[This isn't new]( You need to be careful when copying things to your keyboard.",
+    "post_id": "1ka32je",
+    "comment_id": "mpj1k25",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 69,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "opinion_words": [
+          "be careful"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Go to settings app click on the app and there should be a toggle to always allow the app to access your clipboard when you press paste.",
+    "post_id": "1ka32je",
+    "comment_id": "mpj740n",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 9,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "toggle to always allow"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I’ve always hated the way the clipboard seems to be zeroed out after a few minutes, but this post makes me understand why.",
+    "post_id": "1ka32je",
+    "comment_id": "mpjkx20",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 13,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "hated",
+          "zeroed out"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Their clipboard retains everything - even if you use an alternative keyboard - and can't be disabled without jailbreaking.",
+    "post_id": "1ka32je",
+    "comment_id": "mpj649z",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 257,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I could care less.",
+    "post_id": "1ka32je",
+    "comment_id": "mplzsjb",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": -5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I have absolutely no idea why they haven't fixed this.",
+    "post_id": "1ka32je",
+    "comment_id": "mpkxkk1",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I have to check everything again before submitting anything.",
+    "post_id": "1ka32je",
+    "comment_id": "mplfjxv",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It comes back after every reboot (according to what I read), or at the very least, after every upgrade.",
+    "post_id": "1ka32je",
+    "comment_id": "mpm8nff",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "At any rate “you only need a pc and adb” probably helps only 1% of 1% of users .",
+    "post_id": "1ka32je",
+    "comment_id": "mpm8nff",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "We often forget how vulnerable clipboard data actually is.",
+    "post_id": "1ka32je",
+    "comment_id": "mplvxg2",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I got a notification that the app copied it, then a month or so later the card got used at an African cuisine restaurant a few states away.",
+    "post_id": "1ka32je",
+    "comment_id": "mpjij01",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 22,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It’s why I moved entirely to password manager of iOS or passkeys.",
+    "post_id": "1ka32je",
+    "comment_id": "mpkv7vy",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "No longer typing them passwords, but using face id.",
+    "post_id": "1ka32je",
+    "comment_id": "mpkv7vy",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I use password managers because I can't remember enough secure passwords and don't want to type them in by hand.",
+    "post_id": "1ka32je",
+    "comment_id": "mpnsl2l",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "get a bad enough scar and your fingerprint is able to change enough to be unrecognizable, burn yourself bad enough and it may not grow in the same pattern.",
+    "post_id": "1ka32je",
+    "comment_id": "mq6hx93",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You generally can (and probably should) set up more than one finger as your fingerprint access for your phone or laptop.",
+    "post_id": "1ka32je",
+    "comment_id": "mpjwo2j",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 13,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Or you could simply lose access to the second device.",
+    "post_id": "1ka32je",
+    "comment_id": "mplvf8b",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The implicit inclusion of sms as a function of 2fa is what it takes issue with.",
+    "post_id": "1ka32je",
+    "comment_id": "mpmekqg",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I take issue with 'may' as its no longer a good standard.",
+    "post_id": "1ka32je",
+    "comment_id": "mpmekqg",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yubikeys support FIDO and U2F, which are established standards.",
+    "post_id": "1ka32je",
+    "comment_id": "mpkaw4y",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 19,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "So it could be factored into the broader implementation cost of 2FA.",
+    "post_id": "1ka32je",
+    "comment_id": "mqi8mnd",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Some basic security sure, but having too high of restrictions kills all small business.",
+    "post_id": "1ka32je",
+    "comment_id": "mq0obrt",
+    "subreddit": "gadgets",
+    "post_score": 3127,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "How have they not figured this shit out yet?",
+    "post_id": "1qn7dn7",
+    "comment_id": "o1rqd0f",
+    "subreddit": "technology",
+    "post_score": 79,
+    "comment_score": 15,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Old battery tech expands with pressure, and has thermal runway issues.",
+    "post_id": "1qn7dn7",
+    "comment_id": "o1t9bjp",
+    "subreddit": "technology",
+    "post_score": 79,
+    "comment_score": -4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Probably 3-5 years until we see one in a phone, maybe 10.",
+    "post_id": "1qn7dn7",
+    "comment_id": "o1t9bjp",
+    "subreddit": "technology",
+    "post_score": 79,
+    "comment_score": -4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Sometimes you get lucky sometimes you don’t.",
+    "post_id": "1qn7dn7",
+    "comment_id": "o1rwg9u",
+    "subreddit": "technology",
+    "post_score": 79,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "And all the Samsung things I owned only lasts 1-3 years.",
+    "post_id": "1qn7dn7",
+    "comment_id": "o1rwg9u",
+    "subreddit": "technology",
+    "post_score": 79,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "How do you even take it off, since sure as hell you won't cut it with battery inside.",
+    "post_id": "1nua1po",
+    "comment_id": "ngzjf6s",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 536,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "My garmin hurts my wrists due to carpal tunnel",
+    "post_id": "1nua1po",
+    "comment_id": "ngzuzsz",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 16,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "so I wanted a ring for sleeping.",
+    "post_id": "1nua1po",
+    "comment_id": "ngzuzsz",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 16,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Definitely don’t put your dick in one",
+    "post_id": "1nua1po",
+    "comment_id": "ngztii1",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 101,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The battery was only lasting 1.5 days instead of it's normal 7.",
+    "post_id": "1nua1po",
+    "comment_id": "nh0alwh",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Degloving is nasty 🤢.",
+    "post_id": "1nua1po",
+    "comment_id": "nh2q9ne",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Okay one last machinist/ring humorous annecdote, osha regs require you to take off all rings, dor lots of machining operations, so their is all kinds of machinist jokes about how osha is thirsty, and likes to hook up with married people, lol.",
+    "post_id": "1nua1po",
+    "comment_id": "nh0hqxx",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 25,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "One ring to rule them all, and in the airport bind them.",
+    "post_id": "1nua1po",
+    "comment_id": "ngzit1b",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 1597,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "in an interview, his his wife stated that she asked him to \" Cast it into the fire!",
+    "post_id": "1nua1po",
+    "comment_id": "nh0fybc",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Until I can look in your asshole to make sure there aren't any containers with more than 3.4oz of liquid\" <latexGloveSnap.wav <reachesDeepIntoYourPrisonPocketLikeItsAPairOfJNCOs",
+    "post_id": "1nua1po",
+    "comment_id": "nh3j9vz",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Not sure why it did that shine coming off Frodo?",
+    "post_id": "1nua1po",
+    "comment_id": "nh8q3f1",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I’ve never not regretted buying a Samsung product.",
+    "post_id": "1nua1po",
+    "comment_id": "nh95e3n",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "They make autonomous sentry guns for area-denial, for example.",
+    "post_id": "1nua1po",
+    "comment_id": "nh0gpko",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Like the SGR-A1 sentry gun.",
+    "post_id": "1nua1po",
+    "comment_id": "nh0gpko",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Maybe due to the way black absorbs light (heat) and white reflects it",
+    "post_id": "1nua1po",
+    "comment_id": "nh0uth2",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But surely it's possible to build it in such a way that it expands outwards, not inwards.",
+    "post_id": "1nua1po",
+    "comment_id": "nh1nkw2",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The Samsung cock ring will immediately sell out",
+    "post_id": "1nua1po",
+    "comment_id": "ngztd3t",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 124,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "positive",
+        "confidence": 0.7,
+        "opinion_words": [
+          "immediately sell out"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Mossad, however, loves it.",
+    "post_id": "1nua1po",
+    "comment_id": "nh07iyv",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 11,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yeah that was hilarious.",
+    "post_id": "1nua1po",
+    "comment_id": "nh0c1j3",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 19,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I think the closest thing to that was [the Pizza Bomber.](",
+    "post_id": "1nua1po",
+    "comment_id": "nh0afcj",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Which you can easily do by cutting the ring off!",
+    "post_id": "1nua1po",
+    "comment_id": "nh291uv",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.6,
+        "opinion_words": [
+          "cutting the ring off"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "or they should design it with a break point/relief joint that will give way or be a clear cut point if needed.",
+    "post_id": "1nua1po",
+    "comment_id": "nh1uch3",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.8,
+        "opinion_words": [
+          "should design it with a break point/relief joint"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "That would require shitty corpos to actually care about their customers or any government to regulate their absurd tech bullshit.",
+    "post_id": "1nua1po",
+    "comment_id": "nh1ctiv",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Shut up, nerd - Samsung",
+    "post_id": "1nua1po",
+    "comment_id": "ngzzem9",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Should just split in half on a pivot point.",
+    "post_id": "1nua1po",
+    "comment_id": "ngzwxon",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.8,
+        "opinion_words": [
+          "Should just split in half on a pivot point"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You don't need much space unless the finger is seriously swelling and going full eggplant.",
+    "post_id": "1nua1po",
+    "comment_id": "nh0mrvk",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "opinion_words": [
+          "don't need much space"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Makes sense Googled it.",
+    "post_id": "1nua1po",
+    "comment_id": "nh0vbc5",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "ok, but hear me out... ...",
+    "post_id": "1nua1po",
+    "comment_id": "nh03bsg",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 18,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You joke but electric locking devices do already exist.",
+    "post_id": "1nua1po",
+    "comment_id": "nh07nh9",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 17,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Top or bottom doesn't matter, you will not have a dick if that thing goes off.",
+    "post_id": "1nua1po",
+    "comment_id": "nh0cn5w",
+    "subreddit": "technology",
+    "post_score": 11799,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "negative",
+        "confidence": 0.7,
+        "opinion_words": [
+          "goes off"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "One plus for example is better than Samsung but worse then google and Apple when it comes to spyware",
+    "post_id": "1ozl43r",
+    "comment_id": "npcxg4q",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 17,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "worse then google and Apple when it comes to spyware"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Guess I am glad I switched to iPhone just this year...",
+    "post_id": "1ozl43r",
+    "comment_id": "npevpi2",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 10,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "glad I switched"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The headphone jack too.",
+    "post_id": "1ozl43r",
+    "comment_id": "npe5osa",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Connectivity",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "headphone jack"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I heard banking apps don't work though?",
+    "post_id": "1ozl43r",
+    "comment_id": "npe4341",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "banking apps don't work"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I've run main line samsung devices for years and never once had that",
+    "post_id": "1ozl43r",
+    "comment_id": "npegqof",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": -1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Use the phone stock except for firefox and VPN.",
+    "post_id": "1ozl43r",
+    "comment_id": "npd0z8e",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 28,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "Use the phone stock"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It only did the selfie photos from the front facing camera.",
+    "post_id": "1ozl43r",
+    "comment_id": "npd0z8e",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 28,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "only did the selfie photos"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Why is a cell phone scanning photos automatically with facial recognition, sorting them all into one file without asking the owner ?",
+    "post_id": "1ozl43r",
+    "comment_id": "npd0z8e",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 28,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "AI",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "scanning photos automatically with facial recognition"
+        ]
+      },
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "sorting them all into one file without asking"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If people want to use their face to unlock their phone they can take pictures specifically for that purpose when setting it up and agree to what the phone will do.",
+    "post_id": "1ozl43r",
+    "comment_id": "nphy133",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "AI",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "use their face to unlock"
+        ]
+      },
+      {
+        "aspect": "OS",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "agree to what the phone will do"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Sure, but all Android devices since like version 8 have encrypted storage as far as I know, as in, the entire user profile.",
+    "post_id": "1ozl43r",
+    "comment_id": "npk9g0v",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "encrypted storage"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "This encryption is under the filesystem layer so it's invisible to users most of the time.",
+    "post_id": "1ozl43r",
+    "comment_id": "npk9g0v",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "positive",
+        "confidence": 0.85,
+        "opinion_words": [
+          "invisible to users"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But that is modifying security access tokens, which is very different from a non-security option like indexing photos.",
+    "post_id": "1ozl43r",
+    "comment_id": "npk9g0v",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "modifying security access tokens",
+          "indexing photos"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "To do a collage secretly in the background while scanning private photos years apart using onboard facial recognition should not be an acceptable \"feature\".",
+    "post_id": "1ozl43r",
+    "comment_id": "npk9g0v",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "AI",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "onboard facial recognition",
+          "should not be an acceptable 'feature'"
+        ]
+      },
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "secretly in the background"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "People have been conditioned to give up privacy for convenience.",
+    "post_id": "1ozl43r",
+    "comment_id": "npk9g0v",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The status quo solution: impose heavy legislation against these companies.",
+    "post_id": "1ozl43r",
+    "comment_id": "npe12ku",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Now I have a VR brick I cannot use.",
+    "post_id": "1ozl43r",
+    "comment_id": "npej9v3",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "cannot use"
+        ]
+      },
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "brick"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I rarely take pictures, and even more rarely ones of me, therefore there arent that many, but they're also sourced from whatsapp and similar (bc some of the .agif pictures were taken by the phones of other people)",
+    "post_id": "1ozl43r",
+    "comment_id": "npeq550",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "rarely take pictures"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Would not be surprised.",
+    "post_id": "1ozl43r",
+    "comment_id": "npdfcuh",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "My Samsung fold had only Samsung bloat, and a very well hidden system app Meta services despite never having Facebook or Instagram on it.",
+    "post_id": "1ozl43r",
+    "comment_id": "nr22y9i",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "Samsung bloat",
+          "well hidden system app"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Furilabs flx1s has middling specs but runs Linux and is coming soon (I have the previous model)",
+    "post_id": "1ozl43r",
+    "comment_id": "npcmish",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "middling specs"
+        ]
+      },
+      {
+        "aspect": "OS",
+        "sentiment": "positive",
+        "confidence": 0.7,
+        "opinion_words": [
+          "runs Linux"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "This is less important for privacy, because you can change your default search.",
+    "post_id": "1ozl43r",
+    "comment_id": "npd88f3",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "positive",
+        "confidence": 0.7,
+        "opinion_words": [
+          "can change your default search"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "So switch it to duckduck, safari remembers it across devices.",
+    "post_id": "1ozl43r",
+    "comment_id": "npcx0sm",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "positive",
+        "confidence": 0.6,
+        "opinion_words": [
+          "switch it to duckduck"
+        ]
+      },
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "remembers it across devices"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I added ducksearch and adblock on my phone, and discovered apple added it on my mac by itself.",
+    "post_id": "1ozl43r",
+    "comment_id": "npcx0sm",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "added it on my mac by itself"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Apple does come with pre-installed apps but you can delete most of them and the apps are generally pretty good honestly.",
+    "post_id": "1ozl43r",
+    "comment_id": "npd7p9d",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": -2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "can delete most of them",
+          "generally pretty good"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The 90’s and 00’s ruined me for wasting time on pc’s as i was everyone’s goto guy for pc issues.",
+    "post_id": "1ozl43r",
+    "comment_id": "npd816z",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "With microsofts pricehikes on xbox, im saying sayonara for good.",
+    "post_id": "1ozl43r",
+    "comment_id": "npd816z",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "pricehikes",
+          "sayonara for good"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yeah, I feel you.",
+    "post_id": "1ozl43r",
+    "comment_id": "npebzbs",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": -1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Apple doesn't want you to use third party anything.",
+    "post_id": "1ozl43r",
+    "comment_id": "npd4jks",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 9,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "doesn't want you to use third party anything"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You're missing the point.",
+    "post_id": "1ozl43r",
+    "comment_id": "npcq7vs",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 12,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The article in question is calling out Samsung, the manufacturer, for preloading the phone with baked-in 1st party spyware.",
+    "post_id": "1ozl43r",
+    "comment_id": "npcq7vs",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 12,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "preloading the phone with baked-in 1st party spyware"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I am not clear on whether PRISM was done with Apple's full knowledge or not.",
+    "post_id": "1ozl43r",
+    "comment_id": "npcwq8x",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Just put my phone case in the bag lil bro",
+    "post_id": "1ozl43r",
+    "comment_id": "npcugpd",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": -9,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "In the real world businesses use iPhones when they actually need things to be secure.",
+    "post_id": "1ozl43r",
+    "comment_id": "npf1d0j",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": -5,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "actually need things to be secure"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yes there are instances of Apple not posting about known exploits such as the iMessage one in 2021.",
+    "post_id": "1ozl43r",
+    "comment_id": "npd403d",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 17,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "not posting about known exploits"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "And you can get a pure android with no Samsung overlay.",
+    "post_id": "1ozl43r",
+    "comment_id": "npda960",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": -8,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "pure android with no Samsung overlay"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "More, this is a ME / Africa issue, as this \"spyware\" isnt on my US device.",
+    "post_id": "1ozl43r",
+    "comment_id": "npda960",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": -8,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "positive",
+        "confidence": 0.8,
+        "opinion_words": [
+          "spyware isnt on my US device"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You can get pure android, and review all the code if chosen.",
+    "post_id": "1ozl43r",
+    "comment_id": "npda960",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": -8,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "pure android",
+          "review all the code"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I mean, without buying an iphone: Either buy an unlocked android and install a custom version of android, which locks you out of half the major apps and all contactless payment (without heavy modification of the operating system), or buy a flip phone.",
+    "post_id": "1ozl43r",
+    "comment_id": "npcoxb6",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "locks you out",
+          "heavy modification"
+        ]
+      },
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "locks you out of half the major apps"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Can't be preloaded with trash if the phone is trash itself points at head meme",
+    "post_id": "1ozl43r",
+    "comment_id": "npf8kss",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": -28,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "preloaded with trash"
+        ]
+      },
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "phone is trash"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "(Connectivity checks, dialer lookups, etc...)",
+    "post_id": "1ozl43r",
+    "comment_id": "npcpocn",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 84,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Connectivity",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "Connectivity checks"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Have fun trying to de-Apple all the data collection on your iDevices.",
+    "post_id": "1ozl43r",
+    "comment_id": "npd84x1",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "de-Apple",
+          "data collection"
+        ]
+      },
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.8,
+        "opinion_words": [
+          "data collection"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You can absolutely degoogle a pixel.",
+    "post_id": "1ozl43r",
+    "comment_id": "npd4ep3",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "absolutely degoogle"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "GrapheneOS is primarily focused on Pixel and is an alternative os thats not built by Google.",
+    "post_id": "1ozl43r",
+    "comment_id": "npd4ep3",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "alternative os",
+          "not built by Google"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "By the way, do you have a good explanation of the current integrity/device attestations on Android?",
+    "post_id": "1ozl43r",
+    "comment_id": "npfuzog",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "integrity/device attestations"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "When it comes to a bootloader unlock attack vector, it's a physical access thing.",
+    "post_id": "1ozl43r",
+    "comment_id": "npe9sh9",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "bootloader unlock"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Graphene is only for pixel devices.",
+    "post_id": "1ozl43r",
+    "comment_id": "nph7vp8",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 11,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "only for pixel devices"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It’s spyware in a region where numerous different countries are known to disappear journalists and dissidents.",
+    "post_id": "1ozl43r",
+    "comment_id": "npcpc3k",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 423,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "spyware"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Users aren't happy about it.",
+    "post_id": "1ozl43r",
+    "comment_id": "npcb8mv",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 3100,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Do newer phones not have it or is it in system apps?",
+    "post_id": "1ozl43r",
+    "comment_id": "nphuc99",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "OS",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "system apps"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Clearly they want something Google won't give them.",
+    "post_id": "1ozl43r",
+    "comment_id": "npcjnm0",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 52,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "negative",
+        "confidence": 0.7,
+        "opinion_words": [
+          "won't give them"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Samsung phones wouldn't be the issue if Google was unpopular or else they would target a different brand.",
+    "post_id": "1ozl43r",
+    "comment_id": "npcpyzm",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": -6,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "opinion_words": [
+          "unpopular"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If you're an average consumer, you likely never heard of those.",
+    "post_id": "1ozl43r",
+    "comment_id": "npcrggj",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Fcuk Israel and their shady, slimy tactics.",
+    "post_id": "1ozl43r",
+    "comment_id": "npfqs13",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 17,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Can you support this please.",
+    "post_id": "1ozl43r",
+    "comment_id": "npfu3dm",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "That's not for lack of trying though.",
+    "post_id": "1ozl43r",
+    "comment_id": "npgtvgc",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "There’s a Russian agent in the presidency and the Chinese control what the young people see every day on TikTok — so remember to hate the Jews and never consider who your enemies are - Wow, there's so much wrong in this comment I don't even know where to start...",
+    "post_id": "1ozl43r",
+    "comment_id": "nphgjsz",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "And if you even approached literacy, you’d see that this article does not say Israel is spying on the US — it’s saying an Israeli company may be using spyware of some sort in the Middle East, where the Israeli market also exists.",
+    "post_id": "1ozl43r",
+    "comment_id": "nphiv93",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "These fuckers are behind practically everything spying, policing, and enforcement related.",
+    "post_id": "1ozl43r",
+    "comment_id": "npgh7kk",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 12,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It’s israeli government spyware.",
+    "post_id": "1ozl43r",
+    "comment_id": "npcxv7k",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 47,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Owned by Unity(the game engine) by the way.",
+    "post_id": "1ozl43r",
+    "comment_id": "npcvw1f",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 66,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "IIRC the pagers were sold by a Hungarian shell company using Chinese built pagers, the pagers were altered by Mossad before being shipped to Lebanon.",
+    "post_id": "1ozl43r",
+    "comment_id": "npfkd5i",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Like it's literally just a more specific \"Greater Middle East\", innit?",
+    "post_id": "1ozl43r",
+    "comment_id": "npdwkoy",
+    "subreddit": "technology",
+    "post_score": 5984,
+    "comment_score": 35,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm sick of how thick and heavy my 16 pro is!!!!",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq126um",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 17,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.98,
+        "opinion_words": [
+          "sick of",
+          "thick",
+          "heavy"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "No one seems to care how heavy phones are nowadays.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2ddy7",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "heavy"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "get a z flip.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq21308",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 10,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "and now you have why the phones are getting thinner--so you can fold two layers and still not have it be crazy thick.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq66mty",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "positive",
+        "confidence": 0.85,
+        "opinion_words": [
+          "thinner",
+          "not have it be crazy thick"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I don’t mind skinny if it doesn’t bend.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq0xrsm",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 66,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "don't mind skinny",
+          "doesn't bend"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "How's that an issue if you don't put your phone in your back pocket and sit down?",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1b0t9",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "How's that an issue"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I still sit on my phone sometimes, because I am human and humans are fallible.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1mlwc",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "opinion_words": [
+          "sit on my phone"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But my Google maps",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2j6cp",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "(Currently rocking a 4 year old pixel 4a , just got new back and battery so hopefully it'll go another 4)",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1ot0j",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "new back"
+        ]
+      },
+      {
+        "aspect": "Battery",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "new battery",
+          "hopefully it'll go another 4"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "That’s not possible sadly.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq44ih5",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "So frame must be as sturdy as possible",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq44ih5",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "sturdy as possible"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm looking at that protruding camera and can't help to think that I would need a case that is the appropriate thickness in order to protect the front element.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq0y3y2",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 145,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "protruding"
+        ]
+      },
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.8,
+        "opinion_words": [
+          "need a case",
+          "protect"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "So if I get a thicker phone, plus a case, now I have an extra thick phone.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2fmih",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "extra thick"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I don’t really need the extra battery, mine goes all day with how I use it.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2fmih",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "goes all day",
+          "don't really need the extra"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Why Apple thought asymmetry was better is beyond me.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2tri4",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Finally traded in my mini and am still mad/sad about it.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mqhh38j",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Best part about owning one is people and kids asking you “why is your phone so small?”.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq4lewq",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "My students would roast me because I kept going back to my PC.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2ffx4",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Add a solar panel on the back of the phones for emergency and passive charging would be nice",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq3olwd",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Sadly won’t happen and they’ll still sell millions!",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1653c",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I still ascertain that Apple is more of a marketing company than a technology company",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq602jv",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Steve Jobs was, to all appearances, not a particularly great human being.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1ltbl",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 31,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Mid 2010s everyone removing as many buttons as possible from the front. 2020s",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2dqmy",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "A few attempts to shake it up with foldables or that surface device with 2 screens.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2dqmy",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Steve jobs was the right person at the right time, but the iPhones apparently stagnation is not unique to the iPhone.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2dqmy",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "To be fair, Apple has had some pretty major hits since Steve like the AirPods, Apple Watch and M-series chips.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2bwlt",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 19,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "pretty major hits"
+        ]
+      },
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "pretty major hits"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "There's still success a-plenty to be had.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2edix",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Smaller battery size means less potential damage.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq7gj2u",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "less potential damage"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Why not be all battery?",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq53v34",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "opinion_words": [
+          "Why not be all"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Weight is the real issue with additional battery.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq27aco",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "negative",
+        "confidence": 0.8,
+        "opinion_words": [
+          "real issue"
+        ]
+      },
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.8,
+        "opinion_words": [
+          "real issue"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It's only been downhill from there.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2eg4f",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "just for context...chinese companies are already building silicon carbide batteries 30-40% more [dense]( than apple and samsung.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1c5t9",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 15,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "30-40% more dense"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "and they're like $200-$300 and are already on sale.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1c5t9",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 15,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I remember my Nokia lasting 2-3 weeks (although, how much battery did 5 sms and constant Snake use a week)",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1bvlv",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "lasting 2-3 weeks"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "A little bit of thickness opens to so many possibilities.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1709k",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 21,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "positive",
+        "confidence": 0.85,
+        "opinion_words": [
+          "opens to so many possibilities"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm completely fine with there being different sizes of devices for different people!",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2fvca",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "completely fine"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It was still better when you could pop yours out and stick a new one in and extend your phone's life by another couple of years",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1aty5",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 15,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "still better",
+          "extend your phone's life"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It really depends on how you use it.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2hmpy",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Of course they came out with the next version of the phone and the battery life was nowhere near as great.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1o2zp",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "negative",
+        "confidence": 1.0,
+        "opinion_words": [
+          "nowhere near as great"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Different strokes for different folks.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1dtv6",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I mean, cost is an issue, too.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq18koa",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 183,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I mean, you can get perfectly fine phones for $200-$400.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq7y2tv",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "A top-of-the-line iPhone is a value at $20.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1oqm0",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The only thing it seems to be missing is wireless charging.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq23hbg",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "missing"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "That’s the only reason and everything else is just lip service to convince you to look away from the shareholders and that sweet retained earnings line on their balance sheet.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1spod",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 15,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "For a lot of people it completely replaced the PC.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq2b054",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 17,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "That's nothing to do with the companies.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq3a2gu",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It's not as if the companies designed and built in this flaw on purpose.",
+    "post_id": "1kc9zvt",
+    "comment_id": "mq1zts1",
+    "subreddit": "technology",
+    "post_score": 2454,
+    "comment_score": 60,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Shouldn't the one who wants the 'realistic' results volunteer?",
+    "post_id": "1mho20o",
+    "comment_id": "n70b4af",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": -4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Have this phone and its fucking great so far.",
+    "post_id": "1mho20o",
+    "comment_id": "n701omr",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I have never seen so much as a nick in that section.",
+    "post_id": "1mho20o",
+    "comment_id": "n6ztmfp",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Then at 75k folds he got a liquid that came out of the hinge.",
+    "post_id": "1mho20o",
+    "comment_id": "n7093wm",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "According to my calculations, this would result in a thickness of 1.4 x 10^60,189 light years.",
+    "post_id": "1mho20o",
+    "comment_id": "n70k96f",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But the durability of those phones borders on supernatural.",
+    "post_id": "1mho20o",
+    "comment_id": "n6xqh3a",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 94,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "In my case, it was an issue with the internal magnet that would cause the phone not to recognize when the phone was opened.",
+    "post_id": "1mho20o",
+    "comment_id": "n705tal",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm just shocked the hinge is so low on the list of those issues.",
+    "post_id": "1mho20o",
+    "comment_id": "n705tal",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Samsung said of course we'll have a look, send us your phone!",
+    "post_id": "1mho20o",
+    "comment_id": "n71hj1o",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I love everything about this.",
+    "post_id": "1mho20o",
+    "comment_id": "n74x7kj",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I've had my fold 3 for years... it only opens up 80% of the way now.",
+    "post_id": "1mho20o",
+    "comment_id": "n6zjnky",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I ate a whole bag of gummy bears last week and my face hurt for two days.",
+    "post_id": "1mho20o",
+    "comment_id": "n6xnyqr",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 40,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "100 times a day sounds quite reasonable for some people.",
+    "post_id": "1mho20o",
+    "comment_id": "n6xjzp2",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 104,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "To the outside world, I’m just an ordinary forensic scientist, but secretly I use my speed to fight crime and find others like me, and one day I’ll find who killed my mother and get justice for my father.",
+    "post_id": "1mho20o",
+    "comment_id": "n6zqo3y",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Having owned 4 flips within 2 year, all failing on the hinge I can say verifying the durability is very warranted",
+    "post_id": "1mho20o",
+    "comment_id": "n72fzka",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "a million times as well.",
+    "post_id": "1mho20o",
+    "comment_id": "n70rpti",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I've washed it, it's though questionable HOW he does it because he does it extremely fast which produces certainly a looooot of heat after a while.",
+    "post_id": "1mho20o",
+    "comment_id": "n70kmup",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "questionable",
+          "extremely fast",
+          "looooot of heat"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The problem with using a machine to do the cycling is machines do it perfectly every time.",
+    "post_id": "1mho20o",
+    "comment_id": "n768jw0",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Sure, if you program the machine to do it the exact same way every time, it will do it the exact same way every time.",
+    "post_id": "1mho20o",
+    "comment_id": "n7d1co0",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Well a robot would do the same clinical movement to do it.",
+    "post_id": "1mho20o",
+    "comment_id": "n709cye",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It isn't stupid if their goal is views and they get views.",
+    "post_id": "1mho20o",
+    "comment_id": "n6ypnyw",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 14,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Haha I did have to check that it was actually waterproof",
+    "post_id": "1mho20o",
+    "comment_id": "n70k2q0",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "neutral",
+        "confidence": 0.85,
+        "opinion_words": [
+          "actually waterproof"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You're accelerating wear to estimate the longevity of the other phones rolling off the line.",
+    "post_id": "1mho20o",
+    "comment_id": "n71elb8",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "accelerating wear",
+          "longevity"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The first fold? ...",
+    "post_id": "1mho20o",
+    "comment_id": "n714tqw",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": -3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "neutral",
+        "confidence": 0.6,
+        "opinion_words": [
+          "first fold"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Google says 200k folds for the 5!",
+    "post_id": "1mho20o",
+    "comment_id": "n714tqw",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": -3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "200k folds"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yeah you're right it was the Flip 3",
+    "post_id": "1mho20o",
+    "comment_id": "n72banx",
+    "subreddit": "technology",
+    "post_score": 1453,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  }
+]
