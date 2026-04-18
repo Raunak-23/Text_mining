@@ -12,12 +12,11 @@ class GDELTIngestor:
             resp = requests.get(self.last_update_url)
             lines = resp.text.strip().split('\n')
             
-            # Specifically look for the GKG file (27 columns)
+            # Specifically look for the GKG file in the update list
             for line in lines:
                 if '.gkg.csv.zip' in line.lower():
                     return line.split(' ')[2]
             
-            # Fallback if the loop fails (GKG is usually index 2)
             return lines[2].split(' ')[2]
         except Exception as e:
             print(f"Error fetching GDELT update list: {e}")
@@ -34,14 +33,14 @@ class GDELTIngestor:
             with zipfile.ZipFile(io.BytesIO(resp.content)) as z:
                 csv_filename = z.namelist()[0]
                 with z.open(csv_filename) as f:
-                    # GDELT is tab-separated
                     df = pd.read_csv(f, sep='\t', header=None, low_memory=False, encoding='utf-8')
         except Exception as e:
-            print(f"❌ Error unzipping/reading CSV: {e}")
+            print(f" Error unzipping/reading CSV: {e}")
             return None
         
-        # GDELT GKG V2 Column Mapping (The 27 columns)
-        df.columns = [
+        # Dynamic column mapping to prevent 'Length Mismatch'
+        num_cols = len(df.columns)
+        gkg_headers = [
             'GKGRECORDID', 'DATE', 'SourceCollection', 'SourceCommonName',
             'DocumentIdentifier', 'Counts', 'V2Counts', 'Themes', 'V2Themes', 
             'Locations', 'V2Locations', 'Persons', 'V2Persons', 'Organizations', 
@@ -49,4 +48,12 @@ class GDELTIngestor:
             'RelatedImages', 'SocialImageEmbeds', 'SocialVideoEmbeds', 'Quotations', 
             'AllNames', 'Amounts', 'TranslationInfo', 'ExtrasXML'
         ]
+
+        if num_cols == 27:
+            df.columns = gkg_headers
+        else:
+            # Handle cases where GDELT sends V1 or extra columns
+            new_headers = gkg_headers[:num_cols] + [f'Extra_{i}' for i in range(num_cols - len(gkg_headers))]
+            df.columns = new_headers[:num_cols]
+             
         return df
