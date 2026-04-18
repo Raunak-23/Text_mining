@@ -1,0 +1,254 @@
+[
+  {
+    "parent_id": 36,
+    "child_id": 32,
+    "parent_label": "vivo x300_x300 pro_oppo x9_vivo_oppo",
+    "child_label": "vivo x300_x300 pro_x9 pro_x200 pro_oppo x9",
+    "distance": 1.200419210664536
+  },
+  {
+    "parent_id": 36,
+    "child_id": 35,
+    "parent_label": "vivo x300_x300 pro_oppo x9_vivo_oppo",
+    "child_label": "es_por_que_en_si",
+    "distance": 1.200419210664536
+  },
+  {
+    "parent_id": 35,
+    "child_id": 34,
+    "parent_label": "es_por_que_en_si",
+    "child_label": "es_una_que_se non_por",
+    "distance": 1.0417593056985248
+  },
+  {
+    "parent_id": 35,
+    "child_id": 30,
+    "parent_label": "es_por_que_en_si",
+    "child_label": "thanks_thank_thanks reply_message_send",
+    "distance": 1.0417593056985248
+  },
+  {
+    "parent_id": 34,
+    "child_id": 33,
+    "parent_label": "es_una_que_se non_por",
+    "child_label": "spatial audio_audio_dolby_speakers_speakers average",
+    "distance": 1.0046799312607038
+  },
+  {
+    "parent_id": 34,
+    "child_id": 9,
+    "parent_label": "es_una_que_se non_por",
+    "child_label": "es_una_por",
+    "distance": 1.0046799312607038
+  },
+  {
+    "parent_id": 33,
+    "child_id": 31,
+    "parent_label": "spatial audio_audio_dolby_speakers_speakers average",
+    "child_label": "bokeh effect_bokeh_creamy bokeh_lense_lens",
+    "distance": 0.9984055113425727
+  },
+  {
+    "parent_id": 33,
+    "child_id": 29,
+    "parent_label": "spatial audio_audio_dolby_speakers_speakers average",
+    "child_label": "spatial audio_audio_dolby_sound quality_speakers",
+    "distance": 0.9984055113425727
+  },
+  {
+    "parent_id": 32,
+    "child_id": 22,
+    "parent_label": "vivo x300_x300 pro_x9 pro_x200 pro_oppo x9",
+    "child_label": "battery_version battery_batteries_battery life_global chinese",
+    "distance": 0.9952537825899529
+  },
+  {
+    "parent_id": 32,
+    "child_id": 28,
+    "parent_label": "vivo x300_x300 pro_x9 pro_x200 pro_oppo x9",
+    "child_label": "vivo x300_vivo oppo_vivo_x9 pro_x300 pro",
+    "distance": 0.9952537825899529
+  },
+  {
+    "parent_id": 31,
+    "child_id": 18,
+    "parent_label": "bokeh effect_bokeh_creamy bokeh_lense_lens",
+    "child_label": "bokeh effect_bokeh_creamy bokeh",
+    "distance": 0.9739213257489945
+  },
+  {
+    "parent_id": 31,
+    "child_id": 17,
+    "parent_label": "bokeh effect_bokeh_creamy bokeh_lense_lens",
+    "child_label": "impossible_possible_sadly",
+    "distance": 0.9739213257489945
+  },
+  {
+    "parent_id": 30,
+    "child_id": 27,
+    "parent_label": "thanks_thank_thanks reply_message_send",
+    "child_label": "thank_thanks_thanks reply_message_send",
+    "distance": 0.9616194839865705
+  },
+  {
+    "parent_id": 30,
+    "child_id": 15,
+    "parent_label": "thanks_thank_thanks reply_message_send",
+    "child_label": "posts comments_comments_deleting",
+    "distance": 0.9616194839865705
+  },
+  {
+    "parent_id": 29,
+    "child_id": 16,
+    "parent_label": "spatial audio_audio_dolby_sound quality_speakers",
+    "child_label": "tests_test_testing",
+    "distance": 0.9547967412271934
+  },
+  {
+    "parent_id": 29,
+    "child_id": 12,
+    "parent_label": "spatial audio_audio_dolby_sound quality_speakers",
+    "child_label": "spatial audio_audio_dolby",
+    "distance": 0.9547967412271934
+  },
+  {
+    "parent_id": 28,
+    "child_id": 26,
+    "parent_label": "vivo x300_vivo oppo_vivo_x9 pro_x300 pro",
+    "child_label": "vivo x300_oppo x9_vivo oppo_x300 pro_x9 pro",
+    "distance": 0.9348657304419713
+  },
+  {
+    "parent_id": 28,
+    "child_id": 13,
+    "parent_label": "vivo x300_vivo oppo_vivo_x9 pro_x300 pro",
+    "child_label": "teleconverter kit_teleconverter_tele extender",
+    "distance": 0.9348657304419713
+  },
+  {
+    "parent_id": 27,
+    "child_id": 14,
+    "parent_label": "thank_thanks_thanks reply_message_send",
+    "child_label": "youtube channel_youtube_youtube videos",
+    "distance": 0.9303064594396373
+  },
+  {
+    "parent_id": 27,
+    "child_id": 23,
+    "parent_label": "thank_thanks_thanks reply_message_send",
+    "child_label": "thanks_thank_thanks reply_message_send",
+    "distance": 0.9303064594396373
+  },
+  {
+    "parent_id": 26,
+    "child_id": 25,
+    "parent_label": "vivo x300_oppo x9_vivo oppo_x300 pro_x9 pro",
+    "child_label": "photo mode_master mode_portrait mode_modes_mode",
+    "distance": 0.9194863952361727
+  },
+  {
+    "parent_id": 26,
+    "child_id": 21,
+    "parent_label": "vivo x300_oppo x9_vivo oppo_x300 pro_x9 pro",
+    "child_label": "vivo x300_vivo oppo_x300 pro_oppo x9_x9 pro",
+    "distance": 0.9194863952361727
+  },
+  {
+    "parent_id": 25,
+    "child_id": 10,
+    "parent_label": "photo mode_master mode_portrait mode_modes_mode",
+    "child_label": "haptics best_best haptics_haptics",
+    "distance": 0.8840397202917469
+  },
+  {
+    "parent_id": 25,
+    "child_id": 24,
+    "parent_label": "photo mode_master mode_portrait mode_modes_mode",
+    "child_label": "photo mode_modes_portrait mode_mode_settings",
+    "distance": 0.8840397202917469
+  },
+  {
+    "parent_id": 24,
+    "child_id": 5,
+    "parent_label": "photo mode_modes_portrait mode_mode_settings",
+    "child_label": "photo mode_modes_mode",
+    "distance": 0.837085230386118
+  },
+  {
+    "parent_id": 24,
+    "child_id": 11,
+    "parent_label": "photo mode_modes_portrait mode_mode_settings",
+    "child_label": "heating_warm_gets hot",
+    "distance": 0.837085230386118
+  },
+  {
+    "parent_id": 23,
+    "child_id": 4,
+    "parent_label": "thanks_thank_thanks reply_message_send",
+    "child_label": "personal preference_preference_priorities",
+    "distance": 0.7950201644081742
+  },
+  {
+    "parent_id": 23,
+    "child_id": 7,
+    "parent_label": "thanks_thank_thanks reply_message_send",
+    "child_label": "enjoy_thanks_thank",
+    "distance": 0.7950201644081742
+  },
+  {
+    "parent_id": 22,
+    "child_id": 6,
+    "parent_label": "battery_version battery_batteries_battery life_global chinese",
+    "child_label": "chinese versions_chinese version_global chinese",
+    "distance": 0.7730464614703983
+  },
+  {
+    "parent_id": 22,
+    "child_id": 8,
+    "parent_label": "battery_version battery_batteries_battery life_global chinese",
+    "child_label": "battery life_battery_battery health",
+    "distance": 0.7730464614703983
+  },
+  {
+    "parent_id": 21,
+    "child_id": 19,
+    "parent_label": "vivo x300_vivo oppo_x300 pro_oppo x9_x9 pro",
+    "child_label": "phones_vivo_phone_device_mobile",
+    "distance": 0.688955166211838
+  },
+  {
+    "parent_id": 21,
+    "child_id": 20,
+    "parent_label": "vivo x300_vivo oppo_x300 pro_oppo x9_x9 pro",
+    "child_label": "oppo x9_x9 pro_pro x9_vivo oppo_oppo vivo",
+    "distance": 0.688955166211838
+  },
+  {
+    "parent_id": 20,
+    "child_id": 3,
+    "parent_label": "oppo x9_x9 pro_pro x9_vivo oppo_oppo vivo",
+    "child_label": "oppo x9_oppo x8_x9 pro",
+    "distance": 0.6425205377345586
+  },
+  {
+    "parent_id": 20,
+    "child_id": 2,
+    "parent_label": "oppo x9_x9 pro_pro x9_vivo oppo_oppo vivo",
+    "child_label": "x300 pro_pro x300_better x300",
+    "distance": 0.6425205377345586
+  },
+  {
+    "parent_id": 19,
+    "child_id": 1,
+    "parent_label": "phones_vivo_phone_device_mobile",
+    "child_label": "camera_cameras_camera app",
+    "distance": 0.4859541251146474
+  },
+  {
+    "parent_id": 19,
+    "child_id": 0,
+    "parent_label": "phones_vivo_phone_device_mobile",
+    "child_label": "iphone 17_iphone_better vivo",
+    "distance": 0.4859541251146474
+  }
+]

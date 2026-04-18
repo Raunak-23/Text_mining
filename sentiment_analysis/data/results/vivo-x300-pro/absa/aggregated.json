@@ -1,0 +1,212 @@
+{
+  "transformer": {
+    "product": "vivo x300 pro",
+    "paradigm": "transformer",
+    "n_mentions": 1642,
+    "positive": 0.2726,
+    "negative": 0.2205,
+    "neutral": 0.5069,
+    "weighted_score": 0.0521,
+    "dominant": "neutral",
+    "weighting": "weighted",
+    "categories": [
+      {
+        "category": "Hardware",
+        "paradigm": "transformer",
+        "n_mentions": 1642,
+        "positive": 0.2726,
+        "negative": 0.2205,
+        "neutral": 0.5069,
+        "weighted_score": 0.0521,
+        "dominant": "neutral",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Camera",
+            "paradigm": "transformer",
+            "n_mentions": 424,
+            "positive": 0.2004,
+            "negative": 0.1955,
+            "neutral": 0.6041,
+            "weighted_score": 0.0049,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Battery",
+            "paradigm": "transformer",
+            "n_mentions": 394,
+            "positive": 0.2418,
+            "negative": 0.2005,
+            "neutral": 0.5576,
+            "weighted_score": 0.0413,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Performance",
+            "paradigm": "transformer",
+            "n_mentions": 416,
+            "positive": 0.4053,
+            "negative": 0.2667,
+            "neutral": 0.328,
+            "weighted_score": 0.1386,
+            "dominant": "positive",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Thermals",
+            "paradigm": "transformer",
+            "n_mentions": 408,
+            "positive": 0.2468,
+            "negative": 0.2204,
+            "neutral": 0.5328,
+            "weighted_score": 0.0263,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          }
+        ]
+      }
+    ]
+  },
+  "llm": {
+    "product": "vivo x300 pro",
+    "paradigm": "llm",
+    "n_mentions": 114,
+    "positive": 0.4703,
+    "negative": 0.1322,
+    "neutral": 0.3975,
+    "weighted_score": 0.3381,
+    "dominant": "positive",
+    "weighting": "weighted",
+    "categories": [
+      {
+        "category": "Hardware",
+        "paradigm": "llm",
+        "n_mentions": 114,
+        "positive": 0.4703,
+        "negative": 0.1322,
+        "neutral": 0.3975,
+        "weighted_score": 0.3381,
+        "dominant": "positive",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Thermals",
+            "paradigm": "llm",
+            "n_mentions": 1,
+            "positive": 0.0,
+            "negative": 0.0,
+            "neutral": 1.0,
+            "weighted_score": 0.0,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Camera",
+            "paradigm": "llm",
+            "n_mentions": 83,
+            "positive": 0.555,
+            "negative": 0.0971,
+            "neutral": 0.348,
+            "weighted_score": 0.4579,
+            "dominant": "positive",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Battery",
+            "paradigm": "llm",
+            "n_mentions": 17,
+            "positive": 0.1865,
+            "negative": 0.0871,
+            "neutral": 0.7264,
+            "weighted_score": 0.0995,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Performance",
+            "paradigm": "llm",
+            "n_mentions": 13,
+            "positive": 0.3804,
+            "negative": 0.4499,
+            "neutral": 0.1697,
+            "weighted_score": -0.0695,
+            "dominant": "negative",
+            "weighting": "weighted"
+          }
+        ]
+      }
+    ]
+  },
+  "lexicon": {
+    "product": "vivo x300 pro",
+    "paradigm": "lexicon",
+    "n_mentions": 1689,
+    "positive": 0.4781,
+    "negative": 0.1238,
+    "neutral": 0.3982,
+    "weighted_score": 0.3543,
+    "dominant": "positive",
+    "weighting": "weighted",
+    "categories": [
+      {
+        "category": "Hardware",
+        "paradigm": "lexicon",
+        "n_mentions": 1689,
+        "positive": 0.4781,
+        "negative": 0.1238,
+        "neutral": 0.3982,
+        "weighted_score": 0.3543,
+        "dominant": "positive",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Camera",
+            "paradigm": "lexicon",
+            "n_mentions": 1151,
+            "positive": 0.5015,
+            "negative": 0.1368,
+            "neutral": 0.3617,
+            "weighted_score": 0.3647,
+            "dominant": "positive",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Battery",
+            "paradigm": "lexicon",
+            "n_mentions": 381,
+            "positive": 0.427,
+            "negative": 0.1072,
+            "neutral": 0.4658,
+            "weighted_score": 0.3198,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Thermals",
+            "paradigm": "lexicon",
+            "n_mentions": 83,
+            "positive": 0.3245,
+            "negative": 0.1368,
+            "neutral": 0.5387,
+            "weighted_score": 0.1877,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Performance",
+            "paradigm": "lexicon",
+            "n_mentions": 74,
+            "positive": 0.6155,
+            "negative": 0.0268,
+            "neutral": 0.3577,
+            "weighted_score": 0.5887,
+            "dominant": "positive",
+            "weighting": "weighted"
+          }
+        ]
+      }
+    ]
+  }
+}

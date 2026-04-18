@@ -1,0 +1,128 @@
+{
+  "product": "vivo x300 pro",
+  "coherence": {
+    "bertopic_cv": 0.5411,
+    "lda_cv": 0.4712,
+    "delta": 0.0699,
+    "n_topics_bertopic": 19,
+    "n_topics_lda": 19
+  },
+  "agreements": [
+    {
+      "paradigm_a": "transformer",
+      "paradigm_b": "llm",
+      "n_sentences": 24,
+      "cohen_kappa": 0.2479,
+      "jsd_mean": 0.3544,
+      "interpretation": "fair"
+    },
+    {
+      "paradigm_a": "transformer",
+      "paradigm_b": "lexicon",
+      "n_sentences": 500,
+      "cohen_kappa": 0.0987,
+      "jsd_mean": 0.4688,
+      "interpretation": "slight"
+    },
+    {
+      "paradigm_a": "llm",
+      "paradigm_b": "lexicon",
+      "n_sentences": 300,
+      "cohen_kappa": 0.2101,
+      "jsd_mean": 0.4,
+      "interpretation": "fair"
+    }
+  ],
+  "entropy_dominance": [
+    {
+      "aspect": "Performance",
+      "paradigm": "lexicon",
+      "entropy": 1.1014,
+      "dominance": 0.5887,
+      "n_mentions": 74
+    },
+    {
+      "aspect": "Camera",
+      "paradigm": "llm",
+      "entropy": 1.3281,
+      "dominance": 0.4579,
+      "n_mentions": 83
+    },
+    {
+      "aspect": "Camera",
+      "paradigm": "lexicon",
+      "entropy": 1.4226,
+      "dominance": 0.3647,
+      "n_mentions": 1151
+    },
+    {
+      "aspect": "Battery",
+      "paradigm": "lexicon",
+      "entropy": 1.383,
+      "dominance": 0.3198,
+      "n_mentions": 381
+    },
+    {
+      "aspect": "Thermals",
+      "paradigm": "lexicon",
+      "entropy": 1.4003,
+      "dominance": 0.1877,
+      "n_mentions": 83
+    },
+    {
+      "aspect": "Performance",
+      "paradigm": "transformer",
+      "entropy": 1.5641,
+      "dominance": 0.1386,
+      "n_mentions": 416
+    },
+    {
+      "aspect": "Battery",
+      "paradigm": "llm",
+      "entropy": 1.0935,
+      "dominance": 0.0994,
+      "n_mentions": 17
+    },
+    {
+      "aspect": "Performance",
+      "paradigm": "llm",
+      "entropy": 1.4831,
+      "dominance": 0.0695,
+      "n_mentions": 13
+    },
+    {
+      "aspect": "Battery",
+      "paradigm": "transformer",
+      "entropy": 1.4299,
+      "dominance": 0.0413,
+      "n_mentions": 394
+    },
+    {
+      "aspect": "Thermals",
+      "paradigm": "transformer",
+      "entropy": 1.463,
+      "dominance": 0.0264,
+      "n_mentions": 408
+    },
+    {
+      "aspect": "Camera",
+      "paradigm": "transformer",
+      "entropy": 1.3644,
+      "dominance": 0.0049,
+      "n_mentions": 424
+    },
+    {
+      "aspect": "Thermals",
+      "paradigm": "llm",
+      "entropy": -0.0,
+      "dominance": 0.0,
+      "n_mentions": 1
+    }
+  ],
+  "weighting_impact": {
+    "pearson_r": 0.9809,
+    "mean_abs_delta": 0.0453,
+    "max_delta_aspect": "llm/Camera",
+    "max_delta_value": 0.1294
+  }
+}

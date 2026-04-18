@@ -1,0 +1,668 @@
+{
+  "nodes": [
+    {
+      "id": "vivo x300 pro",
+      "type": "product",
+      "label": "vivo x300 pro",
+      "topic_ids": [],
+      "doc_count": 6260,
+      "top_words": []
+    },
+    {
+      "id": "Hardware",
+      "type": "category",
+      "label": "Hardware",
+      "topic_ids": [],
+      "doc_count": 4756,
+      "top_words": []
+    },
+    {
+      "id": "Camera",
+      "type": "aspect",
+      "label": "Camera",
+      "topic_ids": [
+        1,
+        3,
+        5,
+        18
+      ],
+      "doc_count": 2262,
+      "top_words": [
+        "camera",
+        "cameras",
+        "camera app",
+        "photography",
+        "photos",
+        "shutter",
+        "lens",
+        "pictures",
+        "smartphones",
+        "megapixels"
+      ]
+    },
+    {
+      "id": "Battery",
+      "type": "aspect",
+      "label": "Battery",
+      "topic_ids": [
+        8
+      ],
+      "doc_count": 238,
+      "top_words": [
+        "battery life",
+        "battery",
+        "battery health",
+        "battery lasts",
+        "battery size",
+        "version battery",
+        "battery capacity",
+        "batteries",
+        "6500mah",
+        "battery saver"
+      ]
+    },
+    {
+      "id": "Performance",
+      "type": "aspect",
+      "label": "Performance",
+      "topic_ids": [
+        0,
+        2
+      ],
+      "doc_count": 2178,
+      "top_words": [
+        "iphone 17",
+        "iphone",
+        "better vivo",
+        "vivo better",
+        "phones",
+        "xiaomi 17",
+        "17 pro",
+        "ios",
+        "mobile",
+        "phone"
+      ]
+    },
+    {
+      "id": "Thermals",
+      "type": "aspect",
+      "label": "Thermals",
+      "topic_ids": [
+        11
+      ],
+      "doc_count": 78,
+      "top_words": [
+        "heating",
+        "warm",
+        "gets hot",
+        "temps",
+        "doesn heat",
+        "thermal",
+        "heats",
+        "temperature",
+        "heat",
+        "heating issues"
+      ]
+    },
+    {
+      "id": "Software",
+      "type": "category",
+      "label": "Software",
+      "topic_ids": [],
+      "doc_count": 0,
+      "top_words": []
+    },
+    {
+      "id": "Value",
+      "type": "category",
+      "label": "Value",
+      "topic_ids": [],
+      "doc_count": 0,
+      "top_words": []
+    },
+    {
+      "id": "topic_0",
+      "type": "topic",
+      "label": "iphone 17_iphone_better vivo",
+      "topic_ids": [
+        0
+      ],
+      "doc_count": 1312,
+      "top_words": [
+        "iphone 17",
+        "iphone",
+        "better vivo",
+        "vivo better",
+        "phones",
+        "xiaomi 17",
+        "17 pro",
+        "ios",
+        "mobile",
+        "phone"
+      ]
+    },
+    {
+      "id": "topic_1",
+      "type": "topic",
+      "label": "camera_cameras_camera app",
+      "topic_ids": [
+        1
+      ],
+      "doc_count": 1222,
+      "top_words": [
+        "camera",
+        "cameras",
+        "camera app",
+        "photography",
+        "photos",
+        "shutter",
+        "lens",
+        "pictures",
+        "smartphones",
+        "megapixels"
+      ]
+    },
+    {
+      "id": "topic_2",
+      "type": "topic",
+      "label": "x300 pro_pro x300_better x300",
+      "topic_ids": [
+        2
+      ],
+      "doc_count": 866,
+      "top_words": [
+        "x300 pro",
+        "pro x300",
+        "better x300",
+        "x300 better",
+        "x300",
+        "x300 ultra",
+        "ultra x300",
+        "x100 pro",
+        "x200 pro",
+        "x9 pro"
+      ]
+    },
+    {
+      "id": "topic_3",
+      "type": "topic",
+      "label": "oppo x9_oppo x8_x9 pro",
+      "topic_ids": [
+        3
+      ],
+      "doc_count": 677,
+      "top_words": [
+        "oppo x9",
+        "oppo x8",
+        "x9 pro",
+        "vivo oppo",
+        "oppo vivo",
+        "oppo camera",
+        "pro oppo",
+        "oppo",
+        "mode oppo",
+        "vs oppo"
+      ]
+    },
+    {
+      "id": "topic_5",
+      "type": "topic",
+      "label": "photo mode_modes_mode",
+      "topic_ids": [
+        5
+      ],
+      "doc_count": 348,
+      "top_words": [
+        "photo mode",
+        "modes",
+        "mode",
+        "mode just",
+        "portrait mode",
+        "master mode",
+        "pro mode",
+        "settings",
+        "setting",
+        "default"
+      ]
+    },
+    {
+      "id": "topic_8",
+      "type": "topic",
+      "label": "battery life_battery_battery health",
+      "topic_ids": [
+        8
+      ],
+      "doc_count": 238,
+      "top_words": [
+        "battery life",
+        "battery",
+        "battery health",
+        "battery lasts",
+        "battery size",
+        "version battery",
+        "battery capacity",
+        "batteries",
+        "6500mah",
+        "battery saver"
+      ]
+    },
+    {
+      "id": "topic_11",
+      "type": "topic",
+      "label": "heating_warm_gets hot",
+      "topic_ids": [
+        11
+      ],
+      "doc_count": 78,
+      "top_words": [
+        "heating",
+        "warm",
+        "gets hot",
+        "temps",
+        "doesn heat",
+        "thermal",
+        "heats",
+        "temperature",
+        "heat",
+        "heating issues"
+      ]
+    },
+    {
+      "id": "topic_18",
+      "type": "topic",
+      "label": "bokeh effect_bokeh_creamy bokeh",
+      "topic_ids": [
+        18
+      ],
+      "doc_count": 15,
+      "top_words": [
+        "bokeh effect",
+        "bokeh",
+        "creamy bokeh",
+        "lense",
+        "lens",
+        "bloat",
+        "blur",
+        "background blur",
+        "lenses",
+        "natural"
+      ]
+    },
+    {
+      "id": "Other",
+      "type": "category",
+      "label": "Other",
+      "topic_ids": [],
+      "doc_count": 1504,
+      "top_words": []
+    },
+    {
+      "id": "topic_4",
+      "type": "topic",
+      "label": "personal preference_preference_priorities",
+      "topic_ids": [
+        4
+      ],
+      "doc_count": 425,
+      "top_words": [
+        "personal preference",
+        "preference",
+        "priorities",
+        "important",
+        "agree",
+        "personal",
+        "decision",
+        "true",
+        "choice",
+        "difference"
+      ]
+    },
+    {
+      "id": "topic_6",
+      "type": "topic",
+      "label": "chinese versions_chinese version_global chinese",
+      "topic_ids": [
+        6
+      ],
+      "doc_count": 301,
+      "top_words": [
+        "chinese versions",
+        "chinese version",
+        "global chinese",
+        "global version",
+        "eu version",
+        "global",
+        "chinese rom",
+        "global rom",
+        "globally",
+        "chinese phone"
+      ]
+    },
+    {
+      "id": "topic_7",
+      "type": "topic",
+      "label": "enjoy_thanks_thank",
+      "topic_ids": [
+        7
+      ],
+      "doc_count": 293,
+      "top_words": [
+        "enjoy",
+        "thanks",
+        "thank",
+        "thank sharing",
+        "thanks sharing",
+        "appreciate",
+        "try thanks",
+        "amazing",
+        "happy",
+        "message"
+      ]
+    },
+    {
+      "id": "topic_9",
+      "type": "topic",
+      "label": "es_una_por",
+      "topic_ids": [
+        9
+      ],
+      "doc_count": 180,
+      "top_words": [
+        "es",
+        "una",
+        "por",
+        "se non",
+        "pero",
+        "que",
+        "ma non",
+        "lato",
+        "sono",
+        "si"
+      ]
+    },
+    {
+      "id": "topic_10",
+      "type": "topic",
+      "label": "haptics best_best haptics_haptics",
+      "topic_ids": [
+        10
+      ],
+      "doc_count": 127,
+      "top_words": [
+        "haptics best",
+        "best haptics",
+        "haptics",
+        "haptic",
+        "speakers haptics",
+        "haptic feedback",
+        "vibrate",
+        "vibrations",
+        "hinge",
+        "vibration"
+      ]
+    },
+    {
+      "id": "topic_12",
+      "type": "topic",
+      "label": "spatial audio_audio_dolby",
+      "topic_ids": [
+        12
+      ],
+      "doc_count": 51,
+      "top_words": [
+        "spatial audio",
+        "audio",
+        "dolby",
+        "sound quality",
+        "speakers",
+        "speakers average",
+        "speakers say",
+        "speakers oppo",
+        "music",
+        "sound"
+      ]
+    },
+    {
+      "id": "topic_13",
+      "type": "topic",
+      "label": "teleconverter kit_teleconverter_tele extender",
+      "topic_ids": [
+        13
+      ],
+      "doc_count": 31,
+      "top_words": [
+        "teleconverter kit",
+        "teleconverter",
+        "tele extender",
+        "tele",
+        "converter",
+        "vivo x200",
+        "recording vivo",
+        "did x300",
+        "x300 got",
+        "x300"
+      ]
+    },
+    {
+      "id": "topic_14",
+      "type": "topic",
+      "label": "youtube channel_youtube_youtube videos",
+      "topic_ids": [
+        14
+      ],
+      "doc_count": 30,
+      "top_words": [
+        "youtube channel",
+        "youtube",
+        "youtube videos",
+        "youtube reviews",
+        "youtube comparisons",
+        "video",
+        "youtuber",
+        "videos",
+        "watch youtube",
+        "youtubers"
+      ]
+    },
+    {
+      "id": "topic_15",
+      "type": "topic",
+      "label": "posts comments_comments_deleting",
+      "topic_ids": [
+        15
+      ],
+      "doc_count": 30,
+      "top_words": [
+        "posts comments",
+        "comments",
+        "deleting",
+        "commenting",
+        "comment",
+        "removed",
+        "commenter",
+        "delete",
+        "remove",
+        "posts"
+      ]
+    },
+    {
+      "id": "topic_16",
+      "type": "topic",
+      "label": "tests_test_testing",
+      "topic_ids": [
+        16
+      ],
+      "doc_count": 18,
+      "top_words": [
+        "tests",
+        "test",
+        "testing",
+        "results",
+        "compare",
+        "comparison",
+        "identical",
+        "success rate",
+        "difference",
+        "outcome"
+      ]
+    },
+    {
+      "id": "topic_17",
+      "type": "topic",
+      "label": "impossible_possible_sadly",
+      "topic_ids": [
+        17
+      ],
+      "doc_count": 18,
+      "top_words": [
+        "impossible",
+        "possible",
+        "sadly",
+        "nope",
+        "wondering",
+        "option",
+        "easy",
+        "looks like",
+        "searched",
+        "don think"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "vivo x300 pro",
+      "target": "Hardware",
+      "weight": 4756
+    },
+    {
+      "source": "vivo x300 pro",
+      "target": "Software",
+      "weight": 0
+    },
+    {
+      "source": "vivo x300 pro",
+      "target": "Value",
+      "weight": 0
+    },
+    {
+      "source": "vivo x300 pro",
+      "target": "Other",
+      "weight": 1504
+    },
+    {
+      "source": "Hardware",
+      "target": "Camera",
+      "weight": 2262
+    },
+    {
+      "source": "Hardware",
+      "target": "Battery",
+      "weight": 238
+    },
+    {
+      "source": "Hardware",
+      "target": "Performance",
+      "weight": 2178
+    },
+    {
+      "source": "Hardware",
+      "target": "Thermals",
+      "weight": 78
+    },
+    {
+      "source": "Camera",
+      "target": "topic_1",
+      "weight": 1222
+    },
+    {
+      "source": "Camera",
+      "target": "topic_3",
+      "weight": 677
+    },
+    {
+      "source": "Camera",
+      "target": "topic_5",
+      "weight": 348
+    },
+    {
+      "source": "Camera",
+      "target": "topic_18",
+      "weight": 15
+    },
+    {
+      "source": "Battery",
+      "target": "topic_8",
+      "weight": 238
+    },
+    {
+      "source": "Performance",
+      "target": "topic_0",
+      "weight": 1312
+    },
+    {
+      "source": "Performance",
+      "target": "topic_2",
+      "weight": 866
+    },
+    {
+      "source": "Thermals",
+      "target": "topic_11",
+      "weight": 78
+    },
+    {
+      "source": "Other",
+      "target": "topic_4",
+      "weight": 425
+    },
+    {
+      "source": "Other",
+      "target": "topic_6",
+      "weight": 301
+    },
+    {
+      "source": "Other",
+      "target": "topic_7",
+      "weight": 293
+    },
+    {
+      "source": "Other",
+      "target": "topic_9",
+      "weight": 180
+    },
+    {
+      "source": "Other",
+      "target": "topic_10",
+      "weight": 127
+    },
+    {
+      "source": "Other",
+      "target": "topic_12",
+      "weight": 51
+    },
+    {
+      "source": "Other",
+      "target": "topic_13",
+      "weight": 31
+    },
+    {
+      "source": "Other",
+      "target": "topic_14",
+      "weight": 30
+    },
+    {
+      "source": "Other",
+      "target": "topic_15",
+      "weight": 30
+    },
+    {
+      "source": "Other",
+      "target": "topic_16",
+      "weight": 18
+    },
+    {
+      "source": "Other",
+      "target": "topic_17",
+      "weight": 18
+    }
+  ]
+}

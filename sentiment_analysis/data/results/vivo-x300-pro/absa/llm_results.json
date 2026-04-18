@@ -1,0 +1,4368 @@
+[
+  {
+    "sentence": "I do have the case on, so I don't know if it's insulating it",
+    "post_id": "1servp9",
+    "comment_id": "of3g6ex",
+    "subreddit": "vivo",
+    "post_score": 112,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Thermals",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "insulating it"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "This clean atmospheric, almost filmlike editing style really resonates with me as well.",
+    "post_id": "1qjr8vx",
+    "comment_id": "o127dkt",
+    "subreddit": "vivo",
+    "post_score": 103,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "clean atmospheric",
+          "almost filmlike editing style",
+          "resonates"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The Vivo is my favorite camera phone out of those.",
+    "post_id": "1qjr8vx",
+    "comment_id": "o137pyn",
+    "subreddit": "vivo",
+    "post_score": 103,
+    "comment_score": 9,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 1.0,
+        "opinion_words": [
+          "favorite camera phone"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I appreciate you sharing your perspective.",
+    "post_id": "1qjr8vx",
+    "comment_id": "o1m2hsh",
+    "subreddit": "vivo",
+    "post_score": 103,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "There are some photographs I have shared in the recent past and they have the closest to its natural processing.",
+    "post_id": "1qjr8vx",
+    "comment_id": "o1m2hsh",
+    "subreddit": "vivo",
+    "post_score": 103,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "closest to its natural processing"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "So I don't understand how people post such beautiful pictures then in the store the results were so bad.",
+    "post_id": "1q4h9jz",
+    "comment_id": "nxuz001",
+    "subreddit": "vivo",
+    "post_score": 513,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "results were so bad"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I wanted the x300u, but settled on the s25u (because it was far easier to get a Samsung with the black friday deals).",
+    "post_id": "1q4h9jz",
+    "comment_id": "nxud66q",
+    "subreddit": "vivo",
+    "post_score": 513,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I see the colours are boosted after the image is taken.",
+    "post_id": "1q4h9jz",
+    "comment_id": "nxshy6i",
+    "subreddit": "vivo",
+    "post_score": 513,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "colours are boosted"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The only thing that makes their claims valid is that the photo should have been captured using their device.",
+    "post_id": "1q4h9jz",
+    "comment_id": "nxzngy0",
+    "subreddit": "vivo",
+    "post_score": 513,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "opinion_words": [
+          "photo should have been captured"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "x300 with a savings of almost 30k ?",
+    "post_id": "1q4h9jz",
+    "comment_id": "nxtutgz",
+    "subreddit": "vivo",
+    "post_score": 513,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Ok, that's doesn't sound too bad at all, Just the slow usb-OTG is a NO-GO!",
+    "post_id": "1pnscc8",
+    "comment_id": "nubvqo5",
+    "subreddit": "vivo",
+    "post_score": 33,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "i just do hold",
+    "post_id": "1pnscc8",
+    "comment_id": "nua905y",
+    "subreddit": "vivo",
+    "post_score": 33,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Also, I love editing my pictures after taking them.",
+    "post_id": "1q0z43n",
+    "comment_id": "nxyxj8t",
+    "subreddit": "vivo",
+    "post_score": 72,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Das kann kein Gerät, denn irgendjemand wird immer mit einer Funktion unzufrieden sein und die dann als (sein persönliches)",
+    "post_id": "1q0z43n",
+    "comment_id": "nx5z2z4",
+    "subreddit": "vivo",
+    "post_score": 72,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Perhaps because it's the official device and everything about it is well optimised when it comes to the way android software behaves with its apps and stuff.",
+    "post_id": "1q0z43n",
+    "comment_id": "nx202f3",
+    "subreddit": "vivo",
+    "post_score": 72,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "ama birden fazla dslr makinası olan resimlerle haşır neşir biri olarak şunu söyleyebilirim iphone kendini çok geliştirmesi lazım ama unutulmaması gereken bir konuda cep telefonu bir dslr makina değildir ve ihtiyaca göre çekim tarzınıza göre çoğu şey değişir çünkü hepsinin birbirinden üstün yanları var en iyi cep telefonu çekimi elinizdeki telefonla nasıl bir etkileşim içinde olduğunuza göre değişir bence kısacası arz talep meselesi saygılarımla esen kalın",
+    "post_id": "1q0z43n",
+    "comment_id": "oax97dw",
+    "subreddit": "vivo",
+    "post_score": 72,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "To fix this just use humanistic mode , you can access it just by swiping up from the bottom centre of the camera app .",
+    "post_id": "1q0z43n",
+    "comment_id": "nx2422n",
+    "subreddit": "vivo",
+    "post_score": 72,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I am so happy that I went outside the umbrella of Samsung and Apple, as I used to be previously.",
+    "post_id": "1q0z43n",
+    "comment_id": "nx27eqe",
+    "subreddit": "vivo",
+    "post_score": 72,
+    "comment_score": 10,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Hi everyone, I’ve been using the X300 Pro and overall I’m quite satisfied, but there are a few inconveniences I’ve noticed.",
+    "post_id": "1rvt0vc",
+    "comment_id": null,
+    "subreddit": "vivo",
+    "post_score": 138,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I’m using AOD, but it feels too bright.",
+    "post_id": "1rvt0vc",
+    "comment_id": null,
+    "subreddit": "vivo",
+    "post_score": 138,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The 2th , I even forgot this phone doesn't have this feature.",
+    "post_id": "1rvt0vc",
+    "comment_id": "ob3k0ej",
+    "subreddit": "vivo",
+    "post_score": 138,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "With third party ones 20W max - i only recognized after a while how heavy it is compared to OnePlus 13 - swipe and transition animations are not existing.",
+    "post_id": "1rvt0vc",
+    "comment_id": "oaw6ifz",
+    "subreddit": "vivo",
+    "post_score": 138,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "20W max"
+        ]
+      },
+      {
+        "aspect": "Performance",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "swipe and transition animations are not existing"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Mine has no over brightness issue.",
+    "post_id": "1rvt0vc",
+    "comment_id": "oawodpg",
+    "subreddit": "vivo",
+    "post_score": 138,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Volume button behaviour is pretty normal.",
+    "post_id": "1rvt0vc",
+    "comment_id": "oawodpg",
+    "subreddit": "vivo",
+    "post_score": 138,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Or you can set haptics to soft and vibration intensity to lowest for more refined experience.",
+    "post_id": "1rvt0vc",
+    "comment_id": "oawodpg",
+    "subreddit": "vivo",
+    "post_score": 138,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Also problem 5 is so true Note: Some people may say this is nitpicking, but I think this is just reviewing the parts of software that reviewer's don't usually cover.",
+    "post_id": "1rvt0vc",
+    "comment_id": "oaxocxb",
+    "subreddit": "vivo",
+    "post_score": 138,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "i have personally experience the photography with the vivo x300",
+    "post_id": "1r56gbu",
+    "comment_id": "ofiudfr",
+    "subreddit": "vivo",
+    "post_score": 13,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "photography"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Is Camera good enough for the money were putting in it?",
+    "post_id": "1r56gbu",
+    "comment_id": "ocwytxp",
+    "subreddit": "vivo",
+    "post_score": 13,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.85,
+        "opinion_words": [
+          "good enough for the money"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It was really uncomfortable to hold and even caused finger strain.",
+    "post_id": "1r56gbu",
+    "comment_id": "o5hteah",
+    "subreddit": "vivo",
+    "post_score": 13,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I don't understand why phone manufacturers mimic apple.",
+    "post_id": "1r56gbu",
+    "comment_id": "o5h2dei",
+    "subreddit": "vivo",
+    "post_score": 13,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I stopped checking SOT because apps aren't being kept in background.",
+    "post_id": "1r56gbu",
+    "comment_id": "o5h1f32",
+    "subreddit": "vivo",
+    "post_score": 13,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "stopped checking SOT"
+        ]
+      },
+      {
+        "aspect": "Performance",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "apps aren't being kept in background"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Thank you for taking time to share your thoughts!",
+    "post_id": "1r56gbu",
+    "comment_id": "o5mdh4t",
+    "subreddit": "vivo",
+    "post_score": 13,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "i'm planning to buy but not having either is a dealbreaker",
+    "post_id": "1r56gbu",
+    "comment_id": "o8s2oql",
+    "subreddit": "vivo",
+    "post_score": 13,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "OnePlus pictures were surprisingly good but their video was average.",
+    "post_id": "1ql9us6",
+    "comment_id": null,
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "surprisingly good",
+          "average"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Samsung display with their anti reflective is fantastic as well.",
+    "post_id": "1ql9us6",
+    "comment_id": null,
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'll have to do more testing",
+    "post_id": "1ql9us6",
+    "comment_id": "o1iwxug",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm pretty sure all of these cameras have AI enhancement on them, but when the option is disabled, does it still process the image taken in the gallery?",
+    "post_id": "1ql9us6",
+    "comment_id": "o1hlyoq",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "AI enhancement",
+          "process the image"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But it's good to see others with phones that do have the support are noticing.",
+    "post_id": "1ql9us6",
+    "comment_id": "o84sviz",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "No CA on the OPPO in the USA.",
+    "post_id": "1ql9us6",
+    "comment_id": "o84t34h",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Snappy smooth = OnePlus with Vivo and OPPO at a tie for second Least bloatware = OnePlus",
+    "post_id": "1ql9us6",
+    "comment_id": "o1fmmn0",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "Snappy smooth",
+          "Least bloatware"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Since the Vivo X300 doesn't have Band 71 and im assuming you live in the US",
+    "post_id": "1ql9us6",
+    "comment_id": "o1dpt81",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I am a business user and have 8000 contacts.",
+    "post_id": "1ql9us6",
+    "comment_id": "o1d65yw",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Pro is there a option or does the call screen also display the Company name of the caller?",
+    "post_id": "1ql9us6",
+    "comment_id": "o1d65yw",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "but I have had 0 issues on the Vivo.",
+    "post_id": "1ql9us6",
+    "comment_id": "o1d6c01",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "positive",
+        "confidence": 0.85,
+        "opinion_words": [
+          "0 issues"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "This type of innovation is what I've been looking for.",
+    "post_id": "1ql9us6",
+    "comment_id": "o1d3ntx",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The oppo camera smokes the Samsung.",
+    "post_id": "1ql9us6",
+    "comment_id": "o1fljp0",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.98,
+        "opinion_words": [
+          "smokes"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Combined 5G / LTE to have higher speeds.",
+    "post_id": "1ql9us6",
+    "comment_id": "o1gkaih",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "higher speeds"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "!Remind me 2 months",
+    "post_id": "1ql9us6",
+    "comment_id": "ob5gmin",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I wish / hope OnePlus would come out with a camera system similar to Vivo / OPPO",
+    "post_id": "1ql9us6",
+    "comment_id": "o1csq07",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 16,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.85,
+        "opinion_words": [
+          "wish / hope ... similar to"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If I can do it myself, I will.",
+    "post_id": "1ql9us6",
+    "comment_id": "o1csq07",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 16,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Pictures is going to depend on what you like.",
+    "post_id": "1ql9us6",
+    "comment_id": "o1cvbsm",
+    "subreddit": "vivo",
+    "post_score": 246,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Congratulations dude waiting for your review..",
+    "post_id": "1o8uwhl",
+    "comment_id": "nluugfn",
+    "subreddit": "vivo",
+    "post_score": 438,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "no one unless the notice reflection....",
+    "post_id": "1o8uwhl",
+    "comment_id": "nkk9iyf",
+    "subreddit": "vivo",
+    "post_score": 438,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "How’s the battery life and how are the speakers, by the way?",
+    "post_id": "1o8uwhl",
+    "comment_id": "nk8g4wn",
+    "subreddit": "vivo",
+    "post_score": 438,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "By here, I meant, Canada.",
+    "post_id": "1o8uwhl",
+    "comment_id": "nk5421d",
+    "subreddit": "vivo",
+    "post_score": 438,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "shot on iphone air",
+    "post_id": "1o8uwhl",
+    "comment_id": "nk4wlmg",
+    "subreddit": "vivo",
+    "post_score": 438,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Pretty sick honestly just got a few shots portrait selfie video is nice and shots look crisp 100x zoom looks good readable",
+    "post_id": "1o8uwhl",
+    "comment_id": "njzry9y",
+    "subreddit": "vivo",
+    "post_score": 438,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "[^(delete this message to hide from others.)]( [^(Info)]( Reminders)]( - - - -",
+    "post_id": "1o8uwhl",
+    "comment_id": "njxyuha",
+    "subreddit": "vivo",
+    "post_score": 438,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "So same as OriginOs5, nothing changed yet like I thought",
+    "post_id": "1o8uwhl",
+    "comment_id": "nk1hqdd",
+    "subreddit": "vivo",
+    "post_score": 438,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Anyway I am more interested in their AI supporting english and other languages, since I don't think Gemini will be integrated like BlueLM.",
+    "post_id": "1o8uwhl",
+    "comment_id": "njy1pvu",
+    "subreddit": "vivo",
+    "post_score": 438,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Ah, didn't know that.",
+    "post_id": "1omckc5",
+    "comment_id": "nmu8kvc",
+    "subreddit": "vivo",
+    "post_score": 63,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Although the oppo is better for portrait photography due to better skin tones by default.",
+    "post_id": "1omckc5",
+    "comment_id": "nmpyotj",
+    "subreddit": "vivo",
+    "post_score": 63,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Which actions you can assign to the extra button on x300p?",
+    "post_id": "1omckc5",
+    "comment_id": "nmoezhl",
+    "subreddit": "vivo",
+    "post_score": 63,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I’ve received your feedback and have already forwarded it to the imaging cognition team at our headquarters in China for further action.",
+    "post_id": "1omckc5",
+    "comment_id": "nmox55z",
+    "subreddit": "vivo",
+    "post_score": 63,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "This is the oppo",
+    "post_id": "1omckc5",
+    "comment_id": "nmp4bf5",
+    "subreddit": "vivo",
+    "post_score": 63,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Now I am planning on buying the Oppo.",
+    "post_id": "1omckc5",
+    "comment_id": "nmoekb5",
+    "subreddit": "vivo",
+    "post_score": 63,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yes, imo better, much better than the one on the oppo",
+    "post_id": "1omckc5",
+    "comment_id": "nmoww4o",
+    "subreddit": "vivo",
+    "post_score": 63,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Samsung has 5000 mah and it has better battery life than Vivo with 5400 mah.",
+    "post_id": "1omckc5",
+    "comment_id": "nmov2sb",
+    "subreddit": "vivo",
+    "post_score": 63,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "More often than not, it might be the reason for blurry photos.",
+    "post_id": "1qkvlnm",
+    "comment_id": "o1fpv11",
+    "subreddit": "vivo",
+    "post_score": 140,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "hows the hinge cocer for the cam module?",
+    "post_id": "1qkvlnm",
+    "comment_id": "o1kqkeu",
+    "subreddit": "vivo",
+    "post_score": 140,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "if someone could help",
+    "post_id": "1qkvlnm",
+    "comment_id": "o7klo0i",
+    "subreddit": "vivo",
+    "post_score": 140,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Vivo x200 pro vs Vivo x300?",
+    "post_id": "1qkvlnm",
+    "comment_id": "o1b8r11",
+    "subreddit": "vivo",
+    "post_score": 140,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The Indian and Chinese versions both come with the same 6040 mAh battery , it’s only the European models that get a smaller 5360 mAh battery due to regional differences in regulations and release specs.",
+    "post_id": "1qkvlnm",
+    "comment_id": "o1agyhp",
+    "subreddit": "vivo",
+    "post_score": 140,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.95,
+        "opinion_words": [
+          "6040 mAh battery",
+          "smaller 5360 mAh battery"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Congrats on buying it!",
+    "post_id": "1qkvlnm",
+    "comment_id": "o1aaexc",
+    "subreddit": "vivo",
+    "post_score": 140,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "2. I have seen multiple foreigners review and everyone has said the same thing that X9 has social media ready photos ( which works for most people ) while vivo has better macro shots.",
+    "post_id": "1qkvlnm",
+    "comment_id": "o1a7i1x",
+    "subreddit": "vivo",
+    "post_score": 140,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.98,
+        "opinion_words": [
+          "social media ready photos",
+          "better macro shots"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "1 - sure, but this is one of the few small phones on the market.",
+    "post_id": "1qkvlnm",
+    "comment_id": "o1lkkuy",
+    "subreddit": "vivo",
+    "post_score": 140,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Those words were removed in bulk with [Redact]( because I value my privacy more than my karma points.",
+    "post_id": "1qkvlnm",
+    "comment_id": "o1ac9ug",
+    "subreddit": "vivo",
+    "post_score": 140,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Internet privacy is the new gold.",
+    "post_id": "1qkvlnm",
+    "comment_id": "o1ledei",
+    "subreddit": "vivo",
+    "post_score": 140,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Hope this address your concern regarding comments being removed.",
+    "post_id": "1qkvlnm",
+    "comment_id": "o1ct2wk",
+    "subreddit": "vivo",
+    "post_score": 140,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "looks like at a Nillkin",
+    "post_id": "1qkvlnm",
+    "comment_id": "o19nq6c",
+    "subreddit": "vivo",
+    "post_score": 140,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "X9 Ultra is now a no brainer.",
+    "post_id": "1s7sce5",
+    "comment_id": "odc11wx",
+    "subreddit": "vivo",
+    "post_score": 75,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I would rather have a 1in 50mp sensor than 200mp 1/1.12.",
+    "post_id": "1s7sce5",
+    "comment_id": "odborew",
+    "subreddit": "vivo",
+    "post_score": 75,
+    "comment_score": 15,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "rather have"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Recently, most of my telephoto shots are not sharp at all.",
+    "post_id": "1s7sce5",
+    "comment_id": "odd98mo",
+    "subreddit": "vivo",
+    "post_score": 75,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 0.98,
+        "opinion_words": [
+          "not sharp at all"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Manual focus is challenging, and Pro mode usually gives even worse results.",
+    "post_id": "1s7sce5",
+    "comment_id": "odd98mo",
+    "subreddit": "vivo",
+    "post_score": 75,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "challenging",
+          "worse results"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The only thing I agree with is that sometimes the camera opens at vertical",
+    "post_id": "1s7sce5",
+    "comment_id": "odddyl5",
+    "subreddit": "vivo",
+    "post_score": 75,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "opens at vertical"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But agree on the ultrawide.",
+    "post_id": "1s7sce5",
+    "comment_id": "odcgg80",
+    "subreddit": "vivo",
+    "post_score": 75,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "opinion_words": [
+          "agree"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "So basically what I was saying - a costly sidegrade.",
+    "post_id": "1s7sce5",
+    "comment_id": "odd8fpi",
+    "subreddit": "vivo",
+    "post_score": 75,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I love wide angle selfies of the x300.",
+    "post_id": "1s7sce5",
+    "comment_id": "odbmdbm",
+    "subreddit": "vivo",
+    "post_score": 75,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.98,
+        "opinion_words": [
+          "love"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "There is no x400 series.",
+    "post_id": "1s7sce5",
+    "comment_id": "odfd35d",
+    "subreddit": "vivo",
+    "post_score": 75,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "On paper, less than half stop brighter won't help with moving subjects.",
+    "post_id": "1s7sce5",
+    "comment_id": "odewsj8",
+    "subreddit": "vivo",
+    "post_score": 75,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "won't help"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Will the Vivo X300 Pro perform extremely well compared to the above photo?",
+    "post_id": "1rwa81v",
+    "comment_id": null,
+    "subreddit": "vivo",
+    "post_score": 56,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "perform extremely well"
+        ]
+      },
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "photo"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "( Best video recording and video stabilization in android right now)",
+    "post_id": "1rwa81v",
+    "comment_id": "oaycnpy",
+    "subreddit": "vivo",
+    "post_score": 56,
+    "comment_score": 23,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.98,
+        "opinion_words": [
+          "Best video recording",
+          "video stabilization"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Ok but still if i will able to click great pics with samsung not as good as vivo but still comparable i will manage",
+    "post_id": "1rwa81v",
+    "comment_id": "oayzbac",
+    "subreddit": "vivo",
+    "post_score": 56,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "click great pics",
+          "comparable"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "To an average person, maybe not so much.",
+    "post_id": "1rwa81v",
+    "comment_id": "oayn55l",
+    "subreddit": "vivo",
+    "post_score": 56,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But i hope earlier.",
+    "post_id": "1ojvq65",
+    "comment_id": "nm7yt99",
+    "subreddit": "vivo",
+    "post_score": 187,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Me registré, pero creo que para obtener el descuento completo de 200 euros, quizá tengamos que comprar también el kit de fotografía.",
+    "post_id": "1ojvq65",
+    "comment_id": "nm6odno",
+    "subreddit": "vivo",
+    "post_score": 187,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.85,
+        "opinion_words": [
+          "kit de fotografía"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Joder, es lo mismo que tiene mi OnePlus 12, tendré que mirar en otras tiendas a ver si puedo importar la versión global de 6500mah de otro pais más barato a ser posible o en su defecto, le echaré un ojo al Oppo Find X9 Pro. Gracias",
+    "post_id": "1ojvq65",
+    "comment_id": "nm6g5jc",
+    "subreddit": "vivo",
+    "post_score": 187,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "6500mah"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The leak was 1399€. X200 Pro was 1299€, so from the start it was a given if wouldn't be less than that.",
+    "post_id": "1ojvq65",
+    "comment_id": "nm73skt",
+    "subreddit": "vivo",
+    "post_score": 187,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Resale value is low, only the tech savvy guys will know about these phones but you demanding high prices.",
+    "post_id": "1ojvq65",
+    "comment_id": "nm77o79",
+    "subreddit": "vivo",
+    "post_score": 187,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You can use 99, 5% of the software, but stuff like hello Google won't work.",
+    "post_id": "1ojvq65",
+    "comment_id": "nmcf2jv",
+    "subreddit": "vivo",
+    "post_score": 187,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Do you know if you have to pay customs or taxes when buying with TradingShenzhen?",
+    "post_id": "1ojvq65",
+    "comment_id": "nm680p7",
+    "subreddit": "vivo",
+    "post_score": 187,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "but yeah surely quiet expensive",
+    "post_id": "1ojvq65",
+    "comment_id": "nm7xhue",
+    "subreddit": "vivo",
+    "post_score": 187,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If that's the case then definitely getting the Oppo instead",
+    "post_id": "1ojvq65",
+    "comment_id": "nm8iib8",
+    "subreddit": "vivo",
+    "post_score": 187,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Have a great day!",
+    "post_id": "1oi44r1",
+    "comment_id": null,
+    "subreddit": "vivo",
+    "post_score": 302,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Haha I'll take it as a compliment.",
+    "post_id": "1oi44r1",
+    "comment_id": "nlto3le",
+    "subreddit": "vivo",
+    "post_score": 302,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Its been 15-20 days i have been using the x300 Pro.",
+    "post_id": "1qpwj3z",
+    "comment_id": null,
+    "subreddit": "vivo",
+    "post_score": 103,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Moving to the 22Ultra I felt I had closed a lot of the gap.",
+    "post_id": "1qpwj3z",
+    "comment_id": "o2earoz",
+    "subreddit": "vivo",
+    "post_score": 103,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm using it over 1 month, I'm coming from One UI.",
+    "post_id": "1qpwj3z",
+    "comment_id": "o3c9f0x",
+    "subreddit": "vivo",
+    "post_score": 103,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I need to practice having a steady hands using this.",
+    "post_id": "1pbenwq",
+    "comment_id": null,
+    "subreddit": "vivo",
+    "post_score": 225,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "steady hands"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Haven't used it for moon shots because it's cloudy here.",
+    "post_id": "1pbenwq",
+    "comment_id": null,
+    "subreddit": "vivo",
+    "post_score": 225,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "moon shots"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But this one for X200 Pro right?",
+    "post_id": "1pbenwq",
+    "comment_id": "nrqqu6o",
+    "subreddit": "vivo",
+    "post_score": 225,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Not sure why you would...",
+    "post_id": "1pbenwq",
+    "comment_id": "nrxjvjk",
+    "subreddit": "vivo",
+    "post_score": 225,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I use it now mainly on my Oppo X8 Ultra and sometimes with my iPhone.",
+    "post_id": "1pbenwq",
+    "comment_id": "nru8h1g",
+    "subreddit": "vivo",
+    "post_score": 225,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "-Lake-135 Congrats on your purchase, hope you enjoy it!",
+    "post_id": "1pbenwq",
+    "comment_id": "nrrakev",
+    "subreddit": "vivo",
+    "post_score": 225,
+    "comment_score": 14,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If you want a simple point and shoot for all types of pictures without tinkering the answer is always apple.",
+    "post_id": "1r7dotb",
+    "comment_id": "o5wodzc",
+    "subreddit": "vivo",
+    "post_score": 52,
+    "comment_score": -2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "simple point and shoot",
+          "answer is always apple"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "What answers do you expect?",
+    "post_id": "1r7dotb",
+    "comment_id": "o5wtjvh",
+    "subreddit": "vivo",
+    "post_score": 52,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Both can shoot raw photo and video but I think you can shoot in prores without switching to the manual mode on iPhone while on the x300pro",
+    "post_id": "1r7dotb",
+    "comment_id": "o62cc32",
+    "subreddit": "vivo",
+    "post_score": 52,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "shoot raw photo and video",
+          "without switching to the manual mode"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Vivo has details however it tends to apply sort of painted look to the final output due to AI and pixel bining due to 200MP",
+    "post_id": "1r7dotb",
+    "comment_id": "o60bqtr",
+    "subreddit": "vivo",
+    "post_score": 52,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "painted look",
+          "AI and pixel bining"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "As a photographer myself, Vivo has amazed me in all ways.",
+    "post_id": "1r7dotb",
+    "comment_id": "o5ztwck",
+    "subreddit": "vivo",
+    "post_score": 52,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.98,
+        "opinion_words": [
+          "amazed me in all ways"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "There is no competition in videos when it comes to iphone.",
+    "post_id": "1r7dotb",
+    "comment_id": "o5y1w5r",
+    "subreddit": "vivo",
+    "post_score": 52,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.99,
+        "opinion_words": [
+          "no competition"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If I'm being unbiased, Vivo is MUCH better for photos and it's not even close.",
+    "post_id": "1r7dotb",
+    "comment_id": "o5wsww6",
+    "subreddit": "vivo",
+    "post_score": 52,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.98,
+        "opinion_words": [
+          "MUCH better",
+          "not even close"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "iPhone is the clear winner because IOS is just easy to use, and intuitive(there's a reason most elder people prefer an iPhone).",
+    "post_id": "1r7dotb",
+    "comment_id": "o5wsww6",
+    "subreddit": "vivo",
+    "post_score": 52,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Worried about card registering, etc?",
+    "post_id": "1r7dotb",
+    "comment_id": "o5wsww6",
+    "subreddit": "vivo",
+    "post_score": 52,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I switched from ip17promax.",
+    "post_id": "1r7dotb",
+    "comment_id": "o686dvb",
+    "subreddit": "vivo",
+    "post_score": 52,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "For some other things iphone may be better but for those things I will recommend you go with Samsung S25 ultra and still have better experience.",
+    "post_id": "1r7dotb",
+    "comment_id": "o5z7r89",
+    "subreddit": "vivo",
+    "post_score": 52,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The vivo SmallRig Pro Video Rig Kit costs €499 in Austria, €415 in Germany and 199, 900 HUF in Hungary.",
+    "post_id": "1s6dbub",
+    "comment_id": null,
+    "subreddit": "vivo",
+    "post_score": 49,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "As a user of both Pro and Ultra models, there is quite a difference.",
+    "post_id": "1s6dbub",
+    "comment_id": "od4r2od",
+    "subreddit": "vivo",
+    "post_score": 49,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But we know that as a \"trade in\" they will value the X200 Ultra at €200.",
+    "post_id": "1s6dbub",
+    "comment_id": "od3rc88",
+    "subreddit": "vivo",
+    "post_score": 49,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Press it and it redirects you to the other website for purchasing.",
+    "post_id": "1s6dbub",
+    "comment_id": "od1wsch",
+    "subreddit": "vivo",
+    "post_score": 49,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yeah, looks like it.",
+    "post_id": "1s6dbub",
+    "comment_id": "od1mo7j",
+    "subreddit": "vivo",
+    "post_score": 49,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "This is an official VIVO store for DE, AT and HU markets.",
+    "post_id": "1s6dbub",
+    "comment_id": "od34zie",
+    "subreddit": "vivo",
+    "post_score": 49,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It's not pre orderable right now, it was just a leaked page for X300 Ultra.",
+    "post_id": "1s6dbub",
+    "comment_id": "od4rffu",
+    "subreddit": "vivo",
+    "post_score": 49,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "no cam enthousiast so sorry guys that ain't for me",
+    "post_id": "1s6dbub",
+    "comment_id": "od1xszp",
+    "subreddit": "vivo",
+    "post_score": 49,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "no cam enthousiast"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Selling a used Vivo is a different thing.",
+    "post_id": "1s6dbub",
+    "comment_id": "od37fnx",
+    "subreddit": "vivo",
+    "post_score": 49,
+    "comment_score": 11,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "For exemple non enthusiasts will rather buy a new android than a uses Honor.",
+    "post_id": "1s6dbub",
+    "comment_id": "od3ck89",
+    "subreddit": "vivo",
+    "post_score": 49,
+    "comment_score": 9,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Even the X300 Pro is not 1k anymore.",
+    "post_id": "1s6dbub",
+    "comment_id": "od4uw82",
+    "subreddit": "vivo",
+    "post_score": 49,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The math just doesn't work.",
+    "post_id": "1s6dbub",
+    "comment_id": "od4x2aq",
+    "subreddit": "vivo",
+    "post_score": 49,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "This is like basic pricing ladders dude, both X300 and X300 Pro would be cooked.",
+    "post_id": "1s6dbub",
+    "comment_id": "od4x2aq",
+    "subreddit": "vivo",
+    "post_score": 49,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Your poorly made argument of market price doesn't make sense as vivo isn't a third party seller, they don't use the prices of third party sellers to make phone pricing like EVERY other phone company.",
+    "post_id": "1s6dbub",
+    "comment_id": "od59c4d",
+    "subreddit": "vivo",
+    "post_score": 49,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Thanks again to Wonda (third time buying from them) and once again a great overall experience — only 4 working days from ordering to receiving it today.",
+    "post_id": "1p0ozsz",
+    "comment_id": null,
+    "subreddit": "vivo",
+    "post_score": 117,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I also cleared cache, which on the X100U improved battery and gave me an extra 1–2h SOT, so I’ll see how the X300 behaves after a few days.",
+    "post_id": "1p0ozsz",
+    "comment_id": null,
+    "subreddit": "vivo",
+    "post_score": 117,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "improved",
+          "extra 1–2h SOT"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Raw Lightning produces natural photos but they’re not “portraits” technically.",
+    "post_id": "1p0ozsz",
+    "comment_id": null,
+    "subreddit": "vivo",
+    "post_score": 117,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "natural photos",
+          "not “portraits” technically"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Only thing missing is front-camera screen flash for night video, but not a big issue.",
+    "post_id": "1p0ozsz",
+    "comment_id": null,
+    "subreddit": "vivo",
+    "post_score": 117,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "missing",
+          "not a big issue"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I’m not a pro photographer by any means, but I do understand mobile phone photography and tech in general, and I know what I’m talking about — even if I maybe don’t always express it in the best way.",
+    "post_id": "1p0ozsz",
+    "comment_id": "npl3yes",
+    "subreddit": "vivo",
+    "post_score": 117,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm selling mine, I don't like it, especially the camera and speakers, both average at best and when it comes to taking photos of people, probably every other midrange / flagship is way better.",
+    "post_id": "1p0ozsz",
+    "comment_id": "nt7p0td",
+    "subreddit": "vivo",
+    "post_score": 117,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 0.98,
+        "opinion_words": [
+          "don't like it",
+          "average at best",
+          "way better"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You can also set it to be your digital assistant just like on any other global smartphone, hey google also works but you need to unlock the device first..",
+    "post_id": "1p0ozsz",
+    "comment_id": "npnkzaq",
+    "subreddit": "vivo",
+    "post_score": 117,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "That's what I'm aiming for, but we'll see how things go in the next days.",
+    "post_id": "1p0ozsz",
+    "comment_id": "npn217h",
+    "subreddit": "vivo",
+    "post_score": 117,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If x300 pro has the same battery I prefer to keep my money and keep using the x100u:)",
+    "post_id": "1p0ozsz",
+    "comment_id": "npkvfg0",
+    "subreddit": "vivo",
+    "post_score": 117,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "opinion_words": [
+          "same battery"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "For Facebook I don’t care, to be honest, but for Insta I use Instapro3 and MyInsta simultaneously without having those settings enabled, because I already get my notifications from Insta Lite",
+    "post_id": "1p0ozsz",
+    "comment_id": "npl1def",
+    "subreddit": "vivo",
+    "post_score": 117,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I also have one on the way.",
+    "post_id": "1p0ozsz",
+    "comment_id": "npkgaia",
+    "subreddit": "vivo",
+    "post_score": 117,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You can get it at 60k without exchange from them.",
+    "post_id": "1s0t4gy",
+    "comment_id": "oby1o29",
+    "subreddit": "vivox300",
+    "post_score": 3,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Genuine and trusted brand.",
+    "post_id": "1s0t4gy",
+    "comment_id": "oby1o29",
+    "subreddit": "vivox300",
+    "post_score": 3,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Go for it.. now the exchange bonus is high.",
+    "post_id": "1s0t4gy",
+    "comment_id": "obvy0wb",
+    "subreddit": "vivox300",
+    "post_score": 3,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Since you've an s24u, a compact device would be good.",
+    "post_id": "1s0t4gy",
+    "comment_id": "obvy0wb",
+    "subreddit": "vivox300",
+    "post_score": 3,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "So I've selected the option for \"scratches on screen\" to lower the exchange value from 16.5k to 15k, so that the cart value would be 61k.",
+    "post_id": "1s0t4gy",
+    "comment_id": "oby8yh2",
+    "subreddit": "vivox300",
+    "post_score": 3,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "And yes, there is an additional exchange bonus of 11k which I am getting.",
+    "post_id": "1s0t4gy",
+    "comment_id": "obvt2ub",
+    "subreddit": "vivox300",
+    "post_score": 3,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "There are few posts about the regular vivo X300 (not Pro) \"Photography Kit\", so here is my complete kit, pieced together item by item",
+    "post_id": "1sncphi",
+    "comment_id": null,
+    "subreddit": "vivox300",
+    "post_score": 7,
+    "comment_score": 0,
+    "source": "title",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "Photography Kit"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Thrs too much customs etc prob here",
+    "post_id": "1sncphi",
+    "comment_id": "ogo0z42",
+    "subreddit": "vivox300",
+    "post_score": 7,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I leave the links here if anyone is interested: Nothing style case X300 - [ Nothing style case X300 Pro - [ Rubber-textured case X300 - [ Rubber-textured case X300 Pro - [ Btw, the pattern on the rubber case looks very similar to something else from another brand.",
+    "post_id": "1s37xkb",
+    "comment_id": null,
+    "subreddit": "vivox300",
+    "post_score": 5,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But I just got the most recommended case for it that now completely protects the camera module, and I will use this one mostly just to be sure",
+    "post_id": "1s37xkb",
+    "comment_id": "of77sg5",
+    "subreddit": "vivox300",
+    "post_score": 5,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "completely protects"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Allegedly Vivo will use a new 200mp 1/1.1\" sensor from Sony as main.",
+    "post_id": "1neaafu",
+    "comment_id": "ndq6w7i",
+    "subreddit": "Android",
+    "post_score": 118,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.95,
+        "opinion_words": [
+          "new 200mp 1/1.1\" sensor"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "That is good to know.",
+    "post_id": "1neaafu",
+    "comment_id": "negtue1",
+    "subreddit": "Android",
+    "post_score": 118,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.85,
+        "opinion_words": [
+          "good to know"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Oppo Find X9 Pro — 10h 23m - 2.",
+    "post_id": "1qs7qwp",
+    "comment_id": "o2wbhft",
+    "subreddit": "Android",
+    "post_score": 29,
+    "comment_score": 14,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.95,
+        "opinion_words": [
+          "10h 23m"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Vivo X300 Pro — 1h 26m / 1000mAh 6.",
+    "post_id": "1qs7qwp",
+    "comment_id": "o2tkazb",
+    "subreddit": "Android",
+    "post_score": 29,
+    "comment_score": 49,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.95,
+        "opinion_words": [
+          "1h 26m / 1000mAh"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Dude you literally wrote \"Chinese phones struggle because of software\"",
+    "post_id": "1qs7qwp",
+    "comment_id": "o2tzc28",
+    "subreddit": "Android",
+    "post_score": 29,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "struggle because of software"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You claimed they couldn't be bought, which is false.",
+    "post_id": "1qs7qwp",
+    "comment_id": "o2udsam",
+    "subreddit": "Android",
+    "post_score": 29,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The ones that care about the specs are such a small % that I don't blame Google for keeping the Pixel \"mainstream\" for \"normies\" like the iPhones because well that's what makes $$$$$",
+    "post_id": "1qs7qwp",
+    "comment_id": "o2u8h5h",
+    "subreddit": "Android",
+    "post_score": 29,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "opinion_words": [
+          "mainstream"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Pixels were never an enthusiast brand.",
+    "post_id": "1qs7qwp",
+    "comment_id": "o2v5bmb",
+    "subreddit": "Android",
+    "post_score": 29,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "negative",
+        "confidence": 0.7,
+        "opinion_words": [
+          "never an enthusiast brand"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "They just never win.",
+    "post_id": "1qs7qwp",
+    "comment_id": "o2trjew",
+    "subreddit": "Android",
+    "post_score": 29,
+    "comment_score": 16,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "My phone in the UK..",
+    "post_id": "1put6ir",
+    "comment_id": "nvt0qlg",
+    "subreddit": "Android",
+    "post_score": 45,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Or he used the model which was available to him.",
+    "post_id": "1put6ir",
+    "comment_id": "nvrs6w4",
+    "subreddit": "Android",
+    "post_score": 45,
+    "comment_score": 22,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "He also is using the SIM version of the iPhone 17PM rather than the ESIM version that has the slightly larger battery.",
+    "post_id": "1put6ir",
+    "comment_id": "nvrtk2i",
+    "subreddit": "Android",
+    "post_score": 45,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.95,
+        "opinion_words": [
+          "slightly larger battery"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm not disagreeing with him I'm just saying he shouldn't be seeing more than 1-2% himself since we have almost identical phones",
+    "post_id": "1put6ir",
+    "comment_id": "nvw2xyf",
+    "subreddit": "Android",
+    "post_score": 45,
+    "comment_score": -1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "opinion_words": [
+          "1-2%"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yes photos are meant to be real.",
+    "post_id": "1o5kni7",
+    "comment_id": "njatxk9",
+    "subreddit": "Android",
+    "post_score": 61,
+    "comment_score": 10,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.85,
+        "opinion_words": [
+          "photos are meant to be real"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I used to do event photography and not once a customer said to provide them with untouched/unedited photos.",
+    "post_id": "1o5kni7",
+    "comment_id": "njcelc8",
+    "subreddit": "Android",
+    "post_score": 61,
+    "comment_score": 11,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.85,
+        "opinion_words": [
+          "photography",
+          "untouched/unedited photos"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I looked at some photography reviews, since I am curious and a compact camera user.",
+    "post_id": "1o5kni7",
+    "comment_id": "njaajvo",
+    "subreddit": "Android",
+    "post_score": 61,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.95,
+        "opinion_words": [
+          "photography reviews",
+          "compact camera"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Those make for a physical aperture (light gathering) of 7.9mm.",
+    "post_id": "1o5kni7",
+    "comment_id": "njd395f",
+    "subreddit": "Android",
+    "post_score": 61,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "physical aperture",
+          "light gathering"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Camera like just 10 to 20% difference thats all.",
+    "post_id": "1oj7q7r",
+    "comment_id": "nqe0oa1",
+    "subreddit": "Android",
+    "post_score": 41,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.95,
+        "opinion_words": [
+          "just 10 to 20% difference"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I’ll keep my non-innovative phone without chinese spyware.",
+    "post_id": "1oj7q7r",
+    "comment_id": "nm45zx5",
+    "subreddit": "Android",
+    "post_score": 41,
+    "comment_score": 24,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "That's not true, the oppo lasts like 20% longer.",
+    "post_id": "1onlcyg",
+    "comment_id": "nu1yjld",
+    "subreddit": "Android",
+    "post_score": 41,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "lasts like 20% longer"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Because I am thinking of bying it and idk what to do because it has wayy less battery.",
+    "post_id": "1onlcyg",
+    "comment_id": "nquhvg5",
+    "subreddit": "Android",
+    "post_score": 41,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Registra le chiamate la versione Globale?",
+    "post_id": "1pnuld8",
+    "comment_id": "nxlxc0h",
+    "subreddit": "Android",
+    "post_score": 23,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Its not about the bloat.",
+    "post_id": "1pbji46",
+    "comment_id": "nru9zqc",
+    "subreddit": "Android",
+    "post_score": 39,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Reeeeally hoping it does, despite the incoming wallet cratering price.",
+    "post_id": "1pbji46",
+    "comment_id": "nrr54ab",
+    "subreddit": "Android",
+    "post_score": 39,
+    "comment_score": 10,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Vivo has been making phone for a while now.",
+    "post_id": "1ok698k",
+    "comment_id": "nm9gwir",
+    "subreddit": "Android",
+    "post_score": 38,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Video was good on the vivo and awful in the oppo with stabilisation and once you upload to instagram you are punished further because they favour ios.",
+    "post_id": "1pr9e72",
+    "comment_id": "o2ixjqb",
+    "subreddit": "Android",
+    "post_score": 20,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "the video makes no sense.",
+    "post_id": "1rjc2ub",
+    "comment_id": "o8dwzxx",
+    "subreddit": "Android",
+    "post_score": 12,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The expect that they combined video will produce more views duh",
+    "post_id": "1rjc2ub",
+    "comment_id": "o8e3d2v",
+    "subreddit": "Android",
+    "post_score": 12,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Really shows that these companies could put it larger batteries if they really wanted to.",
+    "post_id": "1ojbo5i",
+    "comment_id": "nm3me7g",
+    "subreddit": "Android",
+    "post_score": 10,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "What are they putting in the space that they save with the smaller battery?",
+    "post_id": "1ojbo5i",
+    "comment_id": "nm74qjp",
+    "subreddit": "Android",
+    "post_score": 10,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The issue being mah is fundamentally the wrong unit of measurement for the capacity of a battery.",
+    "post_id": "1ojbo5i",
+    "comment_id": "nm7ub2n",
+    "subreddit": "Android",
+    "post_score": 10,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "wrong unit of measurement"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I might as well get the X200 FE.",
+    "post_id": "1ojbo5i",
+    "comment_id": "nm2lrpu",
+    "subreddit": "Android",
+    "post_score": 10,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Vivo X300 and Vivo X300 Pro Impressions: Checking the Boxes!",
+    "post_id": "1o71lx5",
+    "comment_id": null,
+    "subreddit": "Android",
+    "post_score": 27,
+    "comment_score": 0,
+    "source": "title",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Try again with accubattery app, with dual cell mode.",
+    "post_id": "1pkf0q8",
+    "comment_id": "nuaacm9",
+    "subreddit": "VivoX100Pro",
+    "post_score": 10,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.85,
+        "opinion_words": [
+          "accubattery app",
+          "dual cell mode"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I thought it was 3 years?",
+    "post_id": "1nxwd38",
+    "comment_id": "nhtu8mw",
+    "subreddit": "VivoX100Pro",
+    "post_score": 3,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Hey all, Does anyone know how to access the reflections removal tool for Vivo x100 pro CN version?",
+    "post_id": "1qc3s1u",
+    "comment_id": null,
+    "subreddit": "VivoX100Pro",
+    "post_score": 5,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "reflections removal tool"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The x100 pro is a great camera phone.",
+    "post_id": "1qe5nt6",
+    "comment_id": "nzw01rj",
+    "subreddit": "VivoX100Pro",
+    "post_score": 3,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 1.0,
+        "opinion_words": [
+          "great camera phone"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Thanks a lot vro",
+    "post_id": "1qe5nt6",
+    "comment_id": "o09al3u",
+    "subreddit": "VivoX100Pro",
+    "post_score": 3,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Guys, vivo has removed the high bit rate 64mbps option from the camera app but its now back.",
+    "post_id": "1p87ita",
+    "comment_id": null,
+    "subreddit": "VivoX100Pro",
+    "post_score": 10,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "high bit rate 64mbps option",
+          "now back"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It came to all X100 Pro users if you have origin os 6, set your resolution to 4k60 and then check,",
+    "post_id": "1p87ita",
+    "comment_id": "nr4wgut",
+    "subreddit": "VivoX100Pro",
+    "post_score": 10,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "resolution to 4k60"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "And of course is still great.",
+    "post_id": "1p87ita",
+    "comment_id": "nrcdwj2",
+    "subreddit": "VivoX100Pro",
+    "post_score": 10,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "otherwise I'll rollback to android 14 by visiting service center.",
+    "post_id": "1k6wpbc",
+    "comment_id": "moto5jk",
+    "subreddit": "VivoX100Pro",
+    "post_score": 4,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I bought it new, two days back.",
+    "post_id": "1k6wpbc",
+    "comment_id": "motqbqh",
+    "subreddit": "VivoX100Pro",
+    "post_score": 4,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Both didn't have any issues as much as I remember.",
+    "post_id": "1k6wpbc",
+    "comment_id": "motrrbf",
+    "subreddit": "VivoX100Pro",
+    "post_score": 4,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Anyways I'm not updating.",
+    "post_id": "1k6wpbc",
+    "comment_id": "mou2nh5",
+    "subreddit": "VivoX100Pro",
+    "post_score": 4,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Maybe the X200Pro has ir blaster in camera module",
+    "post_id": "1o8bx9w",
+    "comment_id": "nk69yh4",
+    "subreddit": "VivoX100Pro",
+    "post_score": 16,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "ir blaster in camera module"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Hi, I bought my X200 pro almost 1.5 months ago and after using it for like a month i noticed missing glue between my phone screen and frame where they both meet and also glue was weirdly applied i contacted vivo service center and upon multiple fights on email they offered me a replacement and on my new phone glue issue is still present but not as much as it was on previous model.",
+    "post_id": "1mmquio",
+    "comment_id": null,
+    "subreddit": "vivox200pro",
+    "post_score": 12,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "but he assured me that if you feel any gap you can replace your phone and get a new one whenever this thing happen",
+    "post_id": "1mmquio",
+    "comment_id": "n8c398q",
+    "subreddit": "vivox200pro",
+    "post_score": 12,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I hope this is because of the mediatek dimensity processor.",
+    "post_id": "1mjuzo6",
+    "comment_id": "n7galyu",
+    "subreddit": "vivox200pro",
+    "post_score": 5,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I didn't realize that I have this problem until now.",
+    "post_id": "1mpiwkb",
+    "comment_id": "o9e8qpu",
+    "subreddit": "vivox200pro",
+    "post_score": 5,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Hey I have the same problem and tried everything except for total phone reset, nothing helped and I don't know what to do.",
+    "post_id": "1mpiwkb",
+    "comment_id": "nrg9zxt",
+    "subreddit": "vivox200pro",
+    "post_score": 5,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I love them all.",
+    "post_id": "1qgg9ex",
+    "comment_id": "o0muo82",
+    "subreddit": "mobilephotography",
+    "post_score": 1076,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Cat was looking at me actually 🤣",
+    "post_id": "1qgg9ex",
+    "comment_id": "o0wquwn",
+    "subreddit": "mobilephotography",
+    "post_score": 1076,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Can you adjust and reduce it on the Vivo?",
+    "post_id": "1qgg9ex",
+    "comment_id": "o0e78xa",
+    "subreddit": "mobilephotography",
+    "post_score": 1076,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "1, 4 and 15 my favourites!",
+    "post_id": "1qgg9ex",
+    "comment_id": "o0db69w",
+    "subreddit": "mobilephotography",
+    "post_score": 1076,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Çok iyi kral, neresi burası",
+    "post_id": "1qlwtcw",
+    "comment_id": "o1ooxj9",
+    "subreddit": "mobilephotography",
+    "post_score": 311,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Also mr but i started with one step at the time when i bought the phone i wast only using the normal mode then i discover the portrait mode after that to street photography mode (you can adjust the shutter speed amd depth of field) and finally arrived at the pro mode which i can adjust everything.",
+    "post_id": "1rw3zy4",
+    "comment_id": "ob635xp",
+    "subreddit": "mobilephotography",
+    "post_score": 108,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "portrait mode",
+          "street photography mode",
+          "pro mode",
+          "adjust everything"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "X300 ultra will have way better stabilization and I hope it can match or exceed the Xiaomi",
+    "post_id": "1rw3zy4",
+    "comment_id": "oaz47e6",
+    "subreddit": "mobilephotography",
+    "post_score": 108,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "way better stabilization",
+          "match or exceed"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "1: [VIVO x200Ultra on a morning walk.]",
+    "post_id": "1qyb1pw",
+    "comment_id": "o4ldqyv",
+    "subreddit": "mobilephotography",
+    "post_score": 121,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "\"Best\" photo/camera is subjective.",
+    "post_id": "1qorjqc",
+    "comment_id": "o25nfss",
+    "subreddit": "mobilephotography",
+    "post_score": 2,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.85,
+        "opinion_words": [
+          "subjective"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "4. Operating system OnePlus's and OPPO OS is a much needed upgrade / update to android.",
+    "post_id": "1ql9t4l",
+    "comment_id": null,
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "OPPO is great but not having proper carrier aggregation is practically a deal breaker for me.",
+    "post_id": "1ql9t4l",
+    "comment_id": null,
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "How does oppo do with that?",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1hmose",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "With Vivo, I feel like it captures everything exactly as the sensor saw it, which is impressive, but sometimes it seems a bit flat emotionally when I look back.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1htj0x",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.85,
+        "opinion_words": [
+          "captures everything exactly",
+          "impressive",
+          "flat emotionally"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm not sure if the OPPO would give you what you're looking for unless you try it out yourself.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1hv182",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But it's much better.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1gf48f",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Samsung has the least AI and denoising going on --- As a sidenote, I completely love Oppo's colour science in Master Mode.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1h3h37",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 1.0,
+        "opinion_words": [
+          "completely love",
+          "colour science"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Has that been your experience too?",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1fbyv0",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I also appreciate that it has the APTX suite of codecs as my QC ultras and other APTX lossless and or adaptive products have worked well with it.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1l5krq",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "as for going with a vivo, the global X300 pro has a smaller battery than the X9 Pro.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1l5krq",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "smaller battery"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Then Samsung and Vivo being last since it's so simple.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1fps59",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "When putting all of them next to each at the highest brightness it's truly negligible",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1fkpv7",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "To me nothing comes close to the Vivo for video and especially pictures.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1lwuvp",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.98,
+        "opinion_words": [
+          "nothing comes close",
+          "video",
+          "especially pictures"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Try the OPPO in night / low light you'll be quite disappointed.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1hj106",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 0.98,
+        "opinion_words": [
+          "night / low light",
+          "quite disappointed"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Vivo 300x pro OS worries me also.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1gtzzd",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The OS in Vivo is minimalist, like stock Android with just a small personalisation UI tweaks here and there.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1gwvm7",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "They prioritize other apps.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1u6cu9",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But I don't use it much anymore.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1u6cu9",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Did you do anything special in that regard?",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1fr1v6",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Sometimes Vivo wins, sometimes Oppo wins.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1fv3to",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "For example, the noise, background blur, HDR, are all 100% identical.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1fv3to",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.95,
+        "opinion_words": [
+          "100% identical"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I haven't Google'd it.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1g7tj3",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Even looking at the body/midframe of the 2 phones, the same style of OS, the same hardware, even the same parent company (yes they do have the same company), means they're practically the same phone...",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1gejv0",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "opinion_words": [
+          "same hardware"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yes it is very dim.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1e20kc",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The main reason I keep the pixel 10pro is because it is so good with action shots for my kids' games.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1cpg3b",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 1.0,
+        "opinion_words": [
+          "so good with action shots"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Pixels are also good for this.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1gfjrm",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "good for this"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The best pictures, in my opinion, are Vivo, OPPO, OnePlus, Samsung.",
+    "post_id": "1ql9t4l",
+    "comment_id": "o1d7lg2",
+    "subreddit": "Oppo",
+    "post_score": 122,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 1.0,
+        "opinion_words": [
+          "best pictures"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Did the same, not sure if I can deal with this camera after the X200 Pro. Wanted to upgrade for the X300 Pro, battery was the deal breaker for me.",
+    "post_id": "1p2dmko",
+    "comment_id": "npwl0o2",
+    "subreddit": "Oppo",
+    "post_score": 150,
+    "comment_score": -14,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "not sure if I can deal with"
+        ]
+      },
+      {
+        "aspect": "Battery",
+        "sentiment": "negative",
+        "confidence": 1.0,
+        "opinion_words": [
+          "deal breaker"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Why do you prefer it over the Vivo?",
+    "post_id": "1p2dmko",
+    "comment_id": "npwnonc",
+    "subreddit": "Oppo",
+    "post_score": 150,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Why do u regret",
+    "post_id": "1p2dmko",
+    "comment_id": "npwitec",
+    "subreddit": "Oppo",
+    "post_score": 150,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Vivo is good with the camera's but uses ALOT of Ai with everything... I also prefer the Oppo over the Vivo.",
+    "post_id": "1p2dmko",
+    "comment_id": "npxfias",
+    "subreddit": "Oppo",
+    "post_score": 150,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "good",
+          "ALOT of Ai"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Is it still possible?",
+    "post_id": "1p2dmko",
+    "comment_id": "nr3stqe",
+    "subreddit": "Oppo",
+    "post_score": 150,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "but I'm torn between it and the S25 Ultra.",
+    "post_id": "1p2dmko",
+    "comment_id": "npz4fo7",
+    "subreddit": "Oppo",
+    "post_score": 150,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Got a pre-order at 97k, kinda feel like a bakra at that price point ngl but fingers crossed, let's see.",
+    "post_id": "1p2dmko",
+    "comment_id": "npy542e",
+    "subreddit": "Oppo",
+    "post_score": 150,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yes the oppo find x9 is global I'm in UK and the vivo was cn everything worked on the vivo except ok Google",
+    "post_id": "1p2dmko",
+    "comment_id": "npz0p7a",
+    "subreddit": "Oppo",
+    "post_score": 150,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "positive",
+        "confidence": 0.8,
+        "opinion_words": [
+          "everything worked except ok Google"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I took 100 photos in both.",
+    "post_id": "1r843zk",
+    "comment_id": "o64o3ha",
+    "subreddit": "Oppo",
+    "post_score": 22,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "opinion_words": [
+          "took 100 photos"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "What was wrong with the pixel 10 pro?",
+    "post_id": "1r843zk",
+    "comment_id": "o7h953u",
+    "subreddit": "Oppo",
+    "post_score": 22,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Vivo has much better camera, 2nd place in Dxomark bench, oppo find x9 pro has 6th place.",
+    "post_id": "1r843zk",
+    "comment_id": "o62ema4",
+    "subreddit": "Oppo",
+    "post_score": 22,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "much better",
+          "2nd place"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It's not much better.",
+    "post_id": "1r843zk",
+    "comment_id": "o7h92sb",
+    "subreddit": "Oppo",
+    "post_score": 22,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Not just biased but wrong, inethical and disrespectful to a brand.",
+    "post_id": "1qvzy9y",
+    "comment_id": null,
+    "subreddit": "Oppo",
+    "post_score": 83,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I saw a few of her videos and instantly figured out that she doesn't know sh!t.",
+    "post_id": "1qvzy9y",
+    "comment_id": "o3vqtz8",
+    "subreddit": "Oppo",
+    "post_score": 83,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Oh dear, your insecurity for your phone is pretty much just as bad as her man, I pity you!",
+    "post_id": "1qvzy9y",
+    "comment_id": "o3oyz34",
+    "subreddit": "Oppo",
+    "post_score": 83,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Real, watch the Polish lady instead, i forgot her channel name",
+    "post_id": "1qvzy9y",
+    "comment_id": "o3pjdby",
+    "subreddit": "Oppo",
+    "post_score": 83,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Most of the pictures from vivo clearly looked better in that video.",
+    "post_id": "1qvzy9y",
+    "comment_id": "o3o9rqx",
+    "subreddit": "Oppo",
+    "post_score": 83,
+    "comment_score": 10,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "clearly looked better"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "However, in terms of skin tones, facial details, and portrait realism, I see that OPPO does a better job, and I prefer it.",
+    "post_id": "1qvzy9y",
+    "comment_id": "o3m5pf9",
+    "subreddit": "Oppo",
+    "post_score": 83,
+    "comment_score": 17,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.98,
+        "opinion_words": [
+          "better job",
+          "prefer it"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Wouldn't touch Apple again if I was given the money",
+    "post_id": "1r0ul9t",
+    "comment_id": "o4lk5c4",
+    "subreddit": "Oppo",
+    "post_score": 24,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Zaten oppoya nazaran biraz daha stok sıkıntısı var.",
+    "post_id": "1r0ul9t",
+    "comment_id": "o4kwvxp",
+    "subreddit": "Oppo",
+    "post_score": 24,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Find X9 Pro: Beast All rounder.",
+    "post_id": "1r0ul9t",
+    "comment_id": "o4l8vso",
+    "subreddit": "Oppo",
+    "post_score": 24,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "Beast"
+        ]
+      },
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.85,
+        "opinion_words": [
+          "All rounder"
+        ]
+      },
+      {
+        "aspect": "Battery",
+        "sentiment": "positive",
+        "confidence": 0.85,
+        "opinion_words": [
+          "All rounder"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "For customers in Europe there are of course no import or customs costs for products from the EU warehouse.",
+    "post_id": "1r0ul9t",
+    "comment_id": "o4l4yxc",
+    "subreddit": "Oppo",
+    "post_score": 24,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "There's heavy processing in vivo and not as much in oppo.",
+    "post_id": "1r0ul9t",
+    "comment_id": "o4kwlpz",
+    "subreddit": "Oppo",
+    "post_score": 24,
+    "comment_score": 12,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "heavy processing"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The cameras this year are just incredible.",
+    "post_id": "1pqwjxy",
+    "comment_id": "nuyji1g",
+    "subreddit": "Oppo",
+    "post_score": 57,
+    "comment_score": -3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 1.0,
+        "opinion_words": [
+          "incredible"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Cat eyes near the edges are more realistic irl though...",
+    "post_id": "1pqwjxy",
+    "comment_id": "nv8731g",
+    "subreddit": "Oppo",
+    "post_score": 57,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "more realistic"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "That's a feature that is not desired for lens when stopped down to F4 or later.",
+    "post_id": "1pqwjxy",
+    "comment_id": "nvdydyx",
+    "subreddit": "Oppo",
+    "post_score": 57,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "not desired"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Also bluetooth supports many codecs such as LDAC, L3 etc...",
+    "post_id": "1oc722h",
+    "comment_id": "nla4ajn",
+    "subreddit": "Oppo",
+    "post_score": 12,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I personally think oppo has more accurate colors to what the scene really looked like.",
+    "post_id": "1or071e",
+    "comment_id": "nnq9pel",
+    "subreddit": "Oppo",
+    "post_score": 30,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "more accurate colors"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "the phone has lot of bugs.. often i cant upload or share a simple thing in instagram.",
+    "post_id": "1qusd99",
+    "comment_id": "oc1g6yn",
+    "subreddit": "Oppo",
+    "post_score": 12,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Performance",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "lot of bugs",
+          "cant upload or share"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Oppo has one of the worst cameras I have ever used on a flagship in many years.",
+    "post_id": "1qusd99",
+    "comment_id": "o3frtr0",
+    "subreddit": "Oppo",
+    "post_score": 12,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "negative",
+        "confidence": 1.0,
+        "opinion_words": [
+          "one of the worst"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "OPPO can certainly tweak its image pipeline to match what Vivo is offering.",
+    "post_id": "1puse0f",
+    "comment_id": null,
+    "subreddit": "Oppo",
+    "post_score": 30,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "can certainly tweak"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Take a look [here]( The highlight and bloom control and color is better on the stars and chistmas balls and the color is the same in the room on the top right, whereas on the vivo the light outside is red and inside yellow.",
+    "post_id": "1puse0f",
+    "comment_id": "nvsly4r",
+    "subreddit": "Oppo",
+    "post_score": 30,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "better",
+          "highlight and bloom control",
+          "color"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'll admit I'm very nervous about them coming from a Pixel which is why I've not pulled the trigger yet.",
+    "post_id": "1puse0f",
+    "comment_id": "nvqy8zd",
+    "subreddit": "Oppo",
+    "post_score": 30,
+    "comment_score": 19,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Happy holidays to you",
+    "post_id": "1puse0f",
+    "comment_id": "nvqy8zd",
+    "subreddit": "Oppo",
+    "post_score": 30,
+    "comment_score": 19,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Has anyone ever had a Vivo phone blocked by their carrier?",
+    "post_id": "1op8gri",
+    "comment_id": null,
+    "subreddit": "Oppo",
+    "post_score": 8,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I have the x9 pro global.",
+    "post_id": "1phge70",
+    "comment_id": "nt3o9re",
+    "subreddit": "Oppo",
+    "post_score": 4,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Not sure that going for another BBK phone with similar hardware is the solution then",
+    "post_id": "1qo8vmd",
+    "comment_id": "o20dcuu",
+    "subreddit": "Oppo",
+    "post_score": 11,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "hey all, After years of being a Samsung user, i want to switch to Oppo or Vivo this year.",
+    "post_id": "1ok20z4",
+    "comment_id": null,
+    "subreddit": "Oppo",
+    "post_score": 11,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I currently have the Oppo Find X9 Pro.",
+    "post_id": "1q5kklt",
+    "comment_id": null,
+    "subreddit": "Oppo",
+    "post_score": 1,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "but does it matter?",
+    "post_id": "1pjvnph",
+    "comment_id": null,
+    "subreddit": "Oppo",
+    "post_score": 26,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Tele Aperture - f/2.6 Tele Focal Length - 73mm (3x optical) Front Sensor 32 MP Samsung S5KJN5 (32MP) Front Aperture - f/2.4 Hasselblad Color Calibration From what I have checked (Not a professional photographer at all) the Vivo has superior selfie camera than Oppo, both in low light and and daylight.",
+    "post_id": "1pjvnph",
+    "comment_id": null,
+    "subreddit": "Oppo",
+    "post_score": 26,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "superior selfie camera",
+          "Hasselblad Color Calibration",
+          "3x optical"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The Oppo has a bit reddish tone at times where as Vivo has greenish.",
+    "post_id": "1pjvnph",
+    "comment_id": null,
+    "subreddit": "Oppo",
+    "post_score": 26,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "reddish tone",
+          "greenish"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "For your requirements you could go with the Vivo as you don't have any issues with the skin tones, and the various Zeiss filters will also help.",
+    "post_id": "1pjvnph",
+    "comment_id": "nuac97c",
+    "subreddit": "Oppo",
+    "post_score": 26,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "don't have any issues with the skin tones",
+          "Zeiss filters will also help"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The lens for the Vivo is really big",
+    "post_id": "1pjvnph",
+    "comment_id": "ntkeqai",
+    "subreddit": "Oppo",
+    "post_score": 26,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "really big"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I have rarely seen people talking about this though.",
+    "post_id": "1pjvnph",
+    "comment_id": "ntlo2r2",
+    "subreddit": "Oppo",
+    "post_score": 26,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "They stay in the status bar but disappear from the AOD.",
+    "post_id": "1p6ajrm",
+    "comment_id": "nqurn0s",
+    "subreddit": "Oppo",
+    "post_score": 10,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Videos much better on the x300 pro, same for stabilization and processing of photos in general.",
+    "post_id": "1p6ajrm",
+    "comment_id": "nqp21d0",
+    "subreddit": "Oppo",
+    "post_score": 10,
+    "comment_score": 10,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.98,
+        "opinion_words": [
+          "much better",
+          "stabilization",
+          "processing"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "X9 pro camera Sidda pointed me.",
+    "post_id": "1p34nzu",
+    "comment_id": "nq3tot5",
+    "subreddit": "Oppo",
+    "post_score": 7,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "pointed me"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "This is for individual or small content creators who want a device that they can post directly to social media from.",
+    "post_id": "1ritcks",
+    "comment_id": "o8gn8oj",
+    "subreddit": "gadgets",
+    "post_score": 419,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Camera",
+        "sentiment": "positive",
+        "confidence": 0.7,
+        "opinion_words": [
+          "for individual or small content creators"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I mean there is a huge difference.",
+    "post_id": "1ritcks",
+    "comment_id": "o89nfgt",
+    "subreddit": "gadgets",
+    "post_score": 419,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It would be unintelligent and reflect poorly on you.",
+    "post_id": "1ritcks",
+    "comment_id": "o8hgxfk",
+    "subreddit": "gadgets",
+    "post_score": 419,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I really loved the Ferrari red charging cord/block that came with my phone back in the day",
+    "post_id": "1ror15v",
+    "comment_id": "o9g1ny2",
+    "subreddit": "gadgets",
+    "post_score": 318,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "positive",
+        "confidence": 0.85,
+        "opinion_words": [
+          "really loved"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "but I doubt it's as soon as next year.",
+    "post_id": "1ror15v",
+    "comment_id": "o9wpl04",
+    "subreddit": "gadgets",
+    "post_score": 318,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  }
+]

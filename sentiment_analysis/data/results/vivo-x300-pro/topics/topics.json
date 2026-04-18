@@ -1,0 +1,648 @@
+[
+  {
+    "id": 0,
+    "label": "iphone 17_iphone_better vivo",
+    "top_words": [
+      "iphone 17",
+      "iphone",
+      "better vivo",
+      "vivo better",
+      "phones",
+      "xiaomi 17",
+      "17 pro",
+      "ios",
+      "mobile",
+      "phone"
+    ],
+    "top_word_scores": [
+      0.7202894687652588,
+      0.5949162840843201,
+      0.5529294610023499,
+      0.5357155203819275,
+      0.5037668347358704,
+      0.4893803298473358,
+      0.48504942655563354,
+      0.4605203866958618,
+      0.45629483461380005,
+      0.4373474419116974
+    ],
+    "doc_count": 1312,
+    "representative_docs": [
+      "Do you use iPhone 17 pro max to compare also?",
+      "still better than iPhone 17 pro and S25 ultra",
+      "You can't do that on the Vivo"
+    ]
+  },
+  {
+    "id": 1,
+    "label": "camera_cameras_camera app",
+    "top_words": [
+      "camera",
+      "cameras",
+      "camera app",
+      "photography",
+      "photos",
+      "shutter",
+      "lens",
+      "pictures",
+      "smartphones",
+      "megapixels"
+    ],
+    "top_word_scores": [
+      0.658481776714325,
+      0.6386920213699341,
+      0.6253697276115417,
+      0.5681222081184387,
+      0.5299343466758728,
+      0.519042432308197,
+      0.4443321228027344,
+      0.41529202461242676,
+      0.41231536865234375,
+      0.4038728177547455
+    ],
+    "doc_count": 1222,
+    "representative_docs": [
+      "Which one has the least AI camera processing o can be disabled altogether?",
+      "A 1\" sensor phone eliminates the need for a camera for basically 100% of non professional use because they've refused to adapt to modernity.",
+      "Those 2 are for camera only."
+    ]
+  },
+  {
+    "id": 2,
+    "label": "x300 pro_pro x300_better x300",
+    "top_words": [
+      "x300 pro",
+      "pro x300",
+      "better x300",
+      "x300 better",
+      "x300",
+      "x300 ultra",
+      "ultra x300",
+      "x100 pro",
+      "x200 pro",
+      "x9 pro"
+    ],
+    "top_word_scores": [
+      0.8850373029708862,
+      0.8706597685813904,
+      0.8667991757392883,
+      0.8588029742240906,
+      0.8139264583587646,
+      0.7929376363754272,
+      0.766302227973938,
+      0.76360023021698,
+      0.7314363718032837,
+      0.7300548553466797
+    ],
+    "doc_count": 866,
+    "representative_docs": [
+      "X300 Pro or Find X9 Pro?",
+      "I use X300 Pro as well.",
+      "I'm not mocking X300 Pro dumbass."
+    ]
+  },
+  {
+    "id": 3,
+    "label": "oppo x9_oppo x8_x9 pro",
+    "top_words": [
+      "oppo x9",
+      "oppo x8",
+      "x9 pro",
+      "vivo oppo",
+      "oppo vivo",
+      "oppo camera",
+      "pro oppo",
+      "oppo",
+      "mode oppo",
+      "vs oppo"
+    ],
+    "top_word_scores": [
+      0.8723852038383484,
+      0.7694319486618042,
+      0.6526159644126892,
+      0.6438121795654297,
+      0.641257643699646,
+      0.6382248401641846,
+      0.6371051073074341,
+      0.6310067772865295,
+      0.6260696649551392,
+      0.6217202544212341
+    ],
+    "doc_count": 677,
+    "representative_docs": [
+      "Oppo find x9 pro.",
+      "Oppo Find X9 Pro",
+      "And then for Oppo FindX10"
+    ]
+  },
+  {
+    "id": 4,
+    "label": "personal preference_preference_priorities",
+    "top_words": [
+      "personal preference",
+      "preference",
+      "priorities",
+      "important",
+      "agree",
+      "personal",
+      "decision",
+      "true",
+      "choice",
+      "difference"
+    ],
+    "top_word_scores": [
+      0.5375857353210449,
+      0.5229780673980713,
+      0.5071004629135132,
+      0.4292067587375641,
+      0.3983699381351471,
+      0.3818700909614563,
+      0.3804163932800293,
+      0.36524781584739685,
+      0.3650653660297394,
+      0.3584250509738922
+    ],
+    "doc_count": 425,
+    "representative_docs": [
+      "Much more important is the huge difference in autonomy (literally 30% difference)",
+      "I don't think you can go wrong with either, it's about personal preference.",
+      "Each person's priorities are going to be different but mine goes from most important to least: 1."
+    ]
+  },
+  {
+    "id": 5,
+    "label": "photo mode_modes_mode",
+    "top_words": [
+      "photo mode",
+      "modes",
+      "mode",
+      "mode just",
+      "portrait mode",
+      "master mode",
+      "pro mode",
+      "settings",
+      "setting",
+      "default"
+    ],
+    "top_word_scores": [
+      0.6232280731201172,
+      0.6202090978622437,
+      0.5954879522323608,
+      0.5912855863571167,
+      0.5808404684066772,
+      0.5099785923957825,
+      0.5059075951576233,
+      0.49243834614753723,
+      0.37373602390289307,
+      0.34440645575523376
+    ],
+    "doc_count": 348,
+    "representative_docs": [
+      "when you say humanistic street photo mode....is this a toggle or mode that's available in all cases or only in portrait mode?",
+      "Update, found the option for double tap for the volume up button, I think that will work too double-tap",
+      "You can use them in whatever mode you want."
+    ]
+  },
+  {
+    "id": 6,
+    "label": "chinese versions_chinese version_global chinese",
+    "top_words": [
+      "chinese versions",
+      "chinese version",
+      "global chinese",
+      "global version",
+      "eu version",
+      "global",
+      "chinese rom",
+      "global rom",
+      "globally",
+      "chinese phone"
+    ],
+    "top_word_scores": [
+      0.7557433843612671,
+      0.7294691801071167,
+      0.6998950839042664,
+      0.6994433999061584,
+      0.5630123019218445,
+      0.5570619106292725,
+      0.5509452223777771,
+      0.5396032333374023,
+      0.536473274230957,
+      0.5160244107246399
+    ],
+    "doc_count": 301,
+    "representative_docs": [
+      "I can't unsee the Chinese texts",
+      "Since one is chinese and other is global",
+      "chinese or global version?"
+    ]
+  },
+  {
+    "id": 7,
+    "label": "enjoy_thanks_thank",
+    "top_words": [
+      "enjoy",
+      "thanks",
+      "thank",
+      "thank sharing",
+      "thanks sharing",
+      "appreciate",
+      "try thanks",
+      "amazing",
+      "happy",
+      "message"
+    ],
+    "top_word_scores": [
+      0.5458377003669739,
+      0.46900907158851624,
+      0.45017021894454956,
+      0.4389946758747101,
+      0.4192177355289459,
+      0.39781638979911804,
+      0.36643674969673157,
+      0.3646456301212311,
+      0.342641144990921,
+      0.3421705961227417
+    ],
+    "doc_count": 293,
+    "representative_docs": [
+      "that's very helpful, thank you.",
+      "Thank you so much!",
+      "Thank you so much!"
+    ]
+  },
+  {
+    "id": 8,
+    "label": "battery life_battery_battery health",
+    "top_words": [
+      "battery life",
+      "battery",
+      "battery health",
+      "battery lasts",
+      "battery size",
+      "version battery",
+      "battery capacity",
+      "batteries",
+      "6500mah",
+      "battery saver"
+    ],
+    "top_word_scores": [
+      0.821560800075531,
+      0.7744346857070923,
+      0.7266083359718323,
+      0.7170844674110413,
+      0.7048846483230591,
+      0.6581491827964783,
+      0.6565300226211548,
+      0.6502497792243958,
+      0.6035374402999878,
+      0.579931914806366
+    ],
+    "doc_count": 238,
+    "representative_docs": [
+      "how is the battery?",
+      "Give the battery sometime.",
+      "How much is battery"
+    ]
+  },
+  {
+    "id": 9,
+    "label": "es_una_por",
+    "top_words": [
+      "es",
+      "una",
+      "por",
+      "se non",
+      "pero",
+      "que",
+      "ma non",
+      "lato",
+      "sono",
+      "si"
+    ],
+    "top_word_scores": [
+      0.47568538784980774,
+      0.43381497263908386,
+      0.4111991822719574,
+      0.4005468785762787,
+      0.39683860540390015,
+      0.3947395980358124,
+      0.39275845885276794,
+      0.3783339262008667,
+      0.35996517539024353,
+      0.34416308999061584
+    ],
+    "doc_count": 180,
+    "representative_docs": [
+      "Creo que no, es simplemente que nos lo mandarán o se activará después de la presentación que es a las 17:00...pregunta...¿crees que vale la pena con descuento a 1099 euros la versión global respecto a los 859 euros de trading senchen la versión china?",
+      "En resumen, no vale la pena la versión global a menos que seas fanático de Vivo.",
+      "El sistema chino tiende a tener mejor soporte y más características comprar el modelo global es la idiotez más grande si te das cuenta que el sistema es dta siempre detrás 1 o más semanas en actualización y de paso la batería,por qué igualmente el asistente de IA global con la localización en Español supongo que tampoco existe así que"
+    ]
+  },
+  {
+    "id": 10,
+    "label": "haptics best_best haptics_haptics",
+    "top_words": [
+      "haptics best",
+      "best haptics",
+      "haptics",
+      "haptic",
+      "speakers haptics",
+      "haptic feedback",
+      "vibrate",
+      "vibrations",
+      "hinge",
+      "vibration"
+    ],
+    "top_word_scores": [
+      0.8908764123916626,
+      0.8786994218826294,
+      0.8337327241897583,
+      0.7728533148765564,
+      0.7152620553970337,
+      0.6901921033859253,
+      0.3992728292942047,
+      0.3888140916824341,
+      0.35989147424697876,
+      0.35008999705314636
+    ],
+    "doc_count": 127,
+    "representative_docs": [
+      "The Haptics did feel better on my OP13 but they're pretty decent on the X300Pro as well, I think it comes down to preference and also the type of case you use probably impacts the feel as well, I didn't use a case on my OP13 for the longest time and I have the stock case that came with the X300Pro right now until I get the Lens extender kit and the case that comes with that.",
+      "Haptics is so good and tighter.",
+      "How are the haptics?"
+    ]
+  },
+  {
+    "id": 11,
+    "label": "heating_warm_gets hot",
+    "top_words": [
+      "heating",
+      "warm",
+      "gets hot",
+      "temps",
+      "doesn heat",
+      "thermal",
+      "heats",
+      "temperature",
+      "heat",
+      "heating issues"
+    ],
+    "top_word_scores": [
+      0.5237399935722351,
+      0.5033583641052246,
+      0.5002345442771912,
+      0.4936251938343048,
+      0.4890165328979492,
+      0.4724070727825165,
+      0.4656243920326233,
+      0.4643356502056122,
+      0.46226537227630615,
+      0.45914342999458313
+    ],
+    "doc_count": 78,
+    "representative_docs": [
+      "Cons: • Heat, the phone gets hot fast, especially when holding it in direct sunlight.",
+      "Does any of them get warm or hot doing normal tasks?",
+      "and I'm not doing any heavy gaming, but I do use the phone under the hot Indian sun taking photos, and it barely gets warm."
+    ]
+  },
+  {
+    "id": 12,
+    "label": "spatial audio_audio_dolby",
+    "top_words": [
+      "spatial audio",
+      "audio",
+      "dolby",
+      "sound quality",
+      "speakers",
+      "speakers average",
+      "speakers say",
+      "speakers oppo",
+      "music",
+      "sound"
+    ],
+    "top_word_scores": [
+      0.6644457578659058,
+      0.5395971536636353,
+      0.5065481066703796,
+      0.4520294666290283,
+      0.3985501825809479,
+      0.3949015140533447,
+      0.38233867287635803,
+      0.3781167268753052,
+      0.37406235933303833,
+      0.3431718051433563
+    ],
+    "doc_count": 51,
+    "representative_docs": [
+      "like dolby atmos or smth and if apple music supports spatial audio playback?",
+      "like dolby atmos or smth and if apple music supports spatial audio playback?",
+      "like dolby atmos or smth and if apple music supports spatial audio playback?"
+    ]
+  },
+  {
+    "id": 13,
+    "label": "teleconverter kit_teleconverter_tele extender",
+    "top_words": [
+      "teleconverter kit",
+      "teleconverter",
+      "tele extender",
+      "tele",
+      "converter",
+      "vivo x200",
+      "recording vivo",
+      "did x300",
+      "x300 got",
+      "x300"
+    ],
+    "top_word_scores": [
+      0.7604144811630249,
+      0.7109873294830322,
+      0.5792972445487976,
+      0.5026307702064514,
+      0.43921446800231934,
+      0.4275830090045929,
+      0.3900516629219055,
+      0.38555556535720825,
+      0.3586159944534302,
+      0.3516070544719696
+    ],
+    "doc_count": 31,
+    "representative_docs": [
+      "Now back to Vivo X300 with a Teleconverter kit.",
+      "Nop, still waiting for my tele converter kit.",
+      "Tele converter kit is 20K cheaper 4."
+    ]
+  },
+  {
+    "id": 14,
+    "label": "youtube channel_youtube_youtube videos",
+    "top_words": [
+      "youtube channel",
+      "youtube",
+      "youtube videos",
+      "youtube reviews",
+      "youtube comparisons",
+      "video",
+      "youtuber",
+      "videos",
+      "watch youtube",
+      "youtubers"
+    ],
+    "top_word_scores": [
+      0.7225660681724548,
+      0.6933541893959045,
+      0.6902065277099609,
+      0.6079424023628235,
+      0.585267186164856,
+      0.5797128081321716,
+      0.5752109885215759,
+      0.5703359246253967,
+      0.5598275661468506,
+      0.5401654243469238
+    ],
+    "doc_count": 30,
+    "representative_docs": [
+      "Throughout the video, there was - 1.",
+      "Not just in youtube",
+      "There is a video on youtube in Versus channel."
+    ]
+  },
+  {
+    "id": 15,
+    "label": "posts comments_comments_deleting",
+    "top_words": [
+      "posts comments",
+      "comments",
+      "deleting",
+      "commenting",
+      "comment",
+      "removed",
+      "commenter",
+      "delete",
+      "remove",
+      "posts"
+    ],
+    "top_word_scores": [
+      0.5984640121459961,
+      0.440650075674057,
+      0.4341185390949249,
+      0.43340253829956055,
+      0.407960444688797,
+      0.38376110792160034,
+      0.3670789897441864,
+      0.3628014922142029,
+      0.35938942432403564,
+      0.3590390980243683
+    ],
+    "doc_count": 30,
+    "representative_docs": [
+      "Hope this address your concern regarding comments being removed.",
+      "Advice is not to spam identical comments and posts, it will be treated as spam by Reddit and get removed automatically without even notifying mods about it.",
+      "Your comments are caught by Reddit filters, not removed by mods."
+    ]
+  },
+  {
+    "id": 16,
+    "label": "tests_test_testing",
+    "top_words": [
+      "tests",
+      "test",
+      "testing",
+      "results",
+      "compare",
+      "comparison",
+      "identical",
+      "success rate",
+      "difference",
+      "outcome"
+    ],
+    "top_word_scores": [
+      0.7158926725387573,
+      0.6879734992980957,
+      0.6807669401168823,
+      0.34631896018981934,
+      0.3326112926006317,
+      0.33011868596076965,
+      0.2591872215270996,
+      0.2453586906194687,
+      0.23987840116024017,
+      0.22751225531101227
+    ],
+    "doc_count": 18,
+    "representative_docs": [
+      "It would be an interesting test.",
+      "It seems I should test both before getting one",
+      "His first test resulted in 12 hours on 26.0.1, while in this test it went down to 9 hours."
+    ]
+  },
+  {
+    "id": 17,
+    "label": "impossible_possible_sadly",
+    "top_words": [
+      "impossible",
+      "possible",
+      "sadly",
+      "nope",
+      "wondering",
+      "option",
+      "easy",
+      "looks like",
+      "searched",
+      "don think"
+    ],
+    "top_word_scores": [
+      0.623790979385376,
+      0.5009012818336487,
+      0.35875561833381653,
+      0.3346603214740753,
+      0.30208253860473633,
+      0.29803603887557983,
+      0.2917669117450714,
+      0.2877901792526245,
+      0.2614009380340576,
+      0.25823476910591125
+    ],
+    "doc_count": 18,
+    "representative_docs": [
+      "Is it still possible?",
+      "It's not possible now.",
+      "Don't really think so, searched a lot"
+    ]
+  },
+  {
+    "id": 18,
+    "label": "bokeh effect_bokeh_creamy bokeh",
+    "top_words": [
+      "bokeh effect",
+      "bokeh",
+      "creamy bokeh",
+      "lense",
+      "lens",
+      "bloat",
+      "blur",
+      "background blur",
+      "lenses",
+      "natural"
+    ],
+    "top_word_scores": [
+      0.748900294303894,
+      0.706247866153717,
+      0.6597340703010559,
+      0.3376566767692566,
+      0.30912914872169495,
+      0.302683025598526,
+      0.28558409214019775,
+      0.28073248267173767,
+      0.2768824100494385,
+      0.26052501797676086
+    ],
+    "doc_count": 15,
+    "representative_docs": [
+      "But the bokeh effect is overdone and looks fake.",
+      "but some photos don't seem like they were taken in portrait mode and still got that bokeh can you post a sample of a natural lens bokeh at 10x zoom ?",
+      "Talking about that juicy bokeh."
+    ]
+  }
+]
