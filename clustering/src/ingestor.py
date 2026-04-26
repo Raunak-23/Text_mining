@@ -35,7 +35,6 @@ class GDELTIngestor:
                 with z.open(csv_filename) as f:
                     df = pd.read_csv(f, sep='\t', header=None, low_memory=False, encoding='utf-8')
         except Exception as e:
-            print(f" Error unzipping/reading CSV: {e}")
             return None
         
         # Dynamic column mapping to prevent 'Length Mismatch'
