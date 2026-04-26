@@ -1,0 +1,697 @@
+{
+  "nodes": [
+    {
+      "id": "Samsung S25 Ultra",
+      "type": "product",
+      "label": "Samsung S25 Ultra",
+      "topic_ids": [],
+      "doc_count": 17630,
+      "top_words": []
+    },
+    {
+      "id": "Hardware",
+      "type": "category",
+      "label": "Hardware",
+      "topic_ids": [],
+      "doc_count": 2279,
+      "top_words": []
+    },
+    {
+      "id": "Camera",
+      "type": "aspect",
+      "label": "Camera",
+      "topic_ids": [
+        3
+      ],
+      "doc_count": 1359,
+      "top_words": [
+        "camera",
+        "camera app",
+        "cameras",
+        "photography",
+        "shutter",
+        "gcam",
+        "photos",
+        "google photos",
+        "lens",
+        "zoom"
+      ]
+    },
+    {
+      "id": "Battery",
+      "type": "aspect",
+      "label": "Battery",
+      "topic_ids": [
+        4
+      ],
+      "doc_count": 920,
+      "top_words": [
+        "battery life",
+        "battery usage",
+        "better battery",
+        "battery",
+        "battery drain",
+        "battery just",
+        "battery battery",
+        "5000mah",
+        "power saving",
+        "new battery"
+      ]
+    },
+    {
+      "id": "Software",
+      "type": "category",
+      "label": "Software",
+      "topic_ids": [],
+      "doc_count": 717,
+      "top_words": []
+    },
+    {
+      "id": "AI",
+      "type": "aspect",
+      "label": "AI",
+      "topic_ids": [
+        7,
+        12
+      ],
+      "doc_count": 717,
+      "top_words": [
+        "ai",
+        "use ai",
+        "ai features",
+        "gemini ai",
+        "galaxy ai",
+        "ai select",
+        "generative ai",
+        "innovation",
+        "technology",
+        "innovative"
+      ]
+    },
+    {
+      "id": "Value",
+      "type": "category",
+      "label": "Value",
+      "topic_ids": [],
+      "doc_count": 11027,
+      "top_words": []
+    },
+    {
+      "id": "Pricing",
+      "type": "aspect",
+      "label": "Pricing",
+      "topic_ids": [
+        0,
+        5
+      ],
+      "doc_count": 9566,
+      "top_words": [
+        "s25 ultra",
+        "s24 ultra",
+        "s23 ultra",
+        "s25",
+        "s25u",
+        "s26 ultra",
+        "s22 ultra",
+        "s24",
+        "s24u",
+        "s23u"
+      ]
+    },
+    {
+      "id": "Ecosystem",
+      "type": "aspect",
+      "label": "Ecosystem",
+      "topic_ids": [
+        6,
+        8,
+        11,
+        14,
+        15,
+        17
+      ],
+      "doc_count": 1461,
+      "top_words": [
+        "screen protector",
+        "screen protectors",
+        "glass screen",
+        "protector",
+        "use screen",
+        "protectors",
+        "screen",
+        "screens",
+        "reflective screen",
+        "bezels"
+      ]
+    },
+    {
+      "id": "topic_0",
+      "type": "topic",
+      "label": "s25 ultra_s24 ultra_s23 ultra",
+      "topic_ids": [
+        0
+      ],
+      "doc_count": 8736,
+      "top_words": [
+        "s25 ultra",
+        "s24 ultra",
+        "s23 ultra",
+        "s25",
+        "s25u",
+        "s26 ultra",
+        "s22 ultra",
+        "s24",
+        "s24u",
+        "s23u"
+      ]
+    },
+    {
+      "id": "topic_3",
+      "type": "topic",
+      "label": "camera_camera app_cameras",
+      "topic_ids": [
+        3
+      ],
+      "doc_count": 1359,
+      "top_words": [
+        "camera",
+        "camera app",
+        "cameras",
+        "photography",
+        "shutter",
+        "gcam",
+        "photos",
+        "google photos",
+        "lens",
+        "zoom"
+      ]
+    },
+    {
+      "id": "topic_4",
+      "type": "topic",
+      "label": "battery life_battery usage_better battery",
+      "topic_ids": [
+        4
+      ],
+      "doc_count": 920,
+      "top_words": [
+        "battery life",
+        "battery usage",
+        "better battery",
+        "battery",
+        "battery drain",
+        "battery just",
+        "battery battery",
+        "5000mah",
+        "power saving",
+        "new battery"
+      ]
+    },
+    {
+      "id": "topic_5",
+      "type": "topic",
+      "label": "best buy_deals_good deal",
+      "topic_ids": [
+        5
+      ],
+      "doc_count": 830,
+      "top_words": [
+        "best buy",
+        "deals",
+        "good deal",
+        "don buy",
+        "deal",
+        "buy",
+        "purchase",
+        "discount",
+        "price",
+        "restocking fee"
+      ]
+    },
+    {
+      "id": "topic_6",
+      "type": "topic",
+      "label": "screen protector_screen protectors_glass screen",
+      "topic_ids": [
+        6
+      ],
+      "doc_count": 757,
+      "top_words": [
+        "screen protector",
+        "screen protectors",
+        "glass screen",
+        "protector",
+        "use screen",
+        "protectors",
+        "screen",
+        "screens",
+        "reflective screen",
+        "bezels"
+      ]
+    },
+    {
+      "id": "topic_7",
+      "type": "topic",
+      "label": "ai_use ai_ai features",
+      "topic_ids": [
+        7
+      ],
+      "doc_count": 618,
+      "top_words": [
+        "ai",
+        "use ai",
+        "ai features",
+        "gemini ai",
+        "galaxy ai",
+        "ai select",
+        "generative ai",
+        "innovation",
+        "technology",
+        "innovative"
+      ]
+    },
+    {
+      "id": "topic_8",
+      "type": "topic",
+      "label": "fold_folds_tri fold",
+      "topic_ids": [
+        8
+      ],
+      "doc_count": 417,
+      "top_words": [
+        "fold",
+        "folds",
+        "tri fold",
+        "foldable",
+        "foldables",
+        "folded",
+        "flip7",
+        "trifold",
+        "flip phone",
+        "flip"
+      ]
+    },
+    {
+      "id": "topic_11",
+      "type": "topic",
+      "label": "apple music_music apple_spotify music",
+      "topic_ids": [
+        11
+      ],
+      "doc_count": 157,
+      "top_words": [
+        "apple music",
+        "music apple",
+        "spotify music",
+        "spotify",
+        "music use",
+        "itunes",
+        "music",
+        "listen music",
+        "audio playback",
+        "audio"
+      ]
+    },
+    {
+      "id": "topic_12",
+      "type": "topic",
+      "label": "galaxy guide_guide powered_galaxy",
+      "topic_ids": [
+        12
+      ],
+      "doc_count": 99,
+      "top_words": [
+        "galaxy guide",
+        "guide powered",
+        "galaxy",
+        "operated human",
+        "ai powered",
+        "intelligence operated",
+        "powered artificial",
+        "samsung",
+        "guide",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "id": "topic_14",
+      "type": "topic",
+      "label": "anker products_anker_try anker",
+      "topic_ids": [
+        14
+      ],
+      "doc_count": 59,
+      "top_words": [
+        "anker products",
+        "anker",
+        "try anker",
+        "anker nano",
+        "anker ugreen",
+        "issues anker",
+        "good brand",
+        "brand",
+        "brand just",
+        "reputable brand"
+      ]
+    },
+    {
+      "id": "topic_15",
+      "type": "topic",
+      "label": "hypertension_apple watch_blood pressure",
+      "topic_ids": [
+        15
+      ],
+      "doc_count": 51,
+      "top_words": [
+        "hypertension",
+        "apple watch",
+        "blood pressure",
+        "watch ultra",
+        "smartwatch",
+        "heart rate",
+        "notifications like",
+        "notifications",
+        "heartbeat",
+        "watch series"
+      ]
+    },
+    {
+      "id": "topic_17",
+      "type": "topic",
+      "label": "ecosystem_ecosystems_ecosystem really",
+      "topic_ids": [
+        17
+      ],
+      "doc_count": 20,
+      "top_words": [
+        "ecosystem",
+        "ecosystems",
+        "ecosystem really",
+        "ecosystem switch",
+        "buy ecosystem",
+        "tied ecosystem",
+        "longevity ecosystem",
+        "eco",
+        "forest",
+        "limitations"
+      ]
+    },
+    {
+      "id": "Other",
+      "type": "category",
+      "label": "Other",
+      "topic_ids": [],
+      "doc_count": 3607,
+      "top_words": []
+    },
+    {
+      "id": "topic_1",
+      "type": "topic",
+      "label": "instagram_version instagram_reported",
+      "topic_ids": [
+        1
+      ],
+      "doc_count": 1549,
+      "top_words": [
+        "instagram",
+        "version instagram",
+        "reported",
+        "report",
+        "issue",
+        "fixed",
+        "privacy display",
+        "privacy screen",
+        "fix",
+        "profile"
+      ]
+    },
+    {
+      "id": "topic_2",
+      "type": "topic",
+      "label": "agree_right_really",
+      "topic_ids": [
+        2
+      ],
+      "doc_count": 1499,
+      "top_words": [
+        "agree",
+        "right",
+        "really",
+        "honestly",
+        "say",
+        "oh",
+        "said",
+        "reddit",
+        "just",
+        "mean"
+      ]
+    },
+    {
+      "id": "topic_9",
+      "type": "topic",
+      "label": "batería_es_en el",
+      "topic_ids": [
+        9
+      ],
+      "doc_count": 227,
+      "top_words": [
+        "batería",
+        "es",
+        "en el",
+        "pero",
+        "del dispositivo",
+        "que le",
+        "que",
+        "por",
+        "problema",
+        "cara"
+      ]
+    },
+    {
+      "id": "topic_10",
+      "type": "topic",
+      "label": "thanks_thanks sharing_time thank",
+      "topic_ids": [
+        10
+      ],
+      "doc_count": 208,
+      "top_words": [
+        "thanks",
+        "thanks sharing",
+        "time thank",
+        "thank",
+        "thanks ll",
+        "thanks info",
+        "glad",
+        "thank detailed",
+        "appreciate",
+        "thank answer"
+      ]
+    },
+    {
+      "id": "topic_13",
+      "type": "topic",
+      "label": "esim_sim card_sim",
+      "topic_ids": [
+        13
+      ],
+      "doc_count": 74,
+      "top_words": [
+        "esim",
+        "sim card",
+        "sim",
+        "dual sim",
+        "switch sim",
+        "pull sim",
+        "imei",
+        "sim model",
+        "sims",
+        "china does"
+      ]
+    },
+    {
+      "id": "topic_16",
+      "type": "topic",
+      "label": "hopefully_hopefully ll_look soon",
+      "topic_ids": [
+        16
+      ],
+      "doc_count": 35,
+      "top_words": [
+        "hopefully",
+        "hopefully ll",
+        "look soon",
+        "soon",
+        "soon don",
+        "ll look",
+        "preview",
+        "waiting think",
+        "think finally",
+        "look"
+      ]
+    },
+    {
+      "id": "topic_18",
+      "type": "topic",
+      "label": "green lines_green line_lines",
+      "topic_ids": [
+        18
+      ],
+      "doc_count": 15,
+      "top_words": [
+        "green lines",
+        "green line",
+        "lines",
+        "green",
+        "line appeared",
+        "line",
+        "getting green",
+        "line just",
+        "years green",
+        "lines screen"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "Samsung S25 Ultra",
+      "target": "Hardware",
+      "weight": 2279
+    },
+    {
+      "source": "Samsung S25 Ultra",
+      "target": "Software",
+      "weight": 717
+    },
+    {
+      "source": "Samsung S25 Ultra",
+      "target": "Value",
+      "weight": 11027
+    },
+    {
+      "source": "Samsung S25 Ultra",
+      "target": "Other",
+      "weight": 3607
+    },
+    {
+      "source": "Hardware",
+      "target": "Camera",
+      "weight": 1359
+    },
+    {
+      "source": "Hardware",
+      "target": "Battery",
+      "weight": 920
+    },
+    {
+      "source": "Camera",
+      "target": "topic_3",
+      "weight": 1359
+    },
+    {
+      "source": "Battery",
+      "target": "topic_4",
+      "weight": 920
+    },
+    {
+      "source": "Software",
+      "target": "AI",
+      "weight": 717
+    },
+    {
+      "source": "AI",
+      "target": "topic_7",
+      "weight": 618
+    },
+    {
+      "source": "AI",
+      "target": "topic_12",
+      "weight": 99
+    },
+    {
+      "source": "Value",
+      "target": "Pricing",
+      "weight": 9566
+    },
+    {
+      "source": "Value",
+      "target": "Ecosystem",
+      "weight": 1461
+    },
+    {
+      "source": "Pricing",
+      "target": "topic_0",
+      "weight": 8736
+    },
+    {
+      "source": "Pricing",
+      "target": "topic_5",
+      "weight": 830
+    },
+    {
+      "source": "Ecosystem",
+      "target": "topic_6",
+      "weight": 757
+    },
+    {
+      "source": "Ecosystem",
+      "target": "topic_8",
+      "weight": 417
+    },
+    {
+      "source": "Ecosystem",
+      "target": "topic_11",
+      "weight": 157
+    },
+    {
+      "source": "Ecosystem",
+      "target": "topic_14",
+      "weight": 59
+    },
+    {
+      "source": "Ecosystem",
+      "target": "topic_15",
+      "weight": 51
+    },
+    {
+      "source": "Ecosystem",
+      "target": "topic_17",
+      "weight": 20
+    },
+    {
+      "source": "Other",
+      "target": "topic_1",
+      "weight": 1549
+    },
+    {
+      "source": "Other",
+      "target": "topic_2",
+      "weight": 1499
+    },
+    {
+      "source": "Other",
+      "target": "topic_9",
+      "weight": 227
+    },
+    {
+      "source": "Other",
+      "target": "topic_10",
+      "weight": 208
+    },
+    {
+      "source": "Other",
+      "target": "topic_13",
+      "weight": 74
+    },
+    {
+      "source": "Other",
+      "target": "topic_16",
+      "weight": 35
+    },
+    {
+      "source": "Other",
+      "target": "topic_18",
+      "weight": 15
+    }
+  ]
+}

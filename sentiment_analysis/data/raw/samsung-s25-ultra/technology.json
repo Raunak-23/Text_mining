@@ -1,0 +1,704 @@
+{
+  "product": "Samsung S25 Ultra",
+  "subreddit": "technology",
+  "fetched_at": "2026-04-26T16:50:51.260173+00:00",
+  "posts": [
+    {
+      "id": "1qn7dn7",
+      "title": "Samsung admits liability in exploded Galaxy S25 Plus case, user claims | The company is offering to compensate the user and cover their medical expenses.",
+      "selftext": "",
+      "score": 80,
+      "upvote_ratio": 0.93,
+      "num_comments": 6,
+      "url": "https://www.androidauthority.com/samsung-galaxy-s25-plus-explosion-case-3634441/",
+      "created_utc": 1769405648,
+      "comments": [
+        {
+          "id": "o1rqd0f",
+          "body": "I can think of four Samsung phone models off the top of my head that had some sort of high profile combustion event. How have they not figured this shit out yet?",
+          "score": 15,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "o1rv3r8",
+              "body": "*If you're reading this, the original post got nuked by [Redact](https://redact.dev). I use it to automatically purge my digital footprint from social networks, people search sites and messaging apps.*\n\nupbeat imminent meeting unite gold sharp pocket governor carpenter crush",
+              "score": 4,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "o1rwg9u",
+              "body": "Buying samsung is a lottery. Sometimes you get lucky sometimes you don’t. And all the Samsung things I owned only lasts 1-3 years. Wish someone else makes cool headphones like the Samsung live",
+              "score": 3,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "o1t9bjp",
+              "body": "Old battery tech expands with pressure, and has thermal runway issues. All modern batteries face this issue until solid state can mass scale.\n\nQuantumscape has focused on EV market first but their CE (consumer electronics) testing news here and there over the last 2-3 years is promising with 0 pressure and 0 expanding issues for CE testing.\n\nProbably 3-5 years until we see one in a phone, maybe 10.\n\nFocus on mass production scaling got ev cells has been the milestones for 2025.",
+              "score": -3,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "o1ty1zd",
+                  "body": "But somehow other manufacturers have avoided having any phones explode in users pockets… this isn’t a battery tech issue it’s a Samsung issue and it’s been happening for a decade.",
+                  "score": 4,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1przoet",
+      "title": "One year on, many Android users still can't use audio in their cars properly | Google acknowledged the issue several months ago, but has yet to fix it.",
+      "selftext": "",
+      "score": 344,
+      "upvote_ratio": 0.94,
+      "num_comments": 86,
+      "url": "https://www.androidauthority.com/google-pixel-android-car-bluetooth-audio-bug-3626636/",
+      "created_utc": 1766298082,
+      "comments": [
+        {
+          "id": "nv5s3r3",
+          "body": "Pixel 10 pro. Have to unplug and plug my phone back in for Android auto to work at all.  Wife's iPhone works right away. Tried different cables, even switched phones recently.\n\nTidal is also a wreck, after a few songs it just dies and you can't get it to start going again.",
+          "score": 72,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nv5w49b",
+              "body": "Pixel 6 pro. I have a USB wifi adapter that connects the phone to my 2020s car no issue. Perhaps this issue is newer Pixels",
+              "score": 25,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nv5wwat",
+                  "body": "Same phone but wireless, no issues.",
+                  "score": 8,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nv5xj56",
+                      "body": "Mine is a dongle. My phone automatically is connected. Love the seamless connection",
+                      "score": 4,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "nvd3h2a",
+                  "body": "My 8 pro connects very reliably to my car with a wireless dongle and my wife's truck with USB.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": []
+                },
+                {
+                  "id": "nvdifmo",
+                  "body": "7 pro, using AAWireless 2. 0 issues connecting. Only problems I have is thanks to Subaru being subaru",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                },
+                {
+                  "id": "nv665pj",
+                  "body": "I have a 9a that replaced a 7a, both are flakey and unreliable but usable most of the time. RAZR 40 Ultra works as expected 100% of the time.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "nv6exf1",
+              "body": "Wife uses a Samsung that conects without issue. Maybe it's a Pixel specific issue?",
+              "score": 9,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nv6fpwt",
+                  "body": "I've used AA with Samsungs without flaw for years. Currently, my S25U is attached to my 24 F150 like they were made for each other and I've never had an issue in my 1 full year of ownership.",
+                  "score": 5,
+                  "depth": 2,
+                  "replies": []
+                },
+                {
+                  "id": "nv6u7bq",
+                  "body": "My Samsung can't keep a wireless Android Auto alive to save my life",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nv89uhd",
+                      "body": "Sorry, boss. Mine (S24U) works extremely well unless I'm in a few specific areas. Some signal in the same places every time just boots me off.\n\nThere's a coffee shop that is nearby that if I sit there my phone will disconnect and reconnect repeatedly until I leave the area",
+                      "score": 2,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "nva91yn",
+              "body": "Weird, I have a Pixel 10 Pro as well with a Mazda CX-50 and android auto works flawlessly when plugged in, but sometimes does have issues with the wireless connectivity, audio will cut out for a split second or two, or just have issues auto-connecting and I have to manually connect it",
+              "score": 2,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "nv6ryf3",
+              "body": "I was having issues with my one plus 13 and I got magnetic USB plugs and it works amazing and since you're not constantly unplugging the actual USB part, they stay firmly connected. I love them",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "nv7171m",
+              "body": "I have the same issue as you, but with my iPhone 15 pro max. Got a pixel 9a coming in for Xmas so I’m hoping it works. I’ll be returning it if the pixel has keyboard issues, screen is unresponsive and battery drain.. because what’s the point lol that’s what my iPhone does.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "nv7f1q7",
+              "body": "Curious: I assume Tidal works reliably without AA? The problem probably is testing the software with AA is usually done with a Head Unit Emulator at developer's desk. The system is far more complicated than it needs to be and it is poorly documented.\n\nTesting at your desk, if it crashes, you just look at logcat and it will tell you why. But this emulator doesn't represent the diversity of car head units out there, each of which work a bit different. So, if something goes wrong, its much more difficult to get debugging information in the real-world car setting. Who has their development computer in their car?\n\nInterestingly, of my cars, the cheepo Chinese after-market head unit the one that works best. The horrible Mazda head unit is the worst.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "nv7gvr2",
+              "body": "Pixel 8. Connecting to AA via cable or wireless dongle works fine, but if audio starts immediately when AA connects (Tidal, Spotify, etc), the audio will skip ahead about 2 seconds every few seconds. But if I let AA connect right away and delay playing audio for a few minutes, the audio playback is fine.\n\nI haven't figure out yet if it's somehow related to a) how long the car has been running b) how long AA has been running or c) some other set of factors. But it sure is annoying.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "nviqjtt",
+              "body": "Omg I thought it was something wrong with my car stereo. It also will switch from regular phone speaker when some one answers or it reaches voicemail and reconnect to the stereo audio. It's so weird",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "nvknr3i",
+              "body": "Pixel 7, no issues.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "nv5tq6n",
+              "body": "Not on a pixel but had constant cut outs on android auto, switched to a cheap USB device that makes android auto wireless. Not perfect but much better. YMMV.",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nv79ao8",
+                  "body": "And if you have an older car that doesn't have fast charging for android auto port, its a much better solution imo than the data+power splitters.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nv64va1",
+          "body": "Finally seeing something about this now, I had this problem for years and I used to think it was my car. I had a Pixel and for the first 20 minutes or so of being in the  car the Bluetooth would ping on and off which made it annoying for music but a nightmare for phonecalls, which I get a lot of. Once I switched to a Samsung the problem went away and I realized it was the phone all along.",
+          "score": 12,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nviqpu8",
+              "body": "Snap it has been kinda frustrating having my pixel 9 pro and I switched from iPhone. I wish I got an Samsung instead",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nv5xfwm",
+          "body": "If I use android auto in my car and change songs on Spotify too quickly, the entire android auto OS just freezes lol. Using a Z Fold 6 and driving a 2025 Hyundai Sonata N-Line.\n\nWeirdly enough though, my iPod works fine.",
+          "score": 23,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv65ue8",
+          "body": "Wow, I always assumed it was my car and not my phone.",
+          "score": 8,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv695ld",
+          "body": "They’re probably waiting for their AI to fix it.",
+          "score": 11,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nv6ptss",
+              "body": "Audio on Android has been a mess forever (I used to be an Android developer, I know). Current exec trends of firing engineers and forcing AI code is what Android needs like I need a hole in the head.",
+              "score": 15,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "nvagomz",
+              "body": "Genuinely, fixing stuff won’t get you an “exceeds expectations” on your yearly review. If you want to keep your job in the age of layoffs, you come up with a bullshit new product and release it to a big fanfare. When they kill it a couple of years later no-one will remember.",
+              "score": 5,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "nv7fq5p",
+              "body": "It's extremely difficult to code an AA media app without working with an AI to help with coding and debugging. The documentation is poor. Coding a navigation app is harder: it seems to be completely locked down.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "nv9sfcw",
+              "body": "maybe, seeing how it doesnt seem apparent that their engineers can",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nv6sq5g",
+          "body": "Is this a new car issue? I have a 2015 Kia & I've never had an issue connecting my Android phones (LG Velvet & Pixel 9).",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv7a7t2",
+          "body": "I've had a pixel 2, 4, 6 pro, and now a 9.\n\nIt's never been worse with the 9 for anything I do in the car. Even the voice controls don't work, why the fuck can it no longer navigate to an address or send messages with Whatsapp.\n\nIt drives me insane",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv67xbw",
+          "body": "Android Auto voice dialing is still broken.",
+          "score": 3,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nv6xcc8",
+              "body": "Is this a known issue? I bought my truck just over a year ago. First vehicle with AA. Got my S23 Ultra all set up and loved the voice dialing. One day it stopped working and I couldn't figure out what happened. I hadn't really searched but I was hoping that was what this article was about.",
+              "score": 2,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nv89vxd",
+                  "body": "Yeah, some (myself included) reporting that voice dialing reproducibly keeps dialing the wrong person or that voice dialing fails completely. Resetting the Android Auto app cache or resetting Android Auto solves the issue for a couple of days before it goes south again.\n\nThere is an issue reported in the android issue tracker, but no resolution yet.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nvbz375",
+                      "body": "I suggest unpairing your phone and setup again.  I had that issue and that fixed it. Other issues, putting the phone on airplane mode and back out of it would reset communication tables and reset the wifi connection making it better. .if that didn't work, a full phone restart would.  And it would fix it for about 40 days before another issue occured.\n\n\nThe phone also has problems transitioning from Wi-Fi calling if you're parked in your drive way or work, still on that wifi, when connecting to your car for AA.  Only when driving away out of range would it fully connect to the car and work fine over Cellular data for calls.",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "nvby896",
+              "body": "Mine works, it just does weird stuff In the first 30 seconds of turning on the car.  Like if I say OK GOOGLE CALL JOHN instead of it responding over my speakers, or from my pixel watch, or from the phone....it sits silently for like 10 seconds and then suddenly I hear a ring tone over the car speakers.  What I think is happening is the phone is still attached to Wi-Fi, and it's trying to use Wi-Fi from my house for work to process the request. But then it realizes it cant as I drive out of range of it, so then it switches to Cellular data, and then begins making the call.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nv5ygtt",
+          "body": "Mine works fine.... If I have Bluetooth on my phone on, and my car starts, my audio is instantly routed to my car. I've never had to reconnect or mess with it at all. Zero problems.",
+          "score": 7,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv67ljg",
+          "body": "what a mess. and Google can't even fix its own Pixel phones. this is why iPhones have such loyal customers - any issues get fixed quickly.",
+          "score": 4,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nv6zxhj",
+              "body": "Not all iPhone issues get fixed as quickly as I would like, but I don’t think there’s any widely used feature that’s fundamentally broken. \n\nI’m guessing it comes down to Dogfooding. If you are using the products you develop(voluntarily or forced), then you also know when something doesn’t work. Apple probably still has loads of employees at all tiers using their own products. Google has the issue that a lot of their employees don’t use Android.",
+              "score": 5,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "nv733ti",
+              "body": "The fact you think Apple is somehow different is pretty sad IMO. My wife just ditched her iPhone for ongoing performance issues that never got fixed. Her Samsung is running very nicely. I just had to upgrade my tablet as the old one was no longer supported by Android despite being perfectly good hardware. Two cheeks of the same arse my friend.",
+              "score": -2,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "nv7fek5",
+              "body": "Source: The Institute of People Who Don't Know What They're Talking About\n\n\nEdit: I assumed it was clear I was referring to things getting fixed right away but apparently not.",
+              "score": -1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nv7qz0u",
+                  "body": "nope... there's data from consumers to back that up: [https://appleinsider.com/articles/25/05/21/apple-iphone-still-dominates-consumer-smartphone-brand-loyalty-despite-modest-drop](https://appleinsider.com/articles/25/05/21/apple-iphone-still-dominates-consumer-smartphone-brand-loyalty-despite-modest-drop) \"New data shows that 89% bought another iPhone when upgrading. That figure, known as the loyalty rate, measures how often customers stick with the same brand.\" every other brand is far behind.",
+                  "score": -1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nv7ung3",
+                      "body": "I wasn't questioning the loyalty. I'm questioning things getting fixed right away. You know, the entire topic of this article and thread.",
+                      "score": 2,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nv614zl",
+          "body": "Samsung works great",
+          "score": 5,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nv65xt8",
+              "body": "I have S22 ultra and have had this issue for a while now. Totally blamed my car until I read this.",
+              "score": 15,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nv6arly",
+                  "body": "Same here with S23, I thought it was my Touareg.",
+                  "score": 3,
+                  "depth": 2,
+                  "replies": []
+                },
+                {
+                  "id": "nvdvrua",
+                  "body": "Same, 22 ultra also. Just upgraded from a 2012 prius to a 26 camry and was annoyed It always crashes in the same place leaving work and was a toss up if it would connect or not some mornings figuring it was a buggy car thing not the phone.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": []
+                },
+                {
+                  "id": "nv663gt",
+                  "body": "Really weird no issues on flip 5, or s25 ultra",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "nv6be6g",
+              "body": "I have an S22 and android auto runs like shit on my 2023 corolla",
+              "score": 4,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nv6gdoe",
+                  "body": "My last phone was a S23U before I recently upgraded to a S25U. The S23 was always wonky on my wife's 2022 Toyota Venza, but worked flawlessly on my 16 Lincoln and 24 F150. But the Toyota connected by wire for AA, and I have to wonder if there isn't a correlation (Corollarelation?) with Toyota. My wife has since bought a 24 Venza with the wireless AA and, while I connect very rarely with my S25, it has worked every time without issue.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nv6s7og",
+                      "body": "Yeah I use AAwireless adaptor as I don't like wires in my car it's great and works flawlessly",
+                      "score": 3,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nv6kj6r",
+          "body": "I do use AA in my car for Nav duties, but still prefer a USB stick or CDs for music.",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv640zg",
+          "body": "No issues with 1VI on a Chevy Bolt, it's been perfect, much better than Carplay was. Only car that has has issues is out Equinox EV, the USB audio connection doesn't work but it does not work with iPhone either so idk.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv64qbe",
+          "body": "On Pixel 8 when it is connected to the car and I receive a phone call I don't get any audio. When I make the call everything is fine...",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv6nmab",
+          "body": "Pixel 7 with a Jaguar XE, phone takes 5-20 minutes of constant dropouts before it establishes a proper connection.  GFs Samsung works 100 percent.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv6sfmo",
+          "body": "Motorola works fine except for random disconnects about 20 mins in, once reconnected it's fine again.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv6wo8b",
+          "body": "Wow, I've had this issue for ages and always just blamed it on my car being old from before Auto was even a thing baked into cars! \n\n2013 Prius, it's been happening since I upgraded to my S22+ back in '22. But it only fails to connect a fraction of the time, so it was always hard to pin down.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv6wq1w",
+          "body": "After the latest update to my Pixel 9, my Lexus info screen shows \"no data\"  when I connect my phone over Bluetooth and play from spotify. Worked fine before update.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv6ytvj",
+          "body": "My Pixel 6 regularly has issues with my Mazda SUV. Music skips every second or so, and the GPS voice has a stutter and the timing is odd when giving directions. Sometimes it will give me an exit to turn as I'm passing it by.\n\n\nI've gone all over the Internet for solutions and none of them seem to make a difference for very long.\n\n\nI either have to clear cache in my phone or restart the phone, neither of which are safe to do while driving.\n\n\nI miss plugging my old iPod into the aux port on my old car a decade ago. At least that reliably worked...",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nv8i07k",
+              "body": "Have a pixel 6 and a new VW with built in wireless android auto, no problems. Sometimes I get dropouts when the phone is in my pocket buried away from the head unit, but just moving it up a little fixes this. \n\n\nSame phone on a 2016 Skoda with a wireless AA dongle, no issues.\n\n\nPhone gets warm though and on long trips when I'm using the wireless charger, the phone will notify me of possible performance issues and limit the graphics of Google maps. Doesn't have an impact on navigation though. \nThe heat can't be good though.\n\n\nDo you charge while driving?",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nv9nfsm",
+                  "body": "Wired USB connection.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nv6z8b0",
+          "body": "10 pro fold, I tried everything I could: hard wired, Bluetooth, developer options bluetooth changes, and nothing fixed the skipping audio. It drove me insane. Then sometimes it just wouldn’t launch android auto, or if I got out and reconnected it would say it was playing audio but wasn’t. Then the fucking auto play every time I got in the car. I had to make settings changes in 3 different places to have it stop keeping YouTube music alive in the depths of the OS to play “Ring of fire” every time I get in the fucking car.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv7aybf",
+          "body": "Reminds of the time they 'acknowledged' there was an issue preventing users from using the voice assistant to play local audio files and instead would only bring up audio streaming services, this used to be an actual function that worked dang near flawlessly but now if you don't pay for a streaming service you just can't ask it to play a song anymore.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv7dhm5",
+          "body": "\"Good is the enemy of great.\"  AA works *most of the time.* I have a new car. The car microphone button *never* works with AA. It has not worked even once even after the car software was updated.  \n  \nAA's occasional unreliability is a problem for user satisfaction and for safety while AA's restrictive capabilities are a problem for innovation. It decided not to work yesterday. I rebooted the head unit. No joy. The head unit happily offered to mirror the screen with a cable connected rather than use AA (mirroring worked, AA did not).  So I rebooted the phone. Magically, Android Auto decided to connect. This is a problem. AA randomly decides not to work sometimes. And I have 3 cars each with different usage issues.   \n  \nI've successfully written an AA application for my own use and am somewhat schooled on this mess. The underlying system software is way too complicated. In regard to manufacturer's abandoning AA, at this point - despite it's obviously a cash grab - I can see how car manufacturer-specific solutions start to look appealing. With a bajillion employees, Google has no excuse not to get their shit together.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv7dwjq",
+          "body": "one plus 13 , android auto connected wireless via usb dongle from china , time to time on tunein app , connection restart itself other apps spotify, tidal , yutube music no issues , only on tunein once a month  is restarts itself like dongle was unplugged and plug back in , i blame tunein as is free version and when is connect back in have to listen  adds for minute or two and then no ads til disconnected itself in week or two",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv7xevm",
+          "body": "Android Auto sucks.  Every damn time I get out of the car during a road trip, it ends the trip and have to search for the destination again.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv7z7cp",
+          "body": "My car is over 20 years old. The fact that I will eventually have to purchase a car with a software operating system fills me with dread.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv86kjc",
+          "body": "Android Auto is also a steaming pile of shit.\n\nThe wireless connection is finicky, the audio skips/cuts out multiple times a minute with music, and it turns conference calls into incomprehensible robot noises.\n\nVery tempted to jump ship over to Apple because of this",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv8er4s",
+          "body": "android auto works for me all the time in three different cars with different samsung phones. Sound more like a pixel problem than samsung I get that with so many devices out there and so many cars at different os levels that problems can occur.  When you have 10s of millions how to quantify a widespread problem? Article left out a lot of detail.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv9jxit",
+          "body": "I seriously regret \"upgrading\" from my galaxy 8 to a pixel 9a.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nva029r",
+          "body": "Every Pixel I have ever had since I got my first Pixel (Pixel 2) has had funky issues with the Bluetooth in cars.\n\nTaking forever to connect, skipping audio, audio playback stopping when skipping tracks requiring disconnection and re-connection to resolve temporarily.\n\nWorks fine with earbuds, Bluetooth speakers in my house, etc.\n\nThe Galaxy and iPhones I have had have had no such issues.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nvbmky9",
+          "body": "That’s fucking insane, like how is this even possible?",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nvborkv",
+          "body": "Have had many phones in the past. My previous phone, the Flip Z 5, was fine. This Pixel Pro 10 though? Only recently do I feel like the weird scroll stutter was fixed, but now I'm trying to figure out why Android Auto sounds so bad on this while it was fine on my Samsung and Sony phones.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nvbxtkd",
+          "body": "I always fixed this issue by restarting my phone, but it was usually because my phone was connecting by Bluetooth and it has to 'connect' also by WiFi my deck provides.  Which I always found funny that phone calls over Bluetooth only, and all android drive is over wifi...and most times my phone would get confused and auto connect to my dashcams wifi and not the preferred deck said.  Had to make it never auto connect to the dashcam wifi...but when I want to connect to the dash cam to review video, the vehicle has to be turned on which of course causes the deck to connect as preferred, making it a cycle of headaches of flipping settings on and off...and I blame manufacturers using old Bluetooth standards instead of the latest ones to allow multi connections and higher throughput rather than wifi connections.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nvbxwf3",
+          "body": "Remember when you could just plug in an AUX cord? I hate modern tech",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nvc4tgq",
+          "body": "Pixel 9 and 2021 Mazda CX-5 with no issues.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nvf5i5c",
+          "body": "I get seemingly random freezes with my Nothing Phone 3, in my Golf. It's not the car, as I can press one of the other buttons that relate to the car and then back to AA and it works again. I've tried all the things too, no joy.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nvgc4lc",
+          "body": "never even heard of this issue let alone experienced it.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nvgutgn",
+          "body": "I have a 2016 with raw Bluetooth audio, works great. The work car is a 2022 Kia soul. I have had to fully delete my phone from the car, reboot both, then readd on multiple occasions.\n\nI have never successfully rented a car with Android Auto what's worked out of the gate or well.\n\nPixel9a",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv6629b",
+          "body": "Getting a Pixel 8 has been the worst experience for using Android Auto.\n\nThe bluetooth connection to the head unit takes longer and longer each time, until I restart just the bluetooth on my pixel.... restarting the phone doesn't fix it, it has to be just the bluetooth.\n\nInitially I had major freezing issues anywhere from immediately to 30 mins of use.  I changed the cable, and traced where it goes into my head unit to check for breaks.  The only solution is to replug the cable.  Updating the head unit firmware fixed this 99% of the time.\n\nMost annoyingly is after a forced update a while ago Android Auto will randomly jump audio for the first minute of operation.  I thought it was spotify but it will do it within any app or even a phone call.  I have found no solution to this yet.\n\nNone of these were an issue with my Fold 3, which worked flawlessly every time.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv61wym",
+          "body": "Audio works for me but I can't use the built in Qi charger with my Pixel 10 Pro and the battery life has been so bad. Probably the last Pixel I'll own.",
+          "score": 0,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nv5shvr",
+          "body": "I've been using various google software applications for more than 20 years now.   Initially they were pretty good, but gradually over the last 10 years (maybe more) they have degraded substantially, and many of them are either borderline usable or partly broken.\n\nI think that as gemini improves hopefully they will start replacing the incompetent human programmers with somewhat less incompetent synthetic programmers, and the software may start improving again.\n\nIt won't happen next week.",
+          "score": -37,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nv5v78s",
+              "body": "There's no way this is a real account. Almost every single comment is glazing Claude AI.\n\n\nA couple weeks ago you said a competent programmer generally cannot ever manage more than 100 lines of code per day. If you're saying that with a straight face I know for a fact you have absolutely no idea what you're talking about.",
+              "score": 18,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nwwdagg",
+                  "body": "B**elow the official statistics accumulated over decades.  By all means go ahead and check this for yourself.  My wildly optimistic estimate of 100 lines of code per day was based on a theoretical team of super-programmers, not a very likely scenario.**\n\n**So here's a copy-and-paste excerpt from a programming productivity article.**\n\n**\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_**\n\n  \nFor large software systems,  the complexity doesn't just grow linearly; it grows exponentially due to integration, testing, and communication requirements.\n\n|**Scale of Project**|**Estimated Net LOC per Man-Day**|**Source/Authority**|\n|:-|:-|:-|\n|**Small (<10k LOC)**|100 – 200+ LOC|Steve McConnell (*Code Complete*)|\n|**Medium (100k LOC)**|20 – 50 LOC|Industry Average (Capers Jones)|\n|**Large (>1M LOC)**|**10 – 25 LOC**|Fred Brooks / Capers Jones|\n\nWhy is the number so low?\n\nThe reason large systems yield such low daily averages is that \"writing code\" is only a small fraction of the total man-hours. In a million-line system, the effort typically breaks down into the **1/3, 1/6, 1/2 rule** popularized by Fred Brooks:\n\n* **1/3 Planning:** Requirements and architecture.\n* **1/6 Coding:** Actually typing the syntax.\n* **1/2 Testing & Debugging:** Component testing, system integration, and regression testing.\n\n# Key Historical Benchmarks\n\n* **The Mythical Man-Month (Fred Brooks):** In his study of the IBM OS/360 (one of the first truly \"large\" systems), Brooks found that when you factor in all the overhead of a large team, the output was approximately **10 lines of debugged code per day**.\n* **Capers Jones (Software Productivity Research):** In his extensive analysis of thousands of projects, Jones noted that for \"Systems Software\" (large, complex, high-reliability), the average was roughly **350 to 750 lines per month**, which averages to **15–30 lines per day**.\n* **Steve McConnell (*****Software Estimation*****):** McConnell provides data showing that for a 10-million-line system, the productivity can drop as low as **1.5 to 10 lines per day** because the \"communication tax\" between hundreds of developers becomes the dominant cost.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "nv5toj4",
+              "body": "Bro its gonna get worse",
+              "score": 7,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1oc58qe",
+      "title": "Apple nears $4 trillion valuation as shares surge on strong iPhone 17 demand",
+      "selftext": "",
+      "score": 4,
+      "upvote_ratio": 0.53,
+      "num_comments": 22,
+      "url": "https://www.reuters.com/world/asia-pacific/apple-closes-4-trillion-valuation-data-shows-strong-demand-iphone-17-2025-10-20/",
+      "created_utc": 1761026860,
+      "comments": [
+        {
+          "id": "nkp695o",
+          "body": "Few days ago demand was non existent and few days before that it was best seller. \n\nalot of times you see articles side by side claiming the exact opposite of each other. \n\nIts nothing but echo chamber and alot of donkey shit online and is only getting worse",
+          "score": 9,
+          "depth": 0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

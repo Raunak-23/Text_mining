@@ -1,0 +1,3648 @@
+[
+  {
+    "sentence": "Not as in-your-face as it was with my S25U, but definitely not gone either. -",
+    "post_id": "1s24xnu",
+    "comment_id": null,
+    "subreddit": "samsung",
+    "post_score": 103,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.6,
+        "opinion_words": [
+          "not gone"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "except the camera rings.",
+    "post_id": "1k9qyov",
+    "comment_id": "mpgn60u",
+    "subreddit": "samsung",
+    "post_score": 22,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.8,
+        "opinion_words": [
+          "except"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Cameras(I sent mine for warranty cos of camera issue) photo processing.",
+    "post_id": "1k9qyov",
+    "comment_id": "mpgig76",
+    "subreddit": "samsung",
+    "post_score": 22,
+    "comment_score": 9,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "issue"
+        ]
+      },
+      {
+        "aspect": "AI",
+        "sentiment": "negative",
+        "confidence": 0.7,
+        "opinion_words": [
+          "photo processing"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "This phone does everything I need it to and it's insanely fast and responsive, especially since I've been using a Galaxy A71 for the past 4 years.",
+    "post_id": "1k9qyov",
+    "comment_id": "mpgftim",
+    "subreddit": "samsung",
+    "post_score": 22,
+    "comment_score": 31,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The low hanging fruit lol.",
+    "post_id": "1k9qyov",
+    "comment_id": "mphg9w9",
+    "subreddit": "samsung",
+    "post_score": 22,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It was the same back in the day with BBM.",
+    "post_id": "1kbizkt",
+    "comment_id": "mpwy758",
+    "subreddit": "samsung",
+    "post_score": 103,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Spring for the insurance.",
+    "post_id": "1kpo084",
+    "comment_id": "msz79by",
+    "subreddit": "samsung",
+    "post_score": 5,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "They also throw in a samsung galaxy Watch for zero but you pay $10 a month, is this worth it???",
+    "post_id": "1l89sk2",
+    "comment_id": null,
+    "subreddit": "samsung",
+    "post_score": 5,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Pricing",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "zero",
+          "$10 a month",
+          "worth it"
+        ]
+      },
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "samsung galaxy Watch"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "got a free number from Helium mobile for the iphone.",
+    "post_id": "1kw2xkq",
+    "comment_id": "mun0d1c",
+    "subreddit": "samsung",
+    "post_score": 7,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Pricing",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "free"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Highlights often get completely blown out, resulting in a white patch with no information.",
+    "post_id": "1r8jcv1",
+    "comment_id": null,
+    "subreddit": "samsung",
+    "post_score": 487,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "AI",
+        "sentiment": "negative",
+        "confidence": 0.8,
+        "opinion_words": [
+          "blown out",
+          "no information"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It looks incredible and it'll wow your friends, but you're the one that'll be stuck dealing with the annoyances when the novelty factor fades.",
+    "post_id": "1l1kamj",
+    "comment_id": "mvo3hio",
+    "subreddit": "samsung",
+    "post_score": 12,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.7,
+        "opinion_words": [
+          "looks incredible",
+          "annoyances",
+          "novelty factor fades"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Though if I'm right that is still a minor change that most won't even notice.",
+    "post_id": "1rgy6ex",
+    "comment_id": "o7uv106",
+    "subreddit": "samsung",
+    "post_score": 472,
+    "comment_score": 75,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Our point of sale stuff is like, you've got some form of money?",
+    "post_id": "1rgy6ex",
+    "comment_id": "o7yl1z6",
+    "subreddit": "samsung",
+    "post_score": 472,
+    "comment_score": 20,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Now I invite you all to comment and discuss: What do you think about the new S26 family?",
+    "post_id": "1rginzr",
+    "comment_id": null,
+    "subreddit": "samsung",
+    "post_score": 147,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Normal people shouldn't have to use modes or pro mode.",
+    "post_id": "1rginzr",
+    "comment_id": "o7z1hwr",
+    "subreddit": "samsung",
+    "post_score": 147,
+    "comment_score": 15,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Previously, sharing Auracast broadcasts was available under Settings - Bluetooth - 3-dot menu - Broadcast sound using Auracast.",
+    "post_id": "1s5c8st",
+    "comment_id": null,
+    "subreddit": "samsung",
+    "post_score": 267,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The battery section in the Settings app has been [redesigned]( with weekly usage as the default view.",
+    "post_id": "1s5c8st",
+    "comment_id": null,
+    "subreddit": "samsung",
+    "post_score": 267,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "redesigned"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Photo assist supports generative AI edits using [text prompts]( Photo assist styles can be applied to any image.",
+    "post_id": "1s5c8st",
+    "comment_id": null,
+    "subreddit": "samsung",
+    "post_score": 267,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "AI",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "supports generative AI edits"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The lock screen clock font [thickness]( can be adjusted.",
+    "post_id": "1s5c8st",
+    "comment_id": "octkh0k",
+    "subreddit": "samsung",
+    "post_score": 267,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Toh are the MVP my friend!",
+    "post_id": "1s5c8st",
+    "comment_id": "octvo0k",
+    "subreddit": "samsung",
+    "post_score": 267,
+    "comment_score": 19,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But maybe I'll encourage you this weekend to write my way of using it.",
+    "post_id": "1rh5btz",
+    "comment_id": "o8ksypy",
+    "subreddit": "samsung",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Sim, ponta de metal faz uma diferença enorme comparada silicone.",
+    "post_id": "1rh5btz",
+    "comment_id": "o8miud0",
+    "subreddit": "samsung",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "ponta de metal faz uma diferença enorme"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The S24U really was the pinnacle of Samsung design for a slab phone.",
+    "post_id": "1rh5btz",
+    "comment_id": "o956i7g",
+    "subreddit": "samsung",
+    "post_score": 122,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "positive",
+        "confidence": 1.0,
+        "opinion_words": [
+          "pinnacle of Samsung design"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Your writing seems perfectly human to me.",
+    "post_id": "1rh5btz",
+    "comment_id": "o8rhzx0",
+    "subreddit": "samsung",
+    "post_score": 122,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If you can, go to a store to try it in hand, it's visually impressive but holding it makes you appreciate it on a whole other level.",
+    "post_id": "1m011qy",
+    "comment_id": null,
+    "subreddit": "samsung",
+    "post_score": 62,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "positive",
+        "confidence": 1.0,
+        "opinion_words": [
+          "visually impressive",
+          "appreciate it on a whole other level"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The Fold7 is so much more comfortable to hold, it feels like a regular phone when closed.",
+    "post_id": "1m011qy",
+    "comment_id": "n36iijj",
+    "subreddit": "samsung",
+    "post_score": 62,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "positive",
+        "confidence": 1.0,
+        "opinion_words": [
+          "so much more comfortable to hold",
+          "feels like a regular phone"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The best phone I ever used was a Note 9.",
+    "post_id": "1m011qy",
+    "comment_id": "n42auye",
+    "subreddit": "samsung",
+    "post_score": 62,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Does it feel like you're holding a brick in your hand?",
+    "post_id": "1m011qy",
+    "comment_id": "n37m82g",
+    "subreddit": "samsung",
+    "post_score": 62,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.85,
+        "opinion_words": [
+          "holding a brick"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Any qi charger will work, but I’d recommend something that either supports Samsung’s fast charge or qi2.",
+    "post_id": "1m011qy",
+    "comment_id": "n3apmht",
+    "subreddit": "samsung",
+    "post_score": 62,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "positive",
+        "confidence": 0.8,
+        "opinion_words": [
+          "recommend",
+          "supports Samsung’s fast charge"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yes it's a little thicker , but I don't mind.",
+    "post_id": "1lbl6rr",
+    "comment_id": null,
+    "subreddit": "samsung",
+    "post_score": 34,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "little thicker",
+          "don't mind"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Samsung, Dont remove Edge ever, and finger gesture to swipe forward, back, recents.",
+    "post_id": "1lbl6rr",
+    "comment_id": "mxu9tq1",
+    "subreddit": "samsung",
+    "post_score": 34,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "Dont remove Edge ever"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I've carried a Samsung in various forms since the S6 for my personal carry.",
+    "post_id": "1rgtqgm",
+    "comment_id": "o7ymnxj",
+    "subreddit": "samsung",
+    "post_score": 2198,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Apple's calculator lacks unit conversion, currency conversion, and scientific functions.",
+    "post_id": "1rgtqgm",
+    "comment_id": "o7wjtmd",
+    "subreddit": "samsung",
+    "post_score": 2198,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "negative",
+        "confidence": 0.8,
+        "opinion_words": [
+          "lacks unit conversion",
+          "currency conversion",
+          "and scientific functions"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yes, for like three apps lol (iPhone user)",
+    "post_id": "1rgtqgm",
+    "comment_id": "o7vv51a",
+    "subreddit": "samsung",
+    "post_score": 2198,
+    "comment_score": 17,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I sometimes wonder why they never updated this.",
+    "post_id": "1rgtqgm",
+    "comment_id": "o8mu50o",
+    "subreddit": "samsung",
+    "post_score": 2198,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Não sei como conseguem sobreviver sem",
+    "post_id": "1rgtqgm",
+    "comment_id": "o8f0yzn",
+    "subreddit": "samsung",
+    "post_score": 2198,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I can’t think of a single app that don’t allow the left-right swipe",
+    "post_id": "1rgtqgm",
+    "comment_id": "o7vj4he",
+    "subreddit": "samsung",
+    "post_score": 2198,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Post the front screen of your phone.",
+    "post_id": "1qik9c4",
+    "comment_id": "o23z8t4",
+    "subreddit": "samsunggalaxy",
+    "post_score": 9,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "My previous phone was the 6 pro XL.",
+    "post_id": "1qik9c4",
+    "comment_id": "o0s559e",
+    "subreddit": "samsunggalaxy",
+    "post_score": 9,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "My money is on fake",
+    "post_id": "1qik9c4",
+    "comment_id": "o0s1pp6",
+    "subreddit": "samsunggalaxy",
+    "post_score": 9,
+    "comment_score": 18,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "This argument is so stupid every time I see it.",
+    "post_id": "1pqvyn5",
+    "comment_id": "nuz397z",
+    "subreddit": "samsunggalaxy",
+    "post_score": 54,
+    "comment_score": 19,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "S25 still has six years of upgrades left.",
+    "post_id": "1r58rgs",
+    "comment_id": "o5h5n6w",
+    "subreddit": "samsunggalaxy",
+    "post_score": 1182,
+    "comment_score": 78,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But my S22+ is limping bro",
+    "post_id": "1r58rgs",
+    "comment_id": "o5wwh9w",
+    "subreddit": "samsunggalaxy",
+    "post_score": 1182,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I usually upgrade, sell the new flagship, and then buy the unlocked phone i actually want depending on the trade in Have made a profit last few times.",
+    "post_id": "1r58rgs",
+    "comment_id": "o5i8ya1",
+    "subreddit": "samsunggalaxy",
+    "post_score": 1182,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Pricing",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "made a profit",
+          "trade in"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "How can you say that?",
+    "post_id": "1r58rgs",
+    "comment_id": "o5lgjqp",
+    "subreddit": "samsunggalaxy",
+    "post_score": 1182,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "expecting a upgrade is no longer a thing sigh Samsung. hasn't been since the remove of Bluetooth in the S Pen",
+    "post_id": "1r58rgs",
+    "comment_id": "o5m09rm",
+    "subreddit": "samsunggalaxy",
+    "post_score": 1182,
+    "comment_score": 20,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.8,
+        "opinion_words": [
+          "no longer a thing",
+          "remove"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "(And I still use it sometimes)",
+    "post_id": "1kp1smu",
+    "comment_id": "msurtwg",
+    "subreddit": "samsunggalaxy",
+    "post_score": 2517,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "First \"real galaxy\" I had ever tried.",
+    "post_id": "1kp1smu",
+    "comment_id": "msyi8x2",
+    "subreddit": "samsunggalaxy",
+    "post_score": 2517,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I rocked the Note 10 + caseless.",
+    "post_id": "1kp1smu",
+    "comment_id": "msvljc5",
+    "subreddit": "samsunggalaxy",
+    "post_score": 2517,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "positive",
+        "confidence": 0.7,
+        "opinion_words": [
+          "caseless"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Unfortunately, I don't see a reason to upgrade right now from my S22 Ultra.",
+    "post_id": "1kp1smu",
+    "comment_id": "msvbcls",
+    "subreddit": "samsunggalaxy",
+    "post_score": 2517,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Definitely the S8 - was the first with an edge to edge display, was the PERFECT form factor, and had a 1440p panel with great performance and an SD slot.",
+    "post_id": "1kp1smu",
+    "comment_id": "msugx0e",
+    "subreddit": "samsunggalaxy",
+    "post_score": 2517,
+    "comment_score": 58,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "PERFECT form factor",
+          "edge to edge display",
+          "1440p panel"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Mine was a trade-in deal, i didn't pay anything except $60 for a memory upgrade.",
+    "post_id": "1kbhxgl",
+    "comment_id": "mpw6e40",
+    "subreddit": "samsunggalaxy",
+    "post_score": 1688,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Pricing",
+        "sentiment": "positive",
+        "confidence": 0.9,
+        "opinion_words": [
+          "trade-in deal",
+          "didn't pay anything"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "but as a straight up first phone or purchase I think its amazing.",
+    "post_id": "1kbhxgl",
+    "comment_id": "mpvscaq",
+    "subreddit": "samsunggalaxy",
+    "post_score": 1688,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Pricing",
+        "sentiment": "positive",
+        "confidence": 0.85,
+        "opinion_words": [
+          "amazing"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I won't be upgrading unless the next phone is spectacular, crazy upgrade.",
+    "post_id": "1kbhxgl",
+    "comment_id": "mpv4g05",
+    "subreddit": "samsunggalaxy",
+    "post_score": 1688,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "No issue whatsoever for me.",
+    "post_id": "1kbhxgl",
+    "comment_id": "mpurhv8",
+    "subreddit": "samsunggalaxy",
+    "post_score": 1688,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I used to be one that had to have the latest and greatest.",
+    "post_id": "1kbhxgl",
+    "comment_id": "mpvdiqg",
+    "subreddit": "samsunggalaxy",
+    "post_score": 1688,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I used to upgrade every year.",
+    "post_id": "1kbhxgl",
+    "comment_id": "mpvdiqg",
+    "subreddit": "samsunggalaxy",
+    "post_score": 1688,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm going from the S24U",
+    "post_id": "1req9zw",
+    "comment_id": "o7h4ul0",
+    "subreddit": "samsunggalaxy",
+    "post_score": 553,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "LG really was different, but in a good way.",
+    "post_id": "1req9zw",
+    "comment_id": "o9ryg7f",
+    "subreddit": "samsunggalaxy",
+    "post_score": 553,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "lower battery cycles from 2000 to just 1200 This is simply not true.",
+    "post_id": "1req9zw",
+    "comment_id": "o7hb26h",
+    "subreddit": "samsunggalaxy",
+    "post_score": 553,
+    "comment_score": 50,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Battery",
+        "sentiment": "negative",
+        "confidence": 0.9,
+        "opinion_words": [
+          "lower battery cycles",
+          "simply not true"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Haha the end was funny",
+    "post_id": "1req9zw",
+    "comment_id": "o7elek2",
+    "subreddit": "samsunggalaxy",
+    "post_score": 553,
+    "comment_score": 102,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "lacking proper testing What?",
+    "post_id": "1rbehkq",
+    "comment_id": "o6rh7ga",
+    "subreddit": "samsunggalaxy",
+    "post_score": 492,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "it's gonna be the exact same as the S21 and s22 and s23 and s24 and S25 lol",
+    "post_id": "1ot5lpo",
+    "comment_id": "nqzww0c",
+    "subreddit": "samsunggalaxy",
+    "post_score": 518,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.7,
+        "opinion_words": [
+          "exact same"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I’m planning on making the switch from iPhone when this comes out, is that suggested?",
+    "post_id": "1ot5lpo",
+    "comment_id": "nps9i6h",
+    "subreddit": "samsunggalaxy",
+    "post_score": 518,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "neutral",
+        "confidence": 0.85,
+        "opinion_words": [
+          "switch from iPhone"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If you were ready to upgrade and Samsung was skipping every other year in their releases, you'd be just fine with an S25.",
+    "post_id": "1ot5lpo",
+    "comment_id": "no3bho4",
+    "subreddit": "samsunggalaxy",
+    "post_score": 518,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "ahahahaha i know that feeling i like tossing my phone cause its already fucked and works",
+    "post_id": "1p0e6dm",
+    "comment_id": "nubze6f",
+    "subreddit": "samsunggalaxy",
+    "post_score": 329,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "negative",
+        "confidence": 0.6,
+        "opinion_words": [
+          "already fucked"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If i own the s23 plus 512gb variant, is it better for me to wait for the s26 ultra or cop a s25 ultra that has the same storage variant for potentially cheaper?",
+    "post_id": "1p0e6dm",
+    "comment_id": "nr6vf4c",
+    "subreddit": "samsunggalaxy",
+    "post_score": 329,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Pricing",
+        "sentiment": "neutral",
+        "confidence": 0.9,
+        "opinion_words": [
+          "potentially cheaper"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "1. How much would it bother you if the s26 is the perfect phone and you bought the s25?",
+    "post_id": "1p0e6dm",
+    "comment_id": "npj28z6",
+    "subreddit": "samsunggalaxy",
+    "post_score": 329,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "consumers only want bigger and bigger phones",
+    "post_id": "1mqw2fq",
+    "comment_id": "n8u3w0z",
+    "subreddit": "samsunggalaxy",
+    "post_score": 549,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "opinion_words": [
+          "bigger and bigger"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I think people have an unrealistic demand on companies year after year.",
+    "post_id": "1mqw2fq",
+    "comment_id": "n8wifwd",
+    "subreddit": "samsunggalaxy",
+    "post_score": 549,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I thought someone posted on my behalf for a second there 🤣, I went through almost the exact same upgrade 3 days ago (S9+ to S25U) and it feels soooo good!",
+    "post_id": "1sn7q1x",
+    "comment_id": "ogpywu2",
+    "subreddit": "samsunggalaxy",
+    "post_score": 491,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You have a permanent built-in screendoor effect (for those with sharper vision ) whether you use the feature or not.",
+    "post_id": "1sn7q1x",
+    "comment_id": "ohjt7op",
+    "subreddit": "samsunggalaxy",
+    "post_score": 491,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Sorry that Vivo has a poor OS.",
+    "post_id": "1rlwob6",
+    "comment_id": "o8vbze0",
+    "subreddit": "samsunggalaxy",
+    "post_score": 118,
+    "comment_score": 9,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Id count on it being there.",
+    "post_id": "1rlwob6",
+    "comment_id": "o8vfmln",
+    "subreddit": "samsunggalaxy",
+    "post_score": 118,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yes because photos taken on phone cameras won't pick all the colors so it smooths it out.",
+    "post_id": "1rlwob6",
+    "comment_id": "o8wgdki",
+    "subreddit": "samsunggalaxy",
+    "post_score": 118,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "the thing is we are watching this on a phone(presumably older than 26u), which is a photo taken on a mobile(guessing?) which is a processed and than compressed.",
+    "post_id": "1rlwob6",
+    "comment_id": "o8w2sgo",
+    "subreddit": "samsunggalaxy",
+    "post_score": 118,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It's obvious if you follow his link.",
+    "post_id": "1rlwob6",
+    "comment_id": "o8vey4i",
+    "subreddit": "samsunggalaxy",
+    "post_score": 118,
+    "comment_score": -4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Do you need to leave the beta to upgrade to final release?",
+    "post_id": "1nkabg1",
+    "comment_id": "newrcry",
+    "subreddit": "samsunggalaxy",
+    "post_score": 410,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You got the same phone and more zoom and spen without bt",
+    "post_id": "1pi3kef",
+    "comment_id": "nt4ih0l",
+    "subreddit": "samsunggalaxy",
+    "post_score": 651,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yes that is what I have noticed too.",
+    "post_id": "1pi3kef",
+    "comment_id": "nt4dj7f",
+    "subreddit": "samsunggalaxy",
+    "post_score": 651,
+    "comment_score": 14,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But i wouldnt spent high end money on something that has plenty of downsides.",
+    "post_id": "1nvdhww",
+    "comment_id": "nh8lcdn",
+    "subreddit": "samsunggalaxy",
+    "post_score": 241,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Pricing",
+        "sentiment": "negative",
+        "confidence": 0.95,
+        "opinion_words": [
+          "wouldnt spent",
+          "high end money",
+          "downsides"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm not dealing with the issues that come with importing a phone.",
+    "post_id": "1nvdhww",
+    "comment_id": "nh7s41s",
+    "subreddit": "samsunggalaxy",
+    "post_score": 241,
+    "comment_score": 18,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But ultimately, I feel like on paper the S26 Ultra is meh.",
+    "post_id": "1rq9b1l",
+    "comment_id": "o9r6w11",
+    "subreddit": "samsunggalaxy",
+    "post_score": 145,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The amount of software capabilities and Ai over its competition is so useful for daily use.",
+    "post_id": "1rq9b1l",
+    "comment_id": "oh0r717",
+    "subreddit": "samsunggalaxy",
+    "post_score": 145,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "AI",
+        "sentiment": "positive",
+        "confidence": 1.0,
+        "opinion_words": [
+          "so useful",
+          "daily use"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "This is my first Ultra.",
+    "post_id": "1rq9b1l",
+    "comment_id": "o9zfg8o",
+    "subreddit": "samsunggalaxy",
+    "post_score": 145,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Que suban imágenes de lo que dicen a ver si entendemos.",
+    "post_id": "1rq9b1l",
+    "comment_id": "oe3k9a5",
+    "subreddit": "samsunggalaxy",
+    "post_score": 145,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I posted 2 video clips with talking from the S26 Ultra in my YT video and I think they look good.",
+    "post_id": "1rq9b1l",
+    "comment_id": "o9rli2k",
+    "subreddit": "samsunggalaxy",
+    "post_score": 145,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It's also like there is a weird anti-aliasing going on, or something like that",
+    "post_id": "1rq9b1l",
+    "comment_id": "o9s9229",
+    "subreddit": "samsunggalaxy",
+    "post_score": 145,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Let's hope Sammy will do the same but for now I'm looking forward with Vivo X200/300.",
+    "post_id": "1olh8mo",
+    "comment_id": "nt2j4fx",
+    "subreddit": "samsunggalaxy",
+    "post_score": 149,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "OP DONT BUY IT FROM AMAZON, BUY FROM SAMSUNG OFFICIAL WEBSITE",
+    "post_id": "1ner2gs",
+    "comment_id": "ndxacn7",
+    "subreddit": "samsunggalaxy",
+    "post_score": 246,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The back falling off is normal for Samsung.",
+    "post_id": "1ozcgto",
+    "comment_id": "npfo2mm",
+    "subreddit": "samsunggalaxy",
+    "post_score": 215,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Give me a break, what a silly way to think.",
+    "post_id": "1ozcgto",
+    "comment_id": "npjm6yk",
+    "subreddit": "samsunggalaxy",
+    "post_score": 215,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Batteries don't just swell cuz of age, there's a lot of factors at play here.",
+    "post_id": "1ozcgto",
+    "comment_id": "nparg6m",
+    "subreddit": "samsunggalaxy",
+    "post_score": 215,
+    "comment_score": 18,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I didn't like the silver shiny sides on the normal black, this one has black sides",
+    "post_id": "1o8pvsv",
+    "comment_id": "njx7sm2",
+    "subreddit": "samsunggalaxy",
+    "post_score": 670,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Automatic APP updates in Google Play is DISABLED as well in the Samsung store.",
+    "post_id": "1knki8v",
+    "comment_id": "mtm2xfi",
+    "subreddit": "GalaxyS25Ultra",
+    "post_score": 140,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Hopefully the beta runs smoothly for you on the S24 Ultra — early signs are promising!",
+    "post_id": "1knki8v",
+    "comment_id": "mtza8d9",
+    "subreddit": "GalaxyS25Ultra",
+    "post_score": 140,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Definitely report the issue through the Instagram app if you haven’t already — the more of us that report it, the better the chance they’ll actually fix it.",
+    "post_id": "1knki8v",
+    "comment_id": "mt9ci17",
+    "subreddit": "GalaxyS25Ultra",
+    "post_score": 140,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "As soon as I enable it, it instantly drains 1–2% of battery in just a minute.",
+    "post_id": "1knki8v",
+    "comment_id": "mt5s7hv",
+    "subreddit": "GalaxyS25Ultra",
+    "post_score": 140,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Drain + actually getting hot just by scrolling reels",
+    "post_id": "1knki8v",
+    "comment_id": "mtkkyvd",
+    "subreddit": "GalaxyS25Ultra",
+    "post_score": 140,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Wondering if more People have this experience...",
+    "post_id": "1mbg6ca",
+    "comment_id": "n5s9ahy",
+    "subreddit": "GalaxyS25Ultra",
+    "post_score": 143,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Overall my impression was the S22 Ultra through to S24 Ultra were overall quite distinctive and premium looking while the other models looked quite generic, like they would be hard to distinguish from a lot of other smartphones.",
+    "post_id": "1mbg6ca",
+    "comment_id": "n5sbwep",
+    "subreddit": "GalaxyS25Ultra",
+    "post_score": 143,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Build",
+        "sentiment": "neutral",
+        "confidence": 0.85,
+        "opinion_words": [
+          "distinctive",
+          "premium looking",
+          "generic"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It's super cool to hear how much you're enjoying the S25 Ultra and how One UI, especially with Good Lock, has totally changed your experience from the old TouchWiz days.",
+    "post_id": "1rmvtfp",
+    "comment_id": "o943stz",
+    "subreddit": "GalaxyS25Ultra",
+    "post_score": 44,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [
+      {
+        "aspect": "Ecosystem",
+        "sentiment": "positive",
+        "confidence": 0.95,
+        "opinion_words": [
+          "super cool",
+          "enjoying",
+          "totally changed your experience"
+        ]
+      }
+    ],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I can understand this feeling.",
+    "post_id": "1rmvtfp",
+    "comment_id": "o92hdqp",
+    "subreddit": "GalaxyS25Ultra",
+    "post_score": 44,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Tip 2: Change Video Frame Rate.",
+    "post_id": "1mjbrxr",
+    "comment_id": null,
+    "subreddit": "GalaxyS25Ultra",
+    "post_score": 132,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Quick Tap Shutter: By default, the camera takes a photo when you lift your finger from the shutter button.",
+    "post_id": "1mjbrxr",
+    "comment_id": null,
+    "subreddit": "GalaxyS25Ultra",
+    "post_score": 132,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "ugreen id say is 2nd.",
+    "post_id": "1kiv503",
+    "comment_id": "mri6qdd",
+    "subreddit": "GalaxyS25Ultra",
+    "post_score": 34,
+    "comment_score": 12,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yeah all i use my s25u is for youtube and whatsapp lmao",
+    "post_id": "1lt3gqu",
+    "comment_id": "n1o01lj",
+    "subreddit": "GalaxyS25Ultra",
+    "post_score": 29,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Buy sony earbuds, or even better sony headphones",
+    "post_id": "1qyczf3",
+    "comment_id": "o46w6l8",
+    "subreddit": "GalaxyS25Ultra",
+    "post_score": 266,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I really like them but like any phone they do have their bad points too.",
+    "post_id": "1qz98vh",
+    "comment_id": "o49qnvq",
+    "subreddit": "S25Ultra",
+    "post_score": 157,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "How is the speed compared to the s23?",
+    "post_id": "1qz98vh",
+    "comment_id": "o4a7ael",
+    "subreddit": "S25Ultra",
+    "post_score": 157,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Software and customization is where it quietly pulls ahead, and the speaker quality often gets overlooked but is genuinely top tier.",
+    "post_id": "1qz98vh",
+    "comment_id": "o620c4y",
+    "subreddit": "S25Ultra",
+    "post_score": 157,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Galaxy Guide is an AI-powered bot that shares helpful info about switching to Samsung.",
+    "post_id": "1qz98vh",
+    "comment_id": "o620uh0",
+    "subreddit": "S25Ultra",
+    "post_score": 157,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "On the other hand, I find Oxygen 16 very smooth and light.",
+    "post_id": "1pm8jgm",
+    "comment_id": "ntzio5q",
+    "subreddit": "S25Ultra",
+    "post_score": 497,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I love my S25 ultra, but I still do wish Samsung would keep up with the specs of other phones.",
+    "post_id": "1pm8jgm",
+    "comment_id": "ntyez8z",
+    "subreddit": "S25Ultra",
+    "post_score": 497,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I don't know what smoothness implies here but it's not even that bad even if there is",
+    "post_id": "1pm8jgm",
+    "comment_id": "nwl66zl",
+    "subreddit": "S25Ultra",
+    "post_score": 497,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "My wife shakes her head at my 20 different cases 🤣",
+    "post_id": "1pl2emu",
+    "comment_id": "ntpi5zd",
+    "subreddit": "S25Ultra",
+    "post_score": 157,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "55-65°C for the SoC (since that can't be battery temp) is nothing and perfectly normal during regular use.",
+    "post_id": "1sif6ze",
+    "comment_id": "ofk5q93",
+    "subreddit": "S25Ultra",
+    "post_score": 5,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I use the phone at full power settings, even in a train with heater on in a not so cold weather, the phone only reaches 32 degrees, not gaming though, just scrolling the whole time.",
+    "post_id": "1sif6ze",
+    "comment_id": "ofjmpmx",
+    "subreddit": "S25Ultra",
+    "post_score": 5,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Don't know what are they running or doing in the background.",
+    "post_id": "1sif6ze",
+    "comment_id": "ofjmpmx",
+    "subreddit": "S25Ultra",
+    "post_score": 5,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Do I enjoy it, no, does it work yes.",
+    "post_id": "1pxa6rb",
+    "comment_id": "nwc5mhu",
+    "subreddit": "S25Ultra",
+    "post_score": 258,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Apparently it was $700nzd off.",
+    "post_id": "1pxa6rb",
+    "comment_id": "nw9lw6n",
+    "subreddit": "S25Ultra",
+    "post_score": 258,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I did the same upgrade.",
+    "post_id": "1pxa6rb",
+    "comment_id": "nw9jj7q",
+    "subreddit": "S25Ultra",
+    "post_score": 258,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Is this a USA thing?",
+    "post_id": "1s8pyzy",
+    "comment_id": "odl0tvq",
+    "subreddit": "S25Ultra",
+    "post_score": 66,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Congratulations for the upgrade!",
+    "post_id": "1n0oboh",
+    "comment_id": "nas8rt2",
+    "subreddit": "S25Ultra",
+    "post_score": 351,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "And yes. 25 years there was no Galaxy.",
+    "post_id": "1n0oboh",
+    "comment_id": "nasv6cl",
+    "subreddit": "S25Ultra",
+    "post_score": 351,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "As long as it receives calls, I’m good.",
+    "post_id": "1p86658",
+    "comment_id": null,
+    "subreddit": "S25Ultra",
+    "post_score": 196,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "i did the same recently, tired of them using the same camera since the s23u",
+    "post_id": "1p86658",
+    "comment_id": "nr39bcl",
+    "subreddit": "S25Ultra",
+    "post_score": 196,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "A bit much to expect SAMSUNG phones to take these photos There.",
+    "post_id": "1qk0frv",
+    "comment_id": "o13lckf",
+    "subreddit": "S25Ultra",
+    "post_score": 37,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "One tap and it's in my clipboard, ready to paste into another app.",
+    "post_id": "1prjz4h",
+    "comment_id": null,
+    "subreddit": "S25Ultra",
+    "post_score": 5,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "​I’ve attached the screenshots showing the menu difference.",
+    "post_id": "1prjz4h",
+    "comment_id": null,
+    "subreddit": "S25Ultra",
+    "post_score": 5,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You made the comparison multiple times in your post.",
+    "post_id": "1prjz4h",
+    "comment_id": "nv2flhy",
+    "subreddit": "S25Ultra",
+    "post_score": 5,
+    "comment_score": -11,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "WhatsApp on Android doesn't have any such drop down menu, as seen in screenshot 1, and screenshot 2 appears to be telegram",
+    "post_id": "1prjz4h",
+    "comment_id": "nv2k14g",
+    "subreddit": "S25Ultra",
+    "post_score": 5,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "What finally solved it for me is this app: I've been using it for quite a while now and it works wonderfully.",
+    "post_id": "1prjz4h",
+    "comment_id": "nv5w56t",
+    "subreddit": "S25Ultra",
+    "post_score": 5,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "For example, the camera, the display, or some exclusive Samsung features?",
+    "post_id": "1mmfy5n",
+    "comment_id": "n83u54r",
+    "subreddit": "S25Ultra",
+    "post_score": 106,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Before that, I had been using an original one from Samsung.",
+    "post_id": "1oj1ei8",
+    "comment_id": "nlzpwey",
+    "subreddit": "S25Ultra",
+    "post_score": 6,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I don't notice a significant difference between the two.",
+    "post_id": "1oj1ei8",
+    "comment_id": "nlzpwey",
+    "subreddit": "S25Ultra",
+    "post_score": 6,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Post pic once you receive it",
+    "post_id": "1n32v0u",
+    "comment_id": "nbag9ul",
+    "subreddit": "S25Ultra",
+    "post_score": 17,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But they always turn out to be legit when I order them.",
+    "post_id": "1n32v0u",
+    "comment_id": "nbafl8j",
+    "subreddit": "S25Ultra",
+    "post_score": 17,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Would love to trade in or upgrade with t-mobile instead of Amazon and bezos.",
+    "post_id": "1mn5pc7",
+    "comment_id": "nbwkikc",
+    "subreddit": "S25Ultra",
+    "post_score": 1304,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Plus, I got 512GB for under $100 that is double the storage of my old 256GB model.",
+    "post_id": "1mn5pc7",
+    "comment_id": "n8fti5y",
+    "subreddit": "S25Ultra",
+    "post_score": 1304,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "as I've a oneplus right now but soon upgrading to s25 ultra.",
+    "post_id": "1mn5pc7",
+    "comment_id": "n84kva1",
+    "subreddit": "S25Ultra",
+    "post_score": 1304,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "but yes ill switch now",
+    "post_id": "1mn5pc7",
+    "comment_id": "n84jh4v",
+    "subreddit": "S25Ultra",
+    "post_score": 1304,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I use it now with its original remote.",
+    "post_id": "1mn5pc7",
+    "comment_id": "n836wma",
+    "subreddit": "S25Ultra",
+    "post_score": 1304,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Infact I even downloaded Beta iOS 26 Liquid Glass, it was meh.",
+    "post_id": "1mn5pc7",
+    "comment_id": "n838xat",
+    "subreddit": "S25Ultra",
+    "post_score": 1304,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Then it's better for you to sell it within this month, its right time to sell iPhones, cause once they unveil new design of iPhone 17s, older design once will lose value, I know cause I used to sell and Upgrade my iPhones every year, I had tough time selling my iPhone 13 pro (Notch design) when 14 pro (Dynamic Island) was announced.",
+    "post_id": "1mn5pc7",
+    "comment_id": "n839ctc",
+    "subreddit": "S25Ultra",
+    "post_score": 1304,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Its just printed or is there a real coil?",
+    "post_id": "1mn5pc7",
+    "comment_id": "n82p0t1",
+    "subreddit": "S25Ultra",
+    "post_score": 1304,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I get an audible notification if my phone is unlocked and the screen is on, but sounds don't play when it's locked.",
+    "post_id": "1qeiodl",
+    "comment_id": "o1jek1w",
+    "subreddit": "GalaxyS25",
+    "post_score": 9,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Battery timings and processing speed is way faster in s25 ultra though.",
+    "post_id": "1nz9ttw",
+    "comment_id": null,
+    "subreddit": "GalaxyS25",
+    "post_score": 3,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I ofcourse like most people want to keep the point of the S25 Edge with it's slim/thiness.",
+    "post_id": "1ob2kd1",
+    "comment_id": null,
+    "subreddit": "GalaxyS25",
+    "post_score": 4,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "On the contrary to what you have read, I recall reading some posts bragging about it perfectly protected his phone in the worst possible drops.",
+    "post_id": "1ob2kd1",
+    "comment_id": "nki8ehm",
+    "subreddit": "GalaxyS25",
+    "post_score": 4,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "And here I am back to Android/Samsung as well.",
+    "post_id": "1oh24bk",
+    "comment_id": "nlm107o",
+    "subreddit": "GalaxyS25",
+    "post_score": 139,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The deals in europe suck!",
+    "post_id": "1oh24bk",
+    "comment_id": "nls988a",
+    "subreddit": "GalaxyS25",
+    "post_score": 139,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Best time to buy samsung is during the pre-order sales.",
+    "post_id": "1oh24bk",
+    "comment_id": "nll3g6j",
+    "subreddit": "GalaxyS25",
+    "post_score": 139,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Sudden Charging Problems / Moisture or Debris Alerts (S25 Base)",
+    "post_id": "1lzgpvi",
+    "comment_id": null,
+    "subreddit": "GalaxyS25",
+    "post_score": 23,
+    "comment_score": 0,
+    "source": "title",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I hope i dont don't have to!",
+    "post_id": "1lzgpvi",
+    "comment_id": null,
+    "subreddit": "GalaxyS25",
+    "post_score": 23,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Somente o alerta de umidade prevalece.",
+    "post_id": "1lzgpvi",
+    "comment_id": "oexieio",
+    "subreddit": "GalaxyS25",
+    "post_score": 23,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I have been experiencing the same issue and I have been absolutely losing my mind trying to figure out what I did because I know I haven't done anything that would cause the moisture warning!",
+    "post_id": "1lzgpvi",
+    "comment_id": "nkvk5x2",
+    "subreddit": "GalaxyS25",
+    "post_score": 23,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Scroll to USB Settings and tap on its storage.",
+    "post_id": "1lzgpvi",
+    "comment_id": "nh0889h",
+    "subreddit": "GalaxyS25",
+    "post_score": 23,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Instead once I was in settings I used the magnifying glass to search on \"Clear cache\" .",
+    "post_id": "1lzgpvi",
+    "comment_id": "np9jgmu",
+    "subreddit": "GalaxyS25",
+    "post_score": 23,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "That's what I thought, it's just a shame that form factor wise the pro is more comparable to the base Samsung rather than the Ultra",
+    "post_id": "1o5xnt4",
+    "comment_id": "njgtb6b",
+    "subreddit": "GalaxyS25",
+    "post_score": 27,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Aramid fiber case bar none for me.",
+    "post_id": "1ovehhl",
+    "comment_id": "noif7dp",
+    "subreddit": "GalaxyS25",
+    "post_score": 32,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Same on my S24+.",
+    "post_id": "1pej3h4",
+    "comment_id": "nscz80k",
+    "subreddit": "GalaxyS25",
+    "post_score": 15,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "My s23 ultra does everything I need it for.",
+    "post_id": "1nymfhm",
+    "comment_id": "nhvui3p",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 40,
+    "comment_score": 12,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Do you have the 8gb ram model or the 12gb ram model?",
+    "post_id": "1rjjxyq",
+    "comment_id": "o8kioco",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 20,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Why do you care?",
+    "post_id": "1rjjxyq",
+    "comment_id": "o8el5v5",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 20,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "One thing i understood having a s23u myself is with every new android update samsung deliberately reduce some performance in the older models in that way the people can easily shift or have the motivation to buy a new phone every few years, if only there was an option that I need only security patch update and no android update to get a better battery i would have chosen that.",
+    "post_id": "1ro8txu",
+    "comment_id": "o9hgg4l",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 29,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I switched from the S23U to the S25U because I broke my S23U.",
+    "post_id": "1ro8txu",
+    "comment_id": "o9c68bo",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 29,
+    "comment_score": 32,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Is it just me or is the 12MP main camera on the S23 Ultra total crap?",
+    "post_id": "1kgbwpt",
+    "comment_id": null,
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 49,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Simple it is that this effect is from the hdr ..it dails down the brightness of high bright objects...so like when u turn down the exposure of this white light a lot..u will see as blue.",
+    "post_id": "1kgbwpt",
+    "comment_id": "mr8k0od",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 49,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "People gaslightint themselves and others just because they dont want to admit their bias is beyond me.",
+    "post_id": "1kgbwpt",
+    "comment_id": "mr2fnuq",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 49,
+    "comment_score": -1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "And then maybe at that point jump ship to a more modern Samsung Galaxy and get good trade on this.",
+    "post_id": "1rdn2tt",
+    "comment_id": null,
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 11,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "And with a weel optimized software even for daily use",
+    "post_id": "1n1p1sc",
+    "comment_id": "nb014u7",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 2,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Im just one lone user and they are a billion dollar multinational corporation.",
+    "post_id": "1sm873p",
+    "comment_id": "oh3lr4u",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 72,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "but I'm not 100% sure if I'll be happy with it for the long term as I try to keep my phone for 3 years minimum before upgrading.",
+    "post_id": "1sm873p",
+    "comment_id": "ogikliq",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 72,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I have been researching the same for a couple of weeks now.",
+    "post_id": "1sm873p",
+    "comment_id": "ogi6cfn",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 72,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But I'm gonna really miss the spen..",
+    "post_id": "1sm873p",
+    "comment_id": "ogel9il",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 72,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The same is true for me with cameras.",
+    "post_id": "1sm873p",
+    "comment_id": "oidkoh4",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 72,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "but I realize I might be in the minority for that.",
+    "post_id": "1sm873p",
+    "comment_id": "ogdq52f",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 72,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'll wait until I feel it's time to upgrade.",
+    "post_id": "1l9i7q2",
+    "comment_id": "mxdxjv2",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 202,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I would buy ultra phones and used them for a long time until dead or no more software updates",
+    "post_id": "1l9i7q2",
+    "comment_id": "mxd7r97",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 202,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "To my surprise the sim started work in the transit country as well as in my home country.",
+    "post_id": "1l9i7q2",
+    "comment_id": "mxguwnm",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 202,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Probably back to OnePlus.. hopefully I don't have to think about it for a few more years🤞",
+    "post_id": "1l9i7q2",
+    "comment_id": "mxcrtqu",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 202,
+    "comment_score": 9,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If it was samsung degrading your camera.",
+    "post_id": "1l9i7q2",
+    "comment_id": "mxh1udc",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 202,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm not following Smartphones as I used to a few years ago, back when I had my galaxy S8, it didn't even last 2 years when it was a victm of that widespread green screen problem, Samsung was like \"Fuck you, already got your money\"",
+    "post_id": "1rclgpr",
+    "comment_id": "o7i2isj",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 234,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I. E. Fast motion Algorithm",
+    "post_id": "1owo6hx",
+    "comment_id": "noykzar",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 272,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I also have the Pixel 9pro and those tele images are really processed.",
+    "post_id": "1q8o7i8",
+    "comment_id": "nyv6spq",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 67,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Honestly pretty amazed at how easy it was to remove all the parts to clean and dry.",
+    "post_id": "1nr2kjc",
+    "comment_id": "ngcbnp4",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 8,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "As a PC guy, I see this thing for motherboard companies as well.",
+    "post_id": "1nr2kjc",
+    "comment_id": "ngb7n3u",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 8,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I hope this doesn't come across as cold.",
+    "post_id": "1nr2kjc",
+    "comment_id": "ngb7n3u",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 8,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If you Google enough, you will find similar complaints with ANY product even iPhones.",
+    "post_id": "1nr2kjc",
+    "comment_id": "ngb9scr",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 8,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I broke my Huawei P40 Pro and changed jobs, figured I could afford to give Samsung 1 last chance.",
+    "post_id": "1nr2kjc",
+    "comment_id": "ngcgsh6",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 8,
+    "comment_score": -9,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm just fed up of the lies from these tech reviewers.",
+    "post_id": "1rk1a4l",
+    "comment_id": "o8hea4h",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 16,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I hate to say this, but I might switch from Samsung due to their bad quality control issues.",
+    "post_id": "1lb7a9g",
+    "comment_id": null,
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 32,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Maybe try updating your phone....",
+    "post_id": "1lb7a9g",
+    "comment_id": "mxr7xu1",
+    "subreddit": "GalaxyS23Ultra",
+    "post_score": 32,
+    "comment_score": 9,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The oppo find x9 pro gives over 50% more battery life and a much better camera than my 2 year old s23 ultra that's huge",
+    "post_id": "1pb4kv4",
+    "comment_id": "nrocwap",
+    "subreddit": "Android",
+    "post_score": 424,
+    "comment_score": 24,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "There is nothing manufactured in this world that has a 0% failure rate.",
+    "post_id": "1pb4kv4",
+    "comment_id": "nrwnufu",
+    "subreddit": "Android",
+    "post_score": 424,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "They've been launching with 256GB and then drip feeding 128GB a month or two later for a couple of years now.",
+    "post_id": "1pb4kv4",
+    "comment_id": "nrtvdp7",
+    "subreddit": "Android",
+    "post_score": 424,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Well the iPhone 17 starts at $799 and comes with 256gb of storage and a 120hz screen.",
+    "post_id": "1ndbe69",
+    "comment_id": "ndl9ll3",
+    "subreddit": "Android",
+    "post_score": 267,
+    "comment_score": 27,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Sad to know that there's a brand limitation in your region.",
+    "post_id": "1ndbe69",
+    "comment_id": "ned2qh9",
+    "subreddit": "Android",
+    "post_score": 267,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Their shareholders are cause those cost money.",
+    "post_id": "1ndbe69",
+    "comment_id": "ndmr40l",
+    "subreddit": "Android",
+    "post_score": 267,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "People keep buying them, simply as that.",
+    "post_id": "1ndbe69",
+    "comment_id": "ndisz7i",
+    "subreddit": "Android",
+    "post_score": 267,
+    "comment_score": 61,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Base iPhone 17 is an insane deal for the hardware you get.",
+    "post_id": "1ndbe69",
+    "comment_id": "ndjpv5v",
+    "subreddit": "Android",
+    "post_score": 267,
+    "comment_score": 36,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "48MP x 3 still doesn't equal 200MP No, but here's a fun fact for their Twitter account to ponder: 10MP is actually fewer than 48MP!",
+    "post_id": "1ndbe69",
+    "comment_id": "ndl4v8f",
+    "subreddit": "Android",
+    "post_score": 267,
+    "comment_score": 70,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Because that is what will drive their customers away.",
+    "post_id": "1ndbe69",
+    "comment_id": "ndiubkg",
+    "subreddit": "Android",
+    "post_score": 267,
+    "comment_score": 19,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Glad to see you’re back on the right path Right now, I’m using both an iPhone 16 Pro Max and a Galaxy S25 Ultra as my main phones.",
+    "post_id": "1mbyh53",
+    "comment_id": "n6k1rts",
+    "subreddit": "Android",
+    "post_score": 51,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "What made you leave stock Android and switch to the iPhone in the first place?",
+    "post_id": "1mbyh53",
+    "comment_id": "n65ru76",
+    "subreddit": "Android",
+    "post_score": 51,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "actually i found it works much better than localsend but ymmv",
+    "post_id": "1mbyh53",
+    "comment_id": "n648fxr",
+    "subreddit": "Android",
+    "post_score": 51,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Make your decision after the first round of reviews come out.",
+    "post_id": "1mbyh53",
+    "comment_id": "n603or8",
+    "subreddit": "Android",
+    "post_score": 51,
+    "comment_score": 20,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I’d love to hear how they compare if you’ve had a chance to try them.",
+    "post_id": "1mbyh53",
+    "comment_id": "n651ix6",
+    "subreddit": "Android",
+    "post_score": 51,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Why is the AI's conclusion always it's up to you which of these features is more important?",
+    "post_id": "1s566n0",
+    "comment_id": "ocwlqxr",
+    "subreddit": "Android",
+    "post_score": 63,
+    "comment_score": 4,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Had the opportunity to check out the S26 Ultra a few days ago, and as soon as I picked it up, I was immediately disappointed with the display.",
+    "post_id": "1s566n0",
+    "comment_id": "oct3ihg",
+    "subreddit": "Android",
+    "post_score": 63,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I love getting into super fine details.",
+    "post_id": "1rkt2e5",
+    "comment_id": "o8p1z25",
+    "subreddit": "Android",
+    "post_score": 161,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "There was a company, ages ago, making a modular phone, swappable camera, battery, etc.",
+    "post_id": "1l1k76o",
+    "comment_id": "mvmo9a5",
+    "subreddit": "Android",
+    "post_score": 101,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Even so, having 2 x 3000 mAh compared to 1 x 3900 mAh would be better.",
+    "post_id": "1l1k76o",
+    "comment_id": "mvq1z9e",
+    "subreddit": "Android",
+    "post_score": 101,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You can even leave it in your bag and have cable come from bag to charge phone while you use it.",
+    "post_id": "1l1k76o",
+    "comment_id": "n50o6cc",
+    "subreddit": "Android",
+    "post_score": 101,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The screen is bigger because back then screen weren't edge to edge.",
+    "post_id": "1l1k76o",
+    "comment_id": "mvq1ton",
+    "subreddit": "Android",
+    "post_score": 101,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "At the end of the day the edge just feels like a beta, we already know that given the state of silicon carbide batteries that the same form factor could be made with 4500-5000mah, just that Samsung chose not to this uear, likely due to memories of the note 7.",
+    "post_id": "1l1k76o",
+    "comment_id": "mvlsuur",
+    "subreddit": "Android",
+    "post_score": 101,
+    "comment_score": 7,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I can't stand the corner radius either.",
+    "post_id": "1n1mo77",
+    "comment_id": "nb2erdf",
+    "subreddit": "Android",
+    "post_score": 54,
+    "comment_score": 5,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I do like the pixel UI, especially after beta testing the new one.",
+    "post_id": "1n1mo77",
+    "comment_id": "nb3pjdj",
+    "subreddit": "Android",
+    "post_score": 54,
+    "comment_score": 16,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm really interested to see, if anyone reaches some conclusion or something.",
+    "post_id": "1poac96",
+    "comment_id": "nwe818m",
+    "subreddit": "Android",
+    "post_score": 844,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The issue here is Amazon being able to request a lock on a device even after it has been paid, shipped, and activated by its final owner.",
+    "post_id": "1poac96",
+    "comment_id": "nuedrzf",
+    "subreddit": "Android",
+    "post_score": 844,
+    "comment_score": 23,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If you have a friend or relative who's a lawyer, it doesn't hurt to ask them for some advice over a cup of tea or coffee (I'm guessing you're a student and can't afford them a dinner.)",
+    "post_id": "1poac96",
+    "comment_id": "nuh6rt6",
+    "subreddit": "Android",
+    "post_score": 844,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "in easy term ,spoof bake in id with another valid un use id code.",
+    "post_id": "1poac96",
+    "comment_id": "nufh8wo",
+    "subreddit": "Android",
+    "post_score": 844,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm not advocating for willingly enabling fraud, but a phone contract is the definition of unsecured consumer credit - they can and will come after you in court like a credit card.",
+    "post_id": "1poac96",
+    "comment_id": "nue58h3",
+    "subreddit": "Android",
+    "post_score": 844,
+    "comment_score": 41,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Except when people take multiple of those devices and leave the country.",
+    "post_id": "1poac96",
+    "comment_id": "nug0u5c",
+    "subreddit": "Android",
+    "post_score": 844,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Their non-Pro iPhone still operate at USB 2.0 speeds, and they still only ship USB 2.0 cables with all of their devices.",
+    "post_id": "1kos30e",
+    "comment_id": "msxy49x",
+    "subreddit": "Android",
+    "post_score": 446,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "An iPhone is a step stool to the cost of entry barrier and is something that can be multipurpose.",
+    "post_id": "1kos30e",
+    "comment_id": "msvzo5b",
+    "subreddit": "Android",
+    "post_score": 446,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Another NAS (Synology) at a relatives house.",
+    "post_id": "1kos30e",
+    "comment_id": "nhvnfjt",
+    "subreddit": "Android",
+    "post_score": 446,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "They check marked quick share and rcs as the default for android.",
+    "post_id": "1kos30e",
+    "comment_id": "msto9mp",
+    "subreddit": "Android",
+    "post_score": 446,
+    "comment_score": 13,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "People make a bigger deal of it than it is, especially nowadays.",
+    "post_id": "1p2my5v",
+    "comment_id": "nq319x1",
+    "subreddit": "Android",
+    "post_score": 34,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I spent hours talking to Samsung support about this issue because I thought it was a bug.",
+    "post_id": "1p2my5v",
+    "comment_id": "nqcgsi8",
+    "subreddit": "Android",
+    "post_score": 34,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I am actually interested in this.",
+    "post_id": "1p2my5v",
+    "comment_id": "nq2yq4z",
+    "subreddit": "Android",
+    "post_score": 34,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "While I have had the issue once in a while on my Pixel, it happened a lot more consistently and with longer delays on the last Samsung we owned before going back to Pixels.",
+    "post_id": "1sc4eq5",
+    "comment_id": "oeu96st",
+    "subreddit": "Android",
+    "post_score": 21,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "When it comes to background processing, Samsung is one of the top offenders, next to Chinese OEMs.",
+    "post_id": "1sc4eq5",
+    "comment_id": "oelm04h",
+    "subreddit": "Android",
+    "post_score": 21,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Chinese phones are having a hard time getting into the market even in EU (not competitive prices through), Apple is doing apple, Android user are...not having that much choice, and Pixels are expensive for what they offer If my S21U would suddenly die, would be hard to argue against a iPhone, especially for the camera performance offered",
+    "post_id": "1pj1l7h",
+    "comment_id": "nta8ps1",
+    "subreddit": "Android",
+    "post_score": 697,
+    "comment_score": 38,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You can send a quick prompt about the photo of your new baby, and their phone will generate it on their side.",
+    "post_id": "1pj1l7h",
+    "comment_id": "ntbq0ar",
+    "subreddit": "Android",
+    "post_score": 697,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I had a Note 10+ for 5 years until a Samsung app update put my phone into an infinite boot loop.",
+    "post_id": "1pj1l7h",
+    "comment_id": "ntdw9x3",
+    "subreddit": "Android",
+    "post_score": 697,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "6 years without a significant improvement?",
+    "post_id": "1pj1l7h",
+    "comment_id": "ntapc76",
+    "subreddit": "Android",
+    "post_score": 697,
+    "comment_score": 25,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "so the same cameras from s22/s23?",
+    "post_id": "1pj1l7h",
+    "comment_id": "ntabtu1",
+    "subreddit": "Android",
+    "post_score": 697,
+    "comment_score": 612,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Last Redmagic I had was a 3S and back then the localization was pretty weird.",
+    "post_id": "1pj1l7h",
+    "comment_id": "ntblzvx",
+    "subreddit": "Android",
+    "post_score": 697,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "My Samsung Galaxy Note 9 has been incredible over the last 8 years, so to me it is a very good brand.",
+    "post_id": "1qsseyh",
+    "comment_id": "o2yuw4q",
+    "subreddit": "Android",
+    "post_score": 731,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Honor Magic pro 8.",
+    "post_id": "1qsseyh",
+    "comment_id": "o47kqkg",
+    "subreddit": "Android",
+    "post_score": 731,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "i have a samsung setup in my personal life (s10 ultra, galaxy buds, s23) and i have an apple setup for work (macbook pro, airpods, iphone 17 pro).",
+    "post_id": "1qsseyh",
+    "comment_id": "o5p4kut",
+    "subreddit": "Android",
+    "post_score": 731,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "While I do prefer bigger batteries and hate them for not going past 5000mah, it's not as bad as people imagine.",
+    "post_id": "1qsseyh",
+    "comment_id": "o2yamnh",
+    "subreddit": "Android",
+    "post_score": 731,
+    "comment_score": 15,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "But Apple also sold more phones in total, not just per model.",
+    "post_id": "1qsseyh",
+    "comment_id": "o2zjx0a",
+    "subreddit": "Android",
+    "post_score": 731,
+    "comment_score": 23,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You can of course buy it at Samsung.com for 1299 and under same conditions, but that's your choice.",
+    "post_id": "1qsseyh",
+    "comment_id": "o323a8z",
+    "subreddit": "Android",
+    "post_score": 731,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "My point is that since I moved to iPhone there isn't really any ai feature that I was using on the pixel that I miss here as most of them are gimmicks and don't matter as much as some people here want them to.",
+    "post_id": "1qsseyh",
+    "comment_id": "o30lcw8",
+    "subreddit": "Android",
+    "post_score": 731,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "He mentioned he uses the S25U as his daily, which had some of the best AI features and overall a great balance of hardware and software, so that tells you something.",
+    "post_id": "1qsseyh",
+    "comment_id": "o2z2rv6",
+    "subreddit": "Android",
+    "post_score": 731,
+    "comment_score": 28,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Tbf it should be the opposite You usually don’t get one manufacturer dominate in most categories Shows how shit android manufacturers are they can’t even get close",
+    "post_id": "1qsseyh",
+    "comment_id": "o2y7g52",
+    "subreddit": "Android",
+    "post_score": 731,
+    "comment_score": 21,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "You then have to decide whether you want a Samsung, Sony, Nothing, Nubia, Oppo, Vivo, Google, One, Xiaomi and it's sub-brands Redmi and Realmi, etc...",
+    "post_id": "1qsseyh",
+    "comment_id": "o2ytft9",
+    "subreddit": "Android",
+    "post_score": 731,
+    "comment_score": 37,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I'm still using an S23+, which I like.",
+    "post_id": "1rd9rrp",
+    "comment_id": "o77c6b0",
+    "subreddit": "Android",
+    "post_score": 472,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The battery life on my S24 is utter ASS.",
+    "post_id": "1rd9rrp",
+    "comment_id": "o76cy5v",
+    "subreddit": "Android",
+    "post_score": 472,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "After 20+ years i ditched last year Samsung for the Oppo fx9 pro.",
+    "post_id": "1rd9rrp",
+    "comment_id": "o75oap4",
+    "subreddit": "Android",
+    "post_score": 472,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I went from the S25+ to the Find X9 Pro.",
+    "post_id": "1rd9rrp",
+    "comment_id": "o766a5q",
+    "subreddit": "Android",
+    "post_score": 472,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Then Component health - Battery status.",
+    "post_id": "1rd9rrp",
+    "comment_id": "o74r5nm",
+    "subreddit": "Android",
+    "post_score": 472,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Cheaper stuff to save costs?",
+    "post_id": "1rd9rrp",
+    "comment_id": "o73lz7j",
+    "subreddit": "Android",
+    "post_score": 472,
+    "comment_score": 41,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Because in s24 ultra, Samsung got rid of the curved display.",
+    "post_id": "1sn5i4s",
+    "comment_id": "ogvi4iw",
+    "subreddit": "S24Ultra",
+    "post_score": 990,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Yep, boxy unique design, Clean camera setup with less visible ring.",
+    "post_id": "1sn5i4s",
+    "comment_id": "ognv6ne",
+    "subreddit": "S24Ultra",
+    "post_score": 990,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I abused it of course.",
+    "post_id": "1sn5i4s",
+    "comment_id": "ogqfxqb",
+    "subreddit": "S24Ultra",
+    "post_score": 990,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Except from \"fast\" charging and Qi2 compatibility, S26 Ultra is rumored to be almost the same as the S25 Ultra.",
+    "post_id": "1pi15nq",
+    "comment_id": "ntni7mm",
+    "subreddit": "S24Ultra",
+    "post_score": 174,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "My battery is horrible.",
+    "post_id": "1rvwdgf",
+    "comment_id": "ob1faa3",
+    "subreddit": "S24Ultra",
+    "post_score": 1316,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I hoped for the s26 but I will stick with this and see what s27 ultra will bring.",
+    "post_id": "1rvwdgf",
+    "comment_id": "oaw4lr0",
+    "subreddit": "S24Ultra",
+    "post_score": 1316,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "The reason i went for this was because my previous phone (oneplus 7 pro) was already broken (great timing)",
+    "post_id": "1rvwdgf",
+    "comment_id": "oavxxsn",
+    "subreddit": "S24Ultra",
+    "post_score": 1316,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Now it's starting to fall way behind.",
+    "post_id": "1rvwdgf",
+    "comment_id": "oavwgb6",
+    "subreddit": "S24Ultra",
+    "post_score": 1316,
+    "comment_score": 17,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "S24 Ultra is peak to be honest.",
+    "post_id": "1rvwdgf",
+    "comment_id": "oavt3q3",
+    "subreddit": "S24Ultra",
+    "post_score": 1316,
+    "comment_score": 19,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Ig increase in score is all cos of version 11",
+    "post_id": "1nm8oa0",
+    "comment_id": "nfbf8jv",
+    "subreddit": "S24Ultra",
+    "post_score": 16,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "s25U isn't square anymore",
+    "post_id": "1rjz5bh",
+    "comment_id": "o8jg5rr",
+    "subreddit": "S24Ultra",
+    "post_score": 635,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Well that tracks, everyone is the phone should be 500$ lol",
+    "post_id": "1rtsul5",
+    "comment_id": "oalakag",
+    "subreddit": "S24Ultra",
+    "post_score": 15,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Esque son muy baratos...",
+    "post_id": "1lccf6k",
+    "comment_id": "mxzgod5",
+    "subreddit": "S24Ultra",
+    "post_score": 22,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "honestly idk, I looked on the website and an iPhone 15 pro goes for 499 which is absurd.",
+    "post_id": "1lccf6k",
+    "comment_id": "mxzh9ou",
+    "subreddit": "S24Ultra",
+    "post_score": 22,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "j’ai déjà commandé des air pods je les ai bien reçus voilà merci",
+    "post_id": "1lccf6k",
+    "comment_id": "mxzeoua",
+    "subreddit": "S24Ultra",
+    "post_score": 22,
+    "comment_score": -1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "What's up with these prices?",
+    "post_id": "1lccf6k",
+    "comment_id": "mxzdzyw",
+    "subreddit": "S24Ultra",
+    "post_score": 22,
+    "comment_score": 18,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Just a small pick breaks them like an egg.",
+    "post_id": "1orzrn2",
+    "comment_id": "nnwboi9",
+    "subreddit": "S24Ultra",
+    "post_score": 8,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I guess if you are shopping for a phone and money is no issue S26 Ultra.",
+    "post_id": "1qjqpnt",
+    "comment_id": "o176v1a",
+    "subreddit": "S24Ultra",
+    "post_score": 820,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Stuff changes, and that's natural.",
+    "post_id": "1pg6xj3",
+    "comment_id": "ntixy16",
+    "subreddit": "S24Ultra",
+    "post_score": 419,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "so anyone who really faces it or its just 1-2% of people who uses a hell lot of customization and apps making the cpu and ram usage very high so it lags eventually.",
+    "post_id": "1q1w4vc",
+    "comment_id": null,
+    "subreddit": "S24Ultra",
+    "post_score": 275,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I bought the same case as you.",
+    "post_id": "1rikayq",
+    "comment_id": "o8ndbb7",
+    "subreddit": "SamsungGalaxyS26U",
+    "post_score": 39,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I saw one in the store and gave me that impression.",
+    "post_id": "1s5lz1u",
+    "comment_id": "ocycyda",
+    "subreddit": "SamsungGalaxyS26U",
+    "post_score": 70,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Don't get the regular Samsung case either.",
+    "post_id": "1s5lz1u",
+    "comment_id": "ocxuvup",
+    "subreddit": "SamsungGalaxyS26U",
+    "post_score": 70,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "If you put the S25U and the S26U side by side, you'll see that the color quality of the S25 screen is slightly superior to the S26.",
+    "post_id": "1s59uxk",
+    "comment_id": "ocyy74f",
+    "subreddit": "SamsungGalaxyS26U",
+    "post_score": 32,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "- Using mostly maximum power on - Daily davice care - Putting most of my apps on either sleep or deep sleeping mode - Closing mobile data at home - Closing location when at home - Changing all apps to optimized battery or restricted",
+    "post_id": "1spb813",
+    "comment_id": null,
+    "subreddit": "SamsungGalaxyS26U",
+    "post_score": 16,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I wonder how many of the legitimate (not karma farming or trolls) complaints are coming from people who have never used a privacy screen protector before, or have a screen protector on it that is causing interference.",
+    "post_id": "1rtl3xx",
+    "comment_id": "oaexvm1",
+    "subreddit": "SamsungGalaxyS26U",
+    "post_score": 198,
+    "comment_score": 8,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "I’m not a case person.",
+    "post_id": "1ryaqr5",
+    "comment_id": "obdmhkg",
+    "subreddit": "SamsungGalaxyS26U",
+    "post_score": 137,
+    "comment_score": 0,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Very happy with my upgrade from the s22u",
+    "post_id": "1sa0nqw",
+    "comment_id": "oe3f5cq",
+    "subreddit": "SamsungGalaxyS26U",
+    "post_score": 10,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "To answer your question from the the other comment: check out my latest post lol, same phone, different color",
+    "post_id": "1rqvzlx",
+    "comment_id": "o9w6i3u",
+    "subreddit": "SamsungGalaxyS26U",
+    "post_score": 155,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "With 5G only, 9 hours can be expected.",
+    "post_id": "1rmbj6y",
+    "comment_id": null,
+    "subreddit": "SamsungGalaxyS26U",
+    "post_score": 39,
+    "comment_score": 0,
+    "source": "selftext",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "how files get on a phone is totally irrelevant to how the battery will perform.",
+    "post_id": "1rmbj6y",
+    "comment_id": "o8zs8ds",
+    "subreddit": "SamsungGalaxyS26U",
+    "post_score": 39,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "This is the same as the education discount.",
+    "post_id": "1rpfyb8",
+    "comment_id": "o9mgu80",
+    "subreddit": "SamsungGalaxyS26U",
+    "post_score": 12,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Only lil benefit i think the processor on s25 edge is a lil faster than s24 ultra.",
+    "post_id": "1qskmj6",
+    "comment_id": "o2w9ivz",
+    "subreddit": "GalaxyS24Ultra",
+    "post_score": 8,
+    "comment_score": 17,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Of all the surfaces to drop a phone on, gravel has got to be one of the worst ones and will result in spider webbing of the screen at best and catastrophic damage at worst.",
+    "post_id": "1kp2f2v",
+    "comment_id": "mtan4g3",
+    "subreddit": "GalaxyS24Ultra",
+    "post_score": 13,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Sure OP gets quicker updates but samsung promised 7 years so I plan on taking their word on it.",
+    "post_id": "1kp2f2v",
+    "comment_id": "msvcvyn",
+    "subreddit": "GalaxyS24Ultra",
+    "post_score": 13,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "As a reminder, posts about display & battery life belong in the monthly Megathread pinned on the sub: For discussions about upgrading to S25 Ultra, refer to the pinned post on the sub",
+    "post_id": "1kp2f2v",
+    "comment_id": "msujxpe",
+    "subreddit": "GalaxyS24Ultra",
+    "post_score": 13,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Imagine writing this lol",
+    "post_id": "1ncdk4s",
+    "comment_id": "nddixcb",
+    "subreddit": "GalaxyS24Ultra",
+    "post_score": 266,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "They spend more than you know with apple to block competition esp in the states.",
+    "post_id": "1ncdk4s",
+    "comment_id": "ndbiavi",
+    "subreddit": "GalaxyS24Ultra",
+    "post_score": 266,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Definitely a win for me.",
+    "post_id": "1rem4a1",
+    "comment_id": "o7gv24e",
+    "subreddit": "GalaxyS24Ultra",
+    "post_score": 4,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "Mine for 1 TB = 390 € 512 GB = 375 € Ridiculous!",
+    "post_id": "1rem4a1",
+    "comment_id": "o7e4uff",
+    "subreddit": "GalaxyS24Ultra",
+    "post_score": 4,
+    "comment_score": 6,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "is it selling second hand products.",
+    "post_id": "1lidvz8",
+    "comment_id": "mzwqau8",
+    "subreddit": "GalaxyS24Ultra",
+    "post_score": 2,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "It's good enough for my use case, but if you are a heavy user don't expect it to last all day without a charge.",
+    "post_id": "1kwefqn",
+    "comment_id": "mv618vx",
+    "subreddit": "gadgets",
+    "post_score": 128,
+    "comment_score": 2,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "S25 Edge is 1 gramm heavier than basic S25, lol.",
+    "post_id": "1kwefqn",
+    "comment_id": "mum456f",
+    "subreddit": "gadgets",
+    "post_score": 128,
+    "comment_score": 1,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  },
+  {
+    "sentence": "We have basically no super thin and light phones on the market, until now.",
+    "post_id": "1kwefqn",
+    "comment_id": "mugsaay",
+    "subreddit": "gadgets",
+    "post_score": 128,
+    "comment_score": 3,
+    "source": "comment",
+    "aspects": [],
+    "paradigm": "llm"
+  }
+]

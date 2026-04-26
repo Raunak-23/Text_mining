@@ -1,0 +1,254 @@
+[
+  {
+    "parent_id": 36,
+    "child_id": 26,
+    "parent_label": "s25 ultra_s26 ultra_s25_s25u_s23u",
+    "child_label": "s25 ultra_s26 ultra_s25_s25u_s23u",
+    "distance": 1.3492145054038374
+  },
+  {
+    "parent_id": 36,
+    "child_id": 35,
+    "parent_label": "s25 ultra_s26 ultra_s25_s25u_s23u",
+    "child_label": "galaxy guide_guide powered_galaxy_operated human_ai powered",
+    "distance": 1.3492145054038374
+  },
+  {
+    "parent_id": 35,
+    "child_id": 32,
+    "parent_label": "galaxy guide_guide powered_galaxy_operated human_ai powered",
+    "child_label": "galaxy guide_guide powered_galaxy_operated human_ai powered",
+    "distance": 1.0285768018577837
+  },
+  {
+    "parent_id": 35,
+    "child_id": 34,
+    "parent_label": "galaxy guide_guide powered_galaxy_operated human_ai powered",
+    "child_label": "batería_es_en el_pero_que",
+    "distance": 1.0285768018577837
+  },
+  {
+    "parent_id": 34,
+    "child_id": 31,
+    "parent_label": "batería_es_en el_pero_que",
+    "child_label": "apple music_music apple_spotify_music use_youtube",
+    "distance": 1.0022022302339595
+  },
+  {
+    "parent_id": 34,
+    "child_id": 33,
+    "parent_label": "batería_es_en el_pero_que",
+    "child_label": "en el_batería_es_del dispositivo_que le",
+    "distance": 1.0022022302339595
+  },
+  {
+    "parent_id": 33,
+    "child_id": 9,
+    "parent_label": "en el_batería_es_del dispositivo_que le",
+    "child_label": "batería_es_en el",
+    "distance": 0.9996504554650254
+  },
+  {
+    "parent_id": 33,
+    "child_id": 18,
+    "parent_label": "en el_batería_es_del dispositivo_que le",
+    "child_label": "green lines_green line_lines",
+    "distance": 0.9996504554650254
+  },
+  {
+    "parent_id": 32,
+    "child_id": 12,
+    "parent_label": "galaxy guide_guide powered_galaxy_operated human_ai powered",
+    "child_label": "galaxy guide_guide powered_galaxy",
+    "distance": 0.9928367000647864
+  },
+  {
+    "parent_id": 32,
+    "child_id": 27,
+    "parent_label": "galaxy guide_guide powered_galaxy_operated human_ai powered",
+    "child_label": "hopefully_hopefully ll_look soon_soon_detailed review",
+    "distance": 0.9928367000647864
+  },
+  {
+    "parent_id": 31,
+    "child_id": 29,
+    "parent_label": "apple music_music apple_spotify_music use_youtube",
+    "child_label": "anker products_anker_try anker_anker nano_anker ugreen",
+    "distance": 0.9887688754223519
+  },
+  {
+    "parent_id": 31,
+    "child_id": 30,
+    "parent_label": "apple music_music apple_spotify_music use_youtube",
+    "child_label": "apple music_spotify_music apple_music use_youtube",
+    "distance": 0.9887688754223519
+  },
+  {
+    "parent_id": 30,
+    "child_id": 28,
+    "parent_label": "apple music_spotify_music apple_music use_youtube",
+    "child_label": "apple music_music apple_spotify_music use_music",
+    "distance": 0.9720152572034567
+  },
+  {
+    "parent_id": 30,
+    "child_id": 13,
+    "parent_label": "apple music_spotify_music apple_music use_youtube",
+    "child_label": "esim_sim card_sim",
+    "distance": 0.9720152572034567
+  },
+  {
+    "parent_id": 29,
+    "child_id": 17,
+    "parent_label": "anker products_anker_try anker_anker nano_anker ugreen",
+    "child_label": "ecosystem_ecosystems_ecosystem really",
+    "distance": 0.9655730232271427
+  },
+  {
+    "parent_id": 29,
+    "child_id": 14,
+    "parent_label": "anker products_anker_try anker_anker nano_anker ugreen",
+    "child_label": "anker products_anker_try anker",
+    "distance": 0.9655730232271427
+  },
+  {
+    "parent_id": 28,
+    "child_id": 15,
+    "parent_label": "apple music_music apple_spotify_music use_music",
+    "child_label": "hypertension_apple watch_blood pressure",
+    "distance": 0.9484192713039317
+  },
+  {
+    "parent_id": 28,
+    "child_id": 11,
+    "parent_label": "apple music_music apple_spotify_music use_music",
+    "child_label": "apple music_music apple_spotify music",
+    "distance": 0.9484192713039317
+  },
+  {
+    "parent_id": 27,
+    "child_id": 10,
+    "parent_label": "hopefully_hopefully ll_look soon_soon_detailed review",
+    "child_label": "thanks_thanks sharing_time thank",
+    "distance": 0.9457351873894058
+  },
+  {
+    "parent_id": 27,
+    "child_id": 16,
+    "parent_label": "hopefully_hopefully ll_look soon_soon_detailed review",
+    "child_label": "hopefully_hopefully ll_look soon",
+    "distance": 0.9457351873894058
+  },
+  {
+    "parent_id": 26,
+    "child_id": 25,
+    "parent_label": "s25 ultra_s26 ultra_s25_s25u_s23u",
+    "child_label": "s25 ultra_s23 ultra_s26 ultra_s25_s25u",
+    "distance": 0.8811532695090879
+  },
+  {
+    "parent_id": 26,
+    "child_id": 23,
+    "parent_label": "s25 ultra_s26 ultra_s25_s25u_s23u",
+    "child_label": "ai_agree_gemini_like_really",
+    "distance": 0.8811532695090879
+  },
+  {
+    "parent_id": 25,
+    "child_id": 24,
+    "parent_label": "s25 ultra_s23 ultra_s26 ultra_s25_s25u",
+    "child_label": "s25 ultra_s23 ultra_s25u_s26 ultra_s25",
+    "distance": 0.8338846982645913
+  },
+  {
+    "parent_id": 25,
+    "child_id": 8,
+    "parent_label": "s25 ultra_s23 ultra_s26 ultra_s25_s25u",
+    "child_label": "fold_folds_tri fold",
+    "distance": 0.8338846982645913
+  },
+  {
+    "parent_id": 24,
+    "child_id": 22,
+    "parent_label": "s25 ultra_s23 ultra_s25u_s26 ultra_s25",
+    "child_label": "s25 ultra_s23 ultra_s25u_s24_iphone 17",
+    "distance": 0.8241314382979936
+  },
+  {
+    "parent_id": 24,
+    "child_id": 6,
+    "parent_label": "s25 ultra_s23 ultra_s25u_s26 ultra_s25",
+    "child_label": "screen protector_screen protectors_glass screen",
+    "distance": 0.8241314382979936
+  },
+  {
+    "parent_id": 23,
+    "child_id": 7,
+    "parent_label": "ai_agree_gemini_like_really",
+    "child_label": "ai_use ai_ai features",
+    "distance": 0.7522187340173806
+  },
+  {
+    "parent_id": 23,
+    "child_id": 20,
+    "parent_label": "ai_agree_gemini_like_really",
+    "child_label": "agree_really_honestly_right_yeah",
+    "distance": 0.7522187340173806
+  },
+  {
+    "parent_id": 22,
+    "child_id": 4,
+    "parent_label": "s25 ultra_s23 ultra_s25u_s24_iphone 17",
+    "child_label": "battery life_battery usage_better battery",
+    "distance": 0.7472944943463958
+  },
+  {
+    "parent_id": 22,
+    "child_id": 21,
+    "parent_label": "s25 ultra_s23 ultra_s25u_s24_iphone 17",
+    "child_label": "s25 ultra_s26 ultra_s23 ultra_s25_s24",
+    "distance": 0.7472944943463958
+  },
+  {
+    "parent_id": 21,
+    "child_id": 1,
+    "parent_label": "s25 ultra_s26 ultra_s23 ultra_s25_s24",
+    "child_label": "instagram_version instagram_reported",
+    "distance": 0.664640252965747
+  },
+  {
+    "parent_id": 21,
+    "child_id": 19,
+    "parent_label": "s25 ultra_s26 ultra_s23 ultra_s25_s24",
+    "child_label": "s23 ultra_s25 ultra_iphone 17_s26 ultra_ultra",
+    "distance": 0.664640252965747
+  },
+  {
+    "parent_id": 20,
+    "child_id": 2,
+    "parent_label": "agree_really_honestly_right_yeah",
+    "child_label": "agree_right_really",
+    "distance": 0.6557526440791414
+  },
+  {
+    "parent_id": 20,
+    "child_id": 5,
+    "parent_label": "agree_really_honestly_right_yeah",
+    "child_label": "best buy_deals_good deal",
+    "distance": 0.6557526440791414
+  },
+  {
+    "parent_id": 19,
+    "child_id": 0,
+    "parent_label": "s23 ultra_s25 ultra_iphone 17_s26 ultra_ultra",
+    "child_label": "s25 ultra_s24 ultra_s23 ultra",
+    "distance": 0.57921974131727
+  },
+  {
+    "parent_id": 19,
+    "child_id": 3,
+    "parent_label": "s23 ultra_s25 ultra_iphone 17_s26 ultra_ultra",
+    "child_label": "camera_camera app_cameras",
+    "distance": 0.57921974131727
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "parent_id": 36,
+    "child_id": 34,
+    "parent_label": "s24 ultra_s25 ultra_s23 ultra_s26 ultra_s24",
+    "child_label": "que el_en el_la pantalla_la bateria_cuando",
+    "distance": 1.2404736965505858
+  },
+  {
+    "parent_id": 36,
+    "child_id": 35,
+    "parent_label": "s24 ultra_s25 ultra_s23 ultra_s26 ultra_s24",
+    "child_label": "s24 ultra_s25 ultra_s26 ultra_s23 ultra_s24",
+    "distance": 1.2404736965505858
+  },
+  {
+    "parent_id": 35,
+    "child_id": 27,
+    "parent_label": "s24 ultra_s25 ultra_s26 ultra_s23 ultra_s24",
+    "child_label": "s24 ultra_s25 ultra_s23 ultra_s26 ultra_s24",
+    "distance": 1.0334611776040727
+  },
+  {
+    "parent_id": 35,
+    "child_id": 29,
+    "parent_label": "s24 ultra_s25 ultra_s26 ultra_s23 ultra_s24",
+    "child_label": "galaxy guide_galaxy ai_switching samsung_samsung_galaxy",
+    "distance": 1.0334611776040727
+  },
+  {
+    "parent_id": 34,
+    "child_id": 32,
+    "parent_label": "que el_en el_la pantalla_la bateria_cuando",
+    "child_label": "titanium_titanium frame_aluminum_aluminium_material",
+    "distance": 1.0248809715700657
+  },
+  {
+    "parent_id": 34,
+    "child_id": 33,
+    "parent_label": "que el_en el_la pantalla_la bateria_cuando",
+    "child_label": "que el_en el_cuando_es_el s25",
+    "distance": 1.0248809715700657
+  },
+  {
+    "parent_id": 33,
+    "child_id": 7,
+    "parent_label": "que el_en el_cuando_es_el s25",
+    "child_label": "que el_es el_en el",
+    "distance": 1.001063211794191
+  },
+  {
+    "parent_id": 33,
+    "child_id": 31,
+    "parent_label": "que el_en el_cuando_es_el s25",
+    "child_label": "compose_mod_contact_moderators_mods",
+    "distance": 1.001063211794191
+  },
+  {
+    "parent_id": 32,
+    "child_id": 30,
+    "parent_label": "titanium_titanium frame_aluminum_aluminium_material",
+    "child_label": "titanium aluminum_titanium stronger_titanium aluminium_titanium_cheaper titanium",
+    "distance": 0.9998866939270004
+  },
+  {
+    "parent_id": 32,
+    "child_id": 28,
+    "parent_label": "titanium_titanium frame_aluminum_aluminium_material",
+    "child_label": "use tiktok_tiktok_tiktok lite_tik tok_tik",
+    "distance": 0.9998866939270004
+  },
+  {
+    "parent_id": 31,
+    "child_id": 15,
+    "parent_label": "compose_mod_contact_moderators_mods",
+    "child_label": "compose_mod_contact",
+    "distance": 0.9952060622078963
+  },
+  {
+    "parent_id": 31,
+    "child_id": 18,
+    "parent_label": "compose_mod_contact_moderators_mods",
+    "child_label": "soon hopefully_hopefully_hopefully ll",
+    "distance": 0.9952060622078963
+  },
+  {
+    "parent_id": 30,
+    "child_id": 13,
+    "parent_label": "titanium aluminum_titanium stronger_titanium aluminium_titanium_cheaper titanium",
+    "child_label": "titanium_titanium aluminum_titanium stronger",
+    "distance": 0.9639289803112346
+  },
+  {
+    "parent_id": 30,
+    "child_id": 14,
+    "parent_label": "titanium aluminum_titanium stronger_titanium aluminium_titanium_cheaper titanium",
+    "child_label": "months salary_month salary_monthly salary",
+    "distance": 0.9639289803112346
+  },
+  {
+    "parent_id": 29,
+    "child_id": 26,
+    "parent_label": "galaxy guide_galaxy ai_switching samsung_samsung_galaxy",
+    "child_label": "privacy_privacy display_privacy screen_policy_terms",
+    "distance": 0.9614605347305039
+  },
+  {
+    "parent_id": 29,
+    "child_id": 10,
+    "parent_label": "galaxy guide_galaxy ai_switching samsung_samsung_galaxy",
+    "child_label": "galaxy guide_galaxy ai_guide powered",
+    "distance": 0.9614605347305039
+  },
+  {
+    "parent_id": 28,
+    "child_id": 16,
+    "parent_label": "use tiktok_tiktok_tiktok lite_tik tok_tik",
+    "child_label": "use tiktok_tiktok_tiktok lite",
+    "distance": 0.9481758550535104
+  },
+  {
+    "parent_id": 28,
+    "child_id": 17,
+    "parent_label": "use tiktok_tiktok_tiktok lite_tik tok_tik",
+    "child_label": "percent_minutes usage_30 minutes",
+    "distance": 0.9481758550535104
+  },
+  {
+    "parent_id": 27,
+    "child_id": 12,
+    "parent_label": "s24 ultra_s25 ultra_s23 ultra_s26 ultra_s24",
+    "child_label": "white light_appear white_green lines",
+    "distance": 0.9381861083244266
+  },
+  {
+    "parent_id": 27,
+    "child_id": 25,
+    "parent_label": "s24 ultra_s25 ultra_s23 ultra_s26 ultra_s24",
+    "child_label": "s25 ultra_s24 ultra_s26 ultra_s23 ultra_s25u",
+    "distance": 0.9381861083244266
+  },
+  {
+    "parent_id": 26,
+    "child_id": 11,
+    "parent_label": "privacy_privacy display_privacy screen_policy_terms",
+    "child_label": "privacy display_display privacy_privacy feature",
+    "distance": 0.9161983302297845
+  },
+  {
+    "parent_id": 26,
+    "child_id": 24,
+    "parent_label": "privacy_privacy display_privacy screen_policy_terms",
+    "child_label": "buds pro_buds3_galaxy buds_buds4_buds4 series",
+    "distance": 0.9161983302297845
+  },
+  {
+    "parent_id": 25,
+    "child_id": 23,
+    "parent_label": "s25 ultra_s24 ultra_s26 ultra_s23 ultra_s25u",
+    "child_label": "s23 ultra_s24 ultra_s25 ultra_s26 ultra_ultra",
+    "distance": 0.8846476890538573
+  },
+  {
+    "parent_id": 25,
+    "child_id": 6,
+    "parent_label": "s25 ultra_s24 ultra_s26 ultra_s23 ultra_s25u",
+    "child_label": "thanks sharing_feedback really_reviews",
+    "distance": 0.8846476890538573
+  },
+  {
+    "parent_id": 24,
+    "child_id": 9,
+    "parent_label": "buds pro_buds3_galaxy buds_buds4_buds4 series",
+    "child_label": "languages_language_portuguese",
+    "distance": 0.8370512994163904
+  },
+  {
+    "parent_id": 24,
+    "child_id": 8,
+    "parent_label": "buds pro_buds3_galaxy buds_buds4_buds4 series",
+    "child_label": "buds pro_buds3_buds4",
+    "distance": 0.8370512994163904
+  },
+  {
+    "parent_id": 23,
+    "child_id": 22,
+    "parent_label": "s23 ultra_s24 ultra_s25 ultra_s26 ultra_ultra",
+    "child_label": "s25 ultra_s23 ultra_s24 ultra_s26 ultra_ultra",
+    "distance": 0.8253582940076766
+  },
+  {
+    "parent_id": 23,
+    "child_id": 20,
+    "parent_label": "s23 ultra_s24 ultra_s25 ultra_s26 ultra_ultra",
+    "child_label": "good deal_discount_deals_deal_buy",
+    "distance": 0.8253582940076766
+  },
+  {
+    "parent_id": 22,
+    "child_id": 21,
+    "parent_label": "s25 ultra_s23 ultra_s24 ultra_s26 ultra_ultra",
+    "child_label": "s25 ultra_s24 ultra_s23 ultra_s26 ultra_s25u",
+    "distance": 0.7873331090583844
+  },
+  {
+    "parent_id": 22,
+    "child_id": 4,
+    "parent_label": "s25 ultra_s23 ultra_s24 ultra_s26 ultra_ultra",
+    "child_label": "phone cases_phone case_screen protector",
+    "distance": 0.7873331090583844
+  },
+  {
+    "parent_id": 21,
+    "child_id": 3,
+    "parent_label": "s25 ultra_s24 ultra_s23 ultra_s26 ultra_s25u",
+    "child_label": "instagram_battery drain_reported",
+    "distance": 0.7415568567231438
+  },
+  {
+    "parent_id": 21,
+    "child_id": 19,
+    "parent_label": "s25 ultra_s24 ultra_s23 ultra_s26 ultra_s25u",
+    "child_label": "s24 ultra_s25 ultra_s23 ultra_s26 ultra_s24",
+    "distance": 0.7415568567231438
+  },
+  {
+    "parent_id": 20,
+    "child_id": 2,
+    "parent_label": "good deal_discount_deals_deal_buy",
+    "child_label": "agree_affecting users_makes sense",
+    "distance": 0.6789755632782549
+  },
+  {
+    "parent_id": 20,
+    "child_id": 5,
+    "parent_label": "good deal_discount_deals_deal_buy",
+    "child_label": "deals_prices_seller",
+    "distance": 0.6789755632782549
+  },
+  {
+    "parent_id": 19,
+    "child_id": 0,
+    "parent_label": "s24 ultra_s25 ultra_s23 ultra_s26 ultra_s24",
+    "child_label": "s24 ultra_s25 ultra_s23 ultra",
+    "distance": 0.5210613128804119
+  },
+  {
+    "parent_id": 19,
+    "child_id": 1,
+    "parent_label": "s24 ultra_s25 ultra_s23 ultra_s26 ultra_s24",
+    "child_label": "pixel 10_pixel pro_google pixel",
+    "distance": 0.5210613128804119
+  }
+]

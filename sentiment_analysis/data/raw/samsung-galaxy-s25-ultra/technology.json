@@ -1,0 +1,56 @@
+{
+  "product": "Samsung Galaxy S25 Ultra",
+  "subreddit": "technology",
+  "fetched_at": "2026-04-26T16:25:14.443048+00:00",
+  "posts": [
+    {
+      "id": "1qn7dn7",
+      "title": "Samsung admits liability in exploded Galaxy S25 Plus case, user claims | The company is offering to compensate the user and cover their medical expenses.",
+      "selftext": "",
+      "score": 77,
+      "upvote_ratio": 0.92,
+      "num_comments": 6,
+      "url": "https://www.androidauthority.com/samsung-galaxy-s25-plus-explosion-case-3634441/",
+      "created_utc": 1769405648,
+      "comments": [
+        {
+          "id": "o1rqd0f",
+          "body": "I can think of four Samsung phone models off the top of my head that had some sort of high profile combustion event. How have they not figured this shit out yet?",
+          "score": 16,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "o1rv3r8",
+              "body": "*If you're reading this, the original post got nuked by [Redact](https://redact.dev). I use it to automatically purge my digital footprint from social networks, people search sites and messaging apps.*\n\nupbeat imminent meeting unite gold sharp pocket governor carpenter crush",
+              "score": 5,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "o1rwg9u",
+              "body": "Buying samsung is a lottery. Sometimes you get lucky sometimes you don’t. And all the Samsung things I owned only lasts 1-3 years. Wish someone else makes cool headphones like the Samsung live",
+              "score": 3,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "o1t9bjp",
+              "body": "Old battery tech expands with pressure, and has thermal runway issues. All modern batteries face this issue until solid state can mass scale.\n\nQuantumscape has focused on EV market first but their CE (consumer electronics) testing news here and there over the last 2-3 years is promising with 0 pressure and 0 expanding issues for CE testing.\n\nProbably 3-5 years until we see one in a phone, maybe 10.\n\nFocus on mass production scaling got ev cells has been the milestones for 2025.",
+              "score": -4,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "o1ty1zd",
+                  "body": "But somehow other manufacturers have avoided having any phones explode in users pockets… this isn’t a battery tech issue it’s a Samsung issue and it’s been happening for a decade.",
+                  "score": 5,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

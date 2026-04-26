@@ -276,7 +276,7 @@ REDDIT_USER_AGENT=HierABSA/1.0 by YourUsername
 GEMINI_API_KEY=your_gemini_key
 ```
 
-> **Note:** The LLM paradigm uses **Gemini Flash** (`gemini-2.0-flash`), not Anthropic/Claude. The `GEMINI_API_KEY` variable is what you need.
+> **Note:** The LLM paradigm uses **Gemini Flash** (`gemini-3-flash-preview` by default; configurable in `config/default.yaml`), not Anthropic/Claude. The `GEMINI_API_KEY` variable is what you need.
 
 ---
 
@@ -340,7 +340,7 @@ uv run absa info
 | Sentence embeddings | `all-MiniLM-L6-v2` | 80 MB | ~50 ms/sentence |
 | Topic modeling | BERTopic (UMAP + HDBSCAN) | — | ~30 s for 3K docs |
 | ABSA Transformer | `yangheng/deberta-v3-base-absa-v1.1` | ~350 MB | ~100 ms/sentence |
-| ABSA LLM | `gemini-2.0-flash` (Google API) | API | ~300 ms per 10-batch |
+| ABSA LLM | `gemini-3-flash-preview` (Google API) | API | ~300 ms per 10-batch |
 | ABSA Lexicon | VADER + spaCy dep parser | 50 MB | ~5 ms/sentence |
 | Sentence splitting | `spaCy en_core_web_sm` | 12 MB | ~10 ms/document |
 

@@ -1,0 +1,3122 @@
+{
+  "product": "Samsung S25 Ultra",
+  "subreddit": "GalaxyS25",
+  "fetched_at": "2026-04-26T16:49:20.748345+00:00",
+  "posts": [
+    {
+      "id": "1oi9ivn",
+      "title": "S25 camera (50MP GN3) feels like a major downgrade. Is Samsung intentionally not optimizing it?",
+      "selftext": "Hey everyone,\n\n​I need to vent and also see if others are experiencing this, because I'm completely baffled by the S25's camera.\n\n​I came from an S23 and currently also use a Fold 5. All three of these phones use the exact same 50MP ISOCELL (S5K)GN3 main sensor. I want to stress this: it's the same hardware.\n\n​Based on that, I expected the image quality to be at least identical, if not slightly better on the S25. \n\n​However, the reality is the complete opposite. The photos from my S25 are consistently worse than both my Fold 5 and my old S23. They look softer, have more noise, and show weird processing artifacts (like smearing or a watercolor effect). This gets significantly and undeniably worse in low-light conditions.\n\n​This has to be a software/image processing issue, right? There's no way the same proven hardware can suddenly produce results this bad.\n\n​It honestly makes me wonder:\nIs this just a launch bug that will be patched? Or is Samsung intentionally neglecting optimization on this sensor for some reason (maybe to push people towards the Ultra)?\n\n​It's just frustrating to see such a clear regression on a brand-new flagship.\n​Here are two comparison shots taken of the same scene, moments apart.\n\n​Photo 1: Taken with my Galaxy Fold 5 \n​Photo 2: Taken with the new Galaxy S25\n**Both cropped \n\n\n\nJust look at the difference in detail and processing.\n​Is anyone else who upgraded from an S23 or Fold 5 noticing this? What's your theory on this?\n\n",
+      "score": 43,
+      "upvote_ratio": 0.89,
+      "num_comments": 42,
+      "url": "https://www.reddit.com/gallery/1oi9ivn",
+      "created_utc": 1761658504,
+      "comments": [
+        {
+          "id": "nlz51hv",
+          "body": "If you think the base camera app is bad, try One UI 8 Expert RAW on the S25 vs the S23 (my S23 is still on 7). It somehow manages to have noise even in full light now..",
+          "score": 13,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nlzy78g",
+              "body": "Yeah, it's true, but the question remains the same...",
+              "score": 5,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nm0wsc6",
+                  "body": "Yeah of course, this is intentional, if you want a better camera, you need to upgrade to the ultra.",
+                  "score": 4,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nm2srps",
+          "body": "As many others have pointed out, you're not alone.\n\nI \"upgraded\" from an S23 as well as did my brother. It's a running joke in our family now that everything we talk about is how bad the S25's camera is (although as you correctly pointed out, IT'S THE SAME EFFING SENSOR).\n\nI even made some posts trying to change settings to improve the results a tiny bit, but at the end, I still miss my S23's shooting capabilities so much.\n\nIt baffles me how with all these complaints, Samsung literally doesn't give a crap about this situation. I know a thing for sure: at least in my family, no one is ever going to buy another Samsung phone, ever. I genuinely hope the same will be true for all the people who are disappointed by the cameras because one of the biggest and most important phone manufacturer in the world should be paying more attention to this kind of issues.",
+          "score": 5,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nm36wq7",
+          "body": "they created a problem to sell an AI solution",
+          "score": 4,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nm4m7rv",
+          "body": "No because how is my S10 camera better than my s25?? Waited 6 years to upgrade to get this?!",
+          "score": 4,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nlyh7pu",
+          "body": "Unfortunately, Samsung has had problems with image post-processing after shooting since the S25, and it seems they have little intention of fixing it. With the October 2025 patch, they optimized the post-processing a little. I don't know if the patch is applied when taking photos, but if not, install it and try it out. But the truth is that in terms of photography, at least in the price range in which the S25 and S25 Plus were released, they fell far short of the competition or previous models. And there will be many people who will say that it is a lack of skill or a bunch of nonsense that honestly tries to cover up reality, or rather, tries to hide the sun with a finger. Samsung has been using the same sensors since the S22, which are of course now obsolete, and Samsung has developed much better sensors that they simply haven't bothered to use in their own flagship models, but have sold to other brands, which end up winning in the photography and video rankings. How ironic.",
+          "score": 8,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nlyhiza",
+              "body": "https://preview.redd.it/srcsxr89ezxf1.jpeg?width=960&format=pjpg&auto=webp&s=b387f89442d2b6d4532ccd40ce005306017160d3\n\nAlso, I don't know, but it seems to me that the photos you took are even worse than on my S25 Plus now that I can see them in greater detail.",
+              "score": 2,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nlz56np",
+                  "body": "Which option for intelligent optimization are You using?",
+                  "score": 3,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nm3zr5r",
+                      "body": "https://preview.redd.it/qsyx145hb5yf1.jpeg?width=1080&format=pjpg&auto=webp&s=5d379bd34064653f4b9c9172497920522867fa24",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "nm1r4i2",
+              "body": "I agree that we are talking about the same hardware since S22, but the problem is that the same sensor underperforms compared even to the S23 I had or the Fold 5 I currently have.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nm8b3tn",
+          "body": "The AI hype is making them rely on shitty and outdated technology. Anything marketed with AI means shitty hardware and the AI will cover up for this which is not true.",
+          "score": 3,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nlz8cva",
+          "body": "Couldn't this be due to the settings in the assistant camera? You tell me that, I'm disgusted then! I took an S25 because everyone said it was incredible and now users say it's crap... like my Motorola Edge 40 takes better photos too, right??",
+          "score": 6,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nm1qjdf",
+              "body": "No your Motorola Edge 40 doesn't take better Photos but that doesn't mean that the S25 camera is good enough for a 2025 high-end smartphone",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nlzfwc5",
+          "body": "I actually prefer the 2nd photo, as it is more natural and not over processed, the 1st photo looks over processed to me",
+          "score": 6,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nlzgj58",
+              "body": "Post processing is the only reason phone cameras look any good, with their miniscule sensors and microscopic lenses. \n\nNobody wants to have to lightroom edit every single photo they take to fix it.",
+              "score": 6,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nlzkxt5",
+                  "body": "Yes, what I'm saying is the processing on the first photo looks bad to me as it is over-sharpened, while the 2nd photo looks natural and the processing is just right",
+                  "score": 0,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "nlzu5gj",
+              "body": "exactly. It's not even close. The first picture looks terrible",
+              "score": 0,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nm0jn6g",
+          "body": "I noticed that Samsung has also caused another serious problem based on the comments of these posts.\n\nThe whole point of the intelligent optimization and the scene optimizer according to their description was that everyone should be able to pick what makes them more happy.\n\nSo lets say that the people that like a more processed social media ready HDR photo should enable the maximum optimization and the scene optimizer which according to its description should make the dark areas brighter and landscape more vivid.\n\nThe people that like a more natural raw LDR photo should go for the medium or even better the minimum optimization.\n\nHowever we are now facing arguments from the people that simply like the more natural look even though we have in fact chosen the maximum optimization and the scene optimizer.\n\nAnd these arguments are also based on the typical excuse that it's not details it's over sharpening which yes it can be true sometimes but if i try to manually increase the sharpness to enhance a bit the details for my liking the result won't be good enough if there are no any details left to enhance in the first place. Especially when these details are permanently lost into the crushed shadows or due to highlight clipping or if there is too much blurriness.",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nm2xl01",
+          "body": "Can you show the originals without crop?    Both look pretty bad, the fold is way over sharpened and the s25 looks very soft.",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nm69g0t",
+              "body": "Yeah sure\n\nFold5\n\nhttps://preview.redd.it/l2sq78yyi8yf1.jpeg?width=4000&format=pjpg&auto=webp&s=e7c72c2929aa1207481664d560f02e1f3faf5042",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nm69kxn",
+                  "body": "S25\n\nhttps://preview.redd.it/1pu3x2f5j8yf1.jpeg?width=4000&format=pjpg&auto=webp&s=47b8c0d96502a70c5f78aa71180c81f30095d041",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nrek6l7",
+                      "body": "ngl i kinda like the s25 one better maybe...",
+                      "score": 2,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "o59pirf",
+          "body": "I came from the Galaxy S22 and tbh the camera of the S25 sucks ass compared to the older S22. They really are selling us bullshit.",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nlzeu38",
+          "body": "this is exactly how everyone feels with this phone after switching from another one. The same or similar sized sensors exist in many devices already for many years now and they can take super detailed photos with great HDR but for some reason this year Samsung decided to play it very conservative with the camera performance of their flagships. \n\nPlease don't forget to send your feedback including these samples through the Members app->support->send feedback->camera\n\nFrom my side i also installed gcam just to confirm how powerful this sensor is and it's very impressive to see what a good processing can do. The details and HDR captured with gcam and 12mp is out of this world and in fact is even better than the photos taken with Expert Raw and 24mp if you keep the default settings.\n\nThat being said based on my testing the real reason we are experiencing the loss of details and HDR is first of all due to the miscalculation of the shutter speed value that the stock camera and Expert raw is selecting by default and then also due to limited exposure or limited exposure stacking which can lead to crushed shadows and high contrast images. On top of that the night mode is being very aggressive with its unsharp masking filter and thus is wiping out all the fine details making the final image look like an oil painting.\n\nIf you don't mind experimenting and want to get a lot better results i have some tips but they work only with Expert Raw as it offers full manual control plus HDR. The stock camera app when used with auto mode and its HDR capabilities allows you to change only the exposure which can help fix the crushed shadows but not necessarily the lack of details. And if you try to increase it too much the photo will look over brightened. Pro mode is useless as it has no HDR.\nThankfully with Expert Raw you can change the default shutter speed value to let the sensor capture more details keeping the original brightness of the scene. For better shadows you can slightly increase the exposure as well. Don't touch the iso it's not needed. \nWith that in mind the trick i am using is to always change the shutter speed to half of what is automatically selected. So if i see for example 1/90 i will switch to 1/45 and even slower. For lifted shadows i might increase the exposure to +0.3.  The best resolution to choose is 24mp due to AI fusion technology. This way you can get crystal clear photos full of details. The only risk with the shutter being open for longer time is the cause of motion blur but so far i haven't noticed any serious issues and besides the result is totally worth it.",
+          "score": 5,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nlzgozg",
+              "body": "Do you have the gcam samples with native camera comparison?",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nlzjik2",
+                  "body": "not really as i only used it temporarily to test the performance and then i deleted them cause they were hundreds of photo samples taking up space for no reason. Perhaps it would be interesting to make another post to compare gcam vs stock but at the moment i am focusing on learning how to live without gcam. However i can share the one that works for me pretty well so you can give it a try. It's the 9.2 version from BigKaka link here https://www.celsoazevedo.com/files/android/google-camera/dev-BigKaka/f/dl80/ . The config to use is for S23 base model https://www.celsoazevedo.com/files/random/2024/JavaSaBr_S23_AGC92v13_v52.html . The version i am using most of the time is the sharp one and the profile i select is the MaxQ-HDR. Keep in mind the photos of this gcam take up a lot of space perhaps they need a bit of extra compression.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nreki2k",
+                      "body": "should we download the samsung.apk?",
+                      "score": 2,
+                      "depth": 3,
+                      "replies": [
+                        {
+                          "id": "nres63m",
+                          "body": "yes better",
+                          "score": 1,
+                          "depth": 4,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "nlzg6eg",
+              "body": "I have sent messages and photos through the Members app since I got it, I'm yet to be forwarded to an actual camera engineer or a manager, only to what looks like AI support.\n\nI also pushed people to complain there, but it's genuinely pointless unless you are from Korea..",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nlztvk8",
+          "body": "The first is by far the worst. Way too over processed. \n\nThe second one is far better than the first. A lot more natural and closer to what it would look like with a professional camera",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nmcp29p",
+          "body": "What does Expert Raw do? I selected it and it shows I need to install it. Is it worth it? And what settings are the best for ordinary daylight photos?  So many options. And is there a best setting for night mode?",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nmcyfyb",
+          "body": "Try gcam, i use the s23 and gcam help a lot with definizion and reducing post processing",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nlzvboa",
+          "body": "I'm not the biggest fan of the S25 camera, but in your example the S25 photo is by far the better one.",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nlzy2bl",
+              "body": "So, do you prefer the blurred one with the less detail?",
+              "score": 0,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nm47tt4",
+                  "body": "Both are not great, but the first definitely looks artificial and nearly fake. So yes, out of the two, the second looks more like a \"real photo\", so I'd also go with that.\n\nAnd please, how about you do indeed check or at least share your camera settings. The second pic looks like Intelligent Optimization set to \"Low\" to me, for example, which would already explain the less details and more blur.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nm6z0kk",
+                      "body": "I understand of your concern about of the \"too much  sharpening\" but it's less of a problem compared to too much lack of detail in the S25. maybe the example is not the best, but the lack of detail is very obvious between my experience with S25 and S23/Fold5",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nm4obi1",
+          "body": "Coming from an iPhone 13 to the S25, I'm not unhappy with the camera. Its a 7/10 by flagship standards. I'm aware of the strategy Samsung is using to upsell their ultra for an iPhone pro level price and its probably also the reason they haven't given us a compact version of the ultra. I'm definitely happy with every other area of this phone and the camera only disappoints sometimes when taking pictures of landscapes, but it also captures great pictures sometimes. How do you find this picture?\n\nhttps://preview.redd.it/m74u2swo06yf1.jpeg?width=2252&format=pjpg&auto=webp&s=82d6d7e849041d0acf9b1ff210f7131b790d512c",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nm6zqaf",
+              "body": "It is a really great and beautiful picture and I also would also roughly agree with your overall assessment. ;)",
+              "score": 2,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nlz8erq",
+          "body": "Couldn't this be due to the settings in the assistant camera? You tell me that, I'm disgusted 😢 I took an S25 because everyone said it was incredible and now users say it's crap... like my Motorola Edge 40 takes better photos too, right??",
+          "score": 0,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nlz8f6t",
+          "body": "Couldn't this be due to the settings in the assistant camera? You tell me that, I'm disgusted 😢 I took an S25 because everyone said it was incredible and now users say it's crap... like my Motorola Edge 40 takes better photos too, right??",
+          "score": 0,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nm6w9bu",
+          "body": "I got better photos from my S25 by disabling use adaptive pixel in the camera assistant and also sometimes by turning off auto HDR.",
+          "score": 0,
+          "depth": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "1r5vc6e",
+      "title": "Samsung galaxy s25 ultra battery",
+      "selftext": "I don't know if I'm having troubles with my battery, what do you think?",
+      "score": 8,
+      "upvote_ratio": 0.68,
+      "num_comments": 24,
+      "url": "https://i.redd.it/1gvhhjps7rjg1.jpeg",
+      "created_utc": 1771202980,
+      "comments": [
+        {
+          "id": "o5m01w8",
+          "body": "I don't know if I just got lucky or if these things help but I get around ten hours of sot so Im here to help.\n\nhttps://preview.redd.it/bhxbgj5uhrjg1.jpeg?width=1440&format=pjpg&auto=webp&s=140bf083d2509cb3b3528bdf9aa89f575bf65f87\n\nBrightness to this level don't worry the display will still look awesome. Now search up android safety core and uninstall.  Then search for personal ai intelligence and turn that off. You'll lose brief now. But you'll gain alot of battery life.",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "o5m04tc",
+              "body": "https://preview.redd.it/xki4xzjxhrjg1.jpeg?width=1440&format=pjpg&auto=webp&s=faa0f3f0d0fd536b8dec18572b01cf757034a6e4",
+              "score": 2,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "o5m0aan",
+                  "body": "https://preview.redd.it/mkhw7wu3irjg1.jpeg?width=1440&format=pjpg&auto=webp&s=a34f51e8197cd67f85c0ce85c86267503dd86368\n\nSorry wrong one.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "o5m0nsd",
+              "body": "Personal ai intelligence is an app?or r u referring to this?\n\nhttps://preview.redd.it/3s2o3wbjirjg1.jpeg?width=1440&format=pjpg&auto=webp&s=3708c6ada8d51115a49e15cde6d4795eaedb2d18",
+              "score": 2,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "o5m0szp",
+                  "body": "It's an AI function that's constantly going through everything you do to create brief now. You'll have to search it in settings.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "o5m0x7w",
+                      "body": "https://preview.redd.it/l6ycnm1uirjg1.jpeg?width=1440&format=pjpg&auto=webp&s=393d9a45ad6c06061f9e411b0f42980908a02f7c\n\nLooks like this.",
+                      "score": 2,
+                      "depth": 3,
+                      "replies": [
+                        {
+                          "id": "o5m16wg",
+                          "body": "Thanks broz i'm going to try it",
+                          "score": 1,
+                          "depth": 4,
+                          "replies": [
+                            {
+                              "id": "o5madf4",
+                              "body": "It worked ??",
+                              "score": 1,
+                              "depth": 5,
+                              "replies": [
+                                {
+                                  "id": "o5maja1",
+                                  "body": "I'm trying it, I'm going to post the performance with the changes.",
+                                  "score": 2,
+                                  "depth": 6,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "o5r6mce",
+                                  "body": "https://preview.redd.it/7axvxn5ybxjg1.jpeg?width=1440&format=pjpg&auto=webp&s=dbdfff06484fa2aef38805f9d08bd3d8e3a124aa\n\nHere's the result.",
+                                  "score": 1,
+                                  "depth": 6,
+                                  "replies": [
+                                    {
+                                      "id": "o5vzpt0",
+                                      "body": "I have an S24, and you have an S25 Ultra, but I don't see much of a difference. Maybe both our phones have some issues, as others are getting much more screen-on time than us.",
+                                      "score": 1,
+                                      "depth": 7,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "o5nywt7",
+              "body": "Idk if its even safe to uninstall android safety core",
+              "score": 2,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "o5v4g55",
+              "body": "Android Safety Core always reinstalls it's self. I have deleted it multiple times in the past.",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "o5vbts7",
+                  "body": "Yea probably every update.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "o5vq5d0",
+                      "body": "I see. I found this. What happens if i just turn off Now Brief and leave the rest on?\n\nhttps://preview.redd.it/kro7yt8uq2kg1.png?width=1440&format=png&auto=webp&s=485742add5f5677d307d16c35b011de4c5bca121",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": [
+                        {
+                          "id": "o5vt57o",
+                          "body": "I just turned personal intelligence off and everything but now brief still worked.",
+                          "score": 1,
+                          "depth": 4,
+                          "replies": [
+                            {
+                              "id": "o5vvfjx",
+                              "body": "That is because now brief has its own menu under Lock Screen in Settings.",
+                              "score": 1,
+                              "depth": 5,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "o5maoj0",
+          "body": "https://preview.redd.it/p79q4oy2urjg1.jpeg?width=1080&format=pjpg&auto=webp&s=6ff0a54f0bae4b5f043c0fc8a2dbde6ea0ab7fad\n\nI have an S24, which I just bought 3-4 weeks ago. I am getting this type of screen-on time. Is my unit faulty, or is this normal for an S24?",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "o5pzg4b",
+          "body": "https://preview.redd.it/tnbyb45cbwjg1.jpeg?width=1080&format=pjpg&auto=webp&s=b7493c8005d4aef10eff4261ba78ed1ff46b3811\n\nWhy are these 2 apps consuming so much battery? Even playing games for over an hour on my base S25 is consuming less battery percentage, plus I'll also get over 10 hours of SoT without battery saving mode and at 120Hz, automatic brightness.",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "o5tsf4v",
+              "body": "freefire on s25 🤦🏾‍♂️",
+              "score": 2,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "o5usxmn",
+                  "body": "It's the only mobile game my friends play; two of them even have iPhone 16 Pro Max, just to give you an idea. I prefer playing campaign games on my gaming PC.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "o5r46ex",
+          "body": "My s24 ultra can last 4days on light usage",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "o5uemfz",
+          "body": "https://preview.redd.it/p40hliyi91kg1.jpeg?width=1080&format=pjpg&auto=webp&s=7edf6a8a899cee1de22a56cefede10f352b47f2e\n\nMy s24",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "o5vyaoz",
+              "body": "No way !!! What settings have you done ? My S24 sucks ..",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1q7ilf0",
+      "title": "Which is the best Samsung Galaxy S25 model to buy in 2026?",
+      "selftext": "I’m planning to upgrade my phone this year, and the Samsung Galaxy S25 series has caught my eye. I know there are multiple models like the standard S25, S25+, and S25 Ultra, but I’m not sure which one is the best choice in 2026.\n\nI’m mainly interested in:\n\nPerformance: Speed, multitasking, gaming. \n\nCamera quality: Photos and videos. \n\nBattery life: Real world usage, not just specs.\n\nValue for money: Is the Ultra worth the extra cost?\n\nIf you’ve used any of these models or have compared them, I’d love to hear your thoughts. Which Galaxy S25 model would you recommend for someone who wants the best overall experience this year?",
+      "score": 10,
+      "upvote_ratio": 0.92,
+      "num_comments": 20,
+      "url": "https://www.reddit.com/r/GalaxyS25/comments/1q7ilf0/which_is_the_best_samsung_galaxy_s25_model_to_buy/",
+      "created_utc": 1767894639,
+      "comments": [
+        {
+          "id": "nyk4avk",
+          "body": "Iam using a s25 base model.\n\nIt is more than enough for day to day use for me.\n\nItl is small in size and easier to use. Camera is also great. Specially the portrait. You get same AI features and that makes it stand on top of other brands when it comes to AI (photo edit) even though it is a base model of S25 series. \n\n\nPrice difference is not much now a days between s25 vs ultra. So if you like a bigger device and camera with more  features & pixels the ultra would be the best choice. Otherwise go for S25 base model..",
+          "score": 17,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nykoewj",
+              "body": "+1 \nUnbox mine yesterday and the battery is waouh. I don't know how i did to survive with my s21fe",
+              "score": 3,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nyjoz4a",
+          "body": "If you have money, buy Ultra.battery, camera better. Bigger screen. \nBut if you okay being average user, get s25. Its one of the best compact phone with decent camera and okay battery. \nS25 ultra can be 400-600 more expensive, and you know... its a big money",
+          "score": 5,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nyk955h",
+          "body": "I have the base s25. Love it. Small and easy to use. \nThe ultra has better cameras but is huge and very uncomfortable to use with one hand when walking, shopping, or at night lying in bed etc.\nThe s25 is the first phone I can use comfortably anytime. Even holding it while lying in bed does not require an effort.\nBattery life is similar to plus or ultra. Smaller battery but also smaller screen.  Bigger battery but also bigger screen. And the screen is the most power hungry specially in daylight usage.\nPerformance is similar because they all have the same chipset. Maybe in very demanding scenarios the base 25 would heat more and throttle performance, but for everyday usage they are all the same. Battery usage is about 12% for 1 hour of web, youtube, whatsapp, reddit etc.",
+          "score": 3,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nykiz94",
+          "body": "Performance will be the same on all 3. The SoC is the same. \n\nCamera quality on the S25 and S25+ will be the same. Same cameras. The Ultra has a better lense. \n\nBattery will be best on the Ultra but I don't know real life use.\n\nCan't answer on value - it's subjective and if you want the gigantic phone and a pen. \n\nI have the S25 and S25+. I just recently after almost 9 months switched to the S25+ from the base S25. Battery life has been roughly the same to be honest. The base S25 has a smaller battery but a 1080p resolution screen. I never baby the phones, I use them as needed. I don't play games on my devices. \n\nIt's just going to come down to size for you. Hope this helpful. Also, might want to wait for the S26. Never know with trade-in values or deals.",
+          "score": 3,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nyl26y0",
+              "body": "It's funny, I have the S24+ and my partner has the S25, and I'm jealous of its size. I imagine you wanted the biggest screen?\nI have big hands, and yet I find the \"+\" too big; it's a pain to type with one hand.",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nyl3hpm",
+                  "body": "Man I miss my mini S25 but I scratched the screen. That thing was a powerhouse. I got both thru a T-Mobile promo. It's slightly too big.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nyl7sqe",
+                      "body": "Oh dear, you have my deepest sympathy!!",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nz02lhm",
+          "body": "I have S25U and just got the S25 Edge a few weeks ago. Haven't use the Ultra since. I love the Edge!",
+          "score": 3,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nykgvtb",
+          "body": "For your needs, ULTRA all the way. Enjoy!",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nyknjih",
+          "body": "If you want compact: base\nIf you want big screen and better camera: ultra,\nBut base camera is also great",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nyl3end",
+          "body": "Base S25 here. Love the size.  I can't handle a huge phone like the Ultra. My phone is fast, great display and takes great pics.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nyl84ei",
+          "body": "S25 base if you want a small phone that you can use with one hand because you have smaller hands.\n\nOtherwise S25+ or Ultra.\n\nBest photos are on the Ultra and that's probably the main reason to take it over the Plus. Except maybe if you're a hatdcore gamer then the bigger less reflective screen of the Ultra is an additional benefit.\n\nIn any case minimum 256gb memory.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nylva4l",
+          "body": "I have the plus model because the ultra was just too high of a price tag for me. I have literally no complaints. Upgraded from my base model 23. I'm enjoying the extra storage and bigger battery. It's a flawless device.",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nyou3v0",
+              "body": "I'm thinking of purchasing the Navy S25 Plus. How are the cameras in your opinion?",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "nyp6l76",
+              "body": "I thought I was reading one of my own replies. Exact same thoughts, now add the larger screen w WQHD+ resolution.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nymf79m",
+          "body": "None. I had the S25 Ultra for 2 weeks and it would start at 100% then be at 30% by the end of the 8 hour work day.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nyk5o08",
+          "body": "I'm on month 4 with my S25+. I've never really tested my battery hourly use because since my S7 I've had a series of battery banks. The last 2 models 10K mAh chargers. I refuse to be stuck to a wall socket.   Stems back to when I traveled a lot and watched people huddled at airport walls trying to charge their phones when there flight were delayed , with 4ft charger cords. So its been like 2912 since I worried about battery life. Especially with how cheap 10k mAh battery  banks cost these days.  My last pair were like $20 for 2 banks.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "1n0esfj",
+      "title": "S25 Ultra, bought brand new 3 months ago, 63% battery at 2 hours into the day is a disaster",
+      "selftext": "I am so sick of this, i feel like ditching Samsung for good. Previous S23 Ultra was the same as welk.",
+      "score": 15,
+      "upvote_ratio": 0.89,
+      "num_comments": 31,
+      "url": "https://i.redd.it/kk7e6f5o9blf1.jpeg",
+      "created_utc": 1756191059,
+      "comments": [
+        {
+          "id": "naqxap3",
+          "body": "why is contacts storage consuming battery?\nfactory reset your phone, i think it'll improve",
+          "score": 9,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nawfv91",
+              "body": "Factory reset with all the banking apps and authenticators is a nightmare, but i guess i have to try",
+              "score": 3,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nbg0y7m",
+                  "body": "Factory reset is actually a good help for me. My battery was draining really bad and I tried optimizing to the max until I did the reset. After resetting the phone, your battery relearns your battery usage.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nbsty7x",
+                      "body": "That's encouraging, i will try that.",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "nawgt15",
+              "body": "Correct me if I'm wrong but it looks like a third party app not natively built into the phone",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nb0zran",
+                  "body": "I cannot really find it in my apps list",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "naqz17c",
+          "body": "Battery is good, it's only poor software optimization by Samsung.\n\nClear cache and data of your 4 top-apps in screenshot. Remove and download update of Google Play Services again. Charge phone to 100% and test once more. For troubleshooting purposes use the lowest display settings and let your phone drop to 20%; check Device Care which are appearing there and tackle them  \n\\- Disable Adaptive Battery and Adaptive Power Saving Setting in Device Care  \n\\- In Wifi menu - disable all Intelligent Wifi functions",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nar68qz",
+              "body": "Total waste of time. \n\nAll these issues are quirks of Samsung phone ownership.",
+              "score": -2,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "naramz6",
+          "body": "https://preview.redd.it/byv0go4j4dlf1.jpeg?width=1440&format=pjpg&auto=webp&s=8a4933c225393ecfc7f6e6a8a75bdf773c8412f6\n\nS25 Ultra, mixed use Wifi and 4G+.\n\nAdaptive refeesh rate, Always on AUTO, QHD+, Standard Performance profile, No gaming at all.",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "narbsee",
+              "body": "Bro sold his soul for this. One can only dream to even achieve 4hr of SOT",
+              "score": 3,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "narc487",
+                  "body": "I don't know about other users, but my S25 Ultra is giving me an amazing battery life. Much better than my previous base model S23.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nardh3f",
+                      "body": "If im lucky I'll get 6 hours but im always around the 4-5hr which isn't terrible but nothing compared to what you have",
+                      "score": 3,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ncypc8u",
+          "body": "Just got mine 4 days ago but never updated, no power saving, low brightness qhd, 4g, sot was lower on the first day, this was the best it did but always 10%/hour but i dont have many apps\n\nhttps://preview.redd.it/gryc1k14usnf1.jpeg?width=1440&format=pjpg&auto=webp&s=eea6db792314e142b8bd14231d28e41d50259465",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "naqsyp5",
+          "body": "This is like my S22U",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "natgtli",
+          "body": "30min google maps with 5g I assume consumes a lot. Look up how much battery it takes switching between 5g antennas takes.",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nawg5ix",
+              "body": "Also that's not nornal, Maps consumption was better for me 2 months ago but i dont know what happened now",
+              "score": 2,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "naxuje3",
+          "body": "https://preview.redd.it/1zk0svve7klf1.jpeg?width=1080&format=pjpg&auto=webp&s=4a2e3e496fc030ae3e400548ad9b9735cd598b86\n\nBase s25 depends upon usage but still if u dont play games it should last more than a day ig",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nb103vn",
+              "body": "I dont play any games, bro. That's why it is even more frustrating.",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nb2z2jq",
+                  "body": "Try clearing cache partition",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nb2xwoz",
+          "body": "You can see very clearly what is wasting your battery...contacts storage and a bunch of Google apps, tons of wakelocks preventing your phone from going into deep sleep, and why do you have 2 Google play services in your list? It's no suprise your getting such bad battey life.....my battery list consists of just the apps I use and nothing more and I can push 2 and a half days between charge with moderate usage, you need to disable or put into deep sleep anything that has wakelocks",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nb6bn4a",
+              "body": "Holy...2 and half days is tremendous. I will try to delete stuff, i currently have 264 installed apps. Whoof",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nb6c91n",
+                  "body": "All you need to do is click on each app in the battery list, look at the wakelock option and see exactly how much time each app is preventing your phone going into deep sleep then put it into deep sleep unless you need notifications for it, if you do need notifications for the certain app just put it to sleep instead of deep sleep then your notifications will still come through",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nbsu7im",
+                      "body": "Yeah, i am going to do this and the factory reset as everybody said.",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": [
+                        {
+                          "id": "nig4wu9",
+                          "body": "Did factory reset, only got the incinvenience, battery did not improve. 5 days now.",
+                          "score": 1,
+                          "depth": 4,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nb3otou",
+          "body": "This battery drain feels like my iPhone 15 Pro Max🫠",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nb6bqgn",
+              "body": "I was thinking of switching to iPhone 16 Pro Max here",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nbb5g9k",
+          "body": "I had the same with my S25u. Factory reset fixed it.  From what I heard is that you should always do a factory reset when first opening any Samsung device.",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nbsu2si",
+              "body": "This seems to be the consensus for now. Thanks, will go for it.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nar60cs",
+          "body": "Keeping your battery at 100% all night is the bigger concern.",
+          "score": -1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nb0lil9",
+              "body": "looks like OP has battery protection enabled. (the shield icon) so I don't think it is consistently pushing charge all night.",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nb0zw44",
+                  "body": "True, protection is enabled.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ps4f82",
+      "title": "If you want to avoid the camera ai-slop - avoid s25 ultra",
+      "selftext": "purchased yesterday s25 ultra 512gb for the camera, cos I need to takes photos frequently.\n\nWhat a disappointment when you shoot, open samsung gallery app and see the nice photo becomes an ugly ai slop in 2 seconds and you can do absolutely nothing about it. I disabled all AI related options (camera shows tho only the \"minimal\" processing, no \"ai kill switch\").\n\nI mainly take human faces and they look like a \"chinese flagship camera shoots\" with the same heavy ai processing, that blurries skin/face and creates the artificial glow around (which wasnt there before gallery processed the photo).  \nI tried shooting in RAW mode presented still did no changes, cos the **ai slop occurs solely on the built-in gallery app** that is not possible to replace. \n\ngoogle photos was not a solution, when I used gallery shortcut from the camera app.\n\nI opened a return request but still would like to see if anyone was able to solve this without switching to apple or pixel, because I like samsungs overal design.\n\nThanks",
+      "score": 3,
+      "upvote_ratio": 0.62,
+      "num_comments": 15,
+      "url": "https://www.reddit.com/r/GalaxyS25/comments/1ps4f82/if_you_want_to_avoid_the_camera_aislop_avoid_s25/",
+      "created_utc": 1766316413,
+      "comments": [
+        {
+          "id": "nvi8tvl",
+          "body": "Why didn't you consider a dedicated camera and lens for portraits before buying a phone that technically isn't even close in quality due to the size of the image sensor and lenses?",
+          "score": 6,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nvipksu",
+              "body": "seems like a misunderstanding here, Samsung's S25 Ultra cameras as a hardware are ok  (even in the low light) for a non-photographer, what I mean is the post-photo processing applied to the photo by Samsung gallery app. \n\nThe process: \n\nOn the camera preview I see a perfect picture --> I take a shot -->  open gallery and see the same perfect picture --> in 2-3 seconds \"something\" happens and the photo is being transformed to an AI-overprocessed picture\n\n  \nI didnt find a way to fully disable it in the settings and already got a refund for the phone.\n\nWhat I noticed is that modern \"flagship\" phones are doing this and the end-user cant fully disable that ai-processing.",
+              "score": 2,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nvitfpr",
+                  "body": ">Samsung's S25 Ultra cameras as a hardware are ok  (even in the low light) for a non-photographer,\n\nYou have to try a real camera with an f/1.8 aperture lens, and only then can you understand how it is not even close in terms of quality\n\n>What I noticed is that modern \"flagship\" phones are doing this and the end-user cant fully disable that ai-processing.\n\nThat's how everyone has to artificially make up pictures that are full of noise and without details because physics limits them to make perfectly clean pictures with such a small sensor and lens as a real camera does.\n\nAnd below I am sending you an example of how much more beautiful the real bokeh is than the phone's camera\n\nhttps://preview.redd.it/1m5pi3d7jx8g1.jpeg?width=2008&format=pjpg&auto=webp&s=a5731c9127f0ee48f31ca3fa7b06e7eb0720c34f",
+                  "score": 8,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nvitmn5",
+                      "body": "Above is a 10 year old Nikon D750 with 85mm lens\n\nand below is a 3X camera with S25+\n\nhttps://preview.redd.it/xvqgqpejjx8g1.jpeg?width=3000&format=pjpg&auto=webp&s=39de273287aa38d6ad65340cce7bd5a947e3b718",
+                      "score": 4,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "nvlwf6s",
+                  "body": "The gallery app doesn't alter photos in any way.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nvkmm7z",
+          "body": "Comparing a Smartphone camera(doesn't matter Samsung or vivo or others) with an actual DSLR with a good lens is stupid.\nTiny sensor, tiny lens could not be equal.\nSmartphones are great for most settings. But for portraits or other events nothing beats a DSLR with a good lens.\nDo you know how the bokeh of a camera works? It is the aperture and lens combination. And both is tiny or not even there on a Smartphone.",
+          "score": 5,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nvi8ip5",
+          "body": "Can we see the pictures",
+          "score": 3,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nvipp4e",
+              "body": "not anymore, already returned phone for a refund with a factory reset",
+              "score": -1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "oa29kf7",
+                  "body": "Dont blame you its like a laugh in your face kinda gesture. Working on getting rid of it myself.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nvj8a7x",
+          "body": "Did you try shooting in RAW?",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nvm21qc",
+              "body": "I'll shoot raw in you",
+              "score": -1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "og01wcl",
+          "body": "Can I tell you how much I HATE THIS CAMERA!  I've spent the past 4 hours today (and TOO MANY OTHER times to count) trying EVERY setting/change/mode/option/lighting/background to get a detailed close up of a ring I'm listing on ebay!  I've owned about 5 Samsung Galaxies and have NEVER experienced such rage taking photos.  I'm not a pro nor am overly techy, but i know this stock camera is convuluted and beyond annoying.  I've tried multiple other Google Play store camera apps and have yet to find a simple interface, with minimal user effort resulting in clear, detailed photos.  $1200 for this pisses me off every time I want to take pictures!",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "og0sljg",
+              "body": "yup, thats sad for such price... what was the app you found, just curious?",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "oi5ceq5",
+                  "body": "Each one I tried was full of ads and its own barrage of settings I have no desire or time to understand.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "oa29onh",
+          "body": "Did anyone figure out a fix?",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "1nz9ttw",
+      "title": "Samsung galaxy s25 ultra display",
+      "selftext": "So yesterday I upgraded to s25 ultra from s22 ultra and to my surprise the display of s25 ultra is noway near to previous phone. Everything looked so good on s22 ultra and in new phone it feels dull. To be honest I didn't find much difference in cameras as well even at some point s22 ultra performed better. Battery timings and processing speed is way faster in s25 ultra though. Why on display side it feels like downgrade? And why on cameras side it doesn't feel like major upgrade? ",
+      "score": 2,
+      "upvote_ratio": 0.63,
+      "num_comments": 20,
+      "url": "https://www.reddit.com/r/GalaxyS25/comments/1nz9ttw/samsung_galaxy_s25_ultra_display/",
+      "created_utc": 1759725611,
+      "comments": [
+        {
+          "id": "ni12hw3",
+          "body": "Set Vividness slider to highest. S25u has the best display not just in S series but almost the best out there.\n\nhttps://preview.redd.it/c9pyueohxftf1.png?width=1440&format=png&auto=webp&s=76ab46a7dea146b46d038cac4bdd54d496f6e158",
+          "score": 8,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ni12qrb",
+          "body": "I think the main reason why it's not as satured is because of the matte coating. The display is far more visible outdoors than basically every other phone out there because of its anti-reflective coating. But, like any matte display, it does come with a slight caveat of a 'duller' display. Mind you, after you have enabled vivid mode and cranked up the vividness to max via the vividness slider in the display settings the saturation levels should comes pretty close to it I should think. FYI, to access this display settings > screen mode > select vivid > advanced settings > slide vividness to max. You'll only see the advanced settings in this view if eye comfort mode is disabled.",
+          "score": 5,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "ni1682e",
+              "body": "Thanku for helping me out. It kind of worked and made a noticeable improvement.  I initially installed glass protector, but alot of reflections made me remove it. Now I installed matte screen protector, but it has turned down the quality of display. What is the solution?",
+              "score": 2,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "ni17grp",
+                  "body": "I also use a normal tempered glass screen protector which is a shame because I miss out on the anti-reflective property. I've been thinking about buying a matte screen protector but I've heard that it takes a hit on the display quite a bit so idk. I think the best bet is Samsung's anti-reflective film. But bear in mind it'll scratch a lot easier and won't protect the screen as well as a tempered glass screen protector. The other thing you can do for maximum protection whilst maintaining that display standard is apply a tempered glass screen protector and on top of that the anti-reflective film (but this is also going to be the more costly option). Idk of many matte tempered glass screen protectors and which ones are any good. Just my take mind.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": []
+                },
+                {
+                  "id": "ni61udm",
+                  "body": "Try out the Samsung Anti-Reflective screen protector film, it works very well for me and picture looks amazing.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ni0pmbe",
+          "body": "For camera I agree with you as not much improvements, but on display side I think it's way better than previous models like having anti reflective glass, flat edges and the smoothness. I know you would feel awkward from going to round edges to flat, I also didn't liked it first but then I realized that round edges made it worse. The round edges has higher risk of getting damaged also the screen protectors(tempered glass) when ever I put a case on my tempered glass would fly off.",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "ni0weed",
+              "body": "Anti reflective coating and flat screen is an improvement but those colors, crispness is simply not there which was present on s22U.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ni1bmcz",
+          "body": "Nothing wrong with my display. Looks fantastic",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ni1f8c4",
+          "body": "When I switched s9+ to s25+ 2 months ago I felt the same. Even when I changed to vivid mode. But after a week I got used to it. And it looks great now",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nmjwgd8",
+              "body": "Which mode are you using currently?",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nmjwprc",
+                  "body": "Vivid with all sliders to the max. By now everything looks great for me.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nmpewdm",
+                      "body": "Using vivid too but sliders all the way down with some tweaks in RGB, else natural",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ni0uacl",
+          "body": "Color saturation has been turned down on the new displays",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ni119mu",
+          "body": "https://preview.redd.it/xosxerjcvftf1.jpeg?width=1440&format=pjpg&auto=webp&s=a86453c81990f0e88aefd71346c5f9df3e9ab7d7",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ni126sr",
+          "body": "Color saturation is tuned down in default my theory is maybe to prolong the quality of display and avoid lines, if you want a saturated one you can still go to display settings - screen mode - advance settings - then turn vividness slider to the max",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ni14gpz",
+          "body": "S25 series has had their display set to be a more natural, true to life. Samsung used to way oversaturated their phone colour, which can look good in some instances but really messed with colour accuracy. Plus for a lot of people it was fatiguing.\n\nYou can turn it up in the settings, but it won't be as saturated as before.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ni1m12n",
+          "body": "I said it before, they're just selling the same phone over and over. Idk why you changing phones even though your phone is working great and still getting few years more of updates!!",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ni6uem9",
+          "body": "i remember seeing the Plus and Ultra side by side,and then choosing the Plus, because the Ultra looks lower quality/resolution in comparison. which is due to its lower PPI,and the coating on the screen I believe",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ni14jp6",
+          "body": "Play around with your display settings.",
+          "score": 0,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ni3erdm",
+          "body": "Display is great here, but camera isn't. My S23 performed way better too (except for zoom, of course)",
+          "score": 0,
+          "depth": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "1pq9aua",
+      "title": "GOT my s25 ultra just now ..(first time samsung user)",
+      "selftext": "so my parents they have samsung phones i'm a stock android user ..i need some tips to maintain this phone as i heard there is something called goodlock , routines(this feature sounds so cool)\n\npls help me with this and tell me how do i protect this one for atleast 5-6 years with a decent battery life.. like how should i use it? and when to charge , can i charge it overnight?",
+      "score": 4,
+      "upvote_ratio": 0.75,
+      "num_comments": 9,
+      "url": "https://www.reddit.com/r/GalaxyS25/comments/1pq9aua/got_my_s25_ultra_just_now_first_time_samsung_user/",
+      "created_utc": 1766110696,
+      "comments": [
+        {
+          "id": "nusutmc",
+          "body": "You can go into system settings and set your battery to not charge past a certain level (95, 90, 85, 80) and that'll extend your battery life in the long run.\n\nGoodlock is available through the Samsung galaxy app store. It might be in your apps as just \"store\" and the logo is like a shopping bag. Goodlock offers a ton of extra customization options. I really wish Samsung would just include all of it stock. It's silly to have to download extra customization options literally made by Samsung.",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nut11h9",
+              "body": "Yeah, been there, done that, had my phone since February",
+              "score": 0,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nut246k",
+                  "body": "The comment was for OP... Idk why someone that's had the phone for almost a year felt the need to make this useless comment.\n\nIf you shared your experience with doing those things... Sure. But, you added literally nothing",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nusucr6",
+          "body": "I have an s25 ultra, and my battery is not good. Something Samsung has noted but refused to do anything about.",
+          "score": 0,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nut039a",
+              "body": "https://preview.redd.it/hugfdmsm338g1.jpeg?width=1080&format=pjpg&auto=webp&s=ad11ce57fb02507eef75c6749a8c373936e46cca\n\nCheck the battery health with these steps.",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nut0vxg",
+                  "body": "Believe me, I have tried every trick, who wants an unchargable 1300.00 phone,?",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nut1t7m",
+                      "body": "What is your sot lately? Can you post any graphs?",
+                      "score": 0,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1p5x6zm",
+      "title": "OFFER Samsung galaxy s25",
+      "selftext": "Hi everyone, I have the opportunity to have a new Samsung galaxy s25 base, 512gb (No ultra) for €599, is it a good deal? How did you find yourselves? I don't think there is anything better at this price",
+      "score": 3,
+      "upvote_ratio": 0.72,
+      "num_comments": 8,
+      "url": "https://www.reddit.com/r/GalaxyS25/comments/1p5x6zm/offer_samsung_galaxy_s25/",
+      "created_utc": 1764027981,
+      "comments": [
+        {
+          "id": "nqphmr5",
+          "body": "Great deal",
+          "score": 3,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nqqcy6r",
+              "body": "Thanks for the reply",
+              "score": 3,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nqpnqur",
+          "body": "Go for it, super deal",
+          "score": 3,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nqppa0c",
+              "body": "Many tell me to forget about Samsung and go for the vivo x200 Fe",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nqu6262",
+                  "body": "I heard that Vivo cameras are better than Samsungs, and it also has bigger battery with faster charging now that I checked. Also it's probably cheaper. But it's a chinese company, that personally I don't really like, I think Samsung has longer and vetter support. Also I am a bit biased, cause I have a Samsung ecosystem. But you do you, i can only tell, that the S25 for that price, is a good deal, if you want that, buy it.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nqupf65",
+                      "body": "Exactly, that's my same thought. I don't like Vivo due to the user interface and the dubious long-term reliability and old hardware in some aspects. Today is the last day with that Samsumg offer, I will decide. Can you tell me if the normal (not ultra) Samsung S25 cameras are as bad as some say? Some shots I've seen are nice, average, others so and so, but some users even say terrible I don't know",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": [
+                        {
+                          "id": "nqw8i2l",
+                          "body": "Honestly, I am not into phone photography, so for three months I made like 30 photos, most of them just point and shoot ones, so I cannot tell you valid infotmations. For me, it's okay, but imo my girlfriends Iphone 14 made better pictures, in everyday scenarios, where there isn't much time to compose the picture.  So if camera is really really important to you, Samsung isn't the best choice.",
+                          "score": 1,
+                          "depth": 4,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1o6s01n",
+      "title": "My S25 Ultra was not charging and I think I gained a few new grey hairs as a result.",
+      "selftext": "My S25 Ultra would NOT take a charge (fixed). Holy crap I have never been more stressed.\n\nGot to work and my phone buzzed \"15% power left\". No worries, I plugged it in and logged in to my system. \n\n30 min later I looked at my phone: \"18% power\". What? Unplug, plug back in. \"2Hrs 48Min until charged\". What? Maybe a reboot will help. I used to work for a major mobile provider, \"Have you turned it off and on again?\" was my most common stated phrase there.\n\nAfter the power cycle it's at 13%. Plug it back in and \"MOISTURE DETECTED. UNPLUG DEVICE IMMEDIATELY!\" What? OK, I'll toss it on my old wireless charger. Nothing. Nada. No charg-o.\n\nWhat the hell?\n\nI McGuyer up a paper stick wrapped in tissue and dipped in rubbing alcohol and clean the port. Still nothing. Power off the phone again, plug it in and I get this weird naked USB icon with a water droplet overhead and what appears to be an upside-down yellow heart cut in half on either side. It's pretty but kind of excessive when you're low on power.\n\nJump on google and find the following page:\n\n[My device displays a water drop icon and will not charge.](https://www.samsung.com/uk/support/mobile-devices/my-device-displays-a-water-drop-icon-and-will-not-charge/#clear_cache)\n\nI need to clear the system USB cache? The f*ck does that have to do with anything? Sheesh, what the hell.\n\nSlow reboot...2% power. Try to access settings, get sub menu, finally open settings, search for apps, nothing. Search for USB, not what I need....1% power. (Note: if this issue is not resolved when the phone powers off due to 0% battery, it's essentially soft locked and has to be sent in for repair).\n\nTHERE IT IS!! Cache cleared. Home screen pops up and I plug it in.\n\nCHARGING....2% power. I shut the screen off and \"SUPER FAST CHARGING ENABLED. 1hr, 24min until full\".\n\nHOLY CRAP. I think I lost 3 years of my life there. Good lord.\n\nTL;DR\nIf your Samsung won't charge or gives you a wet port error for no discernable reason, clear the cache right away. Clearing the cache can reset the system’s interpretation of the port state and may allow charging to resume.\n\nBrilliant design there Samsung.",
+      "score": 12,
+      "upvote_ratio": 0.93,
+      "num_comments": 6,
+      "url": "https://www.reddit.com/r/GalaxyS25/comments/1o6s01n/my_s25_ultra_was_not_charging_and_i_think_i/",
+      "created_utc": 1760476422,
+      "comments": [
+        {
+          "id": "njimwwj",
+          "body": "I work for a wireless carrier now and when someone comes in with this problem this is usually the solution. I'm unsure why exactly this happens. Sorry that happened to you!",
+          "score": 4,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "njnfza4",
+          "body": "If only we could charge our phones without using a cable.. No, wait....\n\nBut seriously, even if you don't have a wireless charging pad around, keep in mind that reverse wireless charging is a thing, you could've asked someone to spare you some juice instead of stressing about the 2% while trying to get to the settings.",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "njo76b8",
+              "body": "> OK, I'll toss it on my old wireless charger. Nothing. Nada. No charg-o.\n\nGlad you read the post. Need any help pulling that foot out of your mouth?",
+              "score": 2,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "njocwmj",
+                  "body": "Yeah, I just gave up reading halfway through when I realized it was just a really long venting post. \n\nWired and wireless charging have nothing to do with each other, USB settings problems wouldn't interfere with wireless charging. If it's not working then you have a serious problem there. Unless you tried using an old charging pad while having a case with magnets on.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "njohjmx",
+                      "body": "> Wired and wireless charging have nothing to do with each other, USB settings problems wouldn't interfere with wireless charging.\n\nI agree, which is why I was so concerned. \n\nAs noted in my post, it wasn't a charging issue at all, it was a software issue that required clearing the system cache which triggered a false charging failsafe state in error. Something no one would possibly think to check under any conceivable circumstance given the errorss/warning provided by the phone.",
+                      "score": 3,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "njqamdx",
+          "body": "Good to know thanks for sharing this.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "1kuu3c8",
+      "title": "My experience with Samsung support team through Members app on S25 ultra",
+      "selftext": "See my report on Play security updates and one ui updates and see Samsung's reply:\n\nWhat is going on with system updates!! Even though i just upgraded to newes one ui, google play system update found stuck on February release??? Not April release. Update to April release done manually!! To which time i had to check for updates manually? Poor quality., 08/05, 10:26 pm\n\n\nSamsung has answered\n\n\nDear Mohammed,Thank you once again for your continued communication and for sharing your concerns in detail.We sincerely apologize for the inconvenience caused by the absence of firmware update notifications and the delay in receiving the latest Google Play system updates. We completely understand how frustrating it can be to have to check manually for updates that should be delivered automatically.Please allow us to clarify the situation:1. About the Missed Firmware Update NotificationsWhile your device is designed to notify you when new firmware updates are available, there are instances where the notification may not trigger due to background restrictions, network transitions, or app optimizations. We recognize that in your case, the update released on May 1st did not notify you until you manually checked on May 8th, which is understandably disappointing.We’ve escalated your feedback and shared your logs with our internal engineering team. However, we regret to inform you that the initial analysis of the logs did not return conclusive results. We understand this may be frustrating — especially since you've already updated the system manually, which makes it impossible to replicate the issue now. 2. Regarding the Google Play System Update DelayIt is indeed concerning that the Google Play system update remained on the February patch even after a full One UI upgrade, and only updated to April manually. Google Play system updates are managed directly by Google and delivered through Play Services, separate from Samsung firmware. Delays in these updates can occasionally occur due to server rollout schedules or minor glitches in synchronization.Summary of Current Status:• Your concerns are valid and acknowledged.• Logs have been forwarded to our internal team, and we await any further technical insights. At this stage, no specific bug has been identified.• We fully respect that resetting your device or clearing your data is not a reasonable or acceptable solution, and we have not asked you to do so.What We’re Doing Next:• We are continuing to monitor this issue and have requested feedback from the team to provide further clarity, if available.• Your request to view the internal analysis results has been noted. Please be aware that in many cases, these logs are encrypted and used solely for diagnostics, so user-facing summaries may be limited — but we will share what we can.We genuinely appreciate your patience and persistence. Your feedback is important in helping us enhance our services and product experience.If you have any further questions or updates, please feel free to reach out directly. We're here to support you.Best regards,Samsung Levant CS Team, 21/05, 8:38 am",
+      "score": 3,
+      "upvote_ratio": 0.8,
+      "num_comments": 15,
+      "url": "https://www.reddit.com/r/GalaxyS25/comments/1kuu3c8/my_experience_with_samsung_support_team_through/",
+      "created_utc": 1748147312,
+      "comments": [
+        {
+          "id": "mu4fvxv",
+          "body": "The main issue here is the disrepectful message you sent.",
+          "score": 5,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "mu4hl1t",
+              "body": "Samsung's reply which posted is the last from the thread. Before it, they have replied to me 7 times asking me to reset my device!!! With language I've used, i tried to bring thier attention as most of thier replies to previous reports were irrelevant.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "mu4ijd7",
+              "body": "Imagine buying a top product of a company and then you shocked with such bugs.. frustrating 😞",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mu54p7b",
+          "body": "Bugs happen constantly, they are to be expected on all devices in my opinion.",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "mu54unf",
+              "body": "I agree with you. The annoying thing is when bugs reporting goes with measurable follow up.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1na5v18",
+      "title": "Switched from my 4 years old A52 4G to S25 base as my first flagship ever. A 2-months old review",
+      "selftext": "Switched to this beast from my 4-year-old A52 4G about 2 months ago. My wife has the A54 5G, and seeing how that Exynos thing aged pushed me to finally go flagship for the first time.\n\nI was hunting for a compact mid-range phone but lol, those basically don’t exist anymore. Small form factor is locked behind flagships now. My A52 with Snapdragon was a champ, but the A54 started lagging within a year, gets hot, and the battery life is all over the place. That was enough to kill my faith in the A-series.\n\nLooked at Xiaomi 15, OnePlus 13, Vivo X200 FE, and even the S25, but honestly… when it comes to stability, R&D, and software polish, only Samsung S and iPhones really feel like the “real” flagships. Skipped iPhone though, not interested in unlearning Android after a decade.\n\nNow that I’ve used this for 2 months:\n\n* Performance, display, call quality, and cameras = massive step up.\n* The compact size is the real star. Fits perfectly in my hand, super comfy for one-handed use. Never been into Ultra “phablets.”\n* One UI is straight up S-Tier. Samsung puts real R&D into software. Way better polish than Chinese brands, and honestly I like it more than Pixel UI. Modes & Routines are godsend.\n* Cameras are good but yeah, Samsung needs to move past the GN3 sensor already. With Expert RAW though, I can still pull off some amazing shots.\n* Battery is fine for its size. I get \\~5h SoT charging 20–85%, \\~8h SoT on 10–100%. Needs some optimization tweaks to achieve such, but with 2000 cycles I think this thing will last me 4–5 years easy.\n\nOverall, first flagship experience has been super solid. The phone feels snappy, compact, dependable, and built to last. Unless Samsung decides to pull the green-line stunt, I can see myself rocking this for 4 years without breaking a sweat.",
+      "score": 233,
+      "upvote_ratio": 0.99,
+      "num_comments": 68,
+      "url": "https://i.redd.it/977ywnbssknf1.jpeg",
+      "created_utc": 1757180773,
+      "comments": [
+        {
+          "id": "ncrralr",
+          "body": "Funny thing, when i went to get my s25 the sales rep tried to sell me an ultra, then a plus because \"I will regret the smaller size\", like dude, i came to replace my base S21 i know what i want. But yeah, it's a shame there is no real mid range smaller size model. It's either a frickin' phablet or some lower end hardware.",
+          "score": 27,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "ncvcnh7",
+              "body": "When I bought the S25, people called me a fool. They think base models are too small to be a status symbol and are poor investment. I literally don't care about any of those. I bought what I think was perfect for me, and I am more than happy. I keep seeing ultra owners having difficulty using the phone single handed.",
+              "score": 6,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nd8ndhu",
+                  "body": "Next time some braindead tries to call phone a \"status symbol\" (I somehow suspect that the person who told you that uses an iPhone, lol. Am I right?)) you just remind them, that their phone is just as \"inadequate\" as yours no matter it's size, and if they want a Status® Symbol™, they should've bought a Vertu. Or, better yet, a Bugatti. THEN they could preach their \"status symbol\" bs.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ncv64gr",
+              "body": "Same.\n\n\nI went specifically for the S25 base after owning a Galaxy A53 and they kept trying to convince me to go for a + or ultra model.",
+              "score": 4,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "ncw5as0",
+              "body": "Same thing lol, he  tried to make it seem like the only obvious choice, but the models were right there and I instantly fell in love with the s25 size",
+              "score": 3,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ncs1387",
+          "body": "I have the S25 too, as my first flagship was a huge huge step from my previous M31s (Exynos 9611 btw), the battery was still running good tho as it's last update was the Android 12 (one UI 4.1), the phone felt very laggy tho, was waiting for confirmation whether S25 will arrive with snapdragon or not in my region (India) and glad it did, pre-ordered it right away and I'm in aww with its size and the way it feels in hand, glad that you're enjoying it too. Cheers",
+          "score": 7,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "ncu0sf1",
+              "body": "I am also using the Samsung M30s with One UI 3 and now in India Samsung is releasing the S24 with Snapdragon 8 Gen 3 That’s why I am buying it My only concern is the battery how long it lasts. I am okay with 6 to 7 hours of screen on time",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "ncv7s1t",
+                  "body": "It should easily last you a day, refer my use case, mixed usage between wifi and on 5G (think of it as 60% of on wifi usage in hostel and 40% on cellular while using during college), light performance profile, and dark mode on, no such heavy power saving mode on, just screen timeout time is set to 30 secs, need not worry about battery unless you're a very heavy user and have some work profile that needs you to be mostly on the phone, hope that helps :-)",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ncv5j0x",
+              "body": "Bro using M31s since 2020. Battery is still decent, but lags are real pain, it is so sluggish. S24 bade exynos is not worth it, waiting for s25 to come on sale.",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "ncvcsg0",
+                  "body": "If you want even more discount go for S24 with Snapdragon 8 gen 3 listed on upcoming BBD sale on Flipkart, you will find it as a better deal.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "ncvd8fo",
+                      "body": "I had some issues with flipkart, in past the delivery guy has refused open box delivery several times, unfortunately there is left no choice but to cancel. Even fkart support didn't helped in it. I prefer buying directly from Samsung official store online or in person at offline store.",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": [
+                        {
+                          "id": "ncvdz2q",
+                          "body": "Understandable, but as of now S25 (256 GB) is listed for 68k (with my student id account) and with additional 6k bank discount you can get it for 62-63k as of now. With regular account i think it is listed for 74k",
+                          "score": 1,
+                          "depth": 4,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ncs6bk4",
+          "body": "I was initially hesitant with my S25 but it really grew on me. Love it!",
+          "score": 6,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ncrpur5",
+          "body": "I have the a 54 and thinking about switching to the same s25 base but my main concern is the battery i need something that at least 5 hours of SoT.....my apps are WhatsApp....reddit......yt nothing more......but i want to start playing some heavy titles but that will be with the dex mode and pd so the battery will not discharge\n\nBut in the average day of social media how well it performs?",
+          "score": 4,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "ncrqoub",
+              "body": "Nevermind i didn't read to the body of the post......5 hours of SoT is good for me, just need to wait until the s26 lunches so s25 drops in price and could get it for 350-400€ \n\nHow do you think the upgrade is, a54 to s25.....i mean almost the a54 and a52 are the same. BTW im happy for your upgrade",
+              "score": 2,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "ncrsg2b",
+                  "body": "A54 is better than A52 in terms of built quality and camera. A54 point and shoot camera quality is flagship levels. But the Exynos SoC make the A54 a lot choppier and pain to use. Exynos is the reason why many users avoid Samsung all together. Here is a sample shot from my wife's A54.\n\nhttps://preview.redd.it/ozns27hb6lnf1.jpeg?width=3060&format=pjpg&auto=webp&s=25a11de71147205047523bce755c9f3e87ac0561",
+                  "score": 3,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "ncrui0i",
+                      "body": "Wow that is a awsome picture, my reasons to change to s25 is the camera mainly and the fluid of one ui 7, my a54 still gets good pictures some times but only with very good natural light but in interiors with low light and the zoom when i compared it in the shop with the s25 the difference is huge, and the performance yep thats the other point, idkn but my a54 in the past 5 month slowed down a lot with stutters and more, allredy reset to 0 two times and still the same",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": [
+                        {
+                          "id": "ncrv3qy",
+                          "body": "The slowdown is because of crappy Exynos. That's why A55 and A56 are all same devices, and designed to be slowed down.",
+                          "score": 2,
+                          "depth": 4,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ncrt9en",
+                  "body": "I consistently get more than 6 hours of SoT and I only charge it to 90% for the battery protection thing. \n\nNot including gaming though, that can decrease your battery life faster.",
+                  "score": 3,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "ncruzwq",
+                      "body": "Thx you, good to know that because everyone i know says that the small battery of the s25 will not least more than 3 hours",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": [
+                        {
+                          "id": "ncrvwfq",
+                          "body": "I think you won't be disappointed. Overall the phone is great.\n\nThe only thing that I find to be mediocre is the camera, coming from a Pixel 7 Pro I feel like the pictures looked much better in my old phone. Other than that, it is superior in any way.",
+                          "score": 1,
+                          "depth": 4,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ncrr0ws",
+              "body": "with regular apps it's battery is great. better than my old s23 ultra in sot. in standby it's worse but isn't bad. My problem with it is just the standby time bc I work long shifts, so I can never get a lot of sot on one charge. it'll discharge 30-40% over my whole shift with about 45 mins of sot bc there is bad wifi and terrible cell service at my job which costs more in battery.",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "ncrt1jq",
+                  "body": "That's one of the biggest downside of S25. The idle drain is an absolute joke. It drains a lot over night. One of the major culprit is Google Play Services. So I turned off auto app updates and created a bedtime routine to turn off wifi from 1 AM till 6 AM.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ncs39ah",
+          "body": "Yeah the performance is solid af. Just the camera could be better.\nBetter than xiaomi Imo (and I come from a xiaomi mi 10). Never xiaoshit again",
+          "score": 3,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nctqgoz",
+          "body": "How is the signal strength of mobile networks? I am also using 52s 5g and I am thinking to also switch to S25. For 52s 5g, I experienced not getting any signal but when I use other phones with the same sim card, signal is strong.",
+          "score": 3,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ncrptsm",
+          "body": "Would you do camera comparison, in darker scenes preferably? please upload originals.\n\n\nI would not agree with you about OneUI, can't find any useful features at all. Almost everything is half baked.",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "ncrrju0",
+              "body": "Yes, features are half baked, but that's what One UI 8 will be about. At least One UI 7 was the start of something new. If you still compare it with HyperOS, Funtouch OS and etc, do you still think OneUI falls back?\nYeah, but I do believe that Hello Moto UI and OxygenOS are quite complete at the moment, while playing it safe with all the AI shenanigans.",
+              "score": 2,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "ncrrvvf",
+              "body": "Yes, I will do a few. Do you want comparison of both A52 and S25?",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "ncrxgjm",
+                  "body": "Comparison between A52 and S25",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ncsoesq",
+          "body": "https://preview.redd.it/z14ji4lmzlnf1.jpeg?width=1080&format=pjpg&auto=webp&s=2b21407f50708d4eafcd4fa8ef736dfcea815cd5\n\nSo I had this whole post about how I just got the s25 base from the a53.. and how I wish I had did more research on the battery life of this phone... It's only been a week so I know I really can't base anything off this right now.. but I work 8hrs shift, currently I'm getting all day charges, but from what I'm reading that's going to stop.. I do use battery protector set to 95 during the work week and then 80 over the weekends.. so far I haven't had to \"leave\" my phone charging overnight because it still has life when I go to bed.. and at night I have DND on.. oh and I haven't yet filled charged my battery to 100%... Should I do that at least once or does that not really matter?",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ndp1a0o",
+          "body": "Honestly, Same here, switched from a A52s to the base S25, I couldn't be more happier, such a big improvement in terms of everything, gaming, performance, and the camera is good. But oh lord.. from a 6.5 inch screen to a 6.2 feels so much more comfortable.",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nds8g8h",
+              "body": "The size is the whole point why people prefer the base S series despite having lackluster camera performance",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ncrpgfk",
+          "body": "A52(s) was sadly the last good Samsung midrange",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ncs5h9l",
+          "body": "I'm in the same situation, I want to change my A71 for one of the Series 25 but I'm between choosing the S25+ or the S25 Ultra 🤔 \nAlthough I am more inclined towards the 25+ since I am not a fan of large mobile phones 😅",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "ncsatzg",
+              "body": "The plus and the Ultra aren't much different in terms of size. The width is more on the thinner side while the weight is lighter as well. If I were you, I would have gone for the Ultra.",
+              "score": 2,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ncsj8rg",
+          "body": "Get an anti reflective screen protector",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nct6t2e",
+          "body": "I came from A50s to S25 base too and i am never going back to midrange ever. Gosh i had no idea a phone can be this powerful, the discrepancies in everthing are hugee compare to my previous one",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ncuuy1j",
+          "body": "\"Unlearning\", From that word I remember how I never properly learned the way iOS works in my 3 years of using an iPhone 13. Some of the things just seemed inconvenient, stupid and unique for just for the sake of uniqueness. I don't have any complaints now, coming back to android.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ncv9jh1",
+          "body": "Unpopular opinion but thats not the flagship if you know what flagship Means and stands for. There's only one and its the ultra",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "ncvilw6",
+              "body": "I know, but least it comes under the same umbrella. In this sense only iPhone 16 Pro Max should he considered a flagship",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ncvf2jz",
+          "body": "I like s25 base model only due his size,its perfectly match my hands,i dont like bricks like s25ultra or A56  and i dont care for periscope camera in ultra",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ncvfp9r",
+          "body": "Mind sharing the wallpaper?👀",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "ncviihm",
+              "body": "https://preview.redd.it/wdlko054ipnf1.jpeg?width=1400&format=pjpg&auto=webp&s=a89323be92b2720e48d014211248495ff2189e91",
+              "score": 2,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ncviq28",
+          "body": "Hey hey hey, I came from A52s. Yes I agree the base S25 is godsent. I really like the small form factor",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ncwrf3t",
+          "body": "Please get the official anti reflective screen protector as it's just a game changer and honestly just ups the quality of the device.\n\nI feel like a got a mini ultra at this point.",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "ncwrlng",
+              "body": "We don't have such luxury in our country",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nd014sh",
+          "body": "Pixel 9 and 9 Pro are really compact flagships, should've considered them.",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nd0c4h5",
+              "body": "Nope they aren't. Even Pixel 9 is a bit taller and 30gms more heavier. Also the Tensor G4 is an absolute trainwreck, not quite stable to be sustainable over years. Also we don't have them officially available here in our country.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nd24fu9",
+          "body": "I completely agree that Samsung should abandon GN3, but it's time for a next generation sensor upgrade.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nei5ptv",
+          "body": "I am getting s25 @51k INR including all offers and my previous phone replacement, is it worth it? My only concern Is the battery. is it sufficient? Also asking for it in the longer run.\n\nor should i get the s24 which is coming with snapdragon in the BBD Sale",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ncs74w6",
+          "body": "LinkedIn on the home page ew",
+          "score": -2,
+          "depth": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "1sgl153",
+      "title": "S25+ battery at 499 cycles — still 99% 😳",
+      "selftext": "I checked my battery stats today and got this:\n\n499 cycles\n\n99% health\n\nHeavy daily usage (2 charges/day)\n\nHonestly I expected more degradation by now.\n\nIs Samsung overestimating battery health or is this actually good?\n\nHow’s your S25/S25+/Ultra holding up?",
+      "score": 40,
+      "upvote_ratio": 0.98,
+      "num_comments": 35,
+      "url": "https://i.redd.it/taqgp3zny4ug1.jpeg",
+      "created_utc": 1775727878,
+      "comments": [
+        {
+          "id": "of6a2rq",
+          "body": "https://preview.redd.it/102xo1dqp5ug1.jpeg?width=1080&format=pjpg&auto=webp&s=dc15e041b16ea51dc0c62a2c18c14c520e4c8590\n\n413 cycles and still 100%. (Base S25)\n\nNot sure it really helps, but I made a routine which turns fast charging off and battery protect to 80% when I put sleepmode. Then half an hour before my alarm goes, it turns on fast charging and removes the 80% treshhold. So I wake up with my phone around 100%.\n\nAs I learned a very low or very high battery level for longer periods is bad, and fast charging can hurt battery life, I decided to go this route as a \"best of both worlds\"",
+          "score": 15,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "ofcalml",
+              "body": "Wait how does it remove the 80% threshold automatically?",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "ofccatx",
+                  "body": "I made a routine that when the clock app gives a notification: \"Deactivate upcoming alarm\", which it does half an hour before the alarm will go, it switches battery protection to basic and turns on fast charging. Screenshot is in Dutch, but shows the routine for it.\n\nhttps://preview.redd.it/bh7xb7oalbug1.jpeg?width=1080&format=pjpg&auto=webp&s=6d3dc71b92250c0988934250206b7a02a8f1d0d2",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "of5w6qp",
+          "body": "Why is my Battery Information not showing the cycle count?",
+          "score": 8,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "of65fih",
+              "body": "To get the info, use [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) + [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery)",
+              "score": 3,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "of74diz",
+                  "body": "Won't let me install Shizuku due it being for an older version of Android only. Much sadness",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "of7fvno",
+                      "body": "It let me download them onto my s25+",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "of78twv",
+                  "body": "Hmmmmmm\n\nhttps://preview.redd.it/akikk0lnj6ug1.jpeg?width=1264&format=pjpg&auto=webp&s=fe672837bd460d77795880a27c017979224c3044",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "of7duap",
+                      "body": "Is this an antivirus or something?",
+                      "score": 2,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "of6ry97",
+          "body": "What about SOT?",
+          "score": 3,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "of7ju6n",
+          "body": "Relax its 2000 cycles",
+          "score": 3,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "of5wd26",
+          "body": "https://preview.redd.it/rmpt7k2195ug1.jpeg?width=720&format=pjpg&auto=webp&s=85d8ec54c97ecbb1b0a8d5ee0630f1bdcbda19f6\n\nI only see this. Is this a One UI 8.5 thing?",
+          "score": 4,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "of5xb3d",
+              "body": "Because this is available in Europe",
+              "score": 13,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "of5xh7z",
+                  "body": "Ahhh region lock, in Canada. Silly restriction I feel but thanks for the info.",
+                  "score": 7,
+                  "depth": 2,
+                  "replies": []
+                },
+                {
+                  "id": "ofd3xpc",
+                  "body": "Common EU W",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "of65eqh",
+              "body": "To get the info, use [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) + [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery)",
+              "score": 2,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "of8r1lk",
+                  "body": "Thanks just checked mine",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "of5shq2",
+          "body": "567 cycles still 99 lol",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "of5tgrp",
+          "body": "How is it that mine dropped to 95% with 418 cycles? Is there a way to preserve it? I limit mine to 80% or 90% charge; I rarely charge it to 100%. I try to charge mine once a day, but sometimes I have to charge it twice. By the way, the battery information I got is from a battery with Shizuku, which is quite accurate in my opinion. I don't have system info since I don't live in the EU. It's been almost a year since I bought the phone. Is 95% battery health considered alright in that time?",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "of5x98i",
+              "body": "Sometimes you get a battery with a little less juice than the official numbers, then you get a lower percentage out of the box.",
+              "score": 2,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "of5y0um",
+                  "body": "I did have 100% battery health right out of the box. I checked back then, and then just maybe two weeks ago, I had 97% after the recent updates. Now, it's at 95%!? I think the recent updates are really making the battery worse. I have noticed that my phone lasted way longer when it was on One UI 7 than on One UI 8. I really hope 8.5 fixes these issues.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "of5ynt8",
+                      "body": "That's all an estimate of chemical reactions... so don't expect pure math to make sense there. It's more complicated than that.",
+                      "score": 4,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "of63cs2",
+          "body": "How to get this information",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "of65gph",
+              "body": "To get the info, use [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) + [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery)",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "of658f6",
+          "body": "For those who are wondering why this info is not available in your device, this is a Europe only feature.\n\nTo get the info, use [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) + [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery)",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "of6yyix",
+          "body": "Nice, mine got to 99% after the ~160th cycle even though I wasn't heavily using it.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "of8hfvg",
+          "body": "Which Samsung Version got the option to see battery health? It isn't there on my S23U",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "of91xau",
+          "body": "Definitely not true\n\nThis is simply not possible",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "of95pvw",
+          "body": "https://preview.redd.it/9gs0m57f28ug1.jpeg?width=1061&format=pjpg&auto=webp&s=3d92694d0b5029dbc2a6fb3db858be409ad5aec8\n\nS25 the small one. This is exactly the reason why the bigger brands hold off on SiC batteries. Lithium ion cells are just worlds more reliable.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ofd8fnz",
+          "body": "https://preview.redd.it/0ysgt43ytcug1.png?width=1080&format=png&auto=webp&s=0b900d781ed050abbe97403e8c3023245b87cc88",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ofe86wi",
+          "body": "How to get information I can't see the cycle and all",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ofjixs8",
+          "body": "https://preview.redd.it/bvtps4mp8jug1.png?width=1440&format=png&auto=webp&s=cf0dadd5153dd6079dfc63e742f06693d0e83a76\n\nI try to charge it when it hits 20% and limit charging to 85%",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "og2xqsw",
+          "body": "S25 base model user here. I've done 378 cycles and still have 100% battery health, but I don't know if these stats are true. By the way, I have battery protection set to 85% almost every day (I make exceptions when I know I won't be able to charge my phone for a long time), and I try to always put it on charge when it reaches 20%, but I don't always manage to do it. Until recently, I almost never used fast/super-fast charging because I didn't realize I had accidentally turned it off. Now, I've set a routine that forces slow charging during nighttime because I don't need it.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "of68i52",
+          "body": "Contrary to popular belief battery degradation isn't mostly caused by charging a battery especially if kept between above 0 and below 100. Sometimes it's good to let it die completely and recharge to 100 to reset it but honestly batteries die more when stored with a full charge and just over time in general because of ion half life the battery cycle counter is the most inaccurate way to gauge a battery because it only counts if you complete a cycle which means all the way to 100% so you can have way more cycles that didn't get to 100.. for me i never go to 100 so my counter is low but i probably use as much battery as you.. \n\nBesides my S20 that literally lived on the charger and is 6 years old still has 85% battery health I'd take all that with a grain of salt and by the time it really matters it'll probably be upgrade time like 5 years",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "1oh24bk",
+      "title": "I fu***n did it lads",
+      "selftext": "After days of pondering I pulled the trigger today and scored a flagship phone for prices you’d see maybe 10 years ago. Note this is NZD and scored a whopping $1260 off the RRP. Hope this switch was a good decision lol. ",
+      "score": 140,
+      "upvote_ratio": 0.94,
+      "num_comments": 50,
+      "url": "https://i.redd.it/7rm5ki9b7kxf1.jpeg",
+      "created_utc": 1761529405,
+      "comments": [
+        {
+          "id": "nll3g6j",
+          "body": "Best time to buy samsung is during the pre-order sales. I got mine for £740 without any trade-in. Plus got free case, wireless charger and galaxy buds 3",
+          "score": 3,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nllmm63",
+              "body": "Depends on country. Only US and UK get these deals while other countries get fuk all",
+              "score": 7,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nllesrb",
+          "body": "Beautiful, enjoy",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nllhtnx",
+          "body": "Congrats!! Welcome to the fam!!",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nllsqnm",
+              "body": "Thanks mate. My second Galaxy device hoping this one proves me wrong about how crappy they once were",
+              "score": 2,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nlludip",
+          "body": "How are you getting that trade-in value? Unbelievable",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nllw4bb",
+              "body": "Samsung NZ doing a Trade-in boost of $800 on S25U so they added the 800 to my trade in value of my old iPhone. Best deal ever.",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nls988a",
+                  "body": "The deals in europe suck!",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nlm0dr0",
+          "body": "I got the reg s25 love it",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nlmez0v",
+              "body": "How you finding the battery life on it? I considered the S25+ for a moment, but then i just went all in because why not lol",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nlm107o",
+          "body": "And here I am back to Android/Samsung as well. iOS is boring and limiting.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nlmm09t",
+          "body": "Why did it originally cost 2399 USD?",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nlmo6so",
+              "body": "Yeah, weird. Even the 1TB version didn't cost nearly as much",
+              "score": 2,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nmgeq16",
+                  "body": "You do realise I got this for about $550 USD, since ya'll got your minds set that each and every person on this sub is living in USA and not in other parts of the world.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "nlolkx6",
+              "body": "Because it's baloney money, not real.",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nmgelo1",
+                  "body": "and whats baloney money according to you can you please explain?",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nmgjdlj",
+                      "body": "Artificially inflated initial price that has been discounted to the mean value of the device.",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "nloxpfe",
+              "body": "Because Its not USD like I mentioned. I dont live in US",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nlmxu9i",
+          "body": "You can get a deal like this in the UK but it only takes two days for delivery.",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nloy1f6",
+              "body": "Yeah I got the samsung exclusive Jet black so have to wait for delivery. From what I have heard thats an estimate and can arrive earlier.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nlolhjc",
+          "body": "Why?\n\nS26 comes out in less than 3 months",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nloz7bs",
+              "body": "Im not too fussed about Brand new phones, I needed a new phone as my iphone was aging, couldnt buy the 17 pro because its way too expensive so decided to take this awesome deal and get a flagship for chips. Atleast in my country thats a crazy fkn deal.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nlp862m",
+          "body": "Remember to take a video when u send the device to trade in.",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nlple5x",
+              "body": "Thanks for that tip. Will they try to screw me over?",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nlrx9oc",
+                  "body": "Maybe. Saw ppl complain abt it alot.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nlpv33m",
+          "body": "best phone I've ever had. cheers mate 🍻",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nlr9vct",
+          "body": "I feel like you would of gotten a much better deal if you sold your old phone and put that towards the s25u",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nlrarbw",
+              "body": "Nope tried it. People would tend to lowball my asking price. I’d never even get close to what I got with this trade in. Seems like people are forgetting I got a $800 bonus along with the $460 so that’s $1260 off the price of the s25. That’s really really good. No way I would ever sell my phone even close to that price.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nltbs5b",
+          "body": "S25 Ultra is my haming phone!;-)",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nmelvjy",
+          "body": "Should have waited for the S26",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nmgefhc",
+              "body": "Nah im not too bothered, not like it will have revolutionary features compared to this. Plus I would have to wait a whole year to get a deal like this.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nmgglrc",
+          "body": "I got mine for 500 by trading in a busted s23 ultra",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nnkaba2",
+          "body": "I got mine in 1030 something dollars  from dubai. It's an international variant 512 gb .",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "1lzgpvi",
+      "title": "Sudden Charging Problems / Moisture or Debris Alerts (S25 Base)",
+      "selftext": "Hi everyone,\n\nSince this past weekend, I’ve been experiencing sudden charging issues with my 4-month-old S25.\n\nWhenever I try to use fast charging (with multiple different chargers – see below), either nothing happens, or I occasionally get a **“Moisture or Debris detected”** warning. Interestingly, the phone **still charges with older, non-fast-charging bricks.**\n\nThe phone has been treated carefully, and over the weekend, it wasn’t exposed to any moisture, rough handling, or extreme weather. I also didn’t install any new apps or software.\n\nUSB-C file transfer to a PC no longer works either. When I plug it in, the phone charges slowly, but I don’t get any options for file transfer like I used to.\n\n**Here’s what I’ve already tried (multiple times):**\n\n• Tried different charging bricks  \n• Tried different cables  \n• Cleaned the USB-C port  \n• Restarted the phone  \n• Cleared system cache  \n• Cleared cache for the USBSettings app  \n• Booted in Safe Mode  \n• Disabled Fast Charging in settings\n\n**What I (think I) can rule out:**\n\n• **Completely broken USB-C port** – The phone still charges (slowly) via USB-A to USB-C from older chargers or from a power strip  \n• **Faulty charging bricks** – I’ve tested two Samsung 25W USB-C chargers and one Anker 45W USB-C charger. All of them used to work fine and **still work perfectly with my girlfriend’s S24**  \n• **Faulty cables** – I’ve tested various cables (3A and 5A) with the chargers above. **None work with my S25**, but **all work with the S24**. Also, the cables work when plugged into my PC’s USB-C 3.1 port, though again, only slow charging happens – and **no file transfer options appear**, even though that used to work fine recently.\n\nAt this point, I suspect it might be a **software bug**, but I can’t be certain. What’s odd is that I’ve noticed a few other posts with **similar (/the same) issues popping up recently**, possibly since the last update:\n\n·         [S25+ Fast Charge and Aux don’t work anymore](https://www.reddit.com/r/S25Ultra/comments/1lxrfnl/s_25_fast_charge_and_aux_dont_work_anymore/)\n\n·         [„Moisture Detected“ after software update (S25 Base)](https://www.reddit.com/r/samsunggalaxy/comments/1lrht1b/moisture_detected_after_software_update_s25_base/)\n\n·         [Charging not working with cable](https://www.reddit.com/r/S25Ultra/comments/1lra2zm/charging_not_working_with_cable/)\n\n·         [S25 Plus Charging Issue](https://www.reddit.com/r/GalaxyS25/comments/1lqrz2r/s25_plus_charging_issue/)\n\n·         [Moisture alert won’t leave](https://www.reddit.com/r/GalaxyS25/comments/1lypnp3/moisture_alert_wont_leave/)\n\n·         [S25 Ultra Moisture Alert](https://www.reddit.com/r/samsunggalaxy/comments/1l5geo7/s25_ultra_moisture_warning/)\n\n·         [Super Fast Charging Issues with the S25 Ultra](https://eu.community.samsung.com/t5/galaxy-s25-series/super-fast-charging-issues-with-the-s25-ultra/td-p/12737713/page/2)\n\n \n\n**Has anyone else experienced this? Any ideas what might be going on?**\n\n  \n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\*\\*Update 3 days later - Today fast charging is working normal again just like nothing happend! I can fast-charge on every brick I used before and also connection to the PC is possible again. I didnt do anything else to fix the problem and just used an old brick for the last days. I tried every day to fast charge and today it simply worked again.\n\nIn conclusion I think it was indeed a software issue of some kind. So maybe if you experience the same problem: Just wait a couple days if you are able to load your phone wireless or via slow adapater before sending it in!\n\n________________________________\n** Update another 7 days later\n\nUnfortunately, it stopped working properly again. After a week without problems! Last night, my phone charged again until midnight and from then lost battery power until the morning while plugged in. It wont respond to the fast charger again. Its strange, that both times it stopped charging at midnight after reaching 80% (battery protection mode). I guess I will have to wait again and hope it fixes itself like before...\n\n‐‐‐‐‐‐-----------------------------\n**update another 3 days later\n\nTried all of the above. Nothing seemed to fix the problem. I charged my phone with slow with an old charging brick (without fast charging) and wireless. I tested fast charging every day but it didnt work. Also PC connection stopped working again. Suddenly at day 3, it just started working again. So for now its working! I hope it wont happen again and this problem will be fixed with One UI 8 because i am petty sure now its an software issue!\n\n‐‐‐‐‐‐-----------------------------\n**update 3 months later\n\nThe problem didn't occur to me anymore. I don't know what caused it and what fixed it. But for now, everything seems fine...\n\n‐‐‐‐‐‐-----------------------------\n**update 9 months later// April 2026\n\nThe problem still didn't occur to me anymore. I did not change anything in my behavior. I have taken my smartphone into the shower and there was no problem with water/debris warning afterwards. I still believe, that it was some kind of software issue FOR ME that got fixed with an update. That said, there might still be a chance that it is a hardware issue for other users. I hope, that some people find solutions to solve their problems within this thread in the future. I wont update this thread anymore, unless the problem will occure to me again. I hope i dont don't have to!",
+      "score": 22,
+      "upvote_ratio": 0.97,
+      "num_comments": 92,
+      "url": "https://www.reddit.com/r/GalaxyS25/comments/1lzgpvi/sudden_charging_problems_moisture_or_debris/",
+      "created_utc": 1752480585,
+      "comments": [
+        {
+          "id": "n31qm4y",
+          "body": "sorry to hear that man. if you ruled out both the charging brick and cable, it's most likely the device itself. one more thing you could try before sending it to repair is doing a factory reset and see if things will change.",
+          "score": 4,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "n31skap",
+              "body": "Thanks! What I think is odd, that there are people having the same problem the last few days. I cant imagine, that all our device now cooincedintly having the same hardware fault. For now, I am able to charge the phone via slow charger. I am waiting with a factory reset for a few days, maybe there are some more people who experience this problem. I still hope its just a software issue of some kind...",
+              "score": 3,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "n31v6vh",
+                  "body": "yeah, ideally it's a software bug. i'm on the latest update (sm-s936b) and i don't have such issues. hope you get it sorted!",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nobq7zf",
+          "body": "Is there any fix for this now? \n\nMy phone worked fine, then only slow charged and now only wireless charging works. \n\nIt says moisture is detected but there is nothing in the usb port",
+          "score": 3,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "o0d6rvu",
+              "body": "This is exactly what happened for me, how to fix?",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "o3et0mp",
+                  "body": "Did you manage to fix it mine is doing the same",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "o3f0pd7",
+                      "body": "Nothing worked\n I took it to a Samsung service center, and it was under warranty, it was repaired for free.",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n32e8fb",
+          "body": "Have you updated the software? I had a similar pronlem with my z folder 4 a few years ago and it was do to not updating the software.",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "n332o1j",
+              "body": "\"Unfortunately\", my Software is up to date :/",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n38h8om",
+          "body": "Are you on ONE UI 8 Beta?",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "n38oreu",
+              "body": "No, One Ui 7 :/",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "n38qfwb",
+                  "body": "Probably a hardware problem in a specific model",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n4e3m6k",
+          "body": "Personally i had this, i got the same warning but it only happend on my 45W charger. I changed the cable it started working again but then after a month or so it started stopping the charging and starting it again repeatedly which happend on the old cable aswell.\n\nIt then didn't happen as often after around a month and now it rarely happens i almost thought it was fixed by an update or something.\n\nBut i also noticed this only happend on the official 45W charger but the charger worked fine with other devices and has no issue. \n\nAnd once it gave me the moisture detected warning and the phone was extremely hot to the touch never had seen it that hot before.\n\nIts pretty weird and it was very worrying.\n\n(This all happened on a S25 ultra)",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "n4leuie",
+          "body": "Hello I've got same problem on my S25 Ultra and S25+, day by day noticed it",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "n4wcw2g",
+          "body": "Have you solved it? The same thing has been happening with my s25+ for a month, even when I insert the io aux adapter to listen to music in the car it sometimes doesn't work.",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "n4webzm",
+              "body": "It solved itself somehow :/",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "n4weo83",
+                  "body": "I think I'll have to take him in for assistance. I am speechless.\n1000 euros of telephone and then he has these problems.\nThe only thing I have done is use the cable from my old oneplus 6t with the power bank when my cell phone runs out of battery outside the house.\nAnd then I use an aux adapter from Amazon",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "n4wfgws",
+                      "body": "Did you try all of the possible  fixes i tried above?",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n6yf49b",
+          "body": "Same issue here mine just randomly started saying moisture detected in can get it to charge now but it charges super slow praying its a software issue and will be fixed in one ui 8",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "n73091j",
+          "body": "I got my S25+ on July 2. The moisture/debris issue started within 2 weeks. I installed a system  update on July 17, but I wasn't sure it was related because I was on vacation in the tropics. I thought the humidity might have been causing it. \nHowever, it's still happening in a fully air conditioned environment. \n\nIt's maddening. Having this sort of issue with a product that costs this much is unacceptable.\n\nEta: I used the Samsung Support Chat suggestion of clearing the USB cache. That worked temporarily. The issue is happening again (8/21) and that remedy isn't working!",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "n7gasth",
+          "body": "This whole issue can fuck off.\n\nTried everything. Sometimes it works, sometimes it doesn't, and now have to get a repair at a cost to myself when it's likely a bad/over sensitive sensor, or a software issue. \n\nHave had Samsung for 20 years and ready to throw this thing off a fucking wall.",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "n7gdt6x",
+              "body": "Did u try to get the One Ui 8 beta? Maybe its fixed with the beta...",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "n7htmie",
+                  "body": "To be honest, it's the only thing I've not tried but I'm so fed up with it that I actually don't care.\n\nEither a software issue that causes a glitch for a phone that charges and connects to my car intermittently, or water damage on a four week old phone when I have another work phone doing the exact same things as my personal. It's a Samsung issue. Nothing else. \n\nHaving to pay for an extremely expensive phone to get fixed for what is effectively build quality or software is making me fucking incandescent with annoyance.\n\nSmash the screen? User error. \n\nWater damage on a waterproof phone after a month? Whilst it's a widely reported problem? Not user error.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n7rupvk",
+          "body": "I have 25+ and same issue. A few days ago, when the  phone was in my hand, I got moisture detected alert and there was none. After that I got these charging problems. Fast charging doesn't work anymore. I can only charge it with a slow adaptor. You don't expect something like this in a flagship model. Shame Samsung",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "n7u2f2o",
+              "body": "I hope it will fix itself the next couple of days. Keep us updated!",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "n7ucaiw",
+                  "body": "I hope that too",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nh0889h",
+          "body": "I know im late to the party but this worked for me;, posting for future people \n\n**Clear the USB Cache** \n\n* If the port is completely dry and the warning remains, it may be a software issue.\n* Go to **Settings > Apps**.\n* Tap the three-dots icon (Filter and sort icon) and select **Show system apps**, then tap **OK**.\n* Scroll to **USB Settings** and tap on its storage.\n* Tap **Clear cache** to remove temporary data related to USB connections.\n* Restart your phone and try charging again.",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "np9jgmu",
+              "body": "After going to **Settings>Apps** and pressing the **three dots icon**, I did **not** see **Show system apps.**   Instead once I was in settings I used the magnifying glass to search on **\"Clear cache\"**.  It put me in a sub folder of settings labeled **Reset to default settings**.  The fourth choice shows **\"Clear cache\" with a red oval** with white lettering on it that says **labs.**  I pressed on it.  I got a message saying to go someplace else if there is still a cache issue but I did not need to do this.  I clicked on **OK or something that said to go ahead.**  I plugged the fast charger in and I no longer see the error.  I hope I did not loose anything important in cache.  Maybe someone else who tried all other approaches can attempted this and let us know the result.",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nt83lcw",
+                  "body": "That's the keyboard.  It tells you if you read... Well anything.\n\nClear cache?\n\nSome additional cached data may remain. You can clear it in Settings > Apps > Samsung Keyboard > Storage and tapping Clear cache.\n\nAnd if you follow the directions and click the sort feature, you'll find the show system apps selection.",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "nt2nvzs",
+              "body": "No dice for me",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ni4kuf6",
+          "body": "Try this link\n\n[https://www.youtube.com/watch?v=SH7jIyyU9pQ](https://www.youtube.com/watch?v=SH7jIyyU9pQ)\n\nStep 3 worked for me\n\nTurn off device\n\nInsert USB cable connected to normal charger (NOT A FAST CHARGER)\n\nTurn on with cable still inserted and BINGO....it works",
+          "score": 2,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nmeu557",
+          "body": "I've gone around the block fighting with Samsung on this. Had it for less than a month and the moisture detected issue happened without fail with genuine charger. Had port replaced only for it to happen less than a month later and them telling me they can't replace it again because now it's water damage caused by me? \n\nThey have no record on their system of what the issue was on the first port when I queried how the issue was different as well as about a warranty since it was LESS THAN A MONTH after they replaced it, the phone having IP68 and never getting wet. When I went in and asked about this they told me it's not actually water damage it looks like corrosion but they have no other option on the system to select besides water damage??? Corrosion? After less than a month? How?\n\nI then found a cheap 5A cable that lights up when it is connected. I noticed that when plugged in on one side it charges with no issues, if I charge on the flip side then the light flashes like the connection is unstable. This makes me think the flow of current actually blows the port components if it continues like this eventually needing replacement.\n\nJust heard about this \"one sided charging\" issue from a guy at an aftermarket cellphone shop today. Seems he knew his stuff.\n\nThe light on the cable is the only way I can confidently charge now.\n\nAbsolutely f*cking pissed at Samsung's service and will not be buying another Samsung again since this.",
+          "score": 2,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nu409ws",
+              "body": "we should sue samsung and reclaim the cost for repaire, had exct same issue should be under warrenty and consumer right ,instead they blame customers when its clealy a recurring issue well documented, we need an investigation into this, im surprised how everyone is trying to solve it themselves instead of pushing that responsibility to the actual phone maker, im so confused how its **legal for Samsung to charge us** for a recurring defect under UK consumer law.\n\nThey are not taking this problem seriously  \n*Someone plz start a consumer class action or large lawsuit against Samsung specifically for this Galaxy S25 charging sensor issue*",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "o0n4cmz",
+              "body": "Habe genau das gleiche Problem. Konntest du es inzwischen lösen?",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n5smyxk",
+          "body": "I'm facing th same issue, moisture detected but no moisture at all. cannot charge other than wireless, but from time to time suddenly starts working. cannot connect my power banks, neither my drone. and tech service wants me to leave it there for them to check",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "n5u7vi5",
+          "body": "Same issue here! Any updates?",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "n5ux5rf",
+              "body": "Its working again. I don't know why....",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nbhmrrd",
+          "body": "What's odd my wife has no issues, but I do. what I'm wondering is even though it supports 45 watt charging maybe there's a software issue allowing it to accept more than it's rated inevitability messing up the port \nOr the port itself is constantly Sending out a hand shake signal for fast charging in turn any little bit of high moister or  any conductive material in the air is setting off the the moister warning, honestly the port should be off until a plug is connected \nI'm getting a dust cover to see if this helps",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nbvrfhy",
+          "body": "I have the same problem some water went near the door a couple of hours ago and now it's still giving this error. I tried clearing the cache but nothing. Every now and then it happens that you detect this error in the unit. How did you solve it?",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ncwvd65",
+          "body": "i know im probably late to the conversation but i faced the same issue and here is what I've learnt - this issue may arise for anyone and it may happen because of sweat seeping in as well and your sweat contains salts which are high in electrolytes hence it tethers with the USB somehow - can't really explain that. as risky as this might sound, here is what I did -\n\n\\- switch my phone off completely and wait 2 minutes  \n\\- post 2 minutes, i ran my phone under tap water, charging port included **(YES! charging port as well)**  \n\\- once done, pat dry the exterior of your phone and then grab soft bruhs **(ask your mom or your sister for make up brush)**  \n\\- inset the brush into the charging port and run it through the charge port for a good 1 minute.  \n\\- after that if you have air blower, blow some air into the port or dry your mouth and blow into the charge port **(by all means DO NOT use a blow-dryer or hair dryer)**  \n\\- after that, place your device between 2 books or anything that can hold it straight with the charge port facing the ceiling.  \n\\- leave it to dry for a good 10 minutes and this should fix it",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nd37h5d",
+          "body": "Had the same issue as well and i just got it a month ago. Its always fucking beeping with that moisture notif and it hasnt been wet lately. Tried using powerbanks to charge which works until today.\n\nStrangely, the cable works with adapters other than samsung as well as anker power banks and adapters. God they shouldve just fix this with an update its getting annoying.",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nee3tfv",
+              "body": "I have the same issue now tool.  Uggh.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "neetk1m",
+          "body": "It's so frustrating when our phones are not working correctly.  Especially when they cost this much.  Has anyone tried taking it to a service center and what did they say?",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nekmm1v",
+          "body": "The phones come with a 12 month warrantee.  Have you reached out to Samsung?   \n\nSpeak with a Samsung Care Pro 8 AM - 9 PM EST, Monday - Friday, and 8 AM - 6 PM Saturday and Sunday.[Dial 1-800-SAMSUNG (726-7864)](tel:18007267864)",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nezfpc5",
+          "body": "Have had the same issue. The works and then doesn't work and then works again...\n\nIncidentally, since I started having these problems, I also cannot use my USB dongles for keyboard and mouse. I did a lot of remote work up until I started having this issue. Whether the charging works or not, the USB connection does not.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nf85upx",
+          "body": "Having the same issue on my 2 weeks old S25 Ultra. This is ridiculous... There's nothing wet or dirty in the charging port, yet the phone keeps saying there is. I'm taking it back to the shop for repair, let's hope it's a fauly sensor as Samsung clearly is'nt trying to fix it through a software patch.",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nfarfga",
+              "body": "Dou you have One UI 8? I started experiencing it since I updated my s25 Ultra since I updated to One UI 8.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            },
+            {
+              "id": "nh08cts",
+              "body": "* If the port is completely dry and the warning remains, it may be a software issue.\n* Go to **Settings > Apps**.\n* Tap the three-dots icon (Filter and sort icon) and select **Show system apps**, then tap **OK**.\n* Scroll to **USB Settings** and tap on its storage.\n* Tap **Clear cache** to remove temporary data related to USB connections.\n* Restart your phone and try charging again.",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nkkv3cu",
+                  "body": "This does not work. Did everything both OP and you have suggested and my phone will still not charge. I'm so glad I spent $1500 for something I can't use",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ng1a193",
+          "body": "Came here with this on my new s25. Had it a couple weeks ish and the moisture debris warning just started a couple days ago. Only wireless works. I'm just lucky I had an old wireless charger lying around, and I was home when it happened. First splurge on a \"nice\"/new phone and get this shit 🙄 man if this had started when I was on the road and had to pay truck stop prices for a shitty wireless charger I would've switched to the first available carrier kiosk I found in a truck stop.",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nh08bvb",
+              "body": "* If the port is completely dry and the warning remains, it may be a software issue.\n* Go to **Settings > Apps**.\n* Tap the three-dots icon (Filter and sort icon) and select **Show system apps**, then tap **OK**.\n* Scroll to **USB Settings** and tap on its storage.\n* Tap **Clear cache** to remove temporary data related to USB connections.\n* Restart your phone and try charging again.",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "nh0yy2h",
+                  "body": "Yup. After clearing a bunch of caches and updating to 8, it hasn't happened again. This is what we pay for huh 🙄🫩",
+                  "score": 1,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "nle88j8",
+                      "body": "Mine started for me after the oneui 8 update lol",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": [
+                        {
+                          "id": "nr5jpnn",
+                          "body": "Likewise. Any fix yet?",
+                          "score": 1,
+                          "depth": 4,
+                          "replies": [
+                            {
+                              "id": "nr6mfcn",
+                              "body": "No. I just plug and unplug it until it stays fast charging. Seems to be more willing to super fast Charge 2.0 than regular fast charging though.",
+                              "score": 1,
+                              "depth": 5,
+                              "replies": [
+                                {
+                                  "id": "nr6mhrz",
+                                  "body": "yeah this what I do nowadays",
+                                  "score": 1,
+                                  "depth": 6,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nhbwi5l",
+          "body": "Having the same issue.  Started a month ago off and on. Then it started while holding the phone.  Now no charger works and I had to buy a wireless charger.  Verizon is sending me a new phone today.  But going out of town tomorrow",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "njkht8x",
+          "body": "For me it gives the error when I hold my thumb over the port for too long, bc that is how I hold my phone (index across the side, thumb across the bottom)",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "njoidm0",
+          "body": "Same issue with me here, it keeps coming back every now and then, it is very annoying. Has samsung made any annoucement on the problem yet ? Did it occur to you for the last 3 months, and if not, did you change anything in your charging setup ? Thank you very much for the post btw, and for the links to the related posts :)",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nkvk5x2",
+          "body": "Dude, truly, thank you for this post. I have been experiencing the same issue and I have been absolutely losing my mind trying to figure out what I did because I know I haven't done anything that would cause the moisture warning!",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nkvnt5n",
+          "body": "I've been having the moisture detected issue first about 3 months on a S25 Ultra.  Today it would only charge slow and that was only with certain cables and I verified everything was fine with chargers.  Called tech support and their answer is drive 2 hours each way to go to a service center.  Asked for a supervisor and was refused.  Have always loved Galaxy phones but seems they are not what they use to be and their customer service is horrible!",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "nkx376r",
+              "body": "I'm having the same problem with my S25 Ultra. Did you find any solution?",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nle816y",
+          "body": "Any updates? Still have no idea if what I'm experiencing is the same thing or even a software issue. When plugged in my phone will either give the moisture warning, just slow charge, or super fast charge for 2 seconds and switch over to slow charging for no reason. I've tried every single thing mentioned here and other posts and still happening to me.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nlqq80g",
+          "body": "I've had the same problem and my phone is less then a month old. The only thing that has been exposed to is cold air",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nlreh3c",
+          "body": "A mi me paso lo siguiente con mi Galaxy S25+ :\n\n\nEl dia sabado 25 de octubre mi celular se actualizo con el parche de octubre, luego lo utilice normalmente como de costumbre y nada raro hasta ese mismo dia en la tarde que, como nunca deje que se descargara mi celular totalmente al punto de apagarse. Cuando lo voy a cargar (cargador de 25w original + cable original) lo dejo ahi ya que tenia que hacer otras cosas, y a los minutos cuando lo voy a revisar para encenderlo, estaba el icono con la alerta que habia humedad o algo en el puerto de carga, lo primero que hice fue limpiar cuidadosamente mi puerto usb c con alcohol isopropilico y nada, hasta que conecte un cargador de los normales y ahi fue cuando pudo encender. \n\n\nDespues probando me doy cuenta que la carga super rapida solo funcionaba con 1 solo una cara, finalmente entre borrar el cache desde el menu recovery muchas veces, probar muchos cables y otras cosas me volvio a funcionar normal la carga rapida con la excepcion de que si conecto y desconecto el cable muy rapido con intervalo de 3 segundo no me funciona, pero si espero 30 segundos por ejemplo no hay problema. Si, es muy raro, y mas raro es que todo esto sucede con 1 cara del cable, la otra la puedo desconectar y conectar 10 veces en 10 segundos y si me funcionara la carga super rapida, pero del otro lado no a menos que espere un intervalo de tiempo.\n\n\nEn resumen, me funciona normal la carga super rapida de 1 cara y en la otra tambien siempre y cuando no lo conecte y desconecte rapido, pero apagado no hay forma que el celular cargue porque me sale la alerta de humedad o cuerpo extraño.\n\n\nTambién debo agregar que probe con el cargador super rapido de mi auto y ahi incluso usando el cable original me funciona totalmente normal, conecto y desconecto rapido para probar y funcionan normal las 2 caras. Pero! Si lo intento cargar apagado, me sale la molesta alerta de humedad o cuerpo extraño.\n\n\nMe gustaria pensar que es un error de software y no de hardware.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nmfr2un",
+          "body": "Boa tarde, aconteceu me o mesmo esta tarde, que por acaso foi com este dia de chuva intensa, onde por momentos pensei mesmo que um telemovel de 1500€ iria ter problemas em tao pouco tempo.\n\n\nPesquisas em varios sitios, nada resolvia, ate que chegei aqui e vi a situacao de um carregador sem ser fast charged, quando ligo para meu espanto comecou a carregar, logo de seguida fiz uma limpeza na cache da usb, e asseguir fiz um diagonostico, sempre com o carregador normal ligado.\n\n\nFicou a funcionar novamente normal, carrega em qualquer carregador, tanto carregamento rapido como normal.\n\n\nEspero que ajude alguem com este problema.\n\n\nO que tiro de conclusao, tanta gente com o mesmo problema e se com algumas \"voltas\" conseguimos que o telemovel comece novamente a trabalhar normal, isto para mim é firmware, e nao hardware.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "npezrg4",
+          "body": "My teen just told me her 3 month old Samsung S25 won’t charge all the sudden. After thinking she had ruined the cord (oops!) I looked it up and came across this post. She has never dropped it in water, didn’t get a moisture warning and it hasn’t rained. It just stopped charging overnight. \n\nNone of the tips in here worked, so will be contacting Samsung to hopefully start a warranty claim. Thankfully I have a wireless charge pad she can use until we get it resolved somehow.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nqamv8j",
+          "body": "I have a Samsung S25 plus I bought in march. I tried EVERYTHING to attempt to fix it myself - to no avail. I had to hand it in to do a warranty claim and half a month later the phone has been mended with a new charging port chip and it works perfectly again. The phone kept warning about moisture/fluid/debris in the charging port despite there being nothing in there. If you get issues with charging, hand it in for warranty claims ASAP and get it fixed for free.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nr5xy9l",
+          "body": "I just had this problem today, was able to fix it right away by blasting some canned air into the port.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ntgddco",
+          "body": "Quem estiver com esse problema, faça o seguinte:\n1. Desligue o celular;\n2. Conecte um carregador que não seja rápido;\n3. Vai iniciar o carregamento lento;\n4. Espere uns 5 minutos e depois volte para o carregamento rápido.\n\n\nO meu deu trabalho assim.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ntjejj1",
+          "body": "My 25 ultra started with the moisture issue last weekend. Most workdays I use a wireless charger so hadn't realised the wider charging issue until tonight and right now I'm plugged in old an old cable and finally it starts charging but the battery percentage is dropping faster than it can charge.\n\nDon't want to be stuck with only wireless charging forever. Have followed all the steps mentioned by you fine people in the thread above and nothing is resolving it. \n\nHoping like a few others this resolves itself soon but can't believe Samsung have not fixed this themselves. Surely there's a lot of people on their cases about this by now?!",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nu3z0o1",
+          "body": "same issue here, samsung westflied store in london shepherds bush refused to repaire as its was under warrenty and blamed me instead they forced me to pay 50 to change usb port, they didnt even invetigate the issue, 2 months after same issues again, everytime the phone dies, i get the moisture issue and cant charge, i wait bit then try again then it somehow works after couple of tries today i did it at my 7th try, it always happens when phone dies, if i charge while the phone is on i have no issue. so basically i waisted £50 for no reason.\n\nI went to samsung again, and they blamed me again bcs the phone had dents on the corner i ot no screen cracks or other cracks just minor costemic issue, like what has my dent to do with my device detecting moisture???? they want me to pay another replacement cost for usb c when they clearly didnt investigate the issue. Idk if the problem is with the staff in samsung store of those who repaire it, but one of the 2 teams is responsible for this\n\nI'm tired of this. I was a big Samsung fan since S3 mini. Next upgrade ill switch to Google i paid for my phone 800 and received this mediocre service",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nvin3nz",
+          "body": "S25 Ultra showing debris warning with Vention cable. Disabling fast charging temporarily fixed the issue. Original cable work fine and also latest update.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nytuq8r",
+          "body": "I know this is an old post but if anyone is finding this now, I plugged the phone into an aux to usb cable in my car and now it charges. Worth a try.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "nywvb7k",
+          "body": "My first ever Samsung is an S25 Ultra and I’m currently running into the same problem where the phone is detecting water in the port and the phone has never seen a drop of water. Unfortunately the phone is now dead and there’s no way for me to attempt to clear the USB cache due to the fact it won’t even begin to charge due to a water/debris alert even when dead. Luckily enough it’s a work phone and I have an IPhone 17 pro as my personal so I’m not totally up the creek without a paddle, but having put a fair amount of use into both phones I can confidently say this will be my first and last Samsung. Compared to my 17P the Samsung is an utter POS. I’m still completely unable to even turn the phone on due to the BS alert so if anyone has any suggestions I’d love to hear them.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "o256vhi",
+          "body": "Im having the same issue. this is crazy for how much these phones cost. i cant even get mine to turn on now because i cant get it to charge. maybe we should start a class action law suite",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "o2ebfe2",
+          "body": "My phone is completely dead, and I'm getting the moisture warning everytime I plug it in. Any idea on things I could do?",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "o2ec4ir",
+          "body": "Sigh, looks like I'm part of the club as of today",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "o5x6duu",
+          "body": "Def a software problem. Seems like Samsung knows but doesn't seem to care or want to fix it. Don't take it in; having changed the port doesn't actually fix the problem. My guess is the company won't fix/pritorize this problem because of old-fashioned capitalist greed. Hope they prove me wrong but I doubt it",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "o8cocvx",
+          "body": "Had to chime in and join this conversation for anyone else who stumbles this way.\n\nI had the moisture warnings a couple months ago (S25 Ultra), and got my phone replaced because they said they couldn't repair it.\n\nThe replacement just stopped charging too. I'm losing my mind.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "o97sasd",
+          "body": "Quick update from me...5 months after the moisture and refusing to cable charge debacle started, I can now charge again! Though USB C only works one way around which is weird.\n\nBut still... Issue seems to be resolving itself without explanation.\n\nAnd still no actual acknowledgement from Samsung. But at least there's hope!",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "od00l2y",
+          "body": "Mine suddenly started doing this over the past week. I'm not getting and warnings or errors, it's just being really fussy about recognising that it has a charger plugged in and even at what angle. There's nothing blocking it that I can see so I don't understand why it's being so awkward!",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "oexieio",
+          "body": "É galera dona Sansung me colocou no mesmo barco que vocês. telefone 100%  descarregado, e não consigo carregar. Somente o alerta de umidade prevalece. Alguma novidade?",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "oheuz8z",
+          "body": "Same issue, I get it every now and again, turning the phone off for 10 minutes gets rid of the problem, just had an engineer turn up and say there is corrosion in the charging port and it's not covered under warranty, the phone has never been in water or near water, the most it's ever had is in my pocket or under an umbrella during rain or on the side while I'm cooking in the kitchen.",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "1ssdjqw",
+      "title": "S25 Bricked Randomly",
+      "selftext": "It was sitting on the charger - no pending updates scheduled or anything, and my watched buzzed indicating it was disconnected. I tried toggling on my phone and nothing - hold power button, nothing. \n\nI ultimately tried the power + vol down which finally rebooted it, and now it's just rebooting over and over - samsung logo, android logo, hangs for a long time on android logo, then reboots again - over and over. \n\nSometimes it makes it to a PIN screen, I unlock it, and it crashes as soon as the icons show up. I've seen a flicker of \"Google Play Services has a bug\" at the bottom before it crashes, and I've been able to put it into airplane mode one reboot. \n\nSometimes it gets the One UI Optimizing apps screen. \n\nAnyone else? Or is my 6 month old device randomly hosed?\n\n**Edit:** It's now not even booting to my background. It rebooted more times and failed in safe mode (bottom left corner of the screen), and now it's on a generic Samsung S background. When I unlock it after its bout of freakouts and it seems stable, I get a \"Serious software error has occurred\" message prompting me to check for updates, which cannot complete because the phone crashes instantly. \n\nGuess I'm taking this paperweight back to Best Buy tomorrow.\n\n**Edit (final)** Best buy concluded it was a swollen battery and NAND/Motherboard damage. They swapped it out for an S26 Ultra. So... setting that up now. Just in case anyone else experiences something similar. It was hardware failure.",
+      "score": 4,
+      "upvote_ratio": 0.75,
+      "num_comments": 17,
+      "url": "https://www.reddit.com/r/GalaxyS25/comments/1ssdjqw/s25_bricked_randomly/",
+      "created_utc": 1776839987,
+      "comments": [
+        {
+          "id": "ohlkdnr",
+          "body": "The average person doesn't feel comfortable with flashing firmware.",
+          "score": 3,
+          "depth": 0,
+          "replies": []
+        },
+        {
+          "id": "ohl6n6u",
+          "body": "My greatest feat whenever my phone dies for low battery",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "ohl8bh6",
+              "body": "Battery's at 90%. It's now booting to a generic S background and when unlocked briefly flashes that \"A serious software error has occurred\" with a check for update button. The phone crashes immediately before I can click it.",
+              "score": 1,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "ohl8o49",
+                  "body": "How full is your storage?",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "ohl9rlz",
+                      "body": "Less than 30%. It was simply sitting idle on the charger.\n\nI can swipe around the pre-unlock state just fine but moment I unlock it, it goes into a random number of reboot loops.",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ohla0ya",
+          "body": "You could try flashing stock firmware using Odin, use home_csc to keep all data, [guide](https://youtu.be/xSgapynofFw)",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "ohldkz7",
+              "body": "It's a less than 6 month old device in warranty. I'd rather not resort to homebrew hacks to try to fix it. I think I'll just take it in for service tomorrow and make them pull my data.",
+              "score": 4,
+              "depth": 1,
+              "replies": [
+                {
+                  "id": "ohlgiih",
+                  "body": "Nah this wont void warranty its 100% clean way to flash it.",
+                  "score": 3,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "ohlhnel",
+                      "body": "I factory reset it via recovery and it's still crashing halfway through the \"welcome\" screen so I'm thinking this is some bigger hardware issue. It's 6 months old - best buy or Samsung has no choice but to honor their warranty.",
+                      "score": 1,
+                      "depth": 3,
+                      "replies": [
+                        {
+                          "id": "ohlixow",
+                          "body": "Y did u do factory reset. You had 1 chance to pull the data and ruined it and called my solution a hack... sorry for u bro.\n\nIf this is software issue, factory reset is not gonna solve it. Only a firmware flash will solve.",
+                          "score": 5,
+                          "depth": 4,
+                          "replies": [
+                            {
+                              "id": "ohni0cp",
+                              "body": "Because I don't have anything on it I cared about and that's the next step that would have been recommended by support. I mostly use it for work anyway, so there's not much of a loss. \n\n\\*shrug*",
+                              "score": 1,
+                              "depth": 5,
+                              "replies": [
+                                {
+                                  "id": "ohnkeu9",
+                                  "body": "Actually its u who wanted the data right?, reply to my first comment.\n\nAnyway since u dont care, why dont u try flashing.",
+                                  "score": 1,
+                                  "depth": 6,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ohliqe7",
+                  "body": "This is not a homebrew/hack. U may not know abt this.\n\nThis is the only way to flash a samsung firmware. Actually the flashing software \"Odin\" itself is a samsung developed software (leaked unofficially).\n\nThe service centre is also going to do the same thing, and they will not pull your data. They will straight up factory reset and gives u dumb reasons. Thats y I suggested this method, atleast u will get your data back.",
+                  "score": 2,
+                  "depth": 2,
+                  "replies": [
+                    {
+                      "id": "ohnkx17",
+                      "body": "Yeah I know 😃",
+                      "score": 2,
+                      "depth": 3,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ohlv4go",
+          "body": "I’m guessing there’s a hardware issue with your NAND. You’re right, take it in for repair.",
+          "score": 1,
+          "depth": 0,
+          "replies": [
+            {
+              "id": "ohonlf7",
+              "body": "Yup. Swollen battery per the tech. Full exchange.",
+              "score": 1,
+              "depth": 1,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ohmiizt",
+          "body": "Chill. I had the exact same thing happen with my tab s9 and it got hot af, like really HOT. called the service center and while i reached there, the issue resolved itself odk how",
+          "score": 1,
+          "depth": 0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

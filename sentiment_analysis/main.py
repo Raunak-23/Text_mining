@@ -96,7 +96,8 @@ def main() -> None:
     from absa.pipeline import Pipeline
     from absa.models.aspect_mapper import print_tree
     from absa.analysis.aggregator import (
-        print_product_summary, print_aspect_table, save_aggregation,
+        print_product_summary, print_aspect_table, print_final_scorecard,
+        save_aggregation,
     )
     from absa.evaluation.comparator import print_evaluation_report
     from absa.reporting.results_report import run_report
@@ -138,6 +139,12 @@ def main() -> None:
     # ── Display: evaluation metrics ───────────────────────────────────────────
     if result.evaluation:
         print_evaluation_report(result.evaluation)
+
+    # ── Display: final 0-100 scorecard (user-facing summary) ──────────────────
+    if result.aggregated_scores:
+        console.print()
+        print_header("Final Scorecard", f"{product} — sentiment rating per aspect")
+        print_final_scorecard(result.aggregated_scores)
 
     # ── Save full report to outputs/reports/<slug>/ ────────────────────────────
     import json, re

@@ -377,6 +377,90 @@ def print_aspect_table(
     console.print(tbl)
 
 
+def print_final_scorecard(scores: dict[str, ProductScore]) -> None:
+    """
+    User-facing final scorecard: each aspect rated 0-100 (mean across paradigms),
+    with a verdict band, ASCII bar, and overall product score.
+
+    Mapping:  net_score in [-1, 1]  ->  score_100 = round((net + 1) * 50)
+              -1 -> 0     0 -> 50     +1 -> 100
+    """
+    from rich.table import Table
+    from absa.utils.display import console
+
+    if not scores:
+        return
+
+    # Per-aspect mean net score across paradigms (+ total mention count)
+    aspect_nets: dict[str, list[float]] = {}
+    aspect_mentions: dict[str, int] = {}
+    for ps in scores.values():
+        for cat in ps.categories:
+            for asp in cat.aspects:
+                aspect_nets.setdefault(asp.aspect, []).append(asp.weighted_score)
+                aspect_mentions[asp.aspect] = aspect_mentions.get(asp.aspect, 0) + asp.n_mentions
+
+    if not aspect_nets:
+        return
+
+    def _band(s100: int) -> tuple[str, str]:
+        if s100 >= 70: return "Excellent", "bright_green"
+        if s100 >= 60: return "Good",      "green"
+        if s100 >= 50: return "Mixed",     "yellow"
+        if s100 >= 40: return "Poor",      "dark_orange"
+        return "Critical", "red"
+
+    def _bar(s100: int, width: int = 22) -> str:
+        filled = round(width * max(0, min(100, s100)) / 100)
+        return "█" * filled + "░" * (width - filled)
+
+    rows: list[tuple[str, int, int]] = []
+    for aspect, nets in aspect_nets.items():
+        mean_net = sum(nets) / len(nets)
+        s100 = round((mean_net + 1) * 50)
+        rows.append((aspect, s100, aspect_mentions[aspect]))
+    rows.sort(key=lambda r: -r[1])
+
+    tbl = Table(
+        title="[bold]Final Aspect Scorecard[/bold]  (0-100, mean across paradigms)",
+        show_lines=False,
+        title_justify="left",
+    )
+    tbl.add_column("Aspect",   style="cyan", no_wrap=True)
+    tbl.add_column("Score",    justify="right")
+    tbl.add_column("Bar",      justify="left")
+    tbl.add_column("Verdict",  justify="center")
+    tbl.add_column("Mentions", justify="right", style="dim")
+
+    for aspect, s100, n in rows:
+        label, color = _band(s100)
+        tbl.add_row(
+            aspect,
+            f"[{color}]{s100:>3}/100[/{color}]",
+            f"[{color}]{_bar(s100)}[/{color}]",
+            f"[{color}]{label}[/{color}]",
+            str(n),
+        )
+
+    # Overall product-level score (mean of per-paradigm net scores)
+    prod_nets = [ps.weighted_score for ps in scores.values()]
+    prod_100 = round((sum(prod_nets) / len(prod_nets) + 1) * 50)
+    label, color = _band(prod_100)
+    try:
+        tbl.add_section()
+    except Exception:
+        pass
+    tbl.add_row(
+        "[bold]OVERALL[/bold]",
+        f"[bold {color}]{prod_100:>3}/100[/bold {color}]",
+        f"[bold {color}]{_bar(prod_100)}[/bold {color}]",
+        f"[bold {color}]{label}[/bold {color}]",
+        f"[bold]{sum(aspect_mentions.values())}[/bold]",
+    )
+
+    console.print(tbl)
+
+
 def print_product_summary(scores: dict[str, ProductScore]) -> None:
     """Print a one-line summary per paradigm."""
     from rich.table import Table

@@ -1,0 +1,323 @@
+{
+  "transformer": {
+    "product": "Samsung Galaxy S25 Ultra",
+    "paradigm": "transformer",
+    "n_mentions": 2082,
+    "positive": 0.1959,
+    "negative": 0.2703,
+    "neutral": 0.5338,
+    "weighted_score": -0.0743,
+    "dominant": "neutral",
+    "weighting": "weighted",
+    "categories": [
+      {
+        "category": "Hardware",
+        "paradigm": "transformer",
+        "n_mentions": 819,
+        "positive": 0.2347,
+        "negative": 0.2857,
+        "neutral": 0.4796,
+        "weighted_score": -0.0511,
+        "dominant": "neutral",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Build",
+            "paradigm": "transformer",
+            "n_mentions": 422,
+            "positive": 0.2182,
+            "negative": 0.3164,
+            "neutral": 0.4654,
+            "weighted_score": -0.0983,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Battery",
+            "paradigm": "transformer",
+            "n_mentions": 397,
+            "positive": 0.2529,
+            "negative": 0.2519,
+            "neutral": 0.4952,
+            "weighted_score": 0.001,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          }
+        ]
+      },
+      {
+        "category": "Value",
+        "paradigm": "transformer",
+        "n_mentions": 838,
+        "positive": 0.1793,
+        "negative": 0.2408,
+        "neutral": 0.5799,
+        "weighted_score": -0.0615,
+        "dominant": "neutral",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Pricing",
+            "paradigm": "transformer",
+            "n_mentions": 408,
+            "positive": 0.217,
+            "negative": 0.3153,
+            "neutral": 0.4677,
+            "weighted_score": -0.0983,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Ecosystem",
+            "paradigm": "transformer",
+            "n_mentions": 430,
+            "positive": 0.1437,
+            "negative": 0.1705,
+            "neutral": 0.6858,
+            "weighted_score": -0.0268,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          }
+        ]
+      },
+      {
+        "category": "Software",
+        "paradigm": "transformer",
+        "n_mentions": 425,
+        "positive": 0.1528,
+        "negative": 0.2976,
+        "neutral": 0.5497,
+        "weighted_score": -0.1448,
+        "dominant": "neutral",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "AI",
+            "paradigm": "transformer",
+            "n_mentions": 425,
+            "positive": 0.1528,
+            "negative": 0.2976,
+            "neutral": 0.5497,
+            "weighted_score": -0.1448,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          }
+        ]
+      }
+    ]
+  },
+  "llm": {
+    "product": "Samsung Galaxy S25 Ultra",
+    "paradigm": "llm",
+    "n_mentions": 36,
+    "positive": 0.4778,
+    "negative": 0.4522,
+    "neutral": 0.07,
+    "weighted_score": 0.0256,
+    "dominant": "positive",
+    "weighting": "weighted",
+    "categories": [
+      {
+        "category": "Hardware",
+        "paradigm": "llm",
+        "n_mentions": 21,
+        "positive": 0.4755,
+        "negative": 0.4868,
+        "neutral": 0.0377,
+        "weighted_score": -0.0114,
+        "dominant": "negative",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Build",
+            "paradigm": "llm",
+            "n_mentions": 18,
+            "positive": 0.5457,
+            "negative": 0.4122,
+            "neutral": 0.0422,
+            "weighted_score": 0.1335,
+            "dominant": "positive",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Battery",
+            "paradigm": "llm",
+            "n_mentions": 3,
+            "positive": 0.195,
+            "negative": 0.7851,
+            "neutral": 0.02,
+            "weighted_score": -0.5901,
+            "dominant": "negative",
+            "weighting": "weighted"
+          }
+        ]
+      },
+      {
+        "category": "Software",
+        "paradigm": "llm",
+        "n_mentions": 4,
+        "positive": 0.3178,
+        "negative": 0.6822,
+        "neutral": 0.0,
+        "weighted_score": -0.3644,
+        "dominant": "negative",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "AI",
+            "paradigm": "llm",
+            "n_mentions": 4,
+            "positive": 0.3178,
+            "negative": 0.6822,
+            "neutral": 0.0,
+            "weighted_score": -0.3644,
+            "dominant": "negative",
+            "weighting": "weighted"
+          }
+        ]
+      },
+      {
+        "category": "Value",
+        "paradigm": "llm",
+        "n_mentions": 11,
+        "positive": 0.543,
+        "negative": 0.2564,
+        "neutral": 0.2006,
+        "weighted_score": 0.2866,
+        "dominant": "positive",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Pricing",
+            "paradigm": "llm",
+            "n_mentions": 7,
+            "positive": 0.6921,
+            "negative": 0.1477,
+            "neutral": 0.1602,
+            "weighted_score": 0.5443,
+            "dominant": "positive",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Ecosystem",
+            "paradigm": "llm",
+            "n_mentions": 4,
+            "positive": 0.2702,
+            "negative": 0.4551,
+            "neutral": 0.2746,
+            "weighted_score": -0.1849,
+            "dominant": "negative",
+            "weighting": "weighted"
+          }
+        ]
+      }
+    ]
+  },
+  "lexicon": {
+    "product": "Samsung Galaxy S25 Ultra",
+    "paradigm": "lexicon",
+    "n_mentions": 33880,
+    "positive": 0.3907,
+    "negative": 0.1729,
+    "neutral": 0.4364,
+    "weighted_score": 0.2178,
+    "dominant": "neutral",
+    "weighting": "weighted",
+    "categories": [
+      {
+        "category": "Value",
+        "paradigm": "lexicon",
+        "n_mentions": 10279,
+        "positive": 0.3942,
+        "negative": 0.1698,
+        "neutral": 0.436,
+        "weighted_score": 0.2243,
+        "dominant": "neutral",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Ecosystem",
+            "paradigm": "lexicon",
+            "n_mentions": 134,
+            "positive": 0.4467,
+            "negative": 0.178,
+            "neutral": 0.3753,
+            "weighted_score": 0.2687,
+            "dominant": "positive",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Pricing",
+            "paradigm": "lexicon",
+            "n_mentions": 10145,
+            "positive": 0.3935,
+            "negative": 0.1697,
+            "neutral": 0.4367,
+            "weighted_score": 0.2238,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          }
+        ]
+      },
+      {
+        "category": "Hardware",
+        "paradigm": "lexicon",
+        "n_mentions": 11699,
+        "positive": 0.3899,
+        "negative": 0.1722,
+        "neutral": 0.438,
+        "weighted_score": 0.2177,
+        "dominant": "neutral",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "Build",
+            "paradigm": "lexicon",
+            "n_mentions": 10247,
+            "positive": 0.3925,
+            "negative": 0.1696,
+            "neutral": 0.4379,
+            "weighted_score": 0.2229,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          },
+          {
+            "aspect": "Battery",
+            "paradigm": "lexicon",
+            "n_mentions": 1452,
+            "positive": 0.3736,
+            "negative": 0.188,
+            "neutral": 0.4384,
+            "weighted_score": 0.1856,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          }
+        ]
+      },
+      {
+        "category": "Software",
+        "paradigm": "lexicon",
+        "n_mentions": 11902,
+        "positive": 0.3886,
+        "negative": 0.1762,
+        "neutral": 0.4352,
+        "weighted_score": 0.2124,
+        "dominant": "neutral",
+        "weighting": "weighted",
+        "aspects": [
+          {
+            "aspect": "AI",
+            "paradigm": "lexicon",
+            "n_mentions": 11902,
+            "positive": 0.3886,
+            "negative": 0.1762,
+            "neutral": 0.4352,
+            "weighted_score": 0.2124,
+            "dominant": "neutral",
+            "weighting": "weighted"
+          }
+        ]
+      }
+    ]
+  }
+}

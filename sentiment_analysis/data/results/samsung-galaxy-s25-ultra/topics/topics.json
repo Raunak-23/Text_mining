@@ -1,0 +1,648 @@
+[
+  {
+    "id": 0,
+    "label": "s24 ultra_s25 ultra_s23 ultra",
+    "top_words": [
+      "s24 ultra",
+      "s25 ultra",
+      "s23 ultra",
+      "s26 ultra",
+      "s24",
+      "s24u",
+      "s25u",
+      "s25",
+      "s23u",
+      "samsung"
+    ],
+    "top_word_scores": [
+      0.8093019127845764,
+      0.7813087105751038,
+      0.7339285016059875,
+      0.7063496708869934,
+      0.6835551857948303,
+      0.6595768332481384,
+      0.6281687617301941,
+      0.6210638284683228,
+      0.597917377948761,
+      0.5878753662109375
+    ],
+    "doc_count": 10982,
+    "representative_docs": [
+      "I purposely missed the s24 ultra and the s25 ultra.",
+      "Well it's a samsung...",
+      "name 5 things about your Samsung Galaxy s25 Ultra you don't like"
+    ]
+  },
+  {
+    "id": 1,
+    "label": "pixel 10_pixel pro_google pixel",
+    "top_words": [
+      "pixel 10",
+      "pixel pro",
+      "google pixel",
+      "pixel",
+      "10 pro",
+      "pixels",
+      "samsung",
+      "iphone",
+      "pro xl",
+      "screen"
+    ],
+    "top_word_scores": [
+      0.8259357810020447,
+      0.7696790099143982,
+      0.734137237071991,
+      0.6926873922348022,
+      0.5403338670730591,
+      0.5302945971488953,
+      0.49644917249679565,
+      0.45385074615478516,
+      0.44699522852897644,
+      0.3867964446544647
+    ],
+    "doc_count": 1717,
+    "representative_docs": [
+      "I say this as the owner of a Pixel 10 Pro.",
+      "Oh no I was just about to buy a pixel 10 pro XL.",
+      "I tried a Pixel 10 Pro XL..."
+    ]
+  },
+  {
+    "id": 2,
+    "label": "agree_affecting users_makes sense",
+    "top_words": [
+      "agree",
+      "affecting users",
+      "makes sense",
+      "true",
+      "sense",
+      "understand",
+      "really",
+      "point",
+      "affecting",
+      "difference"
+    ],
+    "top_word_scores": [
+      0.4415316879749298,
+      0.4089565873146057,
+      0.38302960991859436,
+      0.36889898777008057,
+      0.3415558338165283,
+      0.3042025566101074,
+      0.2969733774662018,
+      0.28823423385620117,
+      0.283686101436615,
+      0.2786424458026886
+    ],
+    "doc_count": 1336,
+    "representative_docs": [
+      "so they see it’s affecting more users.",
+      "so they see it’s affecting more users.",
+      "I both agree but also don't."
+    ]
+  },
+  {
+    "id": 3,
+    "label": "instagram_battery drain_reported",
+    "top_words": [
+      "instagram",
+      "battery drain",
+      "reported",
+      "issue",
+      "report problem",
+      "excessive battery",
+      "report",
+      "fix soon",
+      "fixed",
+      "noticed"
+    ],
+    "top_word_scores": [
+      0.5088790059089661,
+      0.292811781167984,
+      0.2915429174900055,
+      0.2736617922782898,
+      0.2601228654384613,
+      0.25635597109794617,
+      0.2511198818683624,
+      0.24020227789878845,
+      0.22546537220478058,
+      0.22344349324703217
+    ],
+    "doc_count": 999,
+    "representative_docs": [
+      "I've already reported it directly through the Instagram app: Profile Settings and privacy Help Report a problem.",
+      "I've already reported it directly through the Instagram app: Profile Settings and privacy Help Report a problem.",
+      "I've already reported it directly through the Instagram app: Profile Settings and privacy Help Report a problem."
+    ]
+  },
+  {
+    "id": 4,
+    "label": "phone cases_phone case_screen protector",
+    "top_words": [
+      "phone cases",
+      "phone case",
+      "screen protector",
+      "screen protectors",
+      "cases",
+      "case",
+      "use case",
+      "protectors",
+      "protector",
+      "glass screen"
+    ],
+    "top_word_scores": [
+      0.6197421550750732,
+      0.6082298159599304,
+      0.6025077700614929,
+      0.5898195505142212,
+      0.5150859951972961,
+      0.512556254863739,
+      0.5110587477684021,
+      0.43999403715133667,
+      0.4361434578895569,
+      0.4101356267929077
+    ],
+    "doc_count": 963,
+    "representative_docs": [
+      "I bought the same case as you.",
+      "What case are you getting?",
+      "Not all case are made the same."
+    ]
+  },
+  {
+    "id": 5,
+    "label": "deals_prices_seller",
+    "top_words": [
+      "deals",
+      "prices",
+      "seller",
+      "discount",
+      "price",
+      "amazon",
+      "deal",
+      "discounts",
+      "buy",
+      "good deal"
+    ],
+    "top_word_scores": [
+      0.5431028604507446,
+      0.5376734733581543,
+      0.5193847417831421,
+      0.5168117880821228,
+      0.49312353134155273,
+      0.47335198521614075,
+      0.4668947756290436,
+      0.45768094062805176,
+      0.4477272927761078,
+      0.43810197710990906
+    ],
+    "doc_count": 907,
+    "representative_docs": [
+      "You might have bought it from Samsung on Amazon but the issue is that Amazon commingles their inventory so a fake can get out with the real ones.",
+      "Perhaps you are getting a discount on the full price.",
+      "Amazon.de: Elektronik & Foto]("
+    ]
+  },
+  {
+    "id": 6,
+    "label": "thanks sharing_feedback really_reviews",
+    "top_words": [
+      "thanks sharing",
+      "feedback really",
+      "reviews",
+      "thanks tip",
+      "thanks info",
+      "feedback",
+      "thank",
+      "review",
+      "appreciate",
+      "thanks"
+    ],
+    "top_word_scores": [
+      0.5033997297286987,
+      0.43020516633987427,
+      0.4249127209186554,
+      0.4131871163845062,
+      0.3785974383354187,
+      0.3656104803085327,
+      0.3567195534706116,
+      0.35091879963874817,
+      0.347202867269516,
+      0.34691449999809265
+    ],
+    "doc_count": 521,
+    "representative_docs": [
+      "Thanks for the feedback.",
+      "Thanks for your feedback.",
+      "Thanks for the review!"
+    ]
+  },
+  {
+    "id": 7,
+    "label": "que el_es el_en el",
+    "top_words": [
+      "que el",
+      "es el",
+      "en el",
+      "es",
+      "cuando",
+      "el s25",
+      "el cable",
+      "como",
+      "en la",
+      "el"
+    ],
+    "top_word_scores": [
+      0.605539858341217,
+      0.581075131893158,
+      0.5425463318824768,
+      0.5124630928039551,
+      0.5028621554374695,
+      0.4850481450557709,
+      0.46012431383132935,
+      0.4594743847846985,
+      0.4542754888534546,
+      0.4538479149341583
+    ],
+    "doc_count": 304,
+    "representative_docs": [
+      "es el cable flex el que esta fallando pero a menos que haya sido manipulado es difícil que falle por si solo.",
+      "Bah , esa excusa es de los maricas que hacen review en youtube que para parecwe expertos en el tema salen con quw las esquinas lastiman la mano , la verdad el s24 con sus esquinas cuadradas se ve premium mientras el s25",
+      "El único que si haría es el vídeo selfie con la mano, del resto siento que el S26U podría correr peligro jajajaja 🤣"
+    ]
+  },
+  {
+    "id": 8,
+    "label": "buds pro_buds3_buds4",
+    "top_words": [
+      "buds pro",
+      "buds3",
+      "buds4",
+      "galaxy buds",
+      "ear buds",
+      "buds4 series",
+      "buds core",
+      "buds",
+      "airpods",
+      "headphone"
+    ],
+    "top_word_scores": [
+      0.7794471979141235,
+      0.7360275983810425,
+      0.6931074857711792,
+      0.6864222288131714,
+      0.6313214302062988,
+      0.6245279908180237,
+      0.597867488861084,
+      0.5905709266662598,
+      0.5151481628417969,
+      0.501925528049469
+    ],
+    "doc_count": 286,
+    "representative_docs": [
+      "Hot take bur out of my Galaxy Buds Pro 2 and 3, I prefer to use my Airpod Pro 3's",
+      "How's the buds 3 pro?",
+      "I bought an S26 Ultra and Buds 4 Pro but am disappointed that it lacks the Voice Focus feature in calls when buds are connected (it works when buds are not connected)."
+    ]
+  },
+  {
+    "id": 9,
+    "label": "languages_language_portuguese",
+    "top_words": [
+      "languages",
+      "language",
+      "portuguese",
+      "japanese",
+      "chinese",
+      "korean",
+      "hindi",
+      "english",
+      "supported",
+      "vietnamese"
+    ],
+    "top_word_scores": [
+      0.5066450238227844,
+      0.41439297795295715,
+      0.40399792790412903,
+      0.39181986451148987,
+      0.388531357049942,
+      0.3748297691345215,
+      0.36189132928848267,
+      0.36108922958374023,
+      0.3515138030052185,
+      0.3512411415576935
+    ],
+    "doc_count": 256,
+    "representative_docs": [
+      "The supported languages include Arabic, Chinese (China mainland/Hong Kong/Taiwan), Dutch, English (Australia/India/United Kingdom/United States), Filipino (Philippines), French (Canada/France), German, Gujarati (India), Hindi, Indonesian, Italian, Japanese, Korean, Polish, Portuguese (Brazil/Portugal), Romanian, Russian, Spanish (Mexico/Spain/United States), Swedish, Thai, Turkish, and Vietnamese.",
+      "The supported languages include Arabic, Chinese (China mainland/Hong Kong/Taiwan), Dutch, English (Australia/India/United Kingdom/United States), Filipino (Philippines), French (Canada/France), German, Gujarati (India), Hindi, Indonesian, Italian, Japanese, Korean, Polish, Portuguese (Brazil/Portugal), Romanian, Russian, Spanish (Mexico/Spain/United States), Swedish, Thai, Turkish, and Vietnamese.",
+      "The supported languages include Arabic, Chinese (China mainland/Hong Kong/Taiwan), Dutch, English (Australia/India/United Kingdom/United States), Filipino (Philippines), French (Canada/France), German, Gujarati (India), Hindi, Indonesian, Italian, Japanese, Korean, Polish, Portuguese (Brazil/Portugal), Romanian, Russian, Spanish (Mexico/Spain/United States), Swedish, Thai, Turkish, and Vietnamese."
+    ]
+  },
+  {
+    "id": 10,
+    "label": "galaxy guide_galaxy ai_guide powered",
+    "top_words": [
+      "galaxy guide",
+      "galaxy ai",
+      "guide powered",
+      "galaxy",
+      "operated human",
+      "ai bullshit",
+      "intelligence operated",
+      "use ai",
+      "powered artificial",
+      "samsung"
+    ],
+    "top_word_scores": [
+      0.6283164024353027,
+      0.578347384929657,
+      0.4812537133693695,
+      0.4727282226085663,
+      0.4046405255794525,
+      0.3619232773780823,
+      0.35116904973983765,
+      0.3409428894519806,
+      0.3340036869049072,
+      0.32821133732795715
+    ],
+    "doc_count": 254,
+    "representative_docs": [
+      "Galaxy Guide is powered by artificial intelligence and is not operated by a human.",
+      "Galaxy Guide is powered by artificial intelligence and is not operated by a human.",
+      "Galaxy Guide is powered by artificial intelligence and is not operated by a human."
+    ]
+  },
+  {
+    "id": 11,
+    "label": "privacy display_display privacy_privacy feature",
+    "top_words": [
+      "privacy display",
+      "display privacy",
+      "privacy feature",
+      "privacy screen",
+      "privacy",
+      "new privacy",
+      "privacy mode",
+      "ai privacy",
+      "private",
+      "security"
+    ],
+    "top_word_scores": [
+      0.7239835262298584,
+      0.7107602953910828,
+      0.6926932334899902,
+      0.6866503357887268,
+      0.6635297536849976,
+      0.6442762017250061,
+      0.6428599953651428,
+      0.4690714180469513,
+      0.45339149236679077,
+      0.34507909417152405
+    ],
+    "doc_count": 245,
+    "representative_docs": [
+      "See our [Terms & Conditions]( and [Privacy Policy]( for more info.",
+      "Any issues with the privacy display?",
+      "This was with Privacy Display off."
+    ]
+  },
+  {
+    "id": 12,
+    "label": "white light_appear white_green lines",
+    "top_words": [
+      "white light",
+      "appear white",
+      "green lines",
+      "green color",
+      "green line",
+      "green",
+      "greenish",
+      "colors",
+      "white",
+      "like green"
+    ],
+    "top_word_scores": [
+      0.7515045404434204,
+      0.6337805390357971,
+      0.6176816821098328,
+      0.6152384877204895,
+      0.6046242713928223,
+      0.5935162305831909,
+      0.5795872807502747,
+      0.5695326328277588,
+      0.5633214116096497,
+      0.5526507496833801
+    ],
+    "doc_count": 202,
+    "representative_docs": [
+      "Everything had a green tint.",
+      "The light is white.",
+      "The light is white."
+    ]
+  },
+  {
+    "id": 13,
+    "label": "titanium_titanium aluminum_titanium stronger",
+    "top_words": [
+      "titanium",
+      "titanium aluminum",
+      "titanium stronger",
+      "cheaper titanium",
+      "titanium aluminium",
+      "titanium frame",
+      "titanium phone",
+      "titanium black",
+      "titanium blue",
+      "aluminum better"
+    ],
+    "top_word_scores": [
+      0.8535873889923096,
+      0.8183029890060425,
+      0.813747763633728,
+      0.8086389899253845,
+      0.8041529655456543,
+      0.712610125541687,
+      0.670434832572937,
+      0.6469175219535828,
+      0.6280124187469482,
+      0.5502353310585022
+    ],
+    "doc_count": 117,
+    "representative_docs": [
+      "Why do you need titanium though?",
+      "And Aluminum instead of Titanium.",
+      "But it's the titanium."
+    ]
+  },
+  {
+    "id": 14,
+    "label": "months salary_month salary_monthly salary",
+    "top_words": [
+      "months salary",
+      "month salary",
+      "monthly salary",
+      "salary country",
+      "salary",
+      "minimum salary",
+      "salaries",
+      "minimum wage",
+      "wages",
+      "wage"
+    ],
+    "top_word_scores": [
+      0.7148740291595459,
+      0.7101678252220154,
+      0.7001193761825562,
+      0.6011351943016052,
+      0.5983449220657349,
+      0.565340518951416,
+      0.5584014058113098,
+      0.4911290109157562,
+      0.4610336124897003,
+      0.45614007115364075
+    ],
+    "doc_count": 108,
+    "representative_docs": [
+      "2 months salary ????",
+      "not just 2 month salary, it's 4 month of national median salary of my country.",
+      "In India it took me more than 2.5m salary"
+    ]
+  },
+  {
+    "id": 15,
+    "label": "compose_mod_contact",
+    "top_words": [
+      "compose",
+      "mod",
+      "contact",
+      "moderators",
+      "mods",
+      "message",
+      "subreddit",
+      "post",
+      "submission",
+      "removed"
+    ],
+    "top_word_scores": [
+      0.5100046992301941,
+      0.440530002117157,
+      0.41814884543418884,
+      0.39470726251602173,
+      0.3913557827472687,
+      0.3874906301498413,
+      0.3294961452484131,
+      0.3046486973762512,
+      0.2769492566585541,
+      0.27484411001205444
+    ],
+    "doc_count": 74,
+    "representative_docs": [
+      "Please [contact the moderators of this subreddit](/message/compose/?to=/ )",
+      "Please [contact the moderators of this subreddit](/message/compose/?to=/ )",
+      "Please [contact the moderators of this subreddit](/message/compose/?to=/ )"
+    ]
+  },
+  {
+    "id": 16,
+    "label": "use tiktok_tiktok_tiktok lite",
+    "top_words": [
+      "use tiktok",
+      "tiktok",
+      "tiktok lite",
+      "tik tok",
+      "tik",
+      "anker",
+      "tok",
+      "anker products",
+      "app bruh",
+      "battery hog"
+    ],
+    "top_word_scores": [
+      0.8162978291511536,
+      0.8137744069099426,
+      0.7398266792297363,
+      0.4541366994380951,
+      0.4514491856098175,
+      0.3198557198047638,
+      0.31340619921684265,
+      0.3103311061859131,
+      0.2810748517513275,
+      0.27563557028770447
+    ],
+    "doc_count": 56,
+    "representative_docs": [
+      "Tiktok is a known battery drainer",
+      "Tiktok drains even on an iphone",
+      "Tiktok is the problem."
+    ]
+  },
+  {
+    "id": 17,
+    "label": "percent_minutes usage_30 minutes",
+    "top_words": [
+      "percent",
+      "minutes usage",
+      "30 minutes",
+      "25 minutes",
+      "minute",
+      "minutes",
+      "10 minutes",
+      "usage drains",
+      "60",
+      "just 30"
+    ],
+    "top_word_scores": [
+      0.5587694048881531,
+      0.4403876066207886,
+      0.42432335019111633,
+      0.4028388559818268,
+      0.37105387449264526,
+      0.35523855686187744,
+      0.3502924144268036,
+      0.32591015100479126,
+      0.2934541404247284,
+      0.28212568163871765
+    ],
+    "doc_count": 27,
+    "representative_docs": [
+      "Like 60% in like 20-25 minutes?",
+      "Now, in just 30 minutes, it’s eating up 5/10%.",
+      "Now, in just 30 minutes, it’s eating up 5/10%."
+    ]
+  },
+  {
+    "id": 18,
+    "label": "soon hopefully_hopefully_hopefully ll",
+    "top_words": [
+      "soon hopefully",
+      "hopefully",
+      "hopefully ll",
+      "soon",
+      "ll look",
+      "look",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "top_word_scores": [
+      0.45214495062828064,
+      0.40771839022636414,
+      0.3466479778289795,
+      0.306268572807312,
+      0.21647916734218597,
+      0.18723487854003906,
+      0.07137339562177658,
+      0.07137339562177658,
+      0.07137339562177658,
+      0.07137339562177658
+    ],
+    "doc_count": 20,
+    "representative_docs": [
+      "Hopefully they’ll look into it soon.",
+      "Hopefully they’ll look into it soon.",
+      "Hopefully they’ll look into it soon."
+    ]
+  }
+]

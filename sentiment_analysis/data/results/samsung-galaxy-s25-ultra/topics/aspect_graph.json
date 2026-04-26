@@ -1,0 +1,695 @@
+{
+  "nodes": [
+    {
+      "id": "Samsung Galaxy S25 Ultra",
+      "type": "product",
+      "label": "Samsung Galaxy S25 Ultra",
+      "topic_ids": [],
+      "doc_count": 19374,
+      "top_words": []
+    },
+    {
+      "id": "Hardware",
+      "type": "category",
+      "label": "Hardware",
+      "topic_ids": [],
+      "doc_count": 1199,
+      "top_words": []
+    },
+    {
+      "id": "Battery",
+      "type": "aspect",
+      "label": "Battery",
+      "topic_ids": [
+        3,
+        16,
+        17
+      ],
+      "doc_count": 1082,
+      "top_words": [
+        "instagram",
+        "battery drain",
+        "reported",
+        "issue",
+        "report problem",
+        "excessive battery",
+        "report",
+        "fix soon",
+        "fixed",
+        "noticed"
+      ]
+    },
+    {
+      "id": "Build",
+      "type": "aspect",
+      "label": "Build",
+      "topic_ids": [
+        13
+      ],
+      "doc_count": 117,
+      "top_words": [
+        "titanium",
+        "titanium aluminum",
+        "titanium stronger",
+        "cheaper titanium",
+        "titanium aluminium",
+        "titanium frame",
+        "titanium phone",
+        "titanium black",
+        "titanium blue",
+        "aluminum better"
+      ]
+    },
+    {
+      "id": "Software",
+      "type": "category",
+      "label": "Software",
+      "topic_ids": [],
+      "doc_count": 499,
+      "top_words": []
+    },
+    {
+      "id": "AI",
+      "type": "aspect",
+      "label": "AI",
+      "topic_ids": [
+        10,
+        11
+      ],
+      "doc_count": 499,
+      "top_words": [
+        "galaxy guide",
+        "galaxy ai",
+        "guide powered",
+        "galaxy",
+        "operated human",
+        "ai bullshit",
+        "intelligence operated",
+        "use ai",
+        "powered artificial",
+        "samsung"
+      ]
+    },
+    {
+      "id": "Value",
+      "type": "category",
+      "label": "Value",
+      "topic_ids": [],
+      "doc_count": 3873,
+      "top_words": []
+    },
+    {
+      "id": "Pricing",
+      "type": "aspect",
+      "label": "Pricing",
+      "topic_ids": [
+        5
+      ],
+      "doc_count": 907,
+      "top_words": [
+        "deals",
+        "prices",
+        "seller",
+        "discount",
+        "price",
+        "amazon",
+        "deal",
+        "discounts",
+        "buy",
+        "good deal"
+      ]
+    },
+    {
+      "id": "Ecosystem",
+      "type": "aspect",
+      "label": "Ecosystem",
+      "topic_ids": [
+        1,
+        4,
+        8
+      ],
+      "doc_count": 2966,
+      "top_words": [
+        "pixel 10",
+        "pixel pro",
+        "google pixel",
+        "pixel",
+        "10 pro",
+        "pixels",
+        "samsung",
+        "iphone",
+        "pro xl",
+        "screen"
+      ]
+    },
+    {
+      "id": "topic_1",
+      "type": "topic",
+      "label": "pixel 10_pixel pro_google pixel",
+      "topic_ids": [
+        1
+      ],
+      "doc_count": 1717,
+      "top_words": [
+        "pixel 10",
+        "pixel pro",
+        "google pixel",
+        "pixel",
+        "10 pro",
+        "pixels",
+        "samsung",
+        "iphone",
+        "pro xl",
+        "screen"
+      ]
+    },
+    {
+      "id": "topic_3",
+      "type": "topic",
+      "label": "instagram_battery drain_reported",
+      "topic_ids": [
+        3
+      ],
+      "doc_count": 999,
+      "top_words": [
+        "instagram",
+        "battery drain",
+        "reported",
+        "issue",
+        "report problem",
+        "excessive battery",
+        "report",
+        "fix soon",
+        "fixed",
+        "noticed"
+      ]
+    },
+    {
+      "id": "topic_4",
+      "type": "topic",
+      "label": "phone cases_phone case_screen protector",
+      "topic_ids": [
+        4
+      ],
+      "doc_count": 963,
+      "top_words": [
+        "phone cases",
+        "phone case",
+        "screen protector",
+        "screen protectors",
+        "cases",
+        "case",
+        "use case",
+        "protectors",
+        "protector",
+        "glass screen"
+      ]
+    },
+    {
+      "id": "topic_5",
+      "type": "topic",
+      "label": "deals_prices_seller",
+      "topic_ids": [
+        5
+      ],
+      "doc_count": 907,
+      "top_words": [
+        "deals",
+        "prices",
+        "seller",
+        "discount",
+        "price",
+        "amazon",
+        "deal",
+        "discounts",
+        "buy",
+        "good deal"
+      ]
+    },
+    {
+      "id": "topic_8",
+      "type": "topic",
+      "label": "buds pro_buds3_buds4",
+      "topic_ids": [
+        8
+      ],
+      "doc_count": 286,
+      "top_words": [
+        "buds pro",
+        "buds3",
+        "buds4",
+        "galaxy buds",
+        "ear buds",
+        "buds4 series",
+        "buds core",
+        "buds",
+        "airpods",
+        "headphone"
+      ]
+    },
+    {
+      "id": "topic_10",
+      "type": "topic",
+      "label": "galaxy guide_galaxy ai_guide powered",
+      "topic_ids": [
+        10
+      ],
+      "doc_count": 254,
+      "top_words": [
+        "galaxy guide",
+        "galaxy ai",
+        "guide powered",
+        "galaxy",
+        "operated human",
+        "ai bullshit",
+        "intelligence operated",
+        "use ai",
+        "powered artificial",
+        "samsung"
+      ]
+    },
+    {
+      "id": "topic_11",
+      "type": "topic",
+      "label": "privacy display_display privacy_privacy feature",
+      "topic_ids": [
+        11
+      ],
+      "doc_count": 245,
+      "top_words": [
+        "privacy display",
+        "display privacy",
+        "privacy feature",
+        "privacy screen",
+        "privacy",
+        "new privacy",
+        "privacy mode",
+        "ai privacy",
+        "private",
+        "security"
+      ]
+    },
+    {
+      "id": "topic_13",
+      "type": "topic",
+      "label": "titanium_titanium aluminum_titanium stronger",
+      "topic_ids": [
+        13
+      ],
+      "doc_count": 117,
+      "top_words": [
+        "titanium",
+        "titanium aluminum",
+        "titanium stronger",
+        "cheaper titanium",
+        "titanium aluminium",
+        "titanium frame",
+        "titanium phone",
+        "titanium black",
+        "titanium blue",
+        "aluminum better"
+      ]
+    },
+    {
+      "id": "topic_16",
+      "type": "topic",
+      "label": "use tiktok_tiktok_tiktok lite",
+      "topic_ids": [
+        16
+      ],
+      "doc_count": 56,
+      "top_words": [
+        "use tiktok",
+        "tiktok",
+        "tiktok lite",
+        "tik tok",
+        "tik",
+        "anker",
+        "tok",
+        "anker products",
+        "app bruh",
+        "battery hog"
+      ]
+    },
+    {
+      "id": "topic_17",
+      "type": "topic",
+      "label": "percent_minutes usage_30 minutes",
+      "topic_ids": [
+        17
+      ],
+      "doc_count": 27,
+      "top_words": [
+        "percent",
+        "minutes usage",
+        "30 minutes",
+        "25 minutes",
+        "minute",
+        "minutes",
+        "10 minutes",
+        "usage drains",
+        "60",
+        "just 30"
+      ]
+    },
+    {
+      "id": "Other",
+      "type": "category",
+      "label": "Other",
+      "topic_ids": [],
+      "doc_count": 13803,
+      "top_words": []
+    },
+    {
+      "id": "topic_0",
+      "type": "topic",
+      "label": "s24 ultra_s25 ultra_s23 ultra",
+      "topic_ids": [
+        0
+      ],
+      "doc_count": 10982,
+      "top_words": [
+        "s24 ultra",
+        "s25 ultra",
+        "s23 ultra",
+        "s26 ultra",
+        "s24",
+        "s24u",
+        "s25u",
+        "s25",
+        "s23u",
+        "samsung"
+      ]
+    },
+    {
+      "id": "topic_2",
+      "type": "topic",
+      "label": "agree_affecting users_makes sense",
+      "topic_ids": [
+        2
+      ],
+      "doc_count": 1336,
+      "top_words": [
+        "agree",
+        "affecting users",
+        "makes sense",
+        "true",
+        "sense",
+        "understand",
+        "really",
+        "point",
+        "affecting",
+        "difference"
+      ]
+    },
+    {
+      "id": "topic_6",
+      "type": "topic",
+      "label": "thanks sharing_feedback really_reviews",
+      "topic_ids": [
+        6
+      ],
+      "doc_count": 521,
+      "top_words": [
+        "thanks sharing",
+        "feedback really",
+        "reviews",
+        "thanks tip",
+        "thanks info",
+        "feedback",
+        "thank",
+        "review",
+        "appreciate",
+        "thanks"
+      ]
+    },
+    {
+      "id": "topic_7",
+      "type": "topic",
+      "label": "que el_es el_en el",
+      "topic_ids": [
+        7
+      ],
+      "doc_count": 304,
+      "top_words": [
+        "que el",
+        "es el",
+        "en el",
+        "es",
+        "cuando",
+        "el s25",
+        "el cable",
+        "como",
+        "en la",
+        "el"
+      ]
+    },
+    {
+      "id": "topic_9",
+      "type": "topic",
+      "label": "languages_language_portuguese",
+      "topic_ids": [
+        9
+      ],
+      "doc_count": 256,
+      "top_words": [
+        "languages",
+        "language",
+        "portuguese",
+        "japanese",
+        "chinese",
+        "korean",
+        "hindi",
+        "english",
+        "supported",
+        "vietnamese"
+      ]
+    },
+    {
+      "id": "topic_12",
+      "type": "topic",
+      "label": "white light_appear white_green lines",
+      "topic_ids": [
+        12
+      ],
+      "doc_count": 202,
+      "top_words": [
+        "white light",
+        "appear white",
+        "green lines",
+        "green color",
+        "green line",
+        "green",
+        "greenish",
+        "colors",
+        "white",
+        "like green"
+      ]
+    },
+    {
+      "id": "topic_14",
+      "type": "topic",
+      "label": "months salary_month salary_monthly salary",
+      "topic_ids": [
+        14
+      ],
+      "doc_count": 108,
+      "top_words": [
+        "months salary",
+        "month salary",
+        "monthly salary",
+        "salary country",
+        "salary",
+        "minimum salary",
+        "salaries",
+        "minimum wage",
+        "wages",
+        "wage"
+      ]
+    },
+    {
+      "id": "topic_15",
+      "type": "topic",
+      "label": "compose_mod_contact",
+      "topic_ids": [
+        15
+      ],
+      "doc_count": 74,
+      "top_words": [
+        "compose",
+        "mod",
+        "contact",
+        "moderators",
+        "mods",
+        "message",
+        "subreddit",
+        "post",
+        "submission",
+        "removed"
+      ]
+    },
+    {
+      "id": "topic_18",
+      "type": "topic",
+      "label": "soon hopefully_hopefully_hopefully ll",
+      "topic_ids": [
+        18
+      ],
+      "doc_count": 20,
+      "top_words": [
+        "soon hopefully",
+        "hopefully",
+        "hopefully ll",
+        "soon",
+        "ll look",
+        "look",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "Samsung Galaxy S25 Ultra",
+      "target": "Hardware",
+      "weight": 1199
+    },
+    {
+      "source": "Samsung Galaxy S25 Ultra",
+      "target": "Software",
+      "weight": 499
+    },
+    {
+      "source": "Samsung Galaxy S25 Ultra",
+      "target": "Value",
+      "weight": 3873
+    },
+    {
+      "source": "Samsung Galaxy S25 Ultra",
+      "target": "Other",
+      "weight": 13803
+    },
+    {
+      "source": "Hardware",
+      "target": "Battery",
+      "weight": 1082
+    },
+    {
+      "source": "Hardware",
+      "target": "Build",
+      "weight": 117
+    },
+    {
+      "source": "Battery",
+      "target": "topic_3",
+      "weight": 999
+    },
+    {
+      "source": "Battery",
+      "target": "topic_16",
+      "weight": 56
+    },
+    {
+      "source": "Battery",
+      "target": "topic_17",
+      "weight": 27
+    },
+    {
+      "source": "Build",
+      "target": "topic_13",
+      "weight": 117
+    },
+    {
+      "source": "Software",
+      "target": "AI",
+      "weight": 499
+    },
+    {
+      "source": "AI",
+      "target": "topic_10",
+      "weight": 254
+    },
+    {
+      "source": "AI",
+      "target": "topic_11",
+      "weight": 245
+    },
+    {
+      "source": "Value",
+      "target": "Pricing",
+      "weight": 907
+    },
+    {
+      "source": "Value",
+      "target": "Ecosystem",
+      "weight": 2966
+    },
+    {
+      "source": "Pricing",
+      "target": "topic_5",
+      "weight": 907
+    },
+    {
+      "source": "Ecosystem",
+      "target": "topic_1",
+      "weight": 1717
+    },
+    {
+      "source": "Ecosystem",
+      "target": "topic_4",
+      "weight": 963
+    },
+    {
+      "source": "Ecosystem",
+      "target": "topic_8",
+      "weight": 286
+    },
+    {
+      "source": "Other",
+      "target": "topic_0",
+      "weight": 10982
+    },
+    {
+      "source": "Other",
+      "target": "topic_2",
+      "weight": 1336
+    },
+    {
+      "source": "Other",
+      "target": "topic_6",
+      "weight": 521
+    },
+    {
+      "source": "Other",
+      "target": "topic_7",
+      "weight": 304
+    },
+    {
+      "source": "Other",
+      "target": "topic_9",
+      "weight": 256
+    },
+    {
+      "source": "Other",
+      "target": "topic_12",
+      "weight": 202
+    },
+    {
+      "source": "Other",
+      "target": "topic_14",
+      "weight": 108
+    },
+    {
+      "source": "Other",
+      "target": "topic_15",
+      "weight": 74
+    },
+    {
+      "source": "Other",
+      "target": "topic_18",
+      "weight": 20
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "product": "Samsung Galaxy S25 Ultra",
+  "dataset": {
+    "n_topics": 19,
+    "n_sentences_total": 28423,
+    "transformer_sample": 500,
+    "llm_sample": 300,
+    "lexicon_total": 28423
+  },
+  "rq1_topic_coherence": {
+    "bertopic_cv": 0.6493,
+    "lda_cv": 0.4797,
+    "delta": 0.1696,
+    "n_topics_bertopic": 19,
+    "n_topics_lda": 19,
+    "finding": "BERTopic C_v higher than LDA"
+  },
+  "rq2_inter_paradigm_agreement": {
+    "pairwise": [
+      {
+        "pair": "transformer_vs_llm",
+        "n_shared": 6,
+        "cohen_kappa": null,
+        "mean_jsd": 0.0
+      },
+      {
+        "pair": "transformer_vs_lexicon",
+        "n_shared": 500,
+        "cohen_kappa": 0.1972,
+        "mean_jsd": 0.4849
+      },
+      {
+        "pair": "llm_vs_lexicon",
+        "n_shared": 300,
+        "cohen_kappa": 0.0166,
+        "mean_jsd": 0.2857
+      }
+    ],
+    "entropy_dominance": [
+      {
+        "aspect": "Battery",
+        "paradigm": "llm",
+        "entropy": 0.8468,
+        "dominance": 0.5901,
+        "n_mentions": 3
+      },
+      {
+        "aspect": "Pricing",
+        "paradigm": "llm",
+        "entropy": 1.1983,
+        "dominance": 0.5444,
+        "n_mentions": 7
+      },
+      {
+        "aspect": "AI",
+        "paradigm": "llm",
+        "entropy": 0.902,
+        "dominance": 0.3644,
+        "n_mentions": 4
+      },
+      {
+        "aspect": "Ecosystem",
+        "paradigm": "lexicon",
+        "entropy": 1.4932,
+        "dominance": 0.2687,
+        "n_mentions": 134
+      },
+      {
+        "aspect": "Pricing",
+        "paradigm": "lexicon",
+        "entropy": 1.4857,
+        "dominance": 0.2238,
+        "n_mentions": 10145
+      },
+      {
+        "aspect": "Build",
+        "paradigm": "lexicon",
+        "entropy": 1.4854,
+        "dominance": 0.2229,
+        "n_mentions": 10247
+      },
+      {
+        "aspect": "AI",
+        "paradigm": "lexicon",
+        "entropy": 1.4936,
+        "dominance": 0.2124,
+        "n_mentions": 11902
+      },
+      {
+        "aspect": "Battery",
+        "paradigm": "lexicon",
+        "entropy": 1.5055,
+        "dominance": 0.1856,
+        "n_mentions": 1452
+      },
+      {
+        "aspect": "Ecosystem",
+        "paradigm": "llm",
+        "entropy": 1.539,
+        "dominance": 0.1849,
+        "n_mentions": 4
+      },
+      {
+        "aspect": "AI",
+        "paradigm": "transformer",
+        "entropy": 1.409,
+        "dominance": 0.1448,
+        "n_mentions": 425
+      }
+    ]
+  },
+  "rq3_weighting_impact": {
+    "pearson_r": 0.7647,
+    "mean_abs_delta": 0.1191,
+    "max_delta_aspect": "llm/Battery",
+    "max_delta_value": -0.5516,
+    "aspect_level": [],
+    "finding": "r=0.765 confirms weighting is consistent overall; max shift -0.552 on 'llm/Battery' shows high-upvote minority opinions can shift aggregate by >0.12 points"
+  },
+  "rq4_domain_transfer": {
+    "cohen_kappa": null,
+    "mean_jsd": 0.0,
+    "n_shared": 6,
+    "finding": "Transformer kappa=None vs LLM silver standard: significant domain gap from SemEval to Reddit"
+  },
+  "aspect_sentiment_summary": {},
+  "product_level": {}
+}

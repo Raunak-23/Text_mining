@@ -1,0 +1,648 @@
+[
+  {
+    "id": 0,
+    "label": "s25 ultra_s24 ultra_s23 ultra",
+    "top_words": [
+      "s25 ultra",
+      "s24 ultra",
+      "s23 ultra",
+      "s25",
+      "s25u",
+      "s26 ultra",
+      "s22 ultra",
+      "s24",
+      "s24u",
+      "s23u"
+    ],
+    "top_word_scores": [
+      0.776250958442688,
+      0.7141051292419434,
+      0.6681953072547913,
+      0.6575129628181458,
+      0.6498695015907288,
+      0.6390865445137024,
+      0.6186376214027405,
+      0.5950639843940735,
+      0.5509675145149231,
+      0.5361865162849426
+    ],
+    "doc_count": 8736,
+    "representative_docs": [
+      "And what was the cost if u only take s25 ultra.",
+      "Just get her a S25.",
+      "That's like asking if you should buy Lindt (S25 Ultra) or Cadbury (base iPhone 17)if they're the same price."
+    ]
+  },
+  {
+    "id": 1,
+    "label": "instagram_version instagram_reported",
+    "top_words": [
+      "instagram",
+      "version instagram",
+      "reported",
+      "report",
+      "issue",
+      "fixed",
+      "privacy display",
+      "privacy screen",
+      "fix",
+      "profile"
+    ],
+    "top_word_scores": [
+      0.5293737649917603,
+      0.4561429023742676,
+      0.37484505772590637,
+      0.3290615677833557,
+      0.3091486990451813,
+      0.2654639184474945,
+      0.2599697411060333,
+      0.2523288428783417,
+      0.24154314398765564,
+      0.22790537774562836
+    ],
+    "doc_count": 1549,
+    "representative_docs": [
+      "I've already reported it directly through the Instagram app: Profile Settings and privacy Help Report a problem.",
+      "I've already reported it directly through the Instagram app: Profile Settings and privacy Help Report a problem.",
+      "I've already reported it directly through the Instagram app: Profile Settings and privacy Help Report a problem."
+    ]
+  },
+  {
+    "id": 2,
+    "label": "agree_right_really",
+    "top_words": [
+      "agree",
+      "right",
+      "really",
+      "honestly",
+      "say",
+      "oh",
+      "said",
+      "reddit",
+      "just",
+      "mean"
+    ],
+    "top_word_scores": [
+      0.5105898380279541,
+      0.38540586829185486,
+      0.34264224767684937,
+      0.3207869231700897,
+      0.31176331639289856,
+      0.28808602690696716,
+      0.28568241000175476,
+      0.2852337956428528,
+      0.28366363048553467,
+      0.28353604674339294
+    ],
+    "doc_count": 1499,
+    "representative_docs": [
+      "I agree with you.",
+      "Oh right I agree with you",
+      "but someone just HAD to post it."
+    ]
+  },
+  {
+    "id": 3,
+    "label": "camera_camera app_cameras",
+    "top_words": [
+      "camera",
+      "camera app",
+      "cameras",
+      "photography",
+      "shutter",
+      "gcam",
+      "photos",
+      "google photos",
+      "lens",
+      "zoom"
+    ],
+    "top_word_scores": [
+      0.6752743124961853,
+      0.6240555644035339,
+      0.6208921670913696,
+      0.5958546996116638,
+      0.522149920463562,
+      0.5003079175949097,
+      0.4981484115123749,
+      0.49431973695755005,
+      0.48529762029647827,
+      0.4660746157169342
+    ],
+    "doc_count": 1359,
+    "representative_docs": [
+      "Camera quality is great.",
+      "All her photos are there.",
+      "Camera is a letdown."
+    ]
+  },
+  {
+    "id": 4,
+    "label": "battery life_battery usage_better battery",
+    "top_words": [
+      "battery life",
+      "battery usage",
+      "better battery",
+      "battery",
+      "battery drain",
+      "battery just",
+      "battery battery",
+      "5000mah",
+      "power saving",
+      "new battery"
+    ],
+    "top_word_scores": [
+      0.8465191125869751,
+      0.6476439833641052,
+      0.6433946490287781,
+      0.5390104651451111,
+      0.5332797169685364,
+      0.5198549628257751,
+      0.5029047727584839,
+      0.4810785949230194,
+      0.4734717309474945,
+      0.4524560868740082
+    ],
+    "doc_count": 920,
+    "representative_docs": [
+      "Battery life still ok.",
+      "I love the battery life.",
+      "As for battery life."
+    ]
+  },
+  {
+    "id": 5,
+    "label": "best buy_deals_good deal",
+    "top_words": [
+      "best buy",
+      "deals",
+      "good deal",
+      "don buy",
+      "deal",
+      "buy",
+      "purchase",
+      "discount",
+      "price",
+      "restocking fee"
+    ],
+    "top_word_scores": [
+      0.5883388519287109,
+      0.5751870274543762,
+      0.5716453194618225,
+      0.5507819652557373,
+      0.5384371876716614,
+      0.5358079075813293,
+      0.5355055928230286,
+      0.5058785676956177,
+      0.5025869607925415,
+      0.47487711906433105
+    ],
+    "doc_count": 830,
+    "representative_docs": [
+      "I was looking to buy a camera from Best Buy and if I wanted to return it to the same store and was told I'd lose like $50cad for a restocking fee.",
+      "i think its go deal",
+      "Will I ever buy this?"
+    ]
+  },
+  {
+    "id": 6,
+    "label": "screen protector_screen protectors_glass screen",
+    "top_words": [
+      "screen protector",
+      "screen protectors",
+      "glass screen",
+      "protector",
+      "use screen",
+      "protectors",
+      "screen",
+      "screens",
+      "reflective screen",
+      "bezels"
+    ],
+    "top_word_scores": [
+      0.8182271122932434,
+      0.7630124092102051,
+      0.6029002070426941,
+      0.5598410367965698,
+      0.5543203353881836,
+      0.5394010543823242,
+      0.5166636109352112,
+      0.46484482288360596,
+      0.46234774589538574,
+      0.3943351209163666
+    ],
+    "doc_count": 757,
+    "representative_docs": [
+      "Also, probably most of the users have a screen protector.",
+      "I use Torro folio cases so not to use a screen protector.",
+      "What about screen you use protector?"
+    ]
+  },
+  {
+    "id": 7,
+    "label": "ai_use ai_ai features",
+    "top_words": [
+      "ai",
+      "use ai",
+      "ai features",
+      "gemini ai",
+      "galaxy ai",
+      "ai select",
+      "generative ai",
+      "innovation",
+      "technology",
+      "innovative"
+    ],
+    "top_word_scores": [
+      0.7843103408813477,
+      0.7558780312538147,
+      0.6579270958900452,
+      0.656890869140625,
+      0.6369489431381226,
+      0.6333061456680298,
+      0.5295180082321167,
+      0.4180307686328888,
+      0.3613194227218628,
+      0.3585696816444397
+    ],
+    "doc_count": 618,
+    "representative_docs": [
+      "this AI isn't it.",
+      "Is AI always bad?",
+      "- Gemini Ai if you are not hateful of Ai."
+    ]
+  },
+  {
+    "id": 8,
+    "label": "fold_folds_tri fold",
+    "top_words": [
+      "fold",
+      "folds",
+      "tri fold",
+      "foldable",
+      "foldables",
+      "folded",
+      "flip7",
+      "trifold",
+      "flip phone",
+      "flip"
+    ],
+    "top_word_scores": [
+      0.7322613000869751,
+      0.6915574073791504,
+      0.6667349338531494,
+      0.6606778502464294,
+      0.6332132816314697,
+      0.6172366142272949,
+      0.45665284991264343,
+      0.41737785935401917,
+      0.3607383072376251,
+      0.3563418388366699
+    ],
+    "doc_count": 417,
+    "representative_docs": [
+      "Look at my fold 7.",
+      "That's the Z Fold 6.",
+      "Go all in and get a Z fold 7!"
+    ]
+  },
+  {
+    "id": 9,
+    "label": "batería_es_en el",
+    "top_words": [
+      "batería",
+      "es",
+      "en el",
+      "pero",
+      "del dispositivo",
+      "que le",
+      "que",
+      "por",
+      "problema",
+      "cara"
+    ],
+    "top_word_scores": [
+      0.49819689989089966,
+      0.4415561556816101,
+      0.44002118706703186,
+      0.39181721210479736,
+      0.3841623365879059,
+      0.3754546642303467,
+      0.3711472451686859,
+      0.3631143271923065,
+      0.3528870642185211,
+      0.34628093242645264
+    ],
+    "doc_count": 227,
+    "representative_docs": [
+      "Creí que era yo nomás, hasta que se me ocurrió googlear, es exagerado el gasto de batería que genera, me baja como 10% en unos 10 o 15 minutos",
+      "Pero con la batería asi, tengo miedo de que algo más pueda haberse dañado y que el cambio de batería solo funcione por poco tiempo y luego tenga que volver a gastar $...",
+      "Si pones mucha atención te darás cuenta que al parecer es legítimo solo que usa un protector de pantalla que tiene biseles color negro ya que por ejemplo en la última foto en la parte de abajo se logra ver un poco de la pantalla abajo del protector Suerte con eso"
+    ]
+  },
+  {
+    "id": 10,
+    "label": "thanks_thanks sharing_time thank",
+    "top_words": [
+      "thanks",
+      "thanks sharing",
+      "time thank",
+      "thank",
+      "thanks ll",
+      "thanks info",
+      "glad",
+      "thank detailed",
+      "appreciate",
+      "thank answer"
+    ],
+    "top_word_scores": [
+      0.400606244802475,
+      0.3980366289615631,
+      0.380694717168808,
+      0.35855090618133545,
+      0.3581963777542114,
+      0.32378068566322327,
+      0.29102373123168945,
+      0.2827666103839874,
+      0.2815791666507721,
+      0.2756030261516571
+    ],
+    "doc_count": 208,
+    "representative_docs": [
+      "Thank you soooooo much!",
+      "Thank you for this too!",
+      "Thank you for this!!"
+    ]
+  },
+  {
+    "id": 11,
+    "label": "apple music_music apple_spotify music",
+    "top_words": [
+      "apple music",
+      "music apple",
+      "spotify music",
+      "spotify",
+      "music use",
+      "itunes",
+      "music",
+      "listen music",
+      "audio playback",
+      "audio"
+    ],
+    "top_word_scores": [
+      0.7125949263572693,
+      0.6931647062301636,
+      0.6533777117729187,
+      0.6257727742195129,
+      0.6145756244659424,
+      0.5864768624305725,
+      0.5508901476860046,
+      0.5481603145599365,
+      0.5441063046455383,
+      0.5099688172340393
+    ],
+    "doc_count": 157,
+    "representative_docs": [
+      "I use youtube music.",
+      "While I mostly use Spotify and a little YouTube Music, I do use the Apple Music app and it works well.",
+      "To move your playlists from Apple music to Spotify or YouTube music use soundiiz.com."
+    ]
+  },
+  {
+    "id": 12,
+    "label": "galaxy guide_guide powered_galaxy",
+    "top_words": [
+      "galaxy guide",
+      "guide powered",
+      "galaxy",
+      "operated human",
+      "ai powered",
+      "intelligence operated",
+      "powered artificial",
+      "samsung",
+      "guide",
+      "artificial intelligence"
+    ],
+    "top_word_scores": [
+      0.6283164620399475,
+      0.4812537133693695,
+      0.4727282226085663,
+      0.4046403765678406,
+      0.4004851281642914,
+      0.35116899013519287,
+      0.334003746509552,
+      0.32821133732795715,
+      0.3238614499568939,
+      0.3135048449039459
+    ],
+    "doc_count": 99,
+    "representative_docs": [
+      "Galaxy Guide is powered by artificial intelligence and is not operated by a human.",
+      "Galaxy Guide is powered by artificial intelligence and is not operated by a human.",
+      "Galaxy Guide is powered by artificial intelligence and is not operated by a human."
+    ]
+  },
+  {
+    "id": 13,
+    "label": "esim_sim card_sim",
+    "top_words": [
+      "esim",
+      "sim card",
+      "sim",
+      "dual sim",
+      "switch sim",
+      "pull sim",
+      "imei",
+      "sim model",
+      "sims",
+      "china does"
+    ],
+    "top_word_scores": [
+      0.8421299457550049,
+      0.3543921411037445,
+      0.33971554040908813,
+      0.3287869095802307,
+      0.3276740312576294,
+      0.3230249881744385,
+      0.3068130612373352,
+      0.3049982786178589,
+      0.2824724614620209,
+      0.2796913981437683
+    ],
+    "doc_count": 74,
+    "representative_docs": [
+      "Because as of now anyone who is looking for eSIM service before going to china have full access to eSIM.",
+      "Esim is not a thing here",
+      "If you have eSIM."
+    ]
+  },
+  {
+    "id": 14,
+    "label": "anker products_anker_try anker",
+    "top_words": [
+      "anker products",
+      "anker",
+      "try anker",
+      "anker nano",
+      "anker ugreen",
+      "issues anker",
+      "good brand",
+      "brand",
+      "brand just",
+      "reputable brand"
+    ],
+    "top_word_scores": [
+      0.8067647814750671,
+      0.7894937992095947,
+      0.7575667500495911,
+      0.6928996443748474,
+      0.6707801222801208,
+      0.6662172675132751,
+      0.48115214705467224,
+      0.4743194282054901,
+      0.46945449709892273,
+      0.4689072370529175
+    ],
+    "doc_count": 59,
+    "representative_docs": [
+      "anker is the best.",
+      "anker is the best.",
+      "You can't go wrong with Anker, I only buy this brand"
+    ]
+  },
+  {
+    "id": 15,
+    "label": "hypertension_apple watch_blood pressure",
+    "top_words": [
+      "hypertension",
+      "apple watch",
+      "blood pressure",
+      "watch ultra",
+      "smartwatch",
+      "heart rate",
+      "notifications like",
+      "notifications",
+      "heartbeat",
+      "watch series"
+    ],
+    "top_word_scores": [
+      0.5686846971511841,
+      0.44957950711250305,
+      0.43426257371902466,
+      0.43206262588500977,
+      0.43114787340164185,
+      0.3521868586540222,
+      0.34718582034111023,
+      0.31346985697746277,
+      0.30585959553718567,
+      0.29183244705200195
+    ],
+    "doc_count": 51,
+    "representative_docs": [
+      "So hypertension works on my Series10 as well?",
+      "Depends: Hypertension notifications will be available on Apple Watch Series 9 and later, and Apple Watch Ultra 2 and later [",
+      "Hypertension notifications will be available on Apple Watch Series 9 and later, and Apple Watch Ultra 2 and later, with watchOS 26."
+    ]
+  },
+  {
+    "id": 16,
+    "label": "hopefully_hopefully ll_look soon",
+    "top_words": [
+      "hopefully",
+      "hopefully ll",
+      "look soon",
+      "soon",
+      "soon don",
+      "ll look",
+      "preview",
+      "waiting think",
+      "think finally",
+      "look"
+    ],
+    "top_word_scores": [
+      0.40771839022636414,
+      0.3466479182243347,
+      0.3308355212211609,
+      0.30626848340034485,
+      0.3030804693698883,
+      0.21647915244102478,
+      0.21344059705734253,
+      0.20561684668064117,
+      0.2051524519920349,
+      0.18723486363887787
+    ],
+    "doc_count": 35,
+    "representative_docs": [
+      "Hopefully they’ll look into it soon.",
+      "Hopefully they’ll look into it soon.",
+      "Hopefully they’ll look into it soon."
+    ]
+  },
+  {
+    "id": 17,
+    "label": "ecosystem_ecosystems_ecosystem really",
+    "top_words": [
+      "ecosystem",
+      "ecosystems",
+      "ecosystem really",
+      "ecosystem switch",
+      "buy ecosystem",
+      "tied ecosystem",
+      "longevity ecosystem",
+      "eco",
+      "forest",
+      "limitations"
+    ],
+    "top_word_scores": [
+      0.7831258177757263,
+      0.7541862726211548,
+      0.7399207949638367,
+      0.7336779832839966,
+      0.7222051024436951,
+      0.6808665990829468,
+      0.5490661263465881,
+      0.4837237596511841,
+      0.33652201294898987,
+      0.22754032909870148
+    ],
+    "doc_count": 20,
+    "representative_docs": [
+      "so you won’t get the ecosystem features.",
+      "I’ve never wanted to limit myself to just one ecosystem.",
+      "Are you in the ecosystem?"
+    ]
+  },
+  {
+    "id": 18,
+    "label": "green lines_green line_lines",
+    "top_words": [
+      "green lines",
+      "green line",
+      "lines",
+      "green",
+      "line appeared",
+      "line",
+      "getting green",
+      "line just",
+      "years green",
+      "lines screen"
+    ],
+    "top_word_scores": [
+      0.9038329720497131,
+      0.8840722441673279,
+      0.5795592665672302,
+      0.5711866617202759,
+      0.555204451084137,
+      0.5513830184936523,
+      0.5443679690361023,
+      0.5359893441200256,
+      0.5253741145133972,
+      0.5217710137367249
+    ],
+    "doc_count": 15,
+    "representative_docs": [
+      "What are the green lines?",
+      "What causes the green line?",
+      "no green line yet?"
+    ]
+  }
+]

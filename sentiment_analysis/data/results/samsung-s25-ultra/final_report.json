@@ -1,0 +1,128 @@
+{
+  "product": "Samsung S25 Ultra",
+  "dataset": {
+    "n_topics": 19,
+    "n_sentences_total": 26933,
+    "transformer_sample": 500,
+    "llm_sample": 300,
+    "lexicon_total": 26933
+  },
+  "rq1_topic_coherence": {
+    "bertopic_cv": 0.6323,
+    "lda_cv": 0.493,
+    "delta": 0.1393,
+    "n_topics_bertopic": 19,
+    "n_topics_lda": 19,
+    "finding": "BERTopic C_v higher than LDA"
+  },
+  "rq2_inter_paradigm_agreement": {
+    "pairwise": [
+      {
+        "pair": "transformer_vs_llm",
+        "n_shared": 7,
+        "cohen_kappa": null,
+        "mean_jsd": null
+      },
+      {
+        "pair": "transformer_vs_lexicon",
+        "n_shared": 500,
+        "cohen_kappa": 0.2196,
+        "mean_jsd": 0.4777
+      },
+      {
+        "pair": "llm_vs_lexicon",
+        "n_shared": 300,
+        "cohen_kappa": 0.0,
+        "mean_jsd": null
+      }
+    ],
+    "entropy_dominance": [
+      {
+        "aspect": "Ecosystem",
+        "paradigm": "lexicon",
+        "entropy": 1.42,
+        "dominance": 0.3423,
+        "n_mentions": 207
+      },
+      {
+        "aspect": "Camera",
+        "paradigm": "lexicon",
+        "entropy": 1.5222,
+        "dominance": 0.2377,
+        "n_mentions": 2542
+      },
+      {
+        "aspect": "Pricing",
+        "paradigm": "lexicon",
+        "entropy": 1.4865,
+        "dominance": 0.2152,
+        "n_mentions": 9665
+      },
+      {
+        "aspect": "AI",
+        "paradigm": "lexicon",
+        "entropy": 1.493,
+        "dominance": 0.21,
+        "n_mentions": 11359
+      },
+      {
+        "aspect": "Battery",
+        "paradigm": "lexicon",
+        "entropy": 1.5002,
+        "dominance": 0.1772,
+        "n_mentions": 1594
+      },
+      {
+        "aspect": "AI",
+        "paradigm": "transformer",
+        "entropy": 1.2829,
+        "dominance": 0.1222,
+        "n_mentions": 411
+      },
+      {
+        "aspect": "Pricing",
+        "paradigm": "transformer",
+        "entropy": 1.4459,
+        "dominance": 0.1091,
+        "n_mentions": 403
+      },
+      {
+        "aspect": "Camera",
+        "paradigm": "transformer",
+        "entropy": 1.2799,
+        "dominance": 0.0973,
+        "n_mentions": 425
+      },
+      {
+        "aspect": "Ecosystem",
+        "paradigm": "transformer",
+        "entropy": 1.1333,
+        "dominance": 0.0416,
+        "n_mentions": 425
+      },
+      {
+        "aspect": "Battery",
+        "paradigm": "transformer",
+        "entropy": 1.4689,
+        "dominance": 0.0413,
+        "n_mentions": 416
+      }
+    ]
+  },
+  "rq3_weighting_impact": {
+    "pearson_r": 0.9978,
+    "mean_abs_delta": 0.0247,
+    "max_delta_aspect": "transformer/Pricing",
+    "max_delta_value": -0.0526,
+    "aspect_level": [],
+    "finding": "r=0.998 confirms weighting is consistent overall; max shift -0.053 on 'transformer/Pricing' shows high-upvote minority opinions can shift aggregate by >0.02 points"
+  },
+  "rq4_domain_transfer": {
+    "cohen_kappa": null,
+    "mean_jsd": null,
+    "n_shared": 7,
+    "finding": "Transformer kappa=None vs LLM silver standard: significant domain gap from SemEval to Reddit"
+  },
+  "aspect_sentiment_summary": {},
+  "product_level": {}
+}

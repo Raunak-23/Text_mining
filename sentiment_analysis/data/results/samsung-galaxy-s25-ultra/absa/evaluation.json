@@ -1,0 +1,149 @@
+{
+  "product": "Samsung Galaxy S25 Ultra",
+  "coherence": {
+    "bertopic_cv": 0.6493,
+    "lda_cv": 0.4797,
+    "delta": 0.1696,
+    "n_topics_bertopic": 19,
+    "n_topics_lda": 19
+  },
+  "agreements": [
+    {
+      "paradigm_a": "transformer",
+      "paradigm_b": "llm",
+      "n_sentences": 6,
+      "cohen_kappa": 0.25,
+      "jsd_mean": 0.0,
+      "interpretation": "fair"
+    },
+    {
+      "paradigm_a": "transformer",
+      "paradigm_b": "lexicon",
+      "n_sentences": 500,
+      "cohen_kappa": 0.1972,
+      "jsd_mean": 0.4849,
+      "interpretation": "slight"
+    },
+    {
+      "paradigm_a": "llm",
+      "paradigm_b": "lexicon",
+      "n_sentences": 300,
+      "cohen_kappa": 0.0166,
+      "jsd_mean": 0.2857,
+      "interpretation": "slight"
+    }
+  ],
+  "entropy_dominance": [
+    {
+      "aspect": "Battery",
+      "paradigm": "llm",
+      "entropy": 0.8468,
+      "dominance": 0.5901,
+      "n_mentions": 3
+    },
+    {
+      "aspect": "Pricing",
+      "paradigm": "llm",
+      "entropy": 1.1983,
+      "dominance": 0.5444,
+      "n_mentions": 7
+    },
+    {
+      "aspect": "AI",
+      "paradigm": "llm",
+      "entropy": 0.902,
+      "dominance": 0.3644,
+      "n_mentions": 4
+    },
+    {
+      "aspect": "Ecosystem",
+      "paradigm": "lexicon",
+      "entropy": 1.4932,
+      "dominance": 0.2687,
+      "n_mentions": 134
+    },
+    {
+      "aspect": "Pricing",
+      "paradigm": "lexicon",
+      "entropy": 1.4857,
+      "dominance": 0.2238,
+      "n_mentions": 10145
+    },
+    {
+      "aspect": "Build",
+      "paradigm": "lexicon",
+      "entropy": 1.4854,
+      "dominance": 0.2229,
+      "n_mentions": 10247
+    },
+    {
+      "aspect": "AI",
+      "paradigm": "lexicon",
+      "entropy": 1.4936,
+      "dominance": 0.2124,
+      "n_mentions": 11902
+    },
+    {
+      "aspect": "Battery",
+      "paradigm": "lexicon",
+      "entropy": 1.5055,
+      "dominance": 0.1856,
+      "n_mentions": 1452
+    },
+    {
+      "aspect": "Ecosystem",
+      "paradigm": "llm",
+      "entropy": 1.539,
+      "dominance": 0.1849,
+      "n_mentions": 4
+    },
+    {
+      "aspect": "AI",
+      "paradigm": "transformer",
+      "entropy": 1.409,
+      "dominance": 0.1448,
+      "n_mentions": 425
+    },
+    {
+      "aspect": "Build",
+      "paradigm": "llm",
+      "entropy": 1.1966,
+      "dominance": 0.1335,
+      "n_mentions": 18
+    },
+    {
+      "aspect": "Pricing",
+      "paradigm": "transformer",
+      "entropy": 1.5161,
+      "dominance": 0.0983,
+      "n_mentions": 408
+    },
+    {
+      "aspect": "Build",
+      "paradigm": "transformer",
+      "entropy": 1.5181,
+      "dominance": 0.0982,
+      "n_mentions": 422
+    },
+    {
+      "aspect": "Ecosystem",
+      "paradigm": "transformer",
+      "entropy": 1.2105,
+      "dominance": 0.0268,
+      "n_mentions": 430
+    },
+    {
+      "aspect": "Battery",
+      "paradigm": "transformer",
+      "entropy": 1.5047,
+      "dominance": 0.001,
+      "n_mentions": 397
+    }
+  ],
+  "weighting_impact": {
+    "pearson_r": 0.7647,
+    "mean_abs_delta": 0.1191,
+    "max_delta_aspect": "llm/Battery",
+    "max_delta_value": -0.5516
+  }
+}
