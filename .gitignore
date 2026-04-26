@@ -3,3 +3,4 @@ papers/
 .env
 __pycache__
 *.tex
+.claude
